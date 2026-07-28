@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>MoneyPrinterTurbo — teardown &amp; verdict</title>
+<meta name="description" content="Hands-on teardown of MoneyPrinterTurbo: what it actually does, a measured render benchmark, the defects, the real costs, and the one way it makes money.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Karla:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0A0C10; --panel:#12161C; --panel2:#171C24; --rule:#242C36; --rule-soft:#1B222B;
+  --ink:#E9EDF2; --dim:#8B95A3; --dimmer:#5E6875;
+  --script:#A98BE8; --voice:#4F8DF7; --subs:#2FB3A8; --material:#E8A33D; --render:#E4607E;
+  --pass:#46C07A; --warn:#E8A33D; --fail:#E4607E;
+  --maxw:1120px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:"Karla",system-ui,sans-serif; font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased;
+}
+img{max-width:100%; display:block}
+a{color:var(--ink)}
+.wrap{max-width:var(--maxw); margin:0 auto; padding:0 24px}
+
+/* ---------- top rail ---------- */
+.rail{
+  position:sticky; top:0; z-index:50; background:rgba(10,12,16,.86);
+  backdrop-filter:blur(10px); border-bottom:1px solid var(--rule);
+}
+.rail-in{max-width:var(--maxw); margin:0 auto; padding:11px 24px; display:flex; gap:22px; align-items:center;
+  font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+  overflow-x:auto; scrollbar-width:none}
+.rail-in::-webkit-scrollbar{display:none}
+.rail a{color:var(--dimmer); text-decoration:none; white-space:nowrap; transition:color .18s}
+.rail a:hover,.rail a:focus-visible{color:var(--ink)}
+.rail .mark{color:var(--material); font-weight:600}
+
+/* ---------- hero ---------- */
+.hero{padding:76px 0 10px; border-bottom:1px solid var(--rule-soft)}
+.eyebrow{font-family:"JetBrains Mono",monospace; font-size:11.5px; letter-spacing:.18em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:26px}
+.eyebrow span{color:var(--material)}
+h1{
+  font-family:"Bricolage Grotesque",sans-serif; font-weight:800; font-size:clamp(38px,6.6vw,74px);
+  line-height:.98; letter-spacing:-.028em; margin:0 0 26px; max-width:16ch;
+}
+h1 em{font-style:normal; color:var(--dimmer)}
+.lede{font-size:clamp(17px,2.1vw,21px); color:var(--dim); max-width:62ch; margin:0 0 46px}
+.lede strong{color:var(--ink); font-weight:500}
+
+/* ---------- signature: render timeline ---------- */
+.tl{margin:0 0 14px}
+.tl-head{display:flex; justify-content:space-between; align-items:baseline; gap:16px;
+  font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.12em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:10px}
+.tl-bar{display:flex; height:74px; border:1px solid var(--rule); border-radius:5px; overflow:hidden; background:var(--panel)}
+.seg{position:relative; display:flex; flex-direction:column; justify-content:flex-end;
+  padding:8px 9px; min-width:0; border-right:1px solid rgba(10,12,16,.55);
+  transition:filter .2s; cursor:default}
+.seg:last-child{border-right:0}
+.seg:hover{filter:brightness(1.22)}
+.seg b{font-family:"JetBrains Mono",monospace; font-size:12px; font-weight:600; color:#0A0C10;
+  line-height:1.1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.seg i{font-style:normal; font-family:"JetBrains Mono",monospace; font-size:10.5px;
+  color:rgba(10,12,16,.72); white-space:nowrap; overflow:hidden}
+.seg.prep{background:var(--voice)}
+.seg.clips{background:var(--material)}
+.seg.concat{background:var(--subs)}
+.seg.render{background:var(--render)}
+.seg.narrow b,.seg.narrow i{display:none}
+.tl-ruler{display:flex; margin-top:7px; font-family:"JetBrains Mono",monospace;
+  font-size:10.5px; color:var(--dimmer)}
+.tl-ruler span{flex:1; border-left:1px solid var(--rule); padding:4px 0 0 6px}
+.tl-ruler span:last-child{text-align:right; padding-right:0; border-right:0}
+.tl-legend{display:flex; flex-wrap:wrap; gap:8px 28px; margin-top:18px;
+  font-family:"JetBrains Mono",monospace; font-size:11.5px; color:var(--dim)}
+.tl-legend li{list-style:none; display:flex; align-items:center; gap:9px}
+.tl-legend .sw{width:9px; height:9px; border-radius:2px; flex:none}
+.tl-legend b{color:var(--ink); font-weight:600}
+.tl-legend em{font-style:normal; color:var(--dimmer)}
+.tl-note{font-size:14.5px; color:var(--dim); margin:20px 0 0; max-width:70ch}
+.tl-note b{color:var(--voice); font-weight:700}
+@media(max-width:680px){
+  .tl-bar{height:64px}
+  .seg b{font-size:10px} .seg i{display:none}
+  .seg.prep b,.seg.concat b{font-size:0}
+}
+
+/* ---------- sections ---------- */
+section{padding:64px 0; border-bottom:1px solid var(--rule-soft)}
+.slug{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.2em;
+  text-transform:uppercase; color:var(--material); margin-bottom:16px}
+h2{font-family:"Bricolage Grotesque",sans-serif; font-weight:700; font-size:clamp(27px,3.6vw,40px);
+  line-height:1.06; letter-spacing:-.02em; margin:0 0 22px; max-width:22ch}
+h3{font-family:"Bricolage Grotesque",sans-serif; font-weight:600; font-size:20px;
+  letter-spacing:-.01em; margin:38px 0 12px}
+p{margin:0 0 18px; max-width:72ch}
+p.wide{max-width:none}
+strong{color:#fff; font-weight:700}
+code{font-family:"JetBrains Mono",monospace; font-size:.88em; background:var(--panel2);
+  border:1px solid var(--rule); border-radius:4px; padding:1px 6px; color:#CFD8E3}
+
+/* ---------- verdict cards ---------- */
+.verdicts{display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin:8px 0 4px}
+@media(max-width:820px){.verdicts{grid-template-columns:1fr}}
+.v{background:var(--panel); border:1px solid var(--rule); border-radius:6px; padding:22px 20px 20px;
+  border-top:3px solid var(--rule)}
+.v.yes{border-top-color:var(--pass)} .v.part{border-top-color:var(--warn)} .v.no{border-top-color:var(--fail)}
+.v .q{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:9px}
+.v .a{font-family:"Bricolage Grotesque",sans-serif; font-weight:800; font-size:26px;
+  line-height:1.05; letter-spacing:-.02em; margin-bottom:10px}
+.v.yes .a{color:var(--pass)} .v.part .a{color:var(--warn)} .v.no .a{color:var(--fail)}
+.v p{font-size:15px; color:var(--dim); margin:0; max-width:none}
+
+/* ---------- pipeline ---------- */
+.pipe{display:grid; gap:1px; background:var(--rule); border:1px solid var(--rule);
+  border-radius:6px; overflow:hidden; margin:26px 0 8px}
+.step{background:var(--panel); padding:16px 18px; display:grid;
+  grid-template-columns:132px 1fr 168px; gap:20px; align-items:center}
+@media(max-width:820px){.step{grid-template-columns:1fr; gap:6px}}
+.step .n{font-family:"JetBrains Mono",monospace; font-size:11.5px; letter-spacing:.1em;
+  text-transform:uppercase; font-weight:600}
+.step .d{font-size:15.5px; color:var(--dim)}
+.step .d b{color:var(--ink); font-weight:500}
+.step .who{font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--dimmer); text-align:right}
+@media(max-width:820px){.step .who{text-align:left}}
+.step.s1 .n{color:var(--script)} .step.s2 .n{color:var(--script)}
+.step.s3 .n{color:var(--material)} .step.s4 .n{color:var(--voice)}
+.step.s5 .n{color:var(--subs)} .step.s6 .n{color:var(--render)}
+
+/* ---------- evidence figure ---------- */
+figure{margin:30px 0 8px}
+figure img{border:1px solid var(--rule); border-radius:5px; background:var(--panel)}
+figcaption{font-family:"JetBrains Mono",monospace; font-size:11.5px; color:var(--dimmer);
+  margin-top:11px; line-height:1.6; max-width:76ch}
+figcaption b{color:var(--warn); font-weight:600}
+
+/* ---------- defect list ---------- */
+.defects{display:grid; gap:12px; margin:26px 0 8px}
+.dfx{background:var(--panel); border:1px solid var(--rule); border-left:3px solid var(--fail);
+  border-radius:5px; padding:18px 20px}
+.dfx.med{border-left-color:var(--warn)}
+.dfx.low{border-left-color:var(--dimmer)}
+.dfx .t{display:flex; gap:12px; align-items:baseline; flex-wrap:wrap; margin-bottom:7px}
+.dfx .t h4{font-family:"Bricolage Grotesque",sans-serif; font-weight:700; font-size:18px;
+  margin:0; letter-spacing:-.01em}
+.tag{font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:.12em;
+  text-transform:uppercase; padding:3px 7px; border-radius:3px; border:1px solid var(--rule);
+  color:var(--dimmer); white-space:nowrap}
+.tag.hi{color:var(--fail); border-color:rgba(228,96,126,.4)}
+.tag.md{color:var(--warn); border-color:rgba(232,163,61,.4)}
+.dfx p{font-size:15px; color:var(--dim); margin:0; max-width:none}
+.dfx p + p{margin-top:9px}
+.fix{color:var(--pass); font-weight:500}
+
+/* ---------- tables ---------- */
+.tbl{width:100%; border-collapse:collapse; margin:24px 0 8px; font-size:15px}
+.tbl th{font-family:"JetBrains Mono",monospace; font-size:10.5px; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--dimmer); text-align:left; font-weight:400;
+  padding:0 14px 10px 0; border-bottom:1px solid var(--rule); white-space:nowrap}
+.tbl td{padding:13px 14px 13px 0; border-bottom:1px solid var(--rule-soft); vertical-align:top; color:var(--dim)}
+.tbl td:first-child{color:var(--ink)}
+.tbl .num{font-family:"JetBrains Mono",monospace; font-size:14px; color:var(--ink); white-space:nowrap}
+.tbl .free{color:var(--pass)}
+.tbl .paid{color:var(--warn)}
+.scroller{overflow-x:auto; -webkit-overflow-scrolling:touch}
+.scroller .tbl{min-width:640px}
+
+/* ---------- money ranking ---------- */
+.play{background:var(--panel); border:1px solid var(--rule); border-radius:6px;
+  padding:24px 24px 20px; margin:0 0 14px; position:relative; overflow:hidden}
+.play::before{content:""; position:absolute; left:0; top:0; bottom:0; width:3px; background:var(--rule)}
+.play.a::before{background:var(--pass)} .play.b::before{background:var(--voice)}
+.play.c::before{background:var(--material)} .play.d::before{background:var(--fail)}
+.play .rank{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:8px}
+.play.a .rank{color:var(--pass)} .play.b .rank{color:var(--voice)}
+.play.c .rank{color:var(--material)} .play.d .rank{color:var(--fail)}
+.play h3{margin:0 0 10px; font-size:22px}
+.play p{margin:0 0 12px; color:var(--dim); font-size:15.5px}
+.play p:last-child{margin-bottom:0}
+.why{font-family:"JetBrains Mono",monospace; font-size:12px; color:var(--dimmer);
+  border-top:1px solid var(--rule-soft); padding-top:12px; margin-top:14px !important}
+.why b{color:var(--ink); font-weight:600}
+
+/* ---------- quote ---------- */
+blockquote{margin:24px 0; padding:20px 24px; background:var(--panel2);
+  border:1px solid var(--rule); border-left:3px solid var(--fail); border-radius:5px}
+blockquote p{margin:0; font-size:16px; color:#D6DDE6}
+blockquote cite{display:block; margin-top:11px; font-family:"JetBrains Mono",monospace;
+  font-size:11px; font-style:normal; letter-spacing:.1em; text-transform:uppercase; color:var(--dimmer)}
+
+/* ---------- next steps ---------- */
+.next{counter-reset:n; list-style:none; padding:0; margin:26px 0 0}
+.next li{counter-increment:n; position:relative; padding:0 0 20px 46px; margin:0 0 20px;
+  border-bottom:1px solid var(--rule-soft)}
+.next li:last-child{border-bottom:0; margin-bottom:0; padding-bottom:0}
+.next li::before{content:counter(n,decimal-leading-zero); position:absolute; left:0; top:1px;
+  font-family:"JetBrains Mono",monospace; font-size:12px; font-weight:600; color:var(--material)}
+.next b{display:block; font-family:"Bricolage Grotesque",sans-serif; font-weight:700;
+  font-size:18px; color:var(--ink); margin-bottom:5px; letter-spacing:-.01em}
+.next span{color:var(--dim); font-size:15.5px}
+.next .owner{font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--dimmer);
+  letter-spacing:.1em; text-transform:uppercase; display:block; margin-top:7px}
+
+footer{padding:44px 0 70px; font-family:"JetBrains Mono",monospace; font-size:11.5px;
+  color:var(--dimmer); line-height:1.9}
+footer a{color:var(--dim)}
+::selection{background:var(--material); color:#0A0C10}
+:focus-visible{outline:2px solid var(--material); outline-offset:3px; border-radius:2px}
+@media(prefers-reduced-motion:reduce){*{transition:none !important; animation:none !important}}
+</style>
+</head>
+<body>
+
+<nav class="rail" aria-label="Sections">
+  <div class="rail-in">
+    <span class="mark">MPT / TEARDOWN</span>
+    <a href="#verdict">Verdict</a>
+    <a href="#mechanism">What it is</a>
+    <a href="#bench">Benchmark</a>
+    <a href="#defects">What breaks</a>
+    <a href="#shape">App or tool</a>
+    <a href="#cost">Cost</a>
+    <a href="#money">Making money</a>
+    <a href="#next">Next</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Hands-on teardown · <span>28 Jul 2026</span> · harry0703/MoneyPrinterTurbo v1.3.3 · run on this server</p>
+    <h1>The AI takes one second. <em>The other 181 are ffmpeg.</em></h1>
+    <p class="lede">It works — I installed it, ran it, and it produced a real 1080×1920 MP4 with voiceover and burnt-in subtitles. But it is <strong>not a video generator</strong>. It is a stock-footage assembly line, and its default output is the exact pattern YouTube's monetisation policy names as ineligible. <strong>The tool is real. The business model in its name is not.</strong></p>
+
+    <div class="tl">
+      <div class="tl-head"><span>Measured render — 20-second vertical video, 6-core CPU, no GPU</span><span>182.2 s total</span></div>
+      <div class="tl-bar" role="img" aria-label="Render time breakdown: prep 3 seconds, clip processing 114 seconds, concat 6 seconds, final render 59 seconds">
+        <div class="seg prep narrow" style="flex:0 0 1.65%" title="Voice, subtitle timing and material prep — 3 s"></div>
+        <div class="seg clips" style="flex:0 0 62.6%" title="Resize and re-encode every stock clip — 114 s"><b>CLIP RE-ENCODE</b><i>114 s · 6 clips resized to 1080×1920</i></div>
+        <div class="seg concat narrow" style="flex:0 0 3.3%" title="Join the clips — 6 s"></div>
+        <div class="seg render" style="flex:0 0 32.4%" title="Burn subtitles, mix voice and music — 59 s"><b>BURN + MIX</b><i>59 s · subtitles, voice, music</i></div>
+      </div>
+      <div class="tl-ruler"><span>00:00</span><span>00:45</span><span>01:30</span><span>02:15</span><span>03:02</span></div>
+      <ul class="tl-legend">
+        <li><span class="sw" style="background:var(--voice)"></span>Voice + subtitles + prep <b>3 s</b> <em>2%</em></li>
+        <li><span class="sw" style="background:var(--material)"></span>Clip re-encode <b>114 s</b> <em>63%</em></li>
+        <li><span class="sw" style="background:var(--subs)"></span>Join <b>6 s</b> <em>3%</em></li>
+        <li><span class="sw" style="background:var(--render)"></span>Burn + mix <b>59 s</b> <em>32%</em></li>
+      </ul>
+      <p class="tl-note"><b>That first sliver is everything you would call AI.</b> Voice synthesis took roughly one second; subtitle timing was free, because it reuses the timestamps the voice engine already returned. The remaining 98% is ffmpeg re-encoding somebody else's stock footage. That single fact explains most of what follows.</p>
+    </div>
+  </div>
+</header>
+
+<section id="verdict">
+  <div class="wrap">
+    <p class="slug">Verdict</p>
+    <h2>Three questions, three straight answers</h2>
+    <div class="verdicts">
+      <div class="v yes">
+        <p class="q">Does it actually work?</p>
+        <p class="a">Yes — verified</p>
+        <p>Installed from source, ran end to end, got a valid H.264/AAC MP4 at 1080×1920 with correct SRT timings. No hand-holding, no crashes. The engineering is genuinely competent.</p>
+      </div>
+      <div class="v part">
+        <p class="q">Is it a gimmick?</p>
+        <p class="a">The name is</p>
+        <p>The software is not a toy. But nothing in it prints money — it removes the editing labour from a video, which is the cheapest part of the job. Distribution is still the whole problem.</p>
+      </div>
+      <div class="v no">
+        <p class="q">Faceless channel for ad revenue?</p>
+        <p class="a">Don't</p>
+        <p>Its house style — template script, stock clips, text-to-speech, identical captions — is the specific thing YouTube's inauthentic-content policy lists as not eligible. That road is closed.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="mechanism">
+  <div class="wrap">
+    <p class="slug">Mechanism</p>
+    <h2>What it actually does, step by step</h2>
+    <p>The single biggest misconception on X is that this thing generates video. It does not. There is no video model anywhere in the codebase. It writes a script, turns that script into search keywords, downloads free stock clips that match those keywords, reads the script aloud, and stitches the result together. Every frame you see was shot by a stock photographer and is equally available to everybody else running this tool.</p>
+
+    <div class="pipe">
+      <div class="step s1"><span class="n">01 · Script</span><span class="d">An LLM writes the narration from your topic. <b>You can supply your own script instead</b> and skip this entirely.</span><span class="who">any LLM · paid key</span></div>
+      <div class="step s2"><span class="n">02 · Keywords</span><span class="d">The same LLM turns the script into 5–8 stock-footage search terms.</span><span class="who">any LLM · paid key</span></div>
+      <div class="step s3"><span class="n">03 · Footage</span><span class="d">Searches Pexels, Pixabay or Coverr and downloads clips. <b>Nothing is generated</b> — it is a search-and-download step.</span><span class="who">free API key</span></div>
+      <div class="step s4"><span class="n">04 · Voice</span><span class="d">Text-to-speech reads the script. The default engine is Microsoft Edge's, which needs no key and no account.</span><span class="who">free, no key</span></div>
+      <div class="step s5"><span class="n">05 · Subtitles</span><span class="d">Reuses the word timings the voice engine returns — no transcription needed. Local Whisper is optional and slower.</span><span class="who">free, local</span></div>
+      <div class="step s6"><span class="n">06 · Render</span><span class="d">Resizes every clip, joins them, burns in the captions, mixes voice and background music.</span><span class="who">ffmpeg · your CPU</span></div>
+    </div>
+    <p style="margin-top:26px">Read that list again with an operator's eye. Steps 1 and 2 cost fractions of a cent. Steps 3, 4 and 5 are free. Step 6 is the expensive one, and it is not AI — it is your CPU transcoding video for three minutes. <strong>The moat everyone imagines here does not exist:</strong> every user of this tool is drawing from the same three stock libraries with the same keyword logic and the same caption style.</p>
+  </div>
+</section>
+
+<section id="bench">
+  <div class="wrap">
+    <p class="slug">Benchmark</p>
+    <h2>What I measured, on this machine</h2>
+    <p>I ran it on a 6-core CPU-only box with 14&nbsp;GB of RAM — no GPU, deliberately, because that is the realistic setup. Both runs produced valid, playable files.</p>
+
+    <div class="scroller">
+    <table class="tbl">
+      <thead><tr><th>Run</th><th>Output</th><th>Wall time</th><th>Where the time went</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>20-second vertical</td>
+          <td class="num">1080×1920 · 20.03 s · 4.8 MB</td>
+          <td class="num">182 s</td>
+          <td>63% resizing clips · 32% burning captions · 5% everything else</td>
+        </tr>
+        <tr>
+          <td>47-second vertical</td>
+          <td class="num">1080×1920 · 46.7 s · 10.8 MB</td>
+          <td class="num">350 s</td>
+          <td>Real stock footage as input, otherwise identical settings</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+
+    <p style="margin-top:28px">Both runs land around <strong>8–9× real time</strong>: a minute of finished video costs roughly eight minutes of machine. Back to back that is <strong>about 20 videos an hour at 20 seconds each, or about 10 an hour at 45–60 seconds</strong> — and 60 seconds is the length TikTok requires before it pays anything at all. Fast enough to be interesting; slow enough that "generate a thousand videos" is a fantasy without a fleet of machines. A graphics card buys faster encoding, not better output.</p>
+
+    <h3>What the output actually looks like</h3>
+    <p>Below is the maintainer's own showcase reel — his best foot forward, published in the project README. Six frames sampled evenly across a 19-second video.</p>
+
+    <figure>
+      <img src="img/portrait_grid.jpg" alt="Six frames from the project's own showcase vertical video, showing stock footage of a notebook, a woman at a desk, a jogger, a developer at monitors, a woman eating breakfast, and a coffee cup, each with white captions." loading="lazy">
+      <figcaption>Maintainer's showcase video, "Small Habits, Lasting Change". Note frame 2: the line reads <b>"Walk for ten minutes"</b> over footage of a woman sitting at a desk. Frame 3, <b>"Prepare tomorrow before going to sleep"</b>, plays over a daylight jogger. Keyword matching is thematic, not semantic — and it shows.</figcaption>
+    </figure>
+
+    <p>Quality tracks how concrete your topic is — a subject that maps onto stock-library categories does better than an abstract one. But "better" is not "good". Here is the other showcase video, on about the most concrete subject available, sampled across all 59 seconds.</p>
+
+    <figure>
+      <img src="img/landscape_grid.jpg" alt="Eight frames from a landscape video about the history of flight: a plane in blue sky, a child with a foil box on their head, biplanes, a rocket launch, a vintage propeller aircraft, a jet on a runway, and two near-identical shots of a wind turbine." loading="lazy">
+      <figcaption>"A Brief History of Human Flight". Half of it lands. The other half: <b>"control systems turned a fragile machine into a practical aircraft"</b> plays over a child wearing a foil box; <b>"researchers are developing quieter engines"</b> plays over a 1950s propeller plane; and the closing line about <b>moving through the sky</b> plays over a wind turbine — twice, back to back, because the keyword search returned the same clip.</figcaption>
+    </figure>
+
+    <p>This is the maintainer's own selected showcase, on the friendliest possible topic. It is a fair picture of the ceiling: <strong>roughly half the shots support the sentence being read, and the tool cannot tell which half.</strong> Nothing in the pipeline checks whether a clip depicts what the narrator just said.</p>
+  </div>
+</section>
+
+<section id="defects">
+  <div class="wrap">
+    <p class="slug">Defects</p>
+    <h2>Five things that will bite you</h2>
+    <p>These are not README caveats. Each one I either reproduced on this machine or found in the shipped code.</p>
+
+    <div class="defects">
+      <div class="dfx">
+        <div class="t"><h4>Long captions get cut off by the bottom of the frame</h4><span class="tag hi">Reproduced</span></div>
+        <p>When a subtitle line wraps to three lines in the default bottom position, the third line renders below the visible frame. I hit this on my very first run — and then found <strong>the same bug in the maintainer's own showcase video</strong>, published on the project's front page. The word "sustain" is simply missing from the last shot.</p>
+        <p class="fix">Fix: cap the characters per subtitle, raise the subtitle position, or drop the font size. Check every video before it goes out.</p>
+      </div>
+
+      <div class="dfx">
+        <div class="t"><h4>The bundled background music is ripped from YouTube</h4><span class="tag hi">Confirmed in repo</span></div>
+        <p>The project ships 29 music tracks, 56&nbsp;MB, each exactly three minutes, with all identifying metadata stripped. The README says outright that this is "default music from YouTube videos" and asks you to delete it if there are copyright issues. <strong>Background music is on by default.</strong></p>
+        <p>Put that into a monetised video and you are handing a content-ID claim to whoever owns the track — on every video you have ever posted with it.</p>
+        <p class="fix">Fix: delete <code>resource/songs</code> before the first run and point it at licensed music, or turn music off.</p>
+      </div>
+
+      <div class="dfx med">
+        <div class="t"><h4>Any clip that is not exactly the target size gets black bars</h4><span class="tag md">Read in code</span></div>
+        <p>When a clip's shape does not match your output shape, it is scaled to fit and centred on a black background. There is no crop-to-fill and no blurred backdrop — the two things a human editor would reach for. On a vertical video, a horizontal clip becomes a small letterboxed rectangle floating in black.</p>
+        <p>It avoids this with Pexels by only accepting clips that are exactly 1080×1920, which quietly throws away most of the search results and narrows the pool everyone is drawing from even further.</p>
+        <p class="fix">Fix: crop-to-fill is a small change to one function. Worth making before any volume run.</p>
+      </div>
+
+      <div class="dfx med">
+        <div class="t"><h4>The "completely free" claim no longer holds</h4><span class="tag md">Reproduced</span></div>
+        <p>The free, no-account LLM option that the viral posts point to now returns <code>api_key is not set</code> — the provider started requiring registration. Voice and subtitles are still genuinely free. The script and keyword steps now need either a paid API key or a model running locally on your own hardware.</p>
+        <p class="fix">Fix: either accept the cent-level API cost, or supply your own scripts and skip the LLM entirely — which you should be doing anyway.</p>
+      </div>
+
+      <div class="dfx low">
+        <div class="t"><h4>Footage relevance is keyword-deep</h4><span class="tag">By design</span></div>
+        <p>The tool asks an LLM for search terms, then trusts the stock site's search. Nothing checks whether the returned clip actually depicts the sentence being narrated. On concrete topics this is fine. On anything abstract you get filler that contradicts the voiceover — which is exactly what makes AI shorts feel cheap.</p>
+        <p class="fix">Fix: write scripts around things that can be filmed. Concrete nouns in, usable footage out.</p>
+      </div>
+    </div>
+
+    <figure>
+      <img src="img/mine_grid.jpg" alt="Five frames from the test video generated on this server, showing colour test patterns with white captions, and the final caption's third line cut off at the bottom edge." loading="lazy">
+      <figcaption>My own run, using colour test patterns as source material so the framing behaviour is unmistakable. Two things to see: horizontal sources sit letterboxed in black, and the final caption's third line — <b>"sustain"</b> — is clipped by the bottom of the frame. Same bug as the showcase reel.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section id="shape">
+  <div class="wrap">
+    <p class="slug">Shape</p>
+    <h2>Standalone tool or web app? It already ships as both</h2>
+    <p>You asked which one we would build. We do not have to choose — the project already has four front doors onto the same engine, and the right answer depends on who is driving it.</p>
+
+    <div class="scroller">
+    <table class="tbl">
+      <thead><tr><th>Way in</th><th>What it feels like</th><th>Right for</th></tr></thead>
+      <tbody>
+        <tr><td>Browser interface</td><td>A local web page with forms and previews. Runs on your own machine, opens in your browser.</td><td>You or a VA making videos by hand, one at a time</td></tr>
+        <tr><td>REST API</td><td>A server that takes a job and returns a file. No screen involved.</td><td><strong>Our case — volume, on a server, unattended</strong></td></tr>
+        <tr><td>Command line</td><td>One command, one video. Scriptable, schedulable.</td><td>Nightly batches, cron jobs</td></tr>
+        <tr><td>Docker</td><td>A sealed box with ffmpeg and Python already inside.</td><td>Deploying it somewhere clean without a fight</td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <h3>What it is not</h3>
+    <p>It is not a hosted product. There are no user accounts, no login, no billing, no per-customer isolation, and jobs run on whatever machine you started it on. If we ever wanted to <em>sell</em> this as a web app to other people, that is the work — the video engine would be the part we did not have to build.</p>
+    <p><strong>My recommendation: run it headless on a server via the API, with our own thin control page in front of it.</strong> The browser interface is fine for a first look, but it is a single-user tool and it ties a video render to somebody keeping a tab open.</p>
+  </div>
+</section>
+
+<section id="cost">
+  <div class="wrap">
+    <p class="slug">Cost</p>
+    <h2>What you need, and what it costs</h2>
+
+    <h3>To run it at all</h3>
+    <div class="scroller">
+    <table class="tbl">
+      <thead><tr><th>Requirement</th><th>Minimum</th><th>What I used</th></tr></thead>
+      <tbody>
+        <tr><td>Processor</td><td class="num">4 cores</td><td class="num">6 cores</td></tr>
+        <tr><td>Memory</td><td class="num">4 GB</td><td class="num">14 GB</td></tr>
+        <tr><td>Graphics card</td><td class="num free">Not required</td><td class="num">None — CPU only</td></tr>
+        <tr><td>Disk</td><td class="num">~5 GB</td><td>Plus roughly 25 MB per finished video</td></tr>
+        <tr><td>Software</td><td colspan="2">Python 3.11 or newer, and ffmpeg. Both already installed here.</td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <h3>Per-video running cost</h3>
+    <div class="scroller">
+    <table class="tbl">
+      <thead><tr><th>Service</th><th>Needed?</th><th>Cost</th><th>Note</th></tr></thead>
+      <tbody>
+        <tr><td>Stock footage</td><td>Yes</td><td class="num free">Free</td><td>Free account with Pexels, Pixabay or Coverr. I can set these up.</td></tr>
+        <tr><td>Voice</td><td>Yes</td><td class="num free">Free</td><td>Microsoft Edge's voices. No account, no key, no quota I hit.</td></tr>
+        <tr><td>Subtitles</td><td>Yes</td><td class="num free">Free</td><td>Comes out of the voice engine for nothing.</td></tr>
+        <tr><td>Script writing</td><td>Optional</td><td class="num paid">Under a cent</td><td>A few hundred words per video. Skip it entirely by writing your own scripts.</td></tr>
+        <tr><td>Music</td><td>Optional</td><td class="num paid">Varies</td><td>The bundled tracks are unusable. Licensed music or none.</td></tr>
+        <tr><td>Auto-posting</td><td>Optional</td><td class="num paid">$0 → $24/mo</td><td>Third-party service. Free tier is 10 uploads a month and excludes TikTok; the paid tier lifts the limit.</td></tr>
+        <tr><td>Compute</td><td>Yes</td><td class="num">~3 min CPU</td><td>The genuine cost. On a server you are paying for time, not tokens.</td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <p style="margin-top:26px">So the marginal cost of a video is <strong>effectively three minutes of CPU and a fraction of a cent</strong>. That is the real and only impressive number in this project. It is also why the output has no scarcity value — it costs everybody else the same.</p>
+
+    <h3>What will be needed later</h3>
+    <p>If this goes past an experiment, the bill does not move to AI. It moves to two places:</p>
+    <p><strong>Looking different.</strong> Right now every video made with this tool shares one caption style, one pacing, one library. As more people run it, "made with MoneyPrinterTurbo" becomes a recognisable look, and a recognisable look is what gets pattern-matched by platform enforcement. Escaping that means our own footage, our own captions, our own hooks — real work, not a config change.</p>
+    <p><strong>Distribution.</strong> Accounts, warm-up, posting infrastructure, and somebody watching what lands. The tool solves the part that was never the bottleneck.</p>
+  </div>
+</section>
+
+<section id="money">
+  <div class="wrap">
+    <p class="slug">Money</p>
+    <h2>How this makes money — ranked honestly</h2>
+    <p>Start with the constraint everything else has to route around. YouTube's monetisation rules were rewritten to name this exact output. Under the policy now called <em>inauthentic content</em>, this is listed under what is <strong>not allowed</strong>:</p>
+
+    <blockquote>
+      <p>"AI-generated content made with generic or unoriginal templates giving the impression of mass production without adding the creator's original, authentic insights or perspective."</p>
+      <cite>YouTube channel monetisation policies — inauthentic content</cite>
+    </blockquote>
+
+    <p>That is a description of the default settings. So the play is not to argue with it — the play is to <strong>stop treating the video as the product and start treating it as the delivery van.</strong> A video that sends someone to a page does not need to be monetised at all.</p>
+
+    <div class="play a">
+      <p class="rank">Best fit</p>
+      <h3>Search interception — video that ranks, then sends the click</h3>
+      <p>Point the tool at commercial-intent and brand queries where video results appear but nobody has bothered to make one. A short, on-topic video on an uncontested query can surface fast, and the money is in the description link and the landing page — not in ad revenue, so none of the monetisation rules apply to us.</p>
+      <p>This suits us specifically because we already own the offers, the landing pages and the keyword research. The video is the one asset we were not producing, and now it costs three minutes of CPU.</p>
+      <p class="why"><b>Why it wins:</b> no monetisation approval needed · no follower threshold · no account age · works from video one</p>
+    </div>
+
+    <div class="play b">
+      <p class="rank">Second</p>
+      <h3>Volume top-of-funnel on Facebook and TikTok</h3>
+      <p>Organic reach, no revenue share, everything routed to our own page. Both platforms will bury content they judge unoriginal, so this only works if we do the work the tool skips: a real hook in the first second, our own captions, and scripts written for a specific audience rather than generated from a topic.</p>
+      <p class="why"><b>Watch for:</b> TikTok pays nothing under 60 seconds and requires 10k followers · Meta's programme requires content original to the creator</p>
+    </div>
+
+    <div class="play c">
+      <p class="rank">Third</p>
+      <h3>Sell the production, not the views</h3>
+      <p>The clean version of this business is charging somebody else for finished videos. Local businesses, coaches, e-commerce sellers — they need weekly short-form and they do not have an editor. The tool collapses your cost to minutes; the price is whatever the client would otherwise pay a freelancer.</p>
+      <p>The catch is that the raw output is not good enough to hand a paying client, so this only works with a human pass on top: real footage of their product, a proper hook, tightened captions.</p>
+      <p class="why"><b>Reality check:</b> this is a service business with a fast tool inside it, not a passive income machine</p>
+    </div>
+
+    <div class="play d">
+      <p class="rank">Do not</p>
+      <h3>Faceless channels for ad revenue</h3>
+      <p>This is what every viral post is selling and it is the one path the platforms have explicitly closed. Building channels on templated stock-and-voiceover shorts means building on the exact pattern the policy names, with a strike system attached. Any channel that got monetised is one enforcement pass from losing it, and the assets are not portable.</p>
+      <p class="why"><b>Verdict:</b> the effort is real, the compliance risk is total, and the asset can be deleted by someone else's policy update</p>
+    </div>
+  </div>
+</section>
+
+<section id="next">
+  <div class="wrap">
+    <p class="slug">Next</p>
+    <h2>What we do next</h2>
+    <p>The tool is already installed and working here. Nothing below needs a purchase.</p>
+    <ol class="next">
+      <li><b>Say yes to the interception test</b><span>I pick 10 commercial-intent queries where video results show and nobody has made one, produce 10 videos, and we watch what ranks. This is the cheapest possible read on whether the whole idea earns.</span><span class="owner">Needs: your go-ahead</span></li>
+      <li><b>I harden the tool first</b><span>Delete the ripped music, cap the caption length so nothing clips, and switch letterboxing to crop-to-fill. Half a day, and it stops the three defects that would otherwise show up in every video.</span><span class="owner">Me · no approval needed</span></li>
+      <li><b>I set up the free accounts</b><span>Stock footage keys and the posting service free tier. All free, all in my name, nothing touching your logins.</span><span class="owner">Me · say if you want them elsewhere</span></li>
+      <li><b>You decide the subject list</b><span>Which offers or topics we point it at first. This is the only decision I cannot make for you, and it is the one that determines whether the footage looks right.</span><span class="owner">Needs: your list</span></li>
+      <li><b>Then we judge on ranking, not on views</b><span>Success is a video sitting on a query that sends clicks. If nothing ranks in three weeks, we stop — and we will have spent nothing but CPU time.</span><span class="owner">Three-week gate</span></li>
+    </ol>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Teardown run 28 Jul 2026 · MoneyPrinterTurbo v1.3.3, MIT licence · tested on 6-core CPU, 14 GB RAM, no GPU<br>
+    Every timing on this page was measured on this machine. Every defect was reproduced or read in the shipped source.<br>
+    <a href="https://github.com/harry0703/MoneyPrinterTurbo">github.com/harry0703/MoneyPrinterTurbo</a>
+  </div>
+</footer>
+
+</body>
+</html>
