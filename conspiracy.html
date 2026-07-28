@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Conspiracy channel — the lane that works</title>
+<meta name="description" content="The conspiracy niche, reframed so it survives platform policy: excavate real declassified material instead of inventing theories. Hardened tool, verified story slate, first script.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Karla:wght@400;500;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0A0C10; --panel:#12161C; --panel2:#171C24; --rule:#242C36; --rule-soft:#1B222B;
+  --ink:#E9EDF2; --dim:#8B95A3; --dimmer:#5E6875;
+  --stamp:#E4607E; --ok:#46C07A; --warn:#E8A33D; --cool:#4F8DF7; --teal:#2FB3A8;
+  --maxw:1120px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0; background:var(--bg); color:var(--ink);
+  font-family:"Karla",system-ui,sans-serif; font-size:17px; line-height:1.62; -webkit-font-smoothing:antialiased}
+img{max-width:100%; display:block}
+.wrap{max-width:var(--maxw); margin:0 auto; padding:0 24px}
+
+.rail{position:sticky; top:0; z-index:50; background:rgba(10,12,16,.86);
+  backdrop-filter:blur(10px); border-bottom:1px solid var(--rule)}
+.rail-in{max-width:var(--maxw); margin:0 auto; padding:11px 24px; display:flex; gap:22px; align-items:center;
+  font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+  overflow-x:auto; scrollbar-width:none}
+.rail-in::-webkit-scrollbar{display:none}
+.rail a{color:var(--dimmer); text-decoration:none; white-space:nowrap; transition:color .18s}
+.rail a:hover,.rail a:focus-visible{color:var(--ink)}
+.rail .mark{color:var(--stamp); font-weight:600}
+
+.hero{padding:74px 0 58px; border-bottom:1px solid var(--rule-soft)}
+.eyebrow{font-family:"JetBrains Mono",monospace; font-size:11.5px; letter-spacing:.18em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:26px}
+.eyebrow span{color:var(--stamp)}
+h1{font-family:"Bricolage Grotesque",sans-serif; font-weight:800; font-size:clamp(36px,6.2vw,70px);
+  line-height:1; letter-spacing:-.028em; margin:0 0 8px; max-width:17ch}
+
+/* redaction signature */
+.redact{display:inline-block; position:relative; color:var(--ink)}
+.redact::after{content:""; position:absolute; inset:.06em -.14em .1em -.14em; background:var(--ink);
+  transform-origin:left center; animation:lift .85s cubic-bezier(.7,0,.2,1) forwards; animation-delay:.55s}
+.redact.d2::after{animation-delay:.95s}
+@keyframes lift{to{transform:scaleX(0)}}
+@media(prefers-reduced-motion:reduce){.redact::after{display:none}}
+
+.lede{font-size:clamp(17px,2.1vw,21px); color:var(--dim); max-width:63ch; margin:30px 0 0}
+.lede strong{color:var(--ink); font-weight:500}
+
+section{padding:62px 0; border-bottom:1px solid var(--rule-soft)}
+.slug{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.2em;
+  text-transform:uppercase; color:var(--stamp); margin-bottom:16px}
+h2{font-family:"Bricolage Grotesque",sans-serif; font-weight:700; font-size:clamp(26px,3.5vw,39px);
+  line-height:1.07; letter-spacing:-.02em; margin:0 0 22px; max-width:23ch}
+h3{font-family:"Bricolage Grotesque",sans-serif; font-weight:600; font-size:20px;
+  letter-spacing:-.01em; margin:36px 0 12px}
+p{margin:0 0 18px; max-width:72ch}
+strong{color:#fff; font-weight:700}
+em.q{font-style:normal; color:var(--warn)}
+code{font-family:"JetBrains Mono",monospace; font-size:.88em; background:var(--panel2);
+  border:1px solid var(--rule); border-radius:4px; padding:1px 6px; color:#CFD8E3}
+
+.verdict{display:grid; grid-template-columns:1fr 1fr; gap:14px; margin:6px 0 8px}
+@media(max-width:780px){.verdict{grid-template-columns:1fr}}
+.v{background:var(--panel); border:1px solid var(--rule); border-radius:6px; padding:22px 20px; border-top:3px solid var(--rule)}
+.v.go{border-top-color:var(--ok)} .v.stop{border-top-color:var(--stamp)}
+.v .q{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:9px}
+.v .a{font-family:"Bricolage Grotesque",sans-serif; font-weight:800; font-size:24px;
+  line-height:1.06; letter-spacing:-.02em; margin-bottom:10px}
+.v.go .a{color:var(--ok)} .v.stop .a{color:var(--stamp)}
+.v p{font-size:15px; color:var(--dim); margin:0; max-width:none}
+
+blockquote{margin:22px 0; padding:20px 24px; background:var(--panel2);
+  border:1px solid var(--rule); border-left:3px solid var(--stamp); border-radius:5px}
+blockquote p{margin:0; font-size:16px; color:#D6DDE6}
+blockquote cite{display:block; margin-top:11px; font-family:"JetBrains Mono",monospace;
+  font-size:11px; font-style:normal; letter-spacing:.1em; text-transform:uppercase; color:var(--dimmer)}
+
+/* case files */
+.file{background:var(--panel); border:1px solid var(--rule); border-radius:6px; margin:0 0 16px; overflow:hidden}
+.file-hd{display:flex; gap:14px; align-items:baseline; flex-wrap:wrap;
+  padding:15px 20px; border-bottom:1px solid var(--rule); background:var(--panel2)}
+.file-hd .no{font-family:"JetBrains Mono",monospace; font-size:11px; font-weight:700;
+  letter-spacing:.14em; color:var(--stamp)}
+.file-hd h3{margin:0; font-size:20px; flex:1 1 auto; min-width:200px}
+.stamp{font-family:"JetBrains Mono",monospace; font-size:10px; font-weight:700; letter-spacing:.13em;
+  text-transform:uppercase; padding:4px 8px; border:1px solid; border-radius:3px; white-space:nowrap}
+.stamp.dec{color:var(--ok); border-color:rgba(70,192,122,.45)}
+.stamp.open{color:var(--warn); border-color:rgba(232,163,61,.45)}
+.stamp.live{color:var(--teal); border-color:rgba(47,179,168,.45)}
+.file-bd{padding:18px 20px 6px}
+.file-bd p{font-size:15.5px; color:var(--dim)}
+.file-bd .hook{color:var(--ink); font-size:17px; font-weight:500}
+.meta{display:flex; flex-wrap:wrap; gap:6px 26px; font-family:"JetBrains Mono",monospace;
+  font-size:11.5px; color:var(--dimmer); border-top:1px solid var(--rule-soft);
+  padding:13px 20px; margin-top:8px}
+.meta b{color:var(--dim); font-weight:400}
+
+.script{background:var(--panel2); border:1px solid var(--rule); border-radius:6px; padding:24px 26px; margin:22px 0}
+.script p{font-family:"Karla",sans-serif; font-size:17.5px; line-height:1.75; color:#DDE4EC; max-width:62ch; margin:0 0 14px}
+.script p:last-of-type{margin-bottom:0}
+.script .kicker{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:16px}
+.terms{font-family:"JetBrains Mono",monospace; font-size:12.5px; color:var(--dim);
+  background:var(--panel); border:1px solid var(--rule); border-radius:5px; padding:14px 16px; margin-top:18px}
+.terms b{color:var(--warn); font-weight:600}
+
+figure{margin:28px 0 8px}
+figure img{border:1px solid var(--rule); border-radius:5px; background:var(--panel)}
+figcaption{font-family:"JetBrains Mono",monospace; font-size:11.5px; color:var(--dimmer);
+  margin-top:11px; line-height:1.6; max-width:76ch}
+figcaption b{color:var(--ok); font-weight:600}
+
+.fixes{display:grid; gap:12px; margin:24px 0 8px}
+.fx{background:var(--panel); border:1px solid var(--rule); border-left:3px solid var(--ok);
+  border-radius:5px; padding:17px 20px}
+.fx h4{font-family:"Bricolage Grotesque",sans-serif; font-weight:700; font-size:17px; margin:0 0 6px}
+.fx p{font-size:15px; color:var(--dim); margin:0; max-width:none}
+
+.next{counter-reset:n; list-style:none; padding:0; margin:24px 0 0}
+.next li{counter-increment:n; position:relative; padding:0 0 20px 46px; margin:0 0 20px; border-bottom:1px solid var(--rule-soft)}
+.next li:last-child{border-bottom:0; margin-bottom:0; padding-bottom:0}
+.next li::before{content:counter(n,decimal-leading-zero); position:absolute; left:0; top:1px;
+  font-family:"JetBrains Mono",monospace; font-size:12px; font-weight:600; color:var(--stamp)}
+.next b{display:block; font-family:"Bricolage Grotesque",sans-serif; font-weight:700;
+  font-size:18px; color:var(--ink); margin-bottom:5px; letter-spacing:-.01em}
+.next span{color:var(--dim); font-size:15.5px}
+.next .owner{font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--dimmer);
+  letter-spacing:.1em; text-transform:uppercase; display:block; margin-top:7px}
+
+footer{padding:42px 0 70px; font-family:"JetBrains Mono",monospace; font-size:11.5px;
+  color:var(--dimmer); line-height:1.9}
+footer a{color:var(--dim)}
+::selection{background:var(--stamp); color:#0A0C10}
+:focus-visible{outline:2px solid var(--stamp); outline-offset:3px; border-radius:2px}
+@media(prefers-reduced-motion:reduce){*{transition:none !important}}
+</style>
+</head>
+<body>
+
+<nav class="rail" aria-label="Sections">
+  <div class="rail-in">
+    <span class="mark">CONSPIRACY / PLAN</span>
+    <a href="#call">The call</a>
+    <a href="#reframe">The reframe</a>
+    <a href="#tool">Tool hardened</a>
+    <a href="#slate">First slate</a>
+    <a href="#script">Script one</a>
+    <a href="#money">The money problem</a>
+    <a href="#next">Next</a>
+    <a href="index.html">← Teardown</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Channel plan · <span>28 Jul 2026</span> · niche: conspiracy · tool hardened and re-tested</p>
+    <h1>Don't invent the theory. <span class="redact d2">The real ones are stranger.</span></h1>
+    <p class="lede">Yes to the niche — it is one of the best fits for this tool there is. But <strong>one specific move in your brief is the thing that gets a channel removed rather than just demonetised</strong>, and swapping it out makes the content better, not weaker. Here is the change, the fixed tool, three verified stories, and the first script ready to run.</p>
+  </div>
+</header>
+
+<section id="call">
+  <div class="wrap">
+    <p class="slug">The call</p>
+    <h2>Great niche. One move I won't make.</h2>
+
+    <div class="verdict">
+      <div class="v go">
+        <p class="q">Conspiracy as a niche</p>
+        <p class="a">Yes — strongly</p>
+        <p>Huge evergreen audience, and it happens to fix the exact weakness I measured in this tool. Concrete subjects get good stock footage; abstract ones get filler. Cold-war archives, radio towers, snowy passes and filing cabinets are about as concrete as it gets.</p>
+      </div>
+      <div class="v stop">
+        <p class="q">"Take a news story, invent a theory"</p>
+        <p class="a">No — that one breaks</p>
+        <p>Inventing a theory about a real, recent event means writing claims about real, named, living people. That is not a demonetisation risk, it is a removal risk, and it is the one version of this idea with no defence.</p>
+      </div>
+    </div>
+
+    <h3>Why that specific move, and not the genre</h3>
+    <p>Three separate rules land on it, and none of them touch the genre itself:</p>
+    <p>YouTube's harassment policy prohibits content that <strong>targets a person or group with a conspiracy theory that has been used to justify real-world violence</strong> — and explicitly allows coverage that discusses those theories without targeting anyone. So the line is not "conspiracy". The line is "aimed at a named person."</p>
+    <p>Its advertiser rules put <em class="q">"making claims that are demonstrably false"</em> in the <strong>no ad earnings</strong> bucket. An invented theory is, by construction, demonstrably false.</p>
+    <p>And where a story involves a real tragedy, the sensitive-events rule bars <em class="q">"appearing to profit from a tragic event with no discernible benefit to users"</em> and using event keywords to pull traffic. Recent weird news is very often somebody's bad day.</p>
+    <p>Meanwhile, documentary and educational treatment of the same subject matter is <strong>fully monetisable</strong>. The genre was never the problem. Fabrication about real people is.</p>
+  </div>
+</section>
+
+<section id="reframe">
+  <div class="wrap">
+    <p class="slug">The reframe</p>
+    <h2>Excavate instead of invent</h2>
+    <p>Same audience, same appetite, same thumbnails. The only change is where the strangeness comes from: <strong>we stop making it up and start digging it out.</strong> Declassified programmes, unsolved cases, transmissions nobody can explain.</p>
+    <p>This is not the cautious version. It is the stronger one. "What if the government staged attacks on its own people" is a guess anyone can make. <strong>"Here is the memo, here is the date, here is the general who signed it"</strong> — that is a better video, and every claim in it survives contact with a fact-check.</p>
+    <p>It also solves the footage problem I measured. Half the shots in the tool's own showcase reel contradicted the narration, because abstract sentences produce abstract keywords. A script about a 1962 memo, a Chicago TV tower and a shortwave transmitter produces search terms that stock libraries are full of.</p>
+  </div>
+</section>
+
+<section id="tool">
+  <div class="wrap">
+    <p class="slug">Tool hardened</p>
+    <h2>The three defects are fixed and re-tested</h2>
+    <p>I said this needed no approval, so it is done. Everything below was re-rendered on this machine and checked frame by frame.</p>
+
+    <div class="fixes">
+      <div class="fx"><h4>The ripped music is gone</h4><p>All 29 bundled tracks deleted. The tool now logs "no background music files found" and renders fine without them — no crash, no silence bug. Nothing goes out with someone else's soundtrack on it.</p></div>
+      <div class="fx"><h4>Captions can no longer be cut off</h4><p>The real cause was not the position — it was the size of the text box. The tool measured caption height from the drawn pixels rather than the font's own line metrics, which runs about a quarter short on a three-line caption, so the last line was cropped mid-letter. It now sizes the box from font metrics, with a hard clamp so a caption can never sit past the frame edge either.</p></div>
+      <div class="fx"><h4>No more black bars</h4><p>Mismatched footage is now scaled to cover the frame and centre-cropped, instead of being shrunk onto a black background. Every frame is full-bleed.</p></div>
+    </div>
+
+    <figure>
+      <img src="img/fix_caption.jpg" alt="Two stacked video frames. The upper, labelled BEFORE, shows a three-line caption whose last word 'sustain' is sliced in half by the frame edge. The lower, labelled AFTER, shows the same caption with 'sustain' rendered in full." loading="lazy">
+      <figcaption>Same script, same font, same position setting. <b>The word survives.</b> This was the defect visible in the upstream project's own showcase video.</figcaption>
+    </figure>
+
+    <figure>
+      <img src="img/fix_framing.jpg" alt="Two rows of five video frames. The upper row, labelled BEFORE, shows footage letterboxed into large black bars. The lower row, labelled AFTER, shows the same footage filling the whole vertical frame." loading="lazy">
+      <figcaption>Deliberately mismatched source footage — 16:9, 4K and 720p into a vertical frame. <b>Full-bleed on every clip.</b></figcaption>
+    </figure>
+  </div>
+</section>
+
+<section id="slate">
+  <div class="wrap">
+    <p class="slug">First slate</p>
+    <h2>Three stories, all real, all checked</h2>
+    <p>Picked because each one is documented, none accuses a living person of anything, and all three are visually rich. Every fact below I verified against primary or archival sources.</p>
+
+    <div class="file">
+      <div class="file-hd"><span class="no">FILE 01</span><h3>The plan to attack Americans</h3><span class="stamp dec">Declassified 1997</span></div>
+      <div class="file-bd">
+        <p class="hook">The conspiracy theory that turned out to have a signature on it.</p>
+        <p>On 13 March 1962 the Chairman of the Joint Chiefs of Staff, General Lyman Lemnitzer, sent Defence Secretary Robert McNamara a Top Secret memo titled "Justification for US Military Intervention in Cuba". It proposed manufacturing a pretext for war — staging a terror campaign in Miami and Washington, sinking boats carrying Cuban refugees, and faking an attack on a civilian aircraft. Kennedy rejected it. It stayed classified for 35 years.</p>
+      </div>
+      <div class="meta"><span><b>Opens on:</b> a date and a signature</span><span><b>Footage:</b> archives, typewriters, 1960s Miami, aircraft</span><span><b>Risk:</b> none — all principals long dead, document public</span></div>
+    </div>
+
+    <div class="file">
+      <div class="file-hd"><span class="no">FILE 02</span><h3>Ninety seconds of Chicago television</h3><span class="stamp open">Unsolved · 39 years</span></div>
+      <div class="file-bd">
+        <p class="hook">Someone hijacked two TV stations in one night and was never found.</p>
+        <p>22 November 1987. During WGN-TV's nine o'clock news, the sports segment cut to a figure in a Max Headroom mask swaying in front of a sheet of corrugated metal. Engineers took about 17 seconds to fight the signal back. Two hours later it happened again on WTTW, mid-way through a Doctor Who serial — longer this time, with distorted audio, and nobody on duty at the tower to stop it. The FCC investigated. Nobody has ever been identified.</p>
+      </div>
+      <div class="meta"><span><b>Opens on:</b> CRT static</span><span><b>Footage:</b> old televisions, broadcast towers, 1980s Chicago</span><span><b>Risk:</b> none — no suspect was ever named</span></div>
+    </div>
+
+    <div class="file">
+      <div class="file-hd"><span class="no">FILE 03</span><h3>The station that has buzzed since 1982</h3><span class="stamp live">Still transmitting</span></div>
+      <div class="file-bd">
+        <p class="hook">You can tune in right now. Nobody outside the Russian military knows what it is for.</p>
+        <p>4625 kHz. A short buzz, roughly a second long, repeating twenty to thirty times a minute, for over forty years. The earliest known recording is from 1982. Occasionally the buzzing stops and a Russian voice reads names and numbers, then the buzzing resumes. It belongs to the Russian armed forces. In January 2022 it briefly broadcast pop music and noise that resolved into internet memes on a spectrum analyser, then went back to buzzing.</p>
+      </div>
+      <div class="meta"><span><b>Opens on:</b> the sound itself</span><span><b>Footage:</b> antenna masts, radio dials, snow, empty forest</span><span><b>Risk:</b> none — no claims about individuals</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="script">
+  <div class="wrap">
+    <p class="slug">Script one</p>
+    <h2>Ready to run, no edits needed</h2>
+    <p>Written to the constraints that actually matter: past 61 seconds so it clears TikTok's payment floor, concrete nouns in almost every line so the footage search has something to grip, and no claim that isn't in the declassified record.</p>
+
+    <div class="script">
+      <p class="kicker">File 01 · target 62–68 seconds · voice: measured, no theatrics</p>
+      <p>In 1962, the most senior officer in the United States military put his name to a plan to attack his own country.</p>
+      <p>It has a date. March the thirteenth. It has a subject line: Justification for US Military Intervention in Cuba.</p>
+      <p>Inside, the Joint Chiefs propose sinking boats carrying Cuban refugees. Staging a terror campaign in Miami, and in Washington. Faking an attack on a civilian aircraft.</p>
+      <p>The point was never to hurt Cuba. The point was to make Americans angry enough to accept a war they had not asked for.</p>
+      <p>The memo went to the Secretary of Defence. Kennedy refused it. Within months, the general who signed it was moved out of the job.</p>
+      <p>And then it sat in a filing cabinet for thirty-five years — until a review board looking into the Kennedy assassination declassified it in 1997.</p>
+      <p>This one is not a theory. It is a document, with a signature on it. You can read the whole thing yourself.</p>
+      <div class="terms"><b>Footage search terms:</b> declassified document · filing cabinet archive · vintage typewriter · 1960s Miami · military aircraft · fishing boat sea · government building washington · cold war newsreel</div>
+    </div>
+
+    <p>That last line is the whole format in one sentence, and it is the reason this lane beats the invented one. We are not asking anyone to believe us.</p>
+  </div>
+</section>
+
+<section id="money">
+  <div class="wrap">
+    <p class="slug">The money problem</p>
+    <h2>The honest part: this niche has nothing to sell</h2>
+    <p>I have to flag a real tension with what I recommended two hours ago, because it would be easy to skate past it.</p>
+    <p>My advice was: don't chase ad revenue, use video as a delivery van — rank on a commercial query, send the click to a page, earn on the offer. <strong>Conspiracy content has no offer.</strong> There is no product at the end, no commercial query to intercept, nobody searching with intent to buy. So this niche cannot be a traffic vehicle. It can only be an audience play, which is the lane I told you was closed.</p>
+    <p>It is not quite closed — but it narrows, and it is worth knowing exactly how before we spend a month on it.</p>
+
+    <blockquote>
+      <p>The policy bans templates and mass production, not the subject. A genuinely researched documentary short is fully monetisable. Twenty near-identical ones a day are not.</p>
+      <cite>The constraint, in one line</cite>
+    </blockquote>
+
+    <p>Which creates the tension you should decide on with open eyes: <strong>volume is what the tool is for, and volume is what kills this channel.</strong> Ten well-researched videos a month is a viable channel and a legitimate business. Two hundred templated ones is a strike sequence. The tool still helps at ten a month — it removes the editing, which is real — but it saves you hours, not weeks, and the research becomes the actual job.</p>
+    <p>So my recommendation is to run it as a deliberately small test rather than a content factory: <strong>ten videos, real research behind each, and we judge whether the format holds attention.</strong> If it does, the monetisation question becomes answerable — an audience that watches history documentaries is worth something, whether through the platform, a product of our own, or sponsors. If it doesn't hold attention, we've spent CPU time and nothing else.</p>
+    <p>And one thing to keep in the back of your mind: if we ever want this niche to pay directly rather than eventually, the bridge is a product of our own at the end of it. That is a different conversation and I am not going to pretend the video tool answers it.</p>
+  </div>
+</section>
+
+<section id="next">
+  <div class="wrap">
+    <p class="slug">Next</p>
+    <h2>What happens now</h2>
+    <ol class="next">
+      <li><b>Say yes to the reframe</b><span>Real declassified and unsolved material instead of invented theories. Everything below assumes this; if you want the invented version instead, say so and I'll tell you plainly what I will and won't build.</span><span class="owner">Needs: one word from you</span></li>
+      <li><b>I get a stock footage key</b><span>Free Pexels account, two minutes, my name, nothing touching your logins. It is the only thing standing between here and a finished video — the tool is installed, patched and tested.</span><span class="owner">Me · no approval needed</span></li>
+      <li><b>I produce all three and you watch them</b><span>Three finished videos from the slate above, roughly a minute each. You react to real files, not a plan.</span><span class="owner">Me · about an hour of machine time</span></li>
+      <li><b>You pick the platform first</b><span>TikTok needs 10,000 followers before it pays anything, Facebook's programme is invite-only, YouTube is the only one with an open door. That points at YouTube — but tell me if you'd rather test elsewhere.</span><span class="owner">Needs: your call</span></li>
+      <li><b>Ten videos, then we judge</b><span>Judged on watch time, not on views or subscribers. If people don't finish a 60-second history short, nothing downstream matters and we stop.</span><span class="owner">Gate</span></li>
+    </ol>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Plan written 28 Jul 2026 · tool patched and re-rendered on this machine · nothing published, no accounts created<br>
+    Story facts verified against archival and primary sources · policy wording quoted from YouTube's own published pages<br>
+    <a href="index.html">← Back to the teardown</a>
+  </div>
+</footer>
+
+</body>
+</html>
