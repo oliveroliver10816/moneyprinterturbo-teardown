@@ -1,0 +1,1029 @@
+{
+  "generated": "2026-07-29T11:34:59+00:00",
+  "feeds_ok": 24,
+  "feeds_total": 25,
+  "feed_errors": {
+    "reddit-news": "HTTP 429 rate limited"
+  },
+  "raw_items": 1636,
+  "stale_dropped": 1091,
+  "clusters": 486,
+  "off_topic": 27,
+  "stories": [
+    {
+      "title": "Giant Concentric Rings Discovered in The Atmosphere of Venus",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXRaaEtCN0tUSGVuNERsY0FmYXlwVlhjSXdnR1FZbWlYdU1mMUo3WThSeEpMQlpXLTdHVHBtMjkzYUlLeWpKeGFIb3hkZ2J1YzI2aGR4ZjFKeWpCQjFqaDEwbHZtbWhta2xKNWd1dmtCYTZjeVpsbVF2ZEZiYUI2VEl4VFFpaGZ3WndlUG50WU45VXM?oc=5",
+      "summary": "Giant Concentric Rings Discovered in The Atmosphere of Venus ScienceAlert Evidence of giant rings in Venus's atmosphere uncovered in archived observations Phys.org Mysterious Giant Rings Not Expected Have Been Observed on Venus Inbox.eu Astronomers have discovered mysterious rings on Venus that weren't supposed to be there UA.NEWS",
+      "published": "2026-07-27T10:04:03+00:00",
+      "outlets": [
+        "Inbox.eu",
+        "Phys.org",
+        "ScienceAlert",
+        "UA.NEWS"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 43.6,
+      "angle": 40.8,
+      "rank": 17.8,
+      "signals": {
+        "unexplained": [
+          "mysterious"
+        ],
+        "frontier": [
+          "discovered",
+          "uncovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Did Scientists Just Detect the First Known \u2018Exo-Moon\u2019?",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3dCMnZ2WkhxM29FZHJQS2d1eUhvTzZiaVplQ2pGeHFjWkwweUFqTW00X21aQjhiSUpVbnBFRl9TYkZXckZlU1R5WHM0SjBDZ3drS3puZHlWYkpqQ0J6dkNEcHFOM2ptLTJBb01UandZSHhMdjJTSFhRS1Fsd25vZExkVnlHWEJpbDlz?oc=5",
+      "summary": "Did Scientists Just Detect the First Known \u2018Exo-Moon\u2019? Good News Network After Discovering 6,000 Exoplanets, Researchers May Have Found the First Exomoon CNET Astronomers Discover the First Known Moon Outside our Solar System\u2014and What a Moon it Is Time Magazine Scientists Discover Massive Alien \"Exosatellite\" Futurism Strange Milky Way planetary system leaves scientists puzzled Reuters",
+      "published": "2026-07-27T15:30:14+00:00",
+      "outlets": [
+        "CNET",
+        "Futurism",
+        "Good News Network",
+        "Reuters",
+        "Time Magazine"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 50.8,
+      "angle": 34.0,
+      "rank": 17.3,
+      "signals": {
+        "unexplained": [
+          "puzzled"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "DOE identifies five states to hold nuclear waste",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0hfYmhta0ZYVzNxMUpKWGN5cXJQLWRkaVJNanc2NFpoLVNJX1BUQTAtOGQzMmFlUnQ0X1pOb19mZnREa3hXcGprWFd0WThvcjhHWnI2TXZfZkNKNmo1VDV3cF9FWHlMVnZadHZaRkZ4Qkd1ZzV1SXNfcEZRZzYwQWhPZS1JdGFwWVVmRTNrMWJUWDJMZ2hCeGJBQUM5RGhFcld6Z0ZSYm56SFlQ0gGyAUFVX3lxTE9VN1hGT3hhV3h0eGxhVjhkVHRzTEM5aHMxRUVDMTRJdG9jOVFRbnU0M1ZnR0dMb2x4Wlh6djFrNl9rY2tiYWtxN0NlaXkzdmNIei1OSm4yNGpnVWlrell4MFBMVEc0U2tCUWYxQzFsb01LVUhCTG5sRWxUUHFNRjFLTzlSVFVDcENmUGtQMHNqQ0F0ZERnNWhRdVJISk4yYURTclBBMHROMlV2QndEdDU1Nnc?oc=5",
+      "summary": "DOE identifies five states to hold nuclear waste The Hill Proposed Oak Ridge nuclear campus could bring thousands of jobs, billions in investment WATE 6 On Your Side Leaked document reveals White House nuclear waste plan Politico Utah is a finalist to build a massive federal nuclear hub. What\u2019s next? The Salt Lake Tribune 5 states offer to accept nuclear waste in exchange for help developing nuclear energy AP News",
+      "published": "2026-07-28T22:19:00+00:00",
+      "outlets": [
+        "AP News",
+        "Politico",
+        "The Hill",
+        "The Salt Lake Tribune",
+        "WATE 6 On Your Side"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 54.8,
+      "angle": 28.0,
+      "rank": 15.3,
+      "signals": {
+        "secrecy": [
+          "leaked"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Researchers reverse autism-like symptoms in mice with one drug dose",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ER2tCY0NGM3ZvQS1EYjlJak9GMC0tV01EUkhTdzd1TWJHRGNobEd2YU13ZUhucW1HOEY0Y3N6aTdHaGhTcU1oU0VaTWg0RmRpTW5oRE53Ny0zeWtoTE9zZU1wdjNKUDExbWdMMU1jdUItQ0JHLTNRem1XZWFXUdIBgwFBVV95cUxNd01QNkRDZkl1WDlyQ3dwQTJpN2QxbTI2Y3lGQ3hxak1tOG9uODlTTE15eEc2bzc2U3hfZEN6am01LWp4SVFOdkJ4bVpYY0s1OGxfZ0Rvc1JacnF3NDctNndpZGZpNjVHX2doNnlWYTJRMFFYc1A1dDhodWU3SlZVaTRwbw?oc=5",
+      "summary": "Researchers reverse autism-like symptoms in mice with one drug dose NewsNation Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature A single dose reversed autism-like symptoms in adult mice within hours ScienceDaily A Single Rapamycin Dose Reversed Adult Autism Traits Technology Networks Rapamycin Reverses Autism-Like Brain Changes Legal Reader",
+      "published": "2026-07-28T06:08:49+00:00",
+      "outlets": [
+        "Legal Reader",
+        "Nature",
+        "NewsNation",
+        "ScienceDaily",
+        "Technology Networks"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 54.8,
+      "angle": 22.0,
+      "rank": 12.1,
+      "signals": {
+        "reversal": [
+          "reverse",
+          "reversed"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The story changed. Put the first version and the current one side by side."
+      ]
+    },
+    {
+      "title": "De-Aging Human Tissue Using Special Enzyme To Remove AGEs",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVF6c1JqS3ZyUE5tek1BZG1xazdWSnh5UEJERDNDVlhSR3ctM2N5dExoOVc5aFhyckFnazdhNDVBdFBOODFud0I2SEU1VnJicWY4VTBXX2RsOWRqaTVRS29UWVF6cG9xYnRzUFBTLWgyUC1hN0VzVUI0cktIR2lZenh6TXJBVmJMajRrcE5CZDhiTGhG?oc=5",
+      "summary": "De-Aging Human Tissue Using Special Enzyme To Remove AGEs Hackaday Can This New Enzyme Turn Back the Clock in the Human Body? The New York Times New enzyme may reverse one cause of aging. Can we say goodbye to wrinkles forever? Miami Herald An enzyme might help fight against your body\u2019s aging The Independent The Brutal Truth About Anti-Aging Enzymes and Biological Reversal Lavender Hotel",
+      "published": "2026-07-28T05:00:00+00:00",
+      "outlets": [
+        "Hackaday",
+        "Lavender Hotel",
+        "Miami Herald",
+        "The Independent",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 54.8,
+      "angle": 22.0,
+      "rank": 12.1,
+      "signals": {
+        "reversal": [
+          "reverse"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The story changed. Put the first version and the current one side by side."
+      ]
+    },
+    {
+      "title": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNbzdNOFBCZTRoSHlpX1JBeUsyNHVDWXpRLUxJcUYzbEFPOW9GbHpqVGRPdlJ4SllnR3R4MDVVX01IMW9PNWpWMHZiLTRkeWNod1M4Z0s0V0FnOTlHTGRmR0RSN29oX2pDNF8xV291akZBbmFzZnNyejJ2bVBQZERqYnVjVHBScFNHTzUwNlBhVnpFMVNLcm9zeUJUQnptQVJOS3dJNkZGTnI3RkVOY1NWUk4yT1dqX1dwS1pULXBTeWFLYlNRaEpkYWdsU2dRb0t2WDlmZGpuR1llRzNINUsyNHVzVTdJbExheW5PeG5ZUDZBUWpWMmVaWVljOS1Mb0wxNGQ5TnJPQ252TzU3UjBDSk11Q3Ntb0YyeVZNMlhXaFJXQ3ZMaTRsZFlJVlRRemRBTlYxdDg0UU9qNUhzZWhxa2xjTEJvSkhGbFF1bXpMX0g3UQ?oc=5",
+      "summary": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz WBOC TV",
+      "published": "2026-07-28T21:00:00+00:00",
+      "outlets": [
+        "Carroll County Mirror-Democrat",
+        "WBOC TV"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 31.5,
+      "angle": 35.6,
+      "rank": 11.2,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ],
+        "institutional": [
+          "who"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered.",
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHRVMHNScnIxclFJS0wzcHZIclA5TkRXemJ0NFlVZy1BbHZYQ1lxRHhhamFaOTZMRlY2TGROYkVnRmJDUHo1b3ppa2YxaXVaNEtlLVpNMm5YYkdCX3hwWGpUWHVrbkRHNThtWE9JdjFSRENRcTl0QWk2RWhfTk1UMG42dlNjNkctcUxTcGswRHNOUQ?oc=5",
+      "summary": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019 CNN Fossil footprints reveal body size and group dynamics of 1.4-million-year-old human relative Phys.org Toothy human ancestor may have traveled in all-male packs Popular Science Ancient Footprints in Kenya Hint at Bigger Bodies and Group Behavior among Early Human Relatives Sci.News Ancient Fossil Footsteps Found in Kenya May Hint That an Early Human Relative Was Larger Than Previously Thought Smithsonian Magazine",
+      "published": "2026-07-28T15:39:30+00:00",
+      "outlets": [
+        "CNN",
+        "Phys.org",
+        "Popular Science",
+        "Sci.News",
+        "Smithsonian Magazine"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "The unexplained privileges of a chief of staff",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEgwdlBoTDVnb01IUlJ1eW8ySU1YMmFEc2NRMmVvSVpLVjZsdGFsRnNRaVBpck1CV0xURjNjRm1hN2V2S3NWVElDSEpVTGVyTDF0am9Vc0t5ejZwSHFXNHFDMzM1QVNERUtreExjTzF3eUpzZVZzYUNoT3VNekUwVmpiM1dpMF9jc1dIQjRwRWxEX0lVN0J4aFZfMzdzQQ?oc=5",
+      "summary": "The unexplained privileges of a chief of staff MaltaToday",
+      "published": "2026-07-29T06:56:00+00:00",
+      "outlets": [
+        "MaltaToday"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Inside KRA\u2019s unexplained four days eTIMS meltdown - HapaKenya -",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0xhaW1zSmwxU3NwSG90b3JGRHJhakxVQUZQei05SFJ0OHk1YV8xbmNTcC1nejRJLXU1TUhrVHhsYVozdV9UODBMaXl5dWJFT3cteXZ1a2hkZ0V1ZTU1b0hsb0tnamlrTmNnNXo1aHdwNGxRbWlyRlNzWUlBY3Z5Q3o5X3BremNCNHc?oc=5",
+      "summary": "Inside KRA\u2019s unexplained four days eTIMS meltdown HapaKenya -",
+      "published": "2026-07-29T10:12:09+00:00",
+      "outlets": [
+        "HapaKenya -"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Assassin\u2019s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95SzVhRTIxTkpNZkNjNThkZFEzV3BSR0t3cEdacDd5TTdfY0FiUHEzLWMxZHBDNUtldm9ReHAycm9Zajh1QUVaX2JCVXBCekJqdXI0Ri11UGRWMzZmTkdVZ19kREU?oc=5",
+      "summary": "Assassin\u2019s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature OpenCritic",
+      "published": "2026-07-27T00:16:31+00:00",
+      "outlets": [
+        "IMDb",
+        "OpenCritic"
+      ],
+      "feeds": [
+        "angle:quietly removed"
+      ],
+      "reach": 27.5,
+      "angle": 28.0,
+      "rank": 7.7,
+      "signals": {
+        "secrecy": [
+          "quietly removed"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Exclusive | Federal Probe Into Dodgers Owner\u2019s Financial Empire Was Sparked by Whistleblower",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObE1wSExzcVlHQzE4ZUJuNlpSdE5vYmlQYTN1ZTdERFRpUXhnczZDaTlfUTVsT3NqYUxEWXY0SFd4a3M5QzBiZXFWSUhuOGJCTlV0YldwZnltLUxISjNpVHFwM2tnZ3A3bXdtNjM4SU16c3RhaTdOdXF6TmtOM2NjM1JXNm4xTXhtZURIaER2OGZCZ09fS0tqbXdROVMwdHhnenlpUlNPcnBpcnFKU25CbXBiRFRza1B4cTlpTXdOb3c0cTVuaUE?oc=5",
+      "summary": "Federal probe into Dodgers owner\u2019s financial empire was sparked by whistleblower Private Equity News",
+      "published": "2026-07-27T08:33:53+00:00",
+      "outlets": [
+        "Private Equity News",
+        "WSJ"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 27.5,
+      "angle": 28.0,
+      "rank": 7.7,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Updating Darwin: biologists are returning to an older theory to explain anomalies in evolution",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2hhOUhjN0p0b0JONW03c3czOXJ4dzFja1JVT2VQVVVHMFlFVHFzeF9uR0dDenhKaU5lQUNUOElhRVp2blJMVEUtel8wMHFjOWY5V0xod3ZjM1BzWW1KUmdyMHV1RjB1UE1hTmxZOUt1bU1qekpxR21fMWtWMW5mSnN0ZThRdzltM2tRVHRLd2Jnd0JTalZXNVUxYXFZSENEdFc1Z1R5UVdoT0FlamxRN211M281MTByTWZuYWY2a01VWHMzYXlR?oc=5",
+      "summary": "Updating Darwin: biologists are returning to an older theory to explain anomalies in evolution The Conversation",
+      "published": "2026-07-28T10:20:09+00:00",
+      "outlets": [
+        "The Conversation"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "anomalies"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Egg-Linked Salmonella Outbreak Has Sickened 98 People, With Many Cases Still Unexplained",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakl5VUl1dURtQXloVW9QbGxjMjdwSlJUaEh1d1hvbHRma1RGVmx5cWo1TG1qNXI0TUpxdVpoMHN4NG1DVHdzYjhteVpCUmlsa2EtSS10aUUxSWdSZ1NwYmZGUGFkOUhKX2YzaHVKeDMtZi1LTE5OZ1cwQk1Ha294MENMcl9PYktnRGx2TmlfeHRXejRMRWxvMU9oSlBWaU1CMjUwTVpabHRyRnY4NXZBa0pn?oc=5",
+      "summary": "Egg-Linked Salmonella Outbreak Has Sickened 98 People, With Many Cases Still Unexplained Gizmodo",
+      "published": "2026-07-28T16:40:44+00:00",
+      "outlets": [
+        "Gizmodo"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "In 1996, hundreds of gibberish messages flooded Usenet unexplained",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kdDlXalBNTWxqSU5EVDhlcUpwcmk4a2Z4TEZwVXZXQWZUbFU4U2VISWtSNXYyS0NRMEhhZ1JoblYxbjJDU1d0S0o4ZG9OcG9pbzlLeDdvYk9jVnB1WTFGd29OYjZ4czBXcTRBR18tUXFneXNIM2fSAXtBVV95cUxOM1B4Q3NlOE9tc0xPTWUtaEhXY2NtU2JsN19wN2c1eHVXMjhMR1F6NF9IekJCUjlHS2xCWEtTcG96QzRDbWVpQVVIdVJvRFhlVmdNSmdGbUx5Y2ZyOWsyT3YyeDUzUXVRTl9KOW1LUkdQYURLbWhPNFYyUTQ?oc=5",
+      "summary": "In 1996, hundreds of gibberish messages flooded Usenet unexplained Boing Boing",
+      "published": "2026-07-28T12:30:00+00:00",
+      "outlets": [
+        "Boing Boing"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Super Investors Urge Stronger Corporate Whistleblower Rules",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmFaM2ZLYkw5d2NYM0ktaHV6TjdkSVNkVHNscU5EQ1pjVTVaWW1Dd1JlQ3dyOElKbWY1YWlnRUVWMktjYWdXdTJ0bUhZTXBhYjhYOVRiVVJteElEVGwwOHFPdEpENzdGVXN1a0RUald0T2xPcnJmdTlDLTUteWVFVlR5aHZKb3dOdEZqY01LMjdpcGF5dDFtRDltaWY0dzQ4QnfSAVhBVV95cUxNbjRwV3hYTEdJRThJUGxLQ2I3US1oNjRHU29abXdHZU9vRWpocVNsa3pRVVJCVnlxQkhDNUpBWFRpTjEtYjlYOFRmVC12VGFvcWhlNmpGekZ0?oc=5",
+      "summary": "Super Investors Urge Stronger Corporate Whistleblower Rules Law360",
+      "published": "2026-07-29T09:02:22+00:00",
+      "outlets": [
+        "Law360"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Settled whistleblower lawsuit against ARC unsealed",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTRaV1dZa3E4dTNtMUllU1NUYXh5SXA4NTBMcTl6azZCTGNHSEJMSGExeHdmUk50TUZCTDZuOXVncDcyNHdoRFFPTEJiWWRiZHg1Z0ZCd1U0Zld3NjVmUjlYN0wxMzVONVlmUllqaWFidzlWMERhcG9BMGF0eHhTY1ROVFJkbkJq?oc=5",
+      "summary": "Settled whistleblower lawsuit against ARC unsealed Mountain Top Media",
+      "published": "2026-07-29T04:06:04+00:00",
+      "outlets": [
+        "Mountain Top Media"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "KPMG discloses new evidence to regulators regarding whistleblower allegations",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUUwQ3BHS1I3TktYSWd6MlBlZUdlZlM3dWc2MTVJY3c2cFdBOVAtVE9tV29JbkZwdE8zVzUtY2pfYUlia3k1NkdKOS1qZTh6RGhLOHlYbFdaODJ5Vnk5UUMzNzhySG1lNTNUNjNUV3NMNVJnaU9fNV9sM1VGeVIxYzZmYkF6VjlqRzIxS3JIS3JBNXk1YU13cHFkOXVOX1NSOFo5NzdVWTRkaGNLOGpzcVpLdkM0TUxxR3lqNXUxVFU?oc=5",
+      "summary": "KPMG discloses new evidence to regulators regarding whistleblower allegations Accounting Times",
+      "published": "2026-07-28T23:41:16+00:00",
+      "outlets": [
+        "Accounting Times"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "FAAA calls for third-party whistleblower protections",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREJ3bUwtdEsxV1NGaXJDN2lpQlRfYWk1TEE3QUJqRzZnZS1WYm1RenhxeHppTGoxdE1wWXBTdmRPWWwwam9iXzItQVpIckxGWVAwR2xNMXBQa2s0ZWtVcUdwcDc2ODdVUjVkWkJNUUhCQVYtX1BLNld3RE9EVjJtVmUzRFRJamZ0ZDEwakYwLUpzUmhLckp2cGN0U2lDTXJ6X1E?oc=5",
+      "summary": "FAAA calls for third-party whistleblower protections Professional Planner",
+      "published": "2026-07-29T06:23:51+00:00",
+      "outlets": [
+        "Professional Planner"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Whistleblower on the financial crisis refutes the Fed's rate hike argument: U.S. economy faces major trouble in Q4!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVllUnpWQXpFSk1TT2EyWDFUSDRMVnVwMG5HV2g4T3pLajI5QlpqZWdjaVgxb2h6U01yUFBJejdCN3dvS0NTY1VTajk2NHItTkY2bUFXTS15R3ctZUJkZ3ZiTkQ4bC00VzZuMUxMTnhBMktzaFotbUdQNlN3RmlwZGtGTVlua0pIN2N4elFDV3BKSjg0QnNYV2F2VWM5S0JQNUkw?oc=5",
+      "summary": "Whistleblower on the financial crisis refutes the Fed's rate hike argument: U.S. economy faces major trouble in Q4! \u5bcc\u9014\u725b\u725b",
+      "published": "2026-07-29T02:47:27+00:00",
+      "outlets": [
+        "\u5bcc\u9014\u725b\u725b"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Civil service chief seeks \u2018reassurance\u2019 over whistleblower claims of \u2018unfair promotions\u2019 in Department of Education",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdGc2Tl9kRXlSVk84Ty1mNTNZYlVDMGU4OUtuZTAyWlp3SVZzS1JWR0VwcGVXeFF1Y1g4QUhFUVJiMFRNNEpWZXdoY1Y3WEVPdjFXSTRhUE52Q3A5bjIzU0NKY1JjeEEyeWprajZYM0FPSGJJZ1FlUjkwZ0ZjUnpLckJ2ekdxSnFSbnAyWXhMWkt4QWxGMjd6b1ZuQk9PbDcxRmVSTnJpaXJvTHd2S3VrZ0Q2SU85ZFU2MVk3YXhPa3VtQmhNRGRVWVpTODYxc1RmTFJrSkVBMjJwb3pkY09nYWJmOHlSUE1id2M0M0JLbFlaeWdxUEl6dmdkalREckExcXZZUTB4NnEzS2dWSzFZX3ZzYw?oc=5",
+      "summary": "Civil service chief seeks \u2018reassurance\u2019 over whistleblower claims of \u2018unfair promotions\u2019 in Department of Education Belfast Telegraph",
+      "published": "2026-07-29T06:57:00+00:00",
+      "outlets": [
+        "Belfast Telegraph"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "10 unaccounted for at quake-hit Kumamoto Pref. shopping mall after blast",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zNEl3WkhraFE2alFlZi1CZ2JSamZkWTJ4aktGaTlweXROUHBxMGM5NjVUVkE2bGJPTXNTUGRFdVg0MzhHellmVUVNay1oRlZyUzliYzdWdUJzdw?oc=5",
+      "summary": "20 to 30 employees unaccounted for after explosion at quake-hit Kumamoto mall in SW Japan Global Times",
+      "published": "2026-07-29T09:15:00+00:00",
+      "outlets": [
+        "Az\u0259rtac",
+        "Global Times",
+        "Japan Wire by Kyodo News",
+        "The Japan News"
+      ],
+      "feeds": [
+        "angle:unaccounted for"
+      ],
+      "reach": 51.6,
+      "angle": 14.0,
+      "rank": 7.2,
+      "signals": {
+        "disappearance": [
+          "unaccounted for"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Someone or something is gone. Absence is the strongest open ending there is."
+      ]
+    },
+    {
+      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yWDc2NllxWEF0aGYtUDJ0N0JuTnVQSzFQRUdORlBaMFV6d081SjZ4MlZiTEw5UnNtT1Iwa3pSdVR5RG5OQ3F0Q3lURVgzM2RfSW5BNEp6aXdlRU5ReEFzejNqbUcwRHAxYXluTVpRSQ?oc=5",
+      "summary": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers ScienceDaily A 480,000-Year-Old Elephant Bone Hammer Sharpened Stone Axes in Ancient Britain ZME Science British scientists found out what a 500,000-year-old ivory tool was used for \u041d\u0430\u0448\u0430 \u041d\u0456\u0432\u0430 500,000-Year-Old Elephant Bone Tool Found in England Is Europe\u2019s Oldest GreekReporter.com",
+      "published": "2026-07-27T12:38:07+00:00",
+      "outlets": [
+        "GreekReporter.com",
+        "ScienceDaily",
+        "ZME Science",
+        "\u041d\u0430\u0448\u0430 \u041d\u0456\u0432\u0430"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 43.6,
+      "angle": 16.0,
+      "rank": 7.0,
+      "signals": {
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Trump's war on fraud expands as Treasury launches new site with whistleblower incentives",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3pMY2t3OWdZMUlSLTJxVVFVWmVsa1lMU29EZWs4QW42b0NGMkIwU19lS1UyMW1NZmhrSHFXVWtxXzdldlFwaUFZblBoT1FOYlBEelJlekpjcUJFLWhRTjJFTkdjOUxDRWM2SUZVUHRQX3dLbWZKTjF3anRsR3lDaVdVQWlobW1XVmhSZjdQWUlGcVJQTmFldjF4RFFLQ1AwQXlpdFB6S0JabG9OVmc?oc=5",
+      "summary": "Trump's war on fraud expands as Treasury launches new site with whistleblower incentives Fox News",
+      "published": "2026-07-28T18:43:59+00:00",
+      "outlets": [
+        "Fox News"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 22.0,
+      "angle": 28.0,
+      "rank": 6.2,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2JYcC1QT05Ud0hFZDBmZ3I5aFJmTFBLVmRrbWp3NmFzQmUzUnhpTDQwV09CMHd5bXZSdlJCTVl5bEQxakozTk81d0pIeDlibHpkV3A3T0FHWm91dW1BT2ZVQUQtM0xYMXNyRjlHRlYzek4ySnB6Sy05Z0gyRjBYcHY0MTEyN0dKU21DbVpWWXFJYnRhbVVoSlNOVVlMOTFxcl9NR3N6Y1ltMkRXSHpvVm1hZFA?oc=5",
+      "summary": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit 5 EYEWITNESS NEWS",
+      "published": "2026-07-28T20:57:05+00:00",
+      "outlets": [
+        "5 EYEWITNESS NEWS"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 22.0,
+      "angle": 28.0,
+      "rank": 6.2,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Whistleblowers to Speak at National Whistleblower Day 2026",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjkzVjVtTEZKX1NDc21lS0xOZEZaY24tUUk5b1RXQzVjb1JHOUlPNUdmaXNYYmhoXzNVRHptcWt1SU1rUEFkd045YjFhWHZ3eDFadzdhajVFOHlXN25Pc2hpdlBmbE4zNTNiakNHZXRVcTVHTkd1UkpjellHWldHVHY3dlU2UmVTQ3R1Y1ZLYTVCZkNuVWhKb0U1MjNOeDlEZ2tVOGU0RUxDVUhSNm5GaENGVXduMk800gG4AUFVX3lxTE5COTNWNW1MRkpfU0NzbWVLTE5kRlpjbi1RSTlvVFdDNWNvUkc5SU81R2Zpc1hiaGhfM1VEem1xa3VJTWtQQWR3TjliMWFYdnd4MVp3N2FqNUU4eVc3bk9zaGl2UGZsTjM1M2JqQ0dldFVxNUdOR3VSSmN6WUdaV0dUdjd2VTZSZVNDdHVjVkthNUJmQ25VaEpvRTUyM054OURna1U4ZTRFTENVSFI2bkZoQ0ZVd24yTzQ?oc=5",
+      "summary": "Whistleblowers to Speak at National Whistleblower Day 2026 Whistleblower Network News",
+      "published": "2026-07-28T13:00:40+00:00",
+      "outlets": [
+        "Whistleblower Network News"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 22.0,
+      "angle": 28.0,
+      "rank": 6.2,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    }
+  ],
+  "blocked": [
+    {
+      "title": "Teenage school shooter in Georgia is sentenced to life without parole",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXpBWlVSUGxZWnV3cDY2MDlnLVc3a1k0VlEyTU12ZVZGZUl0SW5GNEh2cDltOW1tT2FSTUZncEhHWGRVaDR2Ymk1X2dBQmNaMGtHcTlXTkdMWmxFS3o5Wm5mbGtPQjlDR3BLc3dEY3cwa2hiWWtsRGFlVThadEFPMkp2eWVyRTlvd29kQnZtaUFRN2pEUzNxTHpZaVlVNVJQaHBpSDN5R3NNM0lmYkJZMlZLSQ?oc=5",
+      "summary": "Teenage school shooter in Georgia is sentenced to life without parole The Washington Post Why was Colt Gray sentenced to life without parole? FOX 5 Atlanta Prosecutors: Georgia school shooter tracked online fame with mother after deadly attack KOMO Teen sentenced to life without parole for deadly mass shooting at his high school Yahoo Teen pleads guilty to murder in a 2024 shooting that left 4 dead at Georgia's Apalachee High School AP News",
+      "published": "2026-07-29T05:54:10+00:00",
+      "outlets": [
+        "AP News",
+        "FOX 5 Atlanta",
+        "KOMO",
+        "The Washington Post",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-nation",
+        "google-top"
+      ],
+      "reach": 64.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzUteWdWc1NWRHE2TWZvSWtHR1V3RXQ3eVlFWnVZQXVpSkNaMF8wbnhvRzR1bThlbG9ZcG4zSlVqSVcxZFZLMDFDS1dDOHlxQ1JPTmZNcGVIX3lMdS1LTk5LdC1sR2gwZ3RaRFVjdThPVlYxWXF3RFB6UldlOXN1M1I5dXd4aXJqVVFIclZPS2NSamQyeWxIU1dPUWp5bGpSdl9tQnBXZTh1bHJvWW1vdDM4OA?oc=5",
+      "summary": "Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On WSJ \u2018A disaster for America First\u2019: Trump allies fear Netanyahu meeting will pull US deeper into war with Iran Politico A diminished Bibi arrives for his moment with Trump Axios Trump and Netanyahu to meet and powerful earthquake rocks Japan: Morning Rundown NBC News Netanyahu: Trump meeting was \u2018one of the best we\u2019ve ever had\u2019 The Times of Israel",
+      "published": "2026-07-29T00:36:00+00:00",
+      "outlets": [
+        "Axios",
+        "NBC News",
+        "Politico",
+        "The Times of Israel",
+        "WSJ"
+      ],
+      "feeds": [
+        "google-top",
+        "google-world"
+      ],
+      "reach": 64.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOencteEtMNEQ5U05CMzcxdm5CVXpIZnRqM20xbmRVUGV6VkRHX0lVRDZ0UllWVXg0dk9lUEYzY2owb0ZFQjRfellDbDJxS2V1clJZM2ZQYlViRndhSUY0QklZNkxKdFZWaXZxWXdLM3JJMUdZNFZnT3JKdFhnTlB1WUFQck0zY2NCTDl0RGJQZnNUajhWd1hnR1YxaFJZdVBRMk9RSk5rOHZhTGc?oc=5",
+      "summary": "Reaction wheel failures leave Swift rescue mission spinning in orbit Ars Technica Commissioning Update for Spacecraft to Boost NASA\u2019s Swift NASA Science (.gov) Private mission to rescue NASA\u2019s aging telescope runs into its own trouble AP News Swift reboost mission encounters attitude control problems SpaceNews Powerful tornado leaves widespread damage in Wisconsin but time of day may have saved lives couriernews.com",
+      "published": "2026-07-28T22:09:00+00:00",
+      "outlets": [
+        "AP News",
+        "Ars Technica",
+        "NASA Science (.gov)",
+        "SpaceNews",
+        "couriernews.com"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 60.8,
+      "angle": 18.0,
+      "rank": 10.9,
+      "signals": {
+        "institutional": [
+          "nasa"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Dinosaurs were roasted to death by asteroid dust cloud",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzloTUFMQTUtcUxhTGllRGVCczBQY0Y3N3ZFQWVjUDl5alZWUXFUREplYlRLOUl6UHp5aHhybGFjbTlNa0ExdEV0NWw5RVZSQzNoM1J1V29hRk05SnJnUlVIOU9XaUpwc29WWE0yaHZhN2xOX1lwemdubVJkamRMVGJiMW1fZFVlMnBaSnR4bTY4dw?oc=5",
+      "summary": "Dinosaurs were roasted to death by asteroid dust cloud The Telegraph Dinosaur-killing asteroid also created a dust cloud that insulated Earth, \u2018charbroiling\u2019 Cretaceous creatures Purdue University Asteroid strike caused global firestorm that incinerated the dinosaurs New Scientist Chicxulub's lingering dust may have turned falling debris into a global firestorm Phys.org How to Budget With Irregular Income: Real Stories Community Newspaper Group",
+      "published": "2026-07-28T15:52:00+00:00",
+      "outlets": [
+        "Community Newspaper Group",
+        "New Scientist",
+        "Phys.org",
+        "Purdue University",
+        "The Telegraph"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 60.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Japan PM says rescue teams in 'race against time' after earthquake kills at least 13",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjU3Y2N29LWjJaTGdhLVp3UTNtbXNpQzAwWlBNX1pNdDFZOVFUeGsxQkxSeGN3cTZ4MFU1UWw2ZXJYTnFLWndxQU1jc1pRVVdBaTRrVg?oc=5",
+      "summary": "Japan PM says rescue teams in 'race against time' after earthquake kills at least 13 BBC Japan earthquake toll rises to 13 as rescuers haul people from collapsed mall Reuters Why does Japan experience so many large earthquakes unlike any other country in the world? CNN Japan quake kills at least two after blast at Kumamoto mall, one in building collapse Yahoo Earthquake rocks southern Japanese island of Kyushu \u2013 in pictures The Guardian",
+      "published": "2026-07-29T04:12:26+00:00",
+      "outlets": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-top"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Photos: Donald Trump and world leaders attend Lindsey Graham\u2019s funeral",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVlGckVWckcyeUVRenpkalQ1MGcybWtpdjhKSUdWRllxMWRDVlJzemN4UW1yS3pRMHp5YkMwSDhMLUZaODEwNEdDWHoxM3FwUEZsVkc2VGFRUDE4NktVMWh6TUc5SE91b1dEa3NKQkpuQUtwWW1sR0pMMXVSWjFtV1Y1M0xSQzR6bnRPMUVTNnlON0pXX0VwWjNydXZKUmFHZndFWkw1bEvSAa4BQVVfeXFMUF95cF8tSTRoYTI3eXNXUENOYWNhbTd6SnhPUE9lbDVERldaU1dDcktWX0FNYU1YSUNQaTZldnJENTB4bHlzc2ljaHJYRHhmRlJvekc0dmx4WVZGVi1vdWh6QmlNX1JCWEhra0JkTWRsOURIMGNfand2OENCQ1RJRU5Makt4S0otdWttZTlYYWEwWFBxYWtfV3dUbHNrQ2Rtd0t3SzFRYUFRNDFUTnd3?oc=5",
+      "summary": "Photos: Donald Trump and world leaders attend Lindsey Graham\u2019s funeral Al Jazeera At Graham\u2019s Farewell, a Glimpse Into Power in Trump\u2019s Washington The New York Times Lindsey Graham eulogized, US and Saudi Arabia launch strikes in Iraq, search for missing after Japan earthquake AP News Trump commemorates Graham\u2019s life \u2014 with sunny Netanyahu and Zelenskyy meetings Politico DC traffic and road closures for Sen. Lindsey Graham\u2019s funeral FOX 5 DC",
+      "published": "2026-07-29T06:00:12+00:00",
+      "outlets": [
+        "AP News",
+        "Al Jazeera",
+        "FOX 5 DC",
+        "Politico",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a live missing-person case \u2014 a private individual, never speculate about one"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Life-threatening flash flood threat shifts into New England as heavy rain swamps parts of Northeast",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1I2d3JvUnFCb3VnR1dDajdiZWo0bmRIYXUtbUs5emswR0tCRmF3Y3Z0NDZkWkRMQllaTV9HNzNaTmJFc2FvWWk2RmUxNUdNWERITldTQkkyZzJQbHZCbzVlWjRHOVZMdFN6M1cxakg0TTBhT1haNWFwQm5Wa1RxYWtTbGxha1NUMnl0aWhR?oc=5",
+      "summary": "Life-threatening flash flood threat shifts into New England as heavy rain swamps parts of Northeast CNN NYC opens safe locations as flooding threatens already soaked neighborhoods CBS News Morning downpours north and east of New York City | Live Updates ABC7 New York Tracking NY, NJ rain, floods: Timing and areas to be hardest hit PIX11 Live: People urged to stay off roads 'unless fleeing an area subject to flooding' Times Union",
+      "published": "2026-07-29T06:37:24+00:00",
+      "outlets": [
+        "ABC7 New York",
+        "CBS News",
+        "CNN",
+        "PIX11",
+        "Times Union"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Police recover ghost gun, seek potential 3rd suspect in Bite of Seattle mass shooting",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWVplZ3VVakJCMWV6eTJtLXU3OWs5UWpxVHR3cnpmc20xVTMtZHhCMW1sY2dfQmw0ZEl0S2x6NUMzaGF6YnlNd3YwWG9aY2hsdTJmbVRTN2poWWt4ekZUY0RudVdXdlpVUmloSDd1NjZLR09wT2x1TkRVYzF2ekUzREdUUzBHZG8xZk9hY1FKTnlvWDhuQVVOX256cU1yZWg4Y2RaLVNsSGs2TEJlNVB6V1ZDakR0U0xOWW84dWtmU1k3N2JvNDl0Tk1rMmdPMTR3YVF5a0VhMWdhQnBhZGIybWM4THhmX1M2dFQ4V0hfdS1DdUt4ZW1VOGlKTGpad05GUGc?oc=5",
+      "summary": "Police recover ghost gun, seek potential 3rd suspect in Bite of Seattle mass shooting KOMO 3 people fatally shot at Seattle Center identified, honored in candlelight vigil KING5.com Community mourns victims of Bite of Seattle shooting as fundraisers top $50,000 KATU Officials reveal 3 firearms, including ghost gun with 19 rounds loaded, recovered in Seattle shooting as police search for possible suspects MyNorthwest.com 'A lover of life' - Seattle pays tribute to food festival shooting victims BBC",
+      "published": "2026-07-29T02:35:55+00:00",
+      "outlets": [
+        "BBC",
+        "KATU",
+        "KING5.com",
+        "KOMO",
+        "MyNorthwest.com"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a live missing-person case \u2014 a private individual, never speculate about one"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Pentagon ties new casualty category for renewed US-Iran fighting to the end of 'Operation Epic Fury'",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM25ncHMxb0plZVZEamlPTXhSVGltWmJTODBaa3dwNFEzeUZFZkR3VmtmWVROcTJkaVVwNThHeUdSelFLdlNmS3dXRGFQTHM2X3NfRlQ3eEUtZ3dkWnNVOUNmTWdoaVExd2ZPMnZtMzF5N0ZNalZVZUNXLTdBQTdkenJSVjFOc3llbFhzZFRLUG9HdWdCc3M2TFRJc2RPWnk2?oc=5",
+      "summary": "Pentagon ties new casualty category for renewed US-Iran fighting to the end of 'Operation Epic Fury' AP News Pentagon, under Trump, Hegseth, draws curtain tighter around Iran War The Hill Number of U.S. Troop Deaths Suddenly Appears Lower on Pentagon Website The New York Times Shrapnel, Broken Bones, and Head Trauma: New Records Show How U.S. Troops Were Wounded in Iran War The War Horse The War That Shall Not Be Named The Atlantic",
+      "published": "2026-07-28T23:49:00+00:00",
+      "outlets": [
+        "AP News",
+        "The Atlantic",
+        "The Hill",
+        "The New York Times",
+        "The War Horse"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "pentagon"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Contractor found dead in Downers Grove sewer after extensive search",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXFrTDNiTVptRmQwZDBQQXgxTmNmbG9TSC1iOGxSbkZ0U09xREU0ZDZCRko1cERpdHZIOTRQcHRnaU1LX2RJTTVzMVlJdGVXSGd1dWt6MHVQbnFCeWNkS20xVUY2SEg0Z2FoSUx5NVJmcHIyNmRvZnZtQjNMRzkyctIBhgFBVV95cUxPSTlCSEZtX1JaV2tHUVNfRjdmaW9nUVRxV09WTDlZZnhZRHdJeHQzVTZHS3B1ZWNESHJkdEk2T1UzbzBqWG5Fdmg2Tl9KY3hnRlV0WDVOejJ5QmZuMUhKM24yZVAyNDYwYWp3dDBwZ0xVRnJDN1BldFpxZ1pDRjN4bldhaWdqUQ?oc=5",
+      "summary": "Contractor found dead in Downers Grove sewer after extensive search FOX 32 Chicago Downers Grove sewer rescue: Contractor who went missing in storm sewer on Curtiss Street during severe weather found dead ABC7 Chicago Body of missing contractor recovered from Downers Grove storm drain NBC 5 Chicago \u2018It\u2019s horrible\u2019: One worker rescued from Downers Grove storm sewer, another found dead after torrential rain Chicago Tribune One contractor rescued after being trapped in Downers Grove storm sewer; search for second now a recovery effort WGN-TV",
+      "published": "2026-07-28T23:50:43+00:00",
+      "outlets": [
+        "ABC7 Chicago",
+        "Chicago Tribune",
+        "FOX 32 Chicago",
+        "NBC 5 Chicago",
+        "WGN-TV"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 23.9,
+      "rank": 14.1,
+      "signals": {
+        "institutional": [
+          "who"
+        ],
+        "disappearance": [
+          "went missing"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a live missing-person case \u2014 a private individual, never speculate about one"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls.",
+        "Someone or something is gone. Absence is the strongest open ending there is."
+      ]
+    },
+    {
+      "title": "Iraqi armed groups condemn \u2018dangerous escalation\u2019 after US-Saudi strikes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmxYQlNidHdveXNkZ0k0VnNXcmVLVFJvOGVuZUU4QlJzMHpXOXl3ZFhzWkVkWUYwSnUxdDZtQTZ2WlZMUjBIZTFaVWZZREd4NmNwZVdNY2xjcFY1N284XzZkWmNVSWJVd1hOMndiYmNJZHFCLTk0ZU40b2lleTV5Q3NrSU5nYnVRemNwelhYMUtxX3R2d3ZyN2VDOG9iRlc0Qm5QeTN3RdIBrAFBVV95cUxNb3p2MXhyelJMVUp0SUNoTV9nMHBybDFxa09DYjE2a0R5dE9aUG5qMmdoMTlDQU1rSTdDVkY2MkU5ZTJIcjNMbjFKM2VCNU1wSTVNVWJyNTI2OHZHdW9DOXIxNFFMbHlhZzQzTzNrSjB1Q1huSVhtV3Jqa3hHQmFsTzFDZDV2ZnQ0SFc0VVpjZXk5bnV3czdPRjFqOUg2QTdiSndSQjJaTDZQLW5O?oc=5",
+      "summary": "Iraqi armed groups condemn \u2018dangerous escalation\u2019 after US-Saudi strikes Al Jazeera Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan Al Jazeera U.S.-Iran Updates: War expands as U.S.-Saudi strikes target Iraqi militias backed by Iran CBS News Saudi Arabia joins U.S. military strikes on Iranian proxies The Washington Post Major Gulf fighting resumes as US and Saudi strike Iran's allies in Iraq Reuters",
+      "published": "2026-07-29T10:29:16+00:00",
+      "outlets": [
+        "Al Jazeera",
+        "CBS News",
+        "Reuters",
+        "The Washington Post"
+      ],
+      "feeds": [
+        "google-top",
+        "google-world"
+      ],
+      "reach": 57.6,
+      "angle": 18.0,
+      "rank": 10.4,
+      "signals": {
+        "institutional": [
+          "military"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "The deaths of 15 elephants in Kenya\u2019s Amboseli National Park spark investigation",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0cxMHlRazd2ZWpGTFBGZHE3TkhVWkFPS3dSUjdqX3Z2ellScmx5U0h5TDg4MlRoS0E2NnBkdG9CRFhXVjd0U1hnRENsZlUzYXg3eEFNb2RGeXAtdExUeWdWcDM2MlA5MWxXVDVvTDB1YzlELTdFQ3dreWREYzliVUtfZmppQ2xXQ1d1dXhsc3k2bm8?oc=5",
+      "summary": "The deaths of 15 elephants in Kenya\u2019s Amboseli National Park spark investigation AP News Amboseli elephant deaths: Kenya Wildlife Service launches urgent inquiry after 14 carcasses found BBC Kenya investigating unexpected deaths of 15 elephants in national park The Guardian Kenya probes potential toxin after 15 elephants die in Amboseli ecosystem Reuters Mystery of 14 dead Amboseli elephants Daily Nation",
+      "published": "2026-07-28T19:52:00+00:00",
+      "outlets": [
+        "AP News",
+        "BBC",
+        "Daily Nation",
+        "Reuters",
+        "The Guardian"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 54.8,
+      "angle": 34.0,
+      "rank": 18.6,
+      "signals": {
+        "unexplained": [
+          "mystery"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    }
+  ]
+}
