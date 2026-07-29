@@ -1,48 +1,52 @@
 {
-  "generated": "2026-07-29T12:17:15+00:00",
+  "generated": "2026-07-29T15:17:15+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
     "reddit-worldnews": "HTTP 429 rate limited"
   },
-  "raw_items": 1642,
-  "stale_dropped": 1101,
-  "clusters": 478,
-  "off_topic": 29,
+  "raw_items": 1638,
+  "stale_dropped": 1094,
+  "clusters": 476,
+  "off_topic": 36,
   "stories": [
     {
-      "title": "OpenAI's First Devices: Speaker, Smartphone, and More",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOEd2eExFdGwyWDk4ZVB3MjJFczB6OGZld2VZOTc1bGIxQTJmdGVkZXlaa2E3NFdwX2dqMXpXWXRPTEJQeThESGt3LXUzbXJ5NkNCTU1IS0JpeDBCN1R0a3g5Q0tOTDRZMUE?oc=5",
-      "summary": "OpenAI's First Devices: Speaker, Smartphone, and More MacRumors Inside Sam Altman and Jony Ive's AI hardware dream team and the battle for OpenAI\u2019s future Fortune OpenAI Is \u2018Very Interested\u2019 in Building Out ChatGPT Integrations for Wearables CNET ChatGPT's mysterious new gadget could replace your iPhone \u2013 here's why everyone is talking about it stuff.tv Altman eyes Korea as testbed for OpenAI\u2019s first device The Korea Herald",
-      "published": "2026-07-29T01:00:00+00:00",
+      "title": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHRVMHNScnIxclFJS0wzcHZIclA5TkRXemJ0NFlVZy1BbHZYQ1lxRHhhamFaOTZMRlY2TGROYkVnRmJDUHo1b3ppa2YxaXVaNEtlLVpNMm5YYkdCX3hwWGpUWHVrbkRHNThtWE9JdjFSRENRcTl0QWk2RWhfTk1UMG42dlNjNkctcUxTcGswRHNOUQ?oc=5",
+      "summary": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019 CNN Fossil footprints reveal body size and group dynamics of 1.4-million-year-old human relative Phys.org Toothy human ancestor may have traveled in all-male packs Popular Science Ancient Fossil Footsteps Found in Kenya May Hint That an Early Human Relative Was Larger Than Previously Thought Smithsonian Magazine Mystery hominin left big footprints at ancient lake in Africa New Scientist",
+      "published": "2026-07-28T15:39:30+00:00",
       "outlets": [
-        "CNET",
-        "Fortune",
-        "MacRumors",
-        "The Korea Herald",
-        "stuff.tv"
+        "CNN",
+        "New Scientist",
+        "Phys.org",
+        "Popular Science",
+        "Smithsonian Magazine"
       ],
       "feeds": [
-        "google-technology"
+        "google-science"
       ],
-      "reach": 58.8,
-      "angle": 34.0,
-      "rank": 20.0,
+      "reach": 54.8,
+      "angle": 40.8,
+      "rank": 22.4,
       "signals": {
         "unexplained": [
-          "mysterious"
+          "mystery"
+        ],
+        "frontier": [
+          "ancient"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "The official account stops short of a cause. Open on the gap."
+        "The official account stops short of a cause. Open on the gap.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
       "title": "John Hight steps down as Wizards of the Coast president",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3loZXZpVzNzOVJfVTdJYlF6WkFjbXUtLTB3SXpubVZzcHZ5aWtfcXlLVkptV3NNRVlwODJ1UkY5N19VNjgxbnBrQThCd1dyYjVOaDJETE43SjRuQWd0U0U0MDYzT1NwRkhjU2ZRN0hJSGlyUEpiRWhOMU1vSlZac0RFV0pZMmx0bFhNTzJR?oc=5",
-      "summary": "John Hight steps down as Wizards of the Coast president GamesIndustry.biz D&D: WotC President To Step Down In September Bell of Lost Souls Hasbro (HAS) Announces Leadership Transition in Wizards of the C GuruFocus Wizards Of The Coast President John Hight To Step Down Star City Games Despite Magic's unprecedented success, Wizards' president is already stepping down Polygon.com",
+      "summary": "John Hight steps down as Wizards of the Coast president GamesIndustry.biz D&D: WotC President To Step Down In September Bell of Lost Souls Hasbro (HAS) Announces Leadership Transition in Wizards of the C GuruFocus Despite Magic's unprecedented success, Wizards' president is already stepping down Polygon.com Wizards Of The Coast President John Hight To Step Down Star City Games",
       "published": "2026-07-28T10:21:38+00:00",
       "outlets": [
         "Bell of Lost Souls",
@@ -71,12 +75,12 @@
     {
       "title": "Did Scientists Just Detect the First Known \u2018Exo-Moon\u2019?",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3dCMnZ2WkhxM29FZHJQS2d1eUhvTzZiaVplQ2pGeHFjWkwweUFqTW00X21aQjhiSUpVbnBFRl9TYkZXckZlU1R5WHM0SjBDZ3drS3puZHlWYkpqQ0J6dkNEcHFOM2ptLTJBb01UandZSHhMdjJTSFhRS1Fsd25vZExkVnlHWEJpbDlz?oc=5",
-      "summary": "Did Scientists Just Detect the First Known \u2018Exo-Moon\u2019? Good News Network After Discovering 6,000 Exoplanets, Researchers May Have Found the First Exomoon CNET Astronomers Discover the First Known Moon Outside our Solar System\u2014and What a Moon it Is Time Magazine Scientists Discover Massive Alien \"Exosatellite\" Futurism Strange Milky Way planetary system leaves scientists puzzled Reuters",
+      "summary": "Did Scientists Just Detect the First Known \u2018Exo-Moon\u2019? Good News Network After Discovering 6,000 Exoplanets, Researchers May Have Found the First Exomoon CNET Planetary-mass exosatellite detected around the substellar companion of a star Nature Astronomers Discover the First Known Moon Outside our Solar System\u2014and What a Moon it Is Time Magazine Strange Milky Way planetary system leaves scientists puzzled Reuters",
       "published": "2026-07-27T15:30:14+00:00",
       "outlets": [
         "CNET",
-        "Futurism",
         "Good News Network",
+        "Nature",
         "Reuters",
         "Time Magazine"
       ],
@@ -98,81 +102,23 @@
       ]
     },
     {
-      "title": "DOE identifies five states to hold nuclear waste",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0hfYmhta0ZYVzNxMUpKWGN5cXJQLWRkaVJNanc2NFpoLVNJX1BUQTAtOGQzMmFlUnQ0X1pOb19mZnREa3hXcGprWFd0WThvcjhHWnI2TXZfZkNKNmo1VDV3cF9FWHlMVnZadHZaRkZ4Qkd1ZzV1SXNfcEZRZzYwQWhPZS1JdGFwWVVmRTNrMWJUWDJMZ2hCeGJBQUM5RGhFcld6Z0ZSYm56SFlQ0gGyAUFVX3lxTE9VN1hGT3hhV3h0eGxhVjhkVHRzTEM5aHMxRUVDMTRJdG9jOVFRbnU0M1ZnR0dMb2x4Wlh6djFrNl9rY2tiYWtxN0NlaXkzdmNIei1OSm4yNGpnVWlrell4MFBMVEc0U2tCUWYxQzFsb01LVUhCTG5sRWxUUHFNRjFLTzlSVFVDcENmUGtQMHNqQ0F0ZERnNWhRdVJISk4yYURTclBBMHROMlV2QndEdDU1Nnc?oc=5",
-      "summary": "DOE identifies five states to hold nuclear waste The Hill Proposed Oak Ridge nuclear campus could bring thousands of jobs, billions in investment WATE 6 On Your Side Leaked document reveals White House nuclear waste plan Politico E&E News: 5 states advance in Energy Department\u2019s high-stakes nuclear fuel disposal program POLITICO Pro 5 states offer to accept nuclear waste in exchange for help developing nuclear energy AP News",
-      "published": "2026-07-28T22:19:00+00:00",
-      "outlets": [
-        "AP News",
-        "POLITICO Pro",
-        "Politico",
-        "The Hill",
-        "WATE 6 On Your Side"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 54.8,
-      "angle": 28.0,
-      "rank": 15.3,
-      "signals": {
-        "secrecy": [
-          "leaked"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Trump hasn\u2019t asked the Supreme Court to rehear birthright citizenship case despite his vow",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORldpYUc4NkNidW9VSjB2blBGMVoyamEzR0VDc2t4c1dOQVZPU3A0eUZtUG8wcF9pWlRWcmhLcG9UMUJ1bHlNcXQ2YnNiRGg1WDkzcVBWaVc4MEhoTTdVcjVmR1BLUnlqWTJOcThWRnBibkl1YmxNa3FBY1ROSUZpdUpXMlN3UXRUaUdMUk9zWE9OaklHUy1yejlrMjVKUGViYXh0a2RfNkxiTjJRMU4tNWRJS1MwU2xCT3BocVdmVk1CVi1Gdkdz?oc=5",
-      "summary": "Trump hasn\u2019t asked the Supreme Court to rehear birthright citizenship case despite his vow NBC News Trump Embarrassed as Deadline Passes in Key SCOTUS Case The Daily Beast Despite vow, Trump didn\u2019t seek to reverse ruling on birthright citizenship The Washington Post Deadline passes for Trump to ask Supreme Court to reconsider birthright citizenship ruling Yahoo Trump administration appears not to have asked Supreme Court to rehear birthright citizenship case SCOTUSblog",
-      "published": "2026-07-28T19:34:03+00:00",
-      "outlets": [
-        "NBC News",
-        "SCOTUSblog",
-        "The Daily Beast",
-        "The Washington Post",
-        "Yahoo"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 54.8,
-      "angle": 22.0,
-      "rank": 12.1,
-      "signals": {
-        "reversal": [
-          "reverse"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The story changed. Put the first version and the current one side by side."
-      ]
-    },
-    {
       "title": "Researchers reverse autism-like symptoms in mice with one drug dose",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ER2tCY0NGM3ZvQS1EYjlJak9GMC0tV01EUkhTdzd1TWJHRGNobEd2YU13ZUhucW1HOEY0Y3N6aTdHaGhTcU1oU0VaTWg0RmRpTW5oRE53Ny0zeWtoTE9zZU1wdjNKUDExbWdMMU1jdUItQ0JHLTNRem1XZWFXUdIBgwFBVV95cUxNd01QNkRDZkl1WDlyQ3dwQTJpN2QxbTI2Y3lGQ3hxak1tOG9uODlTTE15eEc2bzc2U3hfZEN6am01LWp4SVFOdkJ4bVpYY0s1OGxfZ0Rvc1JacnF3NDctNndpZGZpNjVHX2doNnlWYTJRMFFYc1A1dDhodWU3SlZVaTRwbw?oc=5",
-      "summary": "Researchers reverse autism-like symptoms in mice with one drug dose NewsNation Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature A single dose reversed autism-like symptoms in adult mice within hours ScienceDaily A Single Rapamycin Dose Reversed Adult Autism Traits Technology Networks Rapamycin Reverses Autism-Like Brain Changes Legal Reader",
-      "published": "2026-07-28T06:08:49+00:00",
+      "summary": "Researchers reverse autism-like symptoms in mice with one drug dose NewsNation Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature Drug temporarily reverses autism-like brain changes in adult mice within hours Medical Xpress A Single Rapamycin Dose Reversed Adult Autism Traits Technology Networks Single Drug Dose Reversed Autism-Like Traits in Mice Labroots",
+      "published": "2026-07-29T14:56:23+00:00",
       "outlets": [
-        "Legal Reader",
+        "Labroots",
+        "Medical Xpress",
         "Nature",
         "NewsNation",
-        "ScienceDaily",
         "Technology Networks"
       ],
       "feeds": [
         "google-health"
       ],
-      "reach": 54.8,
+      "reach": 58.8,
       "angle": 22.0,
-      "rank": 12.1,
+      "rank": 12.9,
       "signals": {
         "reversal": [
           "reverse",
@@ -188,11 +134,11 @@
     {
       "title": "De-Aging Human Tissue Using Special Enzyme To Remove AGEs",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVF6c1JqS3ZyUE5tek1BZG1xazdWSnh5UEJERDNDVlhSR3ctM2N5dExoOVc5aFhyckFnazdhNDVBdFBOODFud0I2SEU1VnJicWY4VTBXX2RsOWRqaTVRS29UWVF6cG9xYnRzUFBTLWgyUC1hN0VzVUI0cktIR2lZenh6TXJBVmJMajRrcE5CZDhiTGhG?oc=5",
-      "summary": "De-Aging Human Tissue Using Special Enzyme To Remove AGEs Hackaday Can This New Enzyme Turn Back the Clock in the Human Body? The New York Times New enzyme may reverse one cause of aging. Can we say goodbye to wrinkles forever? Miami Herald An enzyme might help fight against your body\u2019s aging The Independent The Brutal Truth About Anti-Aging Enzymes and Biological Reversal Lavender Hotel",
+      "summary": "De-Aging Human Tissue Using Special Enzyme To Remove AGEs Hackaday Can This New Enzyme Turn Back the Clock in the Human Body? The New York Times New enzyme may reverse one cause of aging. Can we say goodbye to wrinkles forever? Miami Herald An enzyme might help fight against your body\u2019s aging The Independent Enzymes can repair age-related protein damage that was previously thought to be irreversible. GIGAZINE",
       "published": "2026-07-28T05:00:00+00:00",
       "outlets": [
+        "GIGAZINE",
         "Hackaday",
-        "Lavender Hotel",
         "Miami Herald",
         "The Independent",
         "The New York Times"
@@ -247,27 +193,28 @@
       ]
     },
     {
-      "title": "Stolen cannonballs discovered inside passenger's bag during airport security check - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWlSZW5HaVpCZ0J6QzJYc0p2V3hNYUhPc2FQYndfdjhIdlpZUHVNMDBnZ1NKWTB0U3NNLVhPYlhPd3A3TzJXb1d5X2ZIOWtFMmlHbkZjaExuNUNUc2pKelhzX1BWVTZVa1VuX3dMczREN1pQaFlBa0duOE83M3U2VUotWnk4MjEtdXJUVHFnMjZseHBnUkVUeHJZdWpYOXF0MnNPMENuZnVwNUZBRE9V0gG0AUFVX3lxTE1ObzA5aGJoc1lYcFM0aFp2dFNVbXhKVVIzb3BReWRLVmJBbHM0VXJJbXlBcjJWNFNFc3k3NDhab0UzX05ZV0xUQTNlMnZrOWtabTdYcWdLM0FLSnZTajd2MHQxXzZRcm1CcFhWTUVQNk10VVhqdzhFdy0zaFNNbG1TSFZ6VW90LTBkR2xpQzlobC1wUlRBZDdKRzFTLUtNR19DempDRFJoSHZkRE0xZDhZaFRvMg?oc=5",
-      "summary": "Stolen cannonballs discovered inside passenger's bag during airport security check ABC News - Breaking News, Latest News and Videos TSA finds Civil War-era cannonballs in checked bag at Alabama airport USA Today Cannonball run! \u2018Indiana Jones-esque\u2019 discovery by TSA at Alabama airport tsa.gov TSA finds stolen cannonballs in checked baggage CNN TSA discovers five Civil War era cannonballs in luggage at Gulf Shores International Airport WKRG",
-      "published": "2026-07-28T17:37:26+00:00",
+      "title": "Scientists discover 210-million-year-old dinosaur in Zimbabwe",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUdVRnl3VTBZb3RtYkJTeGlQSVRTRm5NY2QtNEVhb2w1LXU0Q0stRVBkZWFxQzNvWW5aaGlLclRxaHVRUC1ZelZENW0xUmUyZnJWS3U3RTRybVUyQTcxeVRZdUZ1TERrRVFWYzkzUWpYd2gyUDdQelh3U1cyaWMxZUtn?oc=5",
+      "summary": "Scientists discover 210-million-year-old dinosaur in Zimbabwe Phys.org Musango : The new Zimbabwean dinosaur discovered from a boat Natural History Museum 210-Million-Year-Old Dinosaur Discovered In Zimbabwe 2oceansvibe News Newly Discovered Dinosaur From Zimbabwe Could Change What We Know About Ancient Southern African Ecosystems Discover Magazine Musango matusadonaensis: 210-million-year-old dinosaur challenges what scientists knew about ancient Afric The Economic Times",
+      "published": "2026-07-29T08:30:59+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "CNN",
-        "USA Today",
-        "WKRG",
-        "tsa.gov"
+        "2oceansvibe News",
+        "Discover Magazine",
+        "Natural History Museum",
+        "Phys.org",
+        "The Economic Times"
       ],
       "feeds": [
-        "google-nation"
+        "google-science",
+        "google-top"
       ],
-      "reach": 54.8,
+      "reach": 64.8,
       "angle": 16.0,
-      "rank": 8.8,
+      "rank": 10.4,
       "signals": {
         "frontier": [
-          "discovered",
-          "discovery"
+          "ancient",
+          "discovered"
         ]
       },
       "verdict": "clear",
@@ -277,26 +224,55 @@
       ]
     },
     {
-      "title": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHRVMHNScnIxclFJS0wzcHZIclA5TkRXemJ0NFlVZy1BbHZYQ1lxRHhhamFaOTZMRlY2TGROYkVnRmJDUHo1b3ppa2YxaXVaNEtlLVpNMm5YYkdCX3hwWGpUWHVrbkRHNThtWE9JdjFSRENRcTl0QWk2RWhfTk1UMG42dlNjNkctcUxTcGswRHNOUQ?oc=5",
-      "summary": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019 CNN Fossil footprints reveal body size and group dynamics of 1.4-million-year-old human relative Phys.org Toothy human ancestor may have traveled in all-male packs Popular Science Ancient Footprints in Kenya Hint at Bigger Bodies and Group Behavior among Early Human Relatives Sci.News Ancient Fossil Footsteps Found in Kenya May Hint That an Early Human Relative Was Larger Than Previously Thought Smithsonian Magazine",
-      "published": "2026-07-28T15:39:30+00:00",
+      "title": "Mosquitoes are evolving to survive common backyard sprays",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTNxVGMwLUxoU2IwQWVOdGVCYmt1OS1yQVlWbG1zakI0bkhORlVyYmpNQmxQd1FQNXE2eDlxNWdOYUliVVBoVGM4LUkyUk5kVko1cnJPTGdYQ1V0UTZvNXZ1ZW5ic1Q5Y0VCNDBhd3diS05OclI5NGp4dzh0eXBoa0twSDRRTFNxdjlYSnBXeWdKWW9mQlE0ZHRkS2hMNDR6UHdabWRBUlRiQXNhMHIw?oc=5",
+      "summary": "Mosquitoes are evolving to survive common backyard sprays WRAL Mosquitoes are rapidly activating enzymes against common insecticide, researchers warn Phys.org Backyard Mosquito Sprays May Be Helping These Blood-Sucking Parasites Evolve, Making Them Resistant to Insecticide The Debrief Detox Enzymes Help Mosquitoes Resist Insecticides the-scientist.com Mosquitoes\u2019 most powerful weapon in fighting insecticide has been discovered Frontiers",
+      "published": "2026-07-28T22:11:34+00:00",
       "outlets": [
-        "CNN",
+        "Frontiers",
         "Phys.org",
-        "Popular Science",
-        "Sci.News",
-        "Smithsonian Magazine"
+        "The Debrief",
+        "WRAL",
+        "the-scientist.com"
       ],
       "feeds": [
-        "google-science"
+        "google-health"
       ],
       "reach": 54.8,
       "angle": 16.0,
       "rank": 8.8,
       "signals": {
         "frontier": [
-          "ancient"
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "South Korean team discovers how facial massage flushes dementia-causing waste",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlRpS2pMVnhoaG9JZWZfbkIyckYzaGprbUNjdE5YS2pOMEZFdU9MVXFrNFVlRWI0eE1ENWxuc0Zkdjh0Sk5NT0h3d2pGRXZxN2NITE10amlLUXpZbmozTnhQZnZBT2xNaTVXZVQ2NGxranNWa3dBcXRTQURScGNGV2g2bkhfOGhYOUVkc2xLYkNsX3JmWWpwcDRDM3NWZmlpMGg3bzJKR2lCN1ZLVVdBWU94OFJXUzNJYnQzRGtLdWpyZ0RudktCdUwwTVk0aG54T1RDStIB1AFBVV95cUxQaHhCZi1SajJOcE9TT2xxQS1vWkkwYUNMUTByMzI5YV9YSEdlMzEyaVFKNnFyUW41T3p1NjU5ejkzdjQ4U1cwSS02QlpXT3p2aU4tOW1qX2tPcURDTFVzaUY5eHREWkhuMGE4VmpzTkwzTHg2Z0ZybHlMb3RzcFg2MGY0SFdSR1ZPY3NJYlhlUjQ2cWlXdGZmRlJhYk9tR3M3NnMzTDBCdG1DX0ZtQTZZVzg1aUdRX202Yk0ySWhhYmY4NW1Hd0lmSE81a0lXSE53MUhBcQ?oc=5",
+      "summary": "South Korean team discovers how facial massage flushes dementia-causing waste South China Morning Post Impaired functioning of the brain's clearance system could be involved in various neurodegenerative diseases Medical Xpress Brain Waste Clearance Pathway Identified Through Arachnoid Openings Technology Networks Scientists Discovered a Hidden Lymphatic Network That Could Fundamentally Change Brain Disease Treatment Medical Daily Bypassing the Blood-Brain Barrier: A Dual-Axis Framework for Alzheimer's Disease Utilizing Glymphatic-Lymphatic Clearance and In Situ Chaperone Synthesis Cureus",
+      "published": "2026-07-29T00:00:16+00:00",
+      "outlets": [
+        "Cureus",
+        "Medical Daily",
+        "Medical Xpress",
+        "South China Morning Post",
+        "Technology Networks"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "discovered"
         ]
       },
       "verdict": "clear",
@@ -353,35 +329,6 @@
       "policy_reasons": [],
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "10 unaccounted for at quake-hit Kumamoto Pref. shopping mall after blast",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zNEl3WkhraFE2alFlZi1CZ2JSamZkWTJ4aktGaTlweXROUHBxMGM5NjVUVkE2bGJPTXNTUGRFdVg0MzhHellmVUVNay1oRlZyUzliYzdWdUJzdw?oc=5",
-      "summary": "20 to 30 employees unaccounted for after explosion at quake-hit Kumamoto mall in SW Japan Global Times",
-      "published": "2026-07-29T09:15:00+00:00",
-      "outlets": [
-        "Az\u0259rtac",
-        "Global Times",
-        "Japan Wire by Kyodo News",
-        "The Japan News",
-        "bernama"
-      ],
-      "feeds": [
-        "angle:unaccounted for"
-      ],
-      "reach": 58.8,
-      "angle": 14.0,
-      "rank": 8.2,
-      "signals": {
-        "disappearance": [
-          "unaccounted for"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Someone or something is gone. Absence is the strongest open ending there is."
       ]
     },
     {
@@ -512,33 +459,6 @@
       ]
     },
     {
-      "title": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2JYcC1QT05Ud0hFZDBmZ3I5aFJmTFBLVmRrbWp3NmFzQmUzUnhpTDQwV09CMHd5bXZSdlJCTVl5bEQxakozTk81d0pIeDlibHpkV3A3T0FHWm91dW1BT2ZVQUQtM0xYMXNyRjlHRlYzek4ySnB6Sy05Z0gyRjBYcHY0MTEyN0dKU21DbVpWWXFJYnRhbVVoSlNOVVlMOTFxcl9NR3N6Y1ltMkRXSHpvVm1hZFA?oc=5",
-      "summary": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit 5 EYEWITNESS NEWS",
-      "published": "2026-07-29T07:38:11+00:00",
-      "outlets": [
-        "5 EYEWITNESS NEWS"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 26.0,
-      "angle": 28.0,
-      "rank": 7.3,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
       "title": "Super Investors Urge Stronger Corporate Whistleblower Rules",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmFaM2ZLYkw5d2NYM0ktaHV6TjdkSVNkVHNscU5EQ1pjVTVaWW1Dd1JlQ3dyOElKbWY1YWlnRUVWMktjYWdXdTJ0bUhZTXBhYjhYOVRiVVJteElEVGwwOHFPdEpENzdGVXN1a0RUald0T2xPcnJmdTlDLTUteWVFVlR5aHZKb3dOdEZqY01LMjdpcGF5dDFtRDltaWY0dzQ4QnfSAVhBVV95cUxNbjRwV3hYTEdJRThJUGxLQ2I3US1oNjRHU29abXdHZU9vRWpocVNsa3pRVVJCVnlxQkhDNUpBWFRpTjEtYjlYOFRmVC12VGFvcWhlNmpGekZ0?oc=5",
       "summary": "Super Investors Urge Stronger Corporate Whistleblower Rules Law360",
@@ -591,6 +511,33 @@
       ]
     },
     {
+      "title": "Tesla Faces Whistleblower Lawsuit Over Alleged FSD Safety Concerns",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mRDhOWlpxOWMzNU1NXzhiQ0VycV96WW1iNkdxVmRkMmFCM19IenA5UlJOd2JzZGp2d2hrdXVIdV9nV3FnN2tIZzZES19qYkhlSHl0T0ZrUXBLbzVIR0VsVjR4SjRCVDlEeVYwOVJmY3p3N3YzV2E4aVRCY1UzUQ?oc=5",
+      "summary": "Tesla Faces Whistleblower Lawsuit Over Alleged FSD Safety Concerns driveteslacanada.ca",
+      "published": "2026-07-29T12:29:00+00:00",
+      "outlets": [
+        "driveteslacanada.ca"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
       "title": "FAAA calls for third-party whistleblower protections",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREJ3bUwtdEsxV1NGaXJDN2lpQlRfYWk1TEE3QUJqRzZnZS1WYm1RenhxeHppTGoxdE1wWXBTdmRPWWwwam9iXzItQVpIckxGWVAwR2xNMXBQa2s0ZWtVcUdwcDc2ODdVUjVkWkJNUUhCQVYtX1BLNld3RE9EVjJtVmUzRFRJamZ0ZDEwakYwLUpzUmhLckp2cGN0U2lDTXJ6X1E?oc=5",
       "summary": "FAAA calls for third-party whistleblower protections Professional Planner",
@@ -616,31 +563,56 @@
       ]
     },
     {
-      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yWDc2NllxWEF0aGYtUDJ0N0JuTnVQSzFQRUdORlBaMFV6d081SjZ4MlZiTEw5UnNtT1Iwa3pSdVR5RG5OQ3F0Q3lURVgzM2RfSW5BNEp6aXdlRU5ReEFzejNqbUcwRHAxYXluTVpRSQ?oc=5",
-      "summary": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers ScienceDaily A 480,000-Year-Old Elephant Bone Hammer Sharpened Stone Axes in Ancient Britain ZME Science British scientists found out what a 500,000-year-old ivory tool was used for \u041d\u0430\u0448\u0430 \u041d\u0456\u0432\u0430 500,000-Year-Old Elephant Bone Tool Found in England Is Europe\u2019s Oldest GreekReporter.com",
-      "published": "2026-07-27T12:38:07+00:00",
+      "title": "Civil service chief seeks \u2018reassurance\u2019 over whistleblower claims of \u2018unfair promotions\u2019 in Department of Education",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdGc2Tl9kRXlSVk84Ty1mNTNZYlVDMGU4OUtuZTAyWlp3SVZzS1JWR0VwcGVXeFF1Y1g4QUhFUVJiMFRNNEpWZXdoY1Y3WEVPdjFXSTRhUE52Q3A5bjIzU0NKY1JjeEEyeWprajZYM0FPSGJJZ1FlUjkwZ0ZjUnpLckJ2ekdxSnFSbnAyWXhMWkt4QWxGMjd6b1ZuQk9PbDcxRmVSTnJpaXJvTHd2S3VrZ0Q2SU85ZFU2MVk3YXhPa3VtQmhNRGRVWVpTODYxc1RmTFJrSkVBMjJwb3pkY09nYWJmOHlSUE1id2M0M0JLbFlaeWdxUEl6dmdkalREckExcXZZUTB4NnEzS2dWSzFZX3ZzYw?oc=5",
+      "summary": "Civil service chief seeks \u2018reassurance\u2019 over whistleblower claims of \u2018unfair promotions\u2019 in Department of Education Belfast Telegraph",
+      "published": "2026-07-29T06:57:00+00:00",
       "outlets": [
-        "GreekReporter.com",
-        "ScienceDaily",
-        "ZME Science",
-        "\u041d\u0430\u0448\u0430 \u041d\u0456\u0432\u0430"
+        "Belfast Telegraph"
       ],
       "feeds": [
-        "google-science"
+        "angle:whistleblower"
       ],
-      "reach": 43.6,
-      "angle": 16.0,
-      "rank": 7.0,
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
       "signals": {
-        "frontier": [
-          "ancient"
+        "secrecy": [
+          "whistleblower"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "10 unaccounted for at quake-hit Kumamoto Pref. shopping mall after blast",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zNEl3WkhraFE2alFlZi1CZ2JSamZkWTJ4aktGaTlweXROUHBxMGM5NjVUVkE2bGJPTXNTUGRFdVg0MzhHellmVUVNay1oRlZyUzliYzdWdUJzdw?oc=5",
+      "summary": "20 to 30 employees unaccounted for after explosion at quake-hit Kumamoto mall in SW Japan Global Times",
+      "published": "2026-07-29T09:15:00+00:00",
+      "outlets": [
+        "Az\u0259rtac",
+        "Global Times",
+        "Japan Wire by Kyodo News",
+        "The Japan News"
+      ],
+      "feeds": [
+        "angle:unaccounted for"
+      ],
+      "reach": 51.6,
+      "angle": 14.0,
+      "rank": 7.2,
+      "signals": {
+        "disappearance": [
+          "unaccounted for"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Someone or something is gone. Absence is the strongest open ending there is."
       ]
     },
     {
@@ -650,6 +622,33 @@
       "published": "2026-07-28T18:43:59+00:00",
       "outlets": [
         "Fox News"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 22.0,
+      "angle": 28.0,
+      "rank": 6.2,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2JYcC1QT05Ud0hFZDBmZ3I5aFJmTFBLVmRrbWp3NmFzQmUzUnhpTDQwV09CMHd5bXZSdlJCTVl5bEQxakozTk81d0pIeDlibHpkV3A3T0FHWm91dW1BT2ZVQUQtM0xYMXNyRjlHRlYzek4ySnB6Sy05Z0gyRjBYcHY0MTEyN0dKU21DbVpWWXFJYnRhbVVoSlNOVVlMOTFxcl9NR3N6Y1ltMkRXSHpvVm1hZFA?oc=5",
+      "summary": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit 5 EYEWITNESS NEWS",
+      "published": "2026-07-28T20:57:05+00:00",
+      "outlets": [
+        "5 EYEWITNESS NEWS"
       ],
       "feeds": [
         "angle:whistleblower"
@@ -698,21 +697,21 @@
   ],
   "blocked": [
     {
-      "title": "Teenage school shooter in Georgia is sentenced to life without parole",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXpBWlVSUGxZWnV3cDY2MDlnLVc3a1k0VlEyTU12ZVZGZUl0SW5GNEh2cDltOW1tT2FSTUZncEhHWGRVaDR2Ymk1X2dBQmNaMGtHcTlXTkdMWmxFS3o5Wm5mbGtPQjlDR3BLc3dEY3cwa2hiWWtsRGFlVThadEFPMkp2eWVyRTlvd29kQnZtaUFRN2pEUzNxTHpZaVlVNVJQaHBpSDN5R3NNM0lmYkJZMlZLSQ?oc=5",
-      "summary": "Teenage school shooter in Georgia is sentenced to life without parole The Washington Post Georgia Teen Is Sentenced to Life for Deadly School Shooting The New York Times Prosecutors: Georgia school shooter tracked online fame with mother after deadly attack KOMO Why was Colt Gray sentenced to life without parole? FOX 5 Atlanta Teen pleads guilty to murder in a 2024 shooting that left 4 dead at Georgia's Apalachee High School AP News",
-      "published": "2026-07-29T05:54:10+00:00",
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2w0eEVCZzdQcnlLRHpMa1hNMVN2NlZ3d1QzT1pDNXg1aE40VEtsWEZEbVRiZUwyQ2Z0NG4xTXhOcFBOQWRRM1VIMUFUTFkzLWotQ2RSZ2paZw?oc=5",
+      "summary": "Oscar-winning songwriter Glen Hansard killed in crash BBC Glen Hansard, Frontman of Irish Band the Frames, Dies at 56 The New York Times Glen Hansard, Oscar-winning Irish singer-songwriter, dies aged 56 in motorcycle crash The Guardian Oscar-winning Irish musician Glen Hansard dies in motorcycle crash Reuters Oscar-winning singer Glen Hansard dead at 56 Fox News",
+      "published": "2026-07-29T14:26:56+00:00",
       "outlets": [
-        "AP News",
-        "FOX 5 Atlanta",
-        "KOMO",
+        "BBC",
+        "Fox News",
+        "Reuters",
+        "The Guardian",
         "The New York Times",
-        "The Washington Post",
-        "reddit-news"
+        "bbc-world"
       ],
       "feeds": [
-        "google-nation",
-        "reddit-news"
+        "bbc-world",
+        "google-top"
       ],
       "reach": 71.7,
       "angle": 0.0,
@@ -725,21 +724,21 @@
       "prompts": []
     },
     {
-      "title": "Dinosaurs were roasted to death by asteroid dust cloud",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzloTUFMQTUtcUxhTGllRGVCczBQY0Y3N3ZFQWVjUDl5alZWUXFUREplYlRLOUl6UHp5aHhybGFjbTlNa0ExdEV0NWw5RVZSQzNoM1J1V29hRk05SnJnUlVIOU9XaUpwc29WWE0yaHZhN2xOX1lwemdubVJkamRMVGJiMW1fZFVlMnBaSnR4bTY4dw?oc=5",
-      "summary": "Dinosaurs were roasted to death by asteroid dust cloud The Telegraph Dinosaur-killing asteroid also created a dust cloud that insulated Earth, \u2018charbroiling\u2019 Cretaceous creatures Purdue University Asteroid strike caused global firestorm that incinerated the dinosaurs New Scientist Chicxulub's lingering dust may have turned falling debris into a global firestorm Phys.org How to Budget With Irregular Income: Real Stories Community Newspaper Group",
-      "published": "2026-07-28T15:52:00+00:00",
+      "title": "Apalachee High School shooter, 16, sentenced to life without parole",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ3VJUW1sZlBPTTdsUWZmSmxrWVJvTGhOd0tiTjBMc25pNExkQzBzZnI5TmJ4eUdBamlPZU1qZzEwYlVxVU9EVmRtM2dfRUwtZ1kzNnA4VE9HWkY4cFZyTWs3d3d5TXJmYThDYktSem81NmFZUFdYMVQyd1U2cmtTSm1HdnktRm81ajhPN3VVUTBjV1d4a29aVm5kT256N0E?oc=5",
+      "summary": "Apalachee High School shooter, 16, sentenced to life without parole Georgia Public Broadcasting Georgia Teen Is Sentenced to Life for Deadly School Shooting The New York Times Why was Colt Gray sentenced to life without parole? FOX 5 Atlanta Teen pleads guilty to murder in a 2024 shooting that left 4 dead at Georgia's Apalachee High School AP News Jail calls with mom, comments reveling in school shooter notoriety played at Colt Gray sentencing hearing; grandmother testifies he's changed 11Alive.com",
+      "published": "2026-07-28T20:35:00+00:00",
       "outlets": [
-        "Ars Technica",
-        "Community Newspaper Group",
-        "New Scientist",
-        "Phys.org",
-        "Purdue University",
-        "The Telegraph"
+        "11Alive.com",
+        "AP News",
+        "FOX 5 Atlanta",
+        "Georgia Public Broadcasting",
+        "The New York Times",
+        "reddit-news"
       ],
       "feeds": [
-        "google-science",
-        "google-top"
+        "google-nation",
+        "reddit-news"
       ],
       "reach": 67.7,
       "angle": 0.0,
@@ -752,48 +751,16 @@
       "prompts": []
     },
     {
-      "title": "Live updates: US and Iranian forces resume attacks in Middle East, piercing relative calm",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85bWFLTHpqbzJxT05STTlNTEpnZlVXeUdHZU9DeWhrQWZ2X2NYbVhtNElZS19vX3ZINncxY09jZFNVSDdrUlhVb2paVFpFSi1DZHJuOGwtalFqUkpiX0tWSGstc1J2R2k0Q1M0U1A0WQ?oc=5",
-      "summary": "Live updates: US and Iranian forces resume attacks in Middle East, piercing relative calm CNN Saudi Arabia joins U.S. military strikes on Iranian proxies The Washington Post US joins forces with Saudis to strike Tehran-backed militias in Iraq The Guardian Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan Al Jazeera Meeting between Iraqi PM, Saudi crown prince called off after strikes The Times of Israel",
-      "published": "2026-07-29T11:31:00+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "The Guardian",
-        "The Times of Israel",
-        "The Washington Post"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 64.8,
-      "angle": 18.0,
-      "rank": 11.7,
-      "signals": {
-        "institutional": [
-          "military"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
       "title": "Florida executes 2 men Tuesday, a 1st in modern death penalty history",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEJ6SEs4MWtwd2VnNWIyQ1lPaGdubTdlMU9qaVhPTW56emw3aE85WTJwUDduNVVCek1Id1RyZTQ4VElmT28wU0xwNEtJckFhdURaVUh2WHBITFRQNWREQ3VjUS03bE9SemJJcGdHb0VsN3JFQlFnYVdIaFpJaXlVN1VsYlhfNnRPZHBWSW9hWm9vTUU4UXhQcF9kUQ?oc=5",
-      "summary": "Florida executes 2 men Tuesday, a 1st in modern death penalty history Tampa Bay Times Florida carries out 1st double execution in more than 6 decades USA Today Former Lake cop, James Duckett, executed for rape, drowning of 11-year-old Orlando Sentinel Florida puts ex-Lake police officer to death in connection with girl\u2019s murder Spectrum News 13 Florida executes state\u2019s oldest death row inmate as debate over age grows WCJB",
-      "published": "2026-07-29T10:53:06+00:00",
+      "summary": "Florida executes 2 men Tuesday, a 1st in modern death penalty history Tampa Bay Times Florida carries out 1st double execution in more than 6 decades USA Today Former Lake cop, James Duckett, executed for rape, drowning of 11-year-old Orlando Sentinel Florida puts ex-Lake police officer to death in connection with girl\u2019s murder Spectrum News 13 Recap: Florida puts to death 2 inmates in one day in rare double execution Tallahassee Democrat",
+      "published": "2026-07-29T14:18:57+00:00",
       "outlets": [
         "Orlando Sentinel",
         "Spectrum News 13",
+        "Tallahassee Democrat",
         "Tampa Bay Times",
-        "USA Today",
-        "WCJB"
+        "USA Today"
       ],
       "feeds": [
         "google-nation",
@@ -810,77 +777,19 @@
       "prompts": []
     },
     {
-      "title": "A 2:47 a.m. alert, a rabbit and 220,000 evacuees as France\u2019s wildfire rages on",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlJjYm5tbThLTXYxMHcwbXpaU3BMVlJfbVB6bWU0dlpmQ2J1TGI4VGF3Sm5zLVhKQjJXelFLWXRnT01Cd3Y1SmIxVzJ1VE1tMDZvUFhEOUs1UVdELWlrUU1Ea2RjVFZoLU82cWtTQWtXX1NUM0lsUzdtS1ZVTW9ZdTV3REdqUHVsU0VHSmw3NUpUYWhrSGRJcXVxNU5SY0tpOExBUmJMR21jUQ?oc=5",
-      "summary": "A 2:47 a.m. alert, a rabbit and 220,000 evacuees as France\u2019s wildfire rages on AP News Wildfires Slow in France and Spain, but Worse May Be Ahead The New York Times France braces for huge fires to spread as temperatures top 100F NBC News France has seen its first 'fire-cloud'. What is it? Reuters Thousands return home in Spain but new heatwave raises wildfire fears BBC",
-      "published": "2026-07-29T04:29:00+00:00",
+      "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVNENrWFlmNTR4Q0dRV19XR1dFa0pCWTNhTTJaOXFRaVRMS1RkYkVPUU1TNWk5SDEtV2hDbVFPZzM3dHJzalV0M0syTldQZldHVWVPY2N1WV9fU2dlRnlkTUU5Y3p1N3p4UWdz?oc=5",
+      "summary": "France evacuates thousands as fires displace a third of a million in southwest Europe NPR The Fires in France and Spain are Breaking Modern Records: Charts and Maps The New York Times Thousands in Spain return home but new heatwave raises wildfire fears BBC Live updates: Fire crews in France and Spain face extreme temperatures as they battle massive blazes AP News Tracking the wildfires in Europe, in maps and charts CNN",
+      "published": "2026-07-29T07:22:44+00:00",
       "outlets": [
         "AP News",
         "BBC",
-        "NBC News",
-        "Reuters",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Private mission to rescue NASA\u2019s aging telescope runs into its own trouble",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHJESllXdS03LVN4ZkFHd1VBc0F6V09uNExKVUwzV19NZmRDYWxKSHFtaGFDenFIVERwZ0RSNFNQWWZLTW5BZVlmRUJDVEhmOVRIbk0wdE40My1NamZqOURXMU91aGFzYmVmZ0lPbU1DUzBnX0ZTa0w3MURCSnZHVl83WE9LMU93c3dhVGpSU21GVGt3dkMxWllUUEc?oc=5",
-      "summary": "Private mission to rescue NASA\u2019s aging telescope runs into its own trouble AP News Reaction wheel failures leave Swift rescue mission spinning in orbit Ars Technica Commissioning Update for Spacecraft to Boost NASA\u2019s Swift NASA Science (.gov) Swift reboost mission encounters attitude control problems SpaceNews Powerful tornado leaves widespread damage in Wisconsin but time of day may have saved lives couriernews.com",
-      "published": "2026-07-28T21:33:00+00:00",
-      "outlets": [
-        "AP News",
-        "Ars Technica",
-        "NASA Science (.gov)",
-        "SpaceNews",
-        "couriernews.com"
-      ],
-      "feeds": [
-        "google-science",
-        "google-top"
-      ],
-      "reach": 60.8,
-      "angle": 18.0,
-      "rank": 10.9,
-      "signals": {
-        "institutional": [
-          "nasa"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
-      "title": "Photos: Donald Trump and world leaders attend Lindsey Graham\u2019s funeral",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVlGckVWckcyeUVRenpkalQ1MGcybWtpdjhKSUdWRllxMWRDVlJzemN4UW1yS3pRMHp5YkMwSDhMLUZaODEwNEdDWHoxM3FwUEZsVkc2VGFRUDE4NktVMWh6TUc5SE91b1dEa3NKQkpuQUtwWW1sR0pMMXVSWjFtV1Y1M0xSQzR6bnRPMUVTNnlON0pXX0VwWjNydXZKUmFHZndFWkw1bEvSAa4BQVVfeXFMUF95cF8tSTRoYTI3eXNXUENOYWNhbTd6SnhPUE9lbDVERldaU1dDcktWX0FNYU1YSUNQaTZldnJENTB4bHlzc2ljaHJYRHhmRlJvekc0dmx4WVZGVi1vdWh6QmlNX1JCWEhra0JkTWRsOURIMGNfand2OENCQ1RJRU5Makt4S0otdWttZTlYYWEwWFBxYWtfV3dUbHNrQ2Rtd0t3SzFRYUFRNDFUTnd3?oc=5",
-      "summary": "Photos: Donald Trump and world leaders attend Lindsey Graham\u2019s funeral Al Jazeera What Lindsey Graham\u2019s funeral revealed about the world under Trump CNN Lindsey Graham eulogized, US and Saudi Arabia launch strikes in Iraq, search for missing after Japan earthquake AP News At Graham\u2019s Farewell, a Glimpse Into Power in Trump\u2019s Washington The New York Times Trump commemorates Graham\u2019s life \u2014 with sunny Netanyahu and Zelenskyy meetings Politico",
-      "published": "2026-07-29T06:00:12+00:00",
-      "outlets": [
-        "AP News",
-        "Al Jazeera",
         "CNN",
-        "Politico",
+        "NPR",
         "The New York Times"
       ],
       "feeds": [
-        "google-nation"
+        "google-top"
       ],
       "reach": 58.8,
       "angle": 0.0,
@@ -888,20 +797,95 @@
       "signals": {},
       "verdict": "block",
       "policy_reasons": [
-        "a live missing-person case \u2014 a private individual, never speculate about one"
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
       ],
       "prompts": []
     },
     {
-      "title": "Life-threatening flash flood threat shifts into New England as heavy rain swamps parts of Northeast",
+      "title": "Live: People urged to stay off roads \u2018unless fleeing an area subject to flooding\u2019",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnJDUzFnVWlTRGRPbEhzRmxqeWlLWEl3bF9XWnRJZDdhOWFpTjBEOWVTaWcwVmxhYUVVUUM2TURXbkRvcTN4X19oMHI4Qm1GdFM3ZjBLUUQtQ0ItZXFKM0JkaXJzTDJSdFl5WWxQTWFUakQxc3B2eE1UZFRPZWJYQTFxV3BlbWZMRHBEaWM3TVU4Y2xkYUlQa0ZjcUJxdw?oc=5",
+      "summary": "Live: People urged to stay off roads \u2018unless fleeing an area subject to flooding\u2019 Times Union Flood warnings issued for eastern New York as life-threatening flash flood threat shifts toward New England CNN Flood threat eases for most of Tri-State, parts under flood watch | Live Updates ABC7 New York Tracking NY, NJ rain, floods: Timing and areas to be hardest hit PIX11 Weather updates: Heavy rain, thunderstorms and possible flooding across LI Newsday",
+      "published": "2026-07-29T12:17:52+00:00",
+      "outlets": [
+        "ABC7 New York",
+        "CNN",
+        "Newsday",
+        "PIX11",
+        "Times Union"
+      ],
+      "feeds": [
+        "google-top"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "\u2018The fire has such power\u2019: why the wildfires gripping France and Spain are off the charts",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0NnbF9xVnp4dE1udFdIRmZ3T3FsWWFPeTFjQ2NKcGZfNEJLLVdWRi0wYWRjUXUyLWJHUFE4RC0yUkx2aGUwTHlNZmVuUmdHTklCeXhZaEkxaTBtQ0lwbldnRlRDRHdOczZoLWh2d1BrNjZYWC1tc254UmtmNmlXVGZjVTEwaEdtZHRQQTVpbml2VFlfb3VNdDhTYnNhUkJNY3NiVktZb2pwNHYyNy16UWkyd0J3Q1BVb2ZsWGVB?oc=5",
+      "summary": "\u2018The fire has such power\u2019: why the wildfires gripping France and Spain are off the charts The Conversation The Fires in France and Spain are Breaking Modern Records: Charts and Maps The New York Times 'There's nothing left': French wildfire survivors return to burnt homes Reuters France battles wildfire 4 times the size of Paris as soaring heat threatens new surge ABC News - Breaking News, Latest News and Videos Live updates: Spain and France wildfires stabilize but risks remain with temperatures set to spike above 100 degrees CNN",
+      "published": "2026-07-29T04:28:40+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
+        "Reuters",
+        "The Conversation",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjZZaTNncGdxWUZzM0xkdnRYQkw1MVZtOUhWMVJaQ0NTNExxZ21kcGhZYkFUYmFyeXZWM2VVa1JycTNaR0RIZVp6dERQMThEV0kySU9VVURjWGdubUg2ODBDVkxraFpmeWtFdEhhYnFRdFI2MVBNS3Z3UHpkWTdkM1J0QkZjSVBwTFZWXzJsbHctZGFuZlg4RWk1dWNTWUlzTDBURGJPTVBxMm8?oc=5",
+      "summary": "Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump AP News Ukraine Says It Hit Major Rosneft Refinery in Russia\u2019s Ryazan Bloomberg At Least 3 Dead in Russia and Crimea After Ukraine Strikes Industrial Sites The Moscow Times General Staff: Ukrainian forces strike Ryazan refinery and Russian Black Sea Fleet boat base \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430 Ukraine intensifies deep strikes on Russian energy infrastructure Euronews.com",
+      "published": "2026-07-29T12:07:00+00:00",
+      "outlets": [
+        "AP News",
+        "Bloomberg",
+        "Euronews.com",
+        "The Moscow Times",
+        "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Flood warnings issued for eastern New York as life-threatening flash flood threat shifts toward New England",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1I2d3JvUnFCb3VnR1dDajdiZWo0bmRIYXUtbUs5emswR0tCRmF3Y3Z0NDZkWkRMQllaTV9HNzNaTmJFc2FvWWk2RmUxNUdNWERITldTQkkyZzJQbHZCbzVlWjRHOVZMdFN6M1cxakg0TTBhT1haNWFwQm5Wa1RxYWtTbGxha1NUMnl0aWhR?oc=5",
-      "summary": "Life-threatening flash flood threat shifts into New England as heavy rain swamps parts of Northeast CNN Flood threat lingers in New York, Long Island after storms hit DC, Philly and New Jersey FOX 5 New York Morning downpours north and east of New York City | Live Updates ABC7 New York What to expect as storms continue: See hour-by-hour weather radar projections near you NBC New York Heavy rain Wednesday expected to cause flash flooding, tricky morning commute WRGB",
+      "summary": "Flood warnings issued for eastern New York as life-threatening flash flood threat shifts toward New England CNN Flood threat eases for most of Tri-State, parts under flood watch | Live Updates ABC7 New York Tracking NY, NJ rain, floods: Timing and areas to be hardest hit PIX11 Weather updates: Heavy rain, thunderstorms and possible flooding across LI Newsday Flooding in wider Capital Region clogs up traffic Wednesday morning WRGB",
       "published": "2026-07-29T06:37:24+00:00",
       "outlets": [
         "ABC7 New York",
         "CNN",
-        "FOX 5 New York",
-        "NBC New York",
+        "Newsday",
+        "PIX11",
         "WRGB"
       ],
       "feeds": [
@@ -918,16 +902,41 @@
       "prompts": []
     },
     {
-      "title": "As extreme heat grips the South and West, here's how to stay safe",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50UUNrVXBGSGZ1el9RajB3MEktbW1YTnBaQU5zbGpmV0ZacEhrV0pNT043Q0UxeHZ5cW9kWnhrNUNpeGEydHllemxUTnB4ZUtJOXR1NW9rZGd1Q1BseFQ1d25hWnd6WTZVcHo2RGRyZG9tSXpoUGhwTw?oc=5",
-      "summary": "As extreme heat grips the South and West, here's how to stay safe NPR \u2018Extraordinarily hot\u2019: US heatwave stretches on with millions still under warnings The Guardian Sizzling US temperatures put more than 100 million people under heat alerts ABC News - Breaking News, Latest News and Videos How to Stay Safe During High Heat Energized by Edison Heat dome and wildfire smoke to blanket much of US. See map USA Today",
-      "published": "2026-07-29T09:00:00+00:00",
+      "title": "Photos: Donald Trump and world leaders attend Lindsey Graham\u2019s funeral",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVlGckVWckcyeUVRenpkalQ1MGcybWtpdjhKSUdWRllxMWRDVlJzemN4UW1yS3pRMHp5YkMwSDhMLUZaODEwNEdDWHoxM3FwUEZsVkc2VGFRUDE4NktVMWh6TUc5SE91b1dEa3NKQkpuQUtwWW1sR0pMMXVSWjFtV1Y1M0xSQzR6bnRPMUVTNnlON0pXX0VwWjNydXZKUmFHZndFWkw1bEvSAa4BQVVfeXFMUF95cF8tSTRoYTI3eXNXUENOYWNhbTd6SnhPUE9lbDVERldaU1dDcktWX0FNYU1YSUNQaTZldnJENTB4bHlzc2ljaHJYRHhmRlJvekc0dmx4WVZGVi1vdWh6QmlNX1JCWEhra0JkTWRsOURIMGNfand2OENCQ1RJRU5Makt4S0otdWttZTlYYWEwWFBxYWtfV3dUbHNrQ2Rtd0t3SzFRYUFRNDFUTnd3?oc=5",
+      "summary": "Photos: Donald Trump and world leaders attend Lindsey Graham\u2019s funeral Al Jazeera \ud83d\udd34LIVE: Sen. Lindsey Graham honored with memorial service in South Carolina WIS News 10 Lindsey Graham eulogized, US and Saudi Arabia launch strikes in Iraq, search for missing after Japan earthquake AP News Netanyahu and Zelenskyy meet Trump at the White House as Washington honors Lindsey Graham Fortune Inside Lindsey Graham's funeral service in his home state USA Today",
+      "published": "2026-07-29T06:00:12+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "Energized by Edison",
-        "NPR",
-        "The Guardian",
-        "USA Today"
+        "AP News",
+        "Al Jazeera",
+        "Fortune",
+        "USA Today",
+        "WIS News 10"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a live missing-person case \u2014 a private individual, never speculate about one"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "A Mom Is on Trial for Killing Her Three Children. That Could Have Been Me.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzRuZjdVSEJkS3QxM3ZSUndLbjViU1RCSlpRWkZyVzlLcUJtbnNOYmx1UjNvcnh6VF9JNVhfWUxjb25KQllITHFEY2xwVmh4eXV4ZFJiX0F6cmJPTDdNOXB2NUUycVlSTDFZSWgxOEVSNnV2bm5RVlFvNVJJQkJ6dVlSbHR5SE04OW9xMWtVY3BxLWxkcWg0c3VWSmFvZw?oc=5",
+      "summary": "A Mom Is on Trial for Killing Her Three Children. That Could Have Been Me. Slate Patrick Clancy\u2019s anguished 911 call plays in court during ex-wife\u2019s murder trial. Follow live updates. The Boston Globe Live updates: Lindsay Clancy murder trial continues with her ex-husband\u2019s testimony CNN Lindsay Clancy murder trial: See the evidence from court Court TV Lindsay Clancy's former husband set to resume testifying today NBC Boston",
+      "published": "2026-07-29T09:40:00+00:00",
+      "outlets": [
+        "CNN",
+        "Court TV",
+        "NBC Boston",
+        "Slate",
+        "The Boston Globe"
       ],
       "feeds": [
         "google-nation"
@@ -945,14 +954,14 @@
     {
       "title": "Pentagon, under Trump, Hegseth, draws curtain tighter around Iran War",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekREUVVKdFppSVVIeXJicl9yT3hjenBpV0kxSTQwUW1paEhvNkVDUm0tU2Q0cGtabkRrNlRjbVAyZW90TDhqUE43eGJ1VnpFeEp4bUFTVlUzX0s2UUdMdmxyNmxjZUxNLU5qdU9HX1UyU3dUU3ZpbnJzd1VUUHgzZkhfaVJJbE5xY0N3?oc=5",
-      "summary": "Pentagon, under Trump, Hegseth, draws curtain tighter around Iran War The Hill Pentagon ties new casualty category for renewed US-Iran fighting to the end of 'Operation Epic Fury' AP News Shrapnel, Broken Bones, and Head Trauma: New Records Show How U.S. Troops Were Wounded in Iran War The War Horse Number of U.S. Troop Deaths Suddenly Appears Lower on Pentagon Website The New York Times The War That Shall Not Be Named The Atlantic",
+      "summary": "Pentagon, under Trump, Hegseth, draws curtain tighter around Iran War The Hill Pentagon ties new casualty category for renewed US-Iran fighting to the end of 'Operation Epic Fury' AP News Shrapnel, broken bones and head trauma: New records show how US troops were wounded in Iran war Military Times Number of U.S. Troop Deaths Suddenly Appears Lower on Pentagon Website The New York Times The War That Shall Not Be Named The Atlantic",
       "published": "2026-07-29T10:00:00+00:00",
       "outlets": [
         "AP News",
+        "Military Times",
         "The Atlantic",
         "The Hill",
-        "The New York Times",
-        "The War Horse"
+        "The New York Times"
       ],
       "feeds": [
         "google-nation"
@@ -962,6 +971,7 @@
       "rank": 10.6,
       "signals": {
         "institutional": [
+          "military",
           "pentagon"
         ]
       },
@@ -974,19 +984,19 @@
       ]
     },
     {
-      "title": "49ers\u2019 Kyle Shanahan takes blame for car crash, says he swerved when phone fell",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2tjdlJSd09LNFUtZHRFUkhLZVRkSU1PRUd3SU5Pci1KdWdtYkdjNVVoZGRPUmVtUzUwU0tmZEM4VVR6WmpSVDZKZk5EcWQyenVXcVh6bS1Ld0lSVEZQMGctQTRudGdDLV9WemktTnlPaEhBREZMY2hGY1BLb1RyVHJfSjZWOUxNS2dicTBlRjlybmVSelgzMkthRHAybE1yVjJJWTFCVW0?oc=5",
-      "summary": "49ers\u2019 Kyle Shanahan takes blame for car crash, says he swerved when phone fell San Francisco Chronicle Kyle Shanahan says car crash was his fault, accident report was wrong ESPN Brandon Aiyuk's social media post mocking Kyle Shanahan's car crash draws backlash and could cost him a job Fox News 49ers' Kyle Shanahan says car crash was his fault, claims it happened as he was reaching for fallen cell phone Yahoo Sports Chris Simms shares some details about Kyle Shanahan\u2019s injuries NBC Sports",
-      "published": "2026-07-28T22:50:19+00:00",
+      "title": "State of Emergency declared after tornado tears through Wisconsin's Fox River Valley",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMzI3X082WDZoazhXZDRVQ1M3NVByY2szc2RsX0RQLXUzQlRBbmtjUlI3eDItNTZ4aTZEMXhDY2ZiT3JPcGhsd29zYnViUXR3Z1pHT3l1RndUc2MzMkJ2T3gzcmIxc1NTTE9RWVByQ0xfUHBrd3Zjc1Zhc21WZzNoN3pMYmM0RU11X1FXQUdiN2YwcFRYZU1pUjd2OWluSmdvdF85SnpZbDdabVBZX1NWOTVnaHY1TF9NbkRoUVNSMUQzOVVlTzZOTU1rcmtSR3pJMVZhek9Ybm0zNUF5RG9J?oc=5",
+      "summary": "State of Emergency declared after tornado tears through Wisconsin's Fox River Valley kare11.com Future unclear for restaurants, bars in Menasha following tornado The Post-Crescent Boys & Girls Club of Neenah offers assistance after Monday's tornado WLUK Businesses, organizations volunteer to help Fox Cities storm recovery efforts WFRV Local 5 Rescuers pick through wreckage after \u2018devastating\u2019 Wisconsin tornado The Guardian",
+      "published": "2026-07-28T11:06:00+00:00",
       "outlets": [
-        "ESPN",
-        "Fox News",
-        "NBC Sports",
-        "San Francisco Chronicle",
-        "Yahoo Sports"
+        "The Guardian",
+        "The Post-Crescent",
+        "WFRV Local 5",
+        "WLUK",
+        "kare11.com"
       ],
       "feeds": [
-        "google-top"
+        "google-nation"
       ],
       "reach": 54.8,
       "angle": 0.0,
@@ -997,37 +1007,6 @@
         "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
       ],
       "prompts": []
-    },
-    {
-      "title": "The deaths of 15 elephants in Kenya\u2019s Amboseli National Park spark investigation",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0cxMHlRazd2ZWpGTFBGZHE3TkhVWkFPS3dSUjdqX3Z2ellScmx5U0h5TDg4MlRoS0E2NnBkdG9CRFhXVjd0U1hnRENsZlUzYXg3eEFNb2RGeXAtdExUeWdWcDM2MlA5MWxXVDVvTDB1YzlELTdFQ3dreWREYzliVUtfZmppQ2xXQ1d1dXhsc3k2bm8?oc=5",
-      "summary": "The deaths of 15 elephants in Kenya\u2019s Amboseli National Park spark investigation AP News Amboseli elephant deaths: Kenya Wildlife Service launches urgent inquiry after 14 carcasses found BBC Kenya investigating unexpected deaths of 15 elephants in national park The Guardian Kenya probes potential toxin after 15 elephants die in Amboseli ecosystem Reuters Mystery of 14 dead Amboseli elephants Daily Nation",
-      "published": "2026-07-28T19:52:00+00:00",
-      "outlets": [
-        "AP News",
-        "BBC",
-        "Daily Nation",
-        "Reuters",
-        "The Guardian"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 54.8,
-      "angle": 34.0,
-      "rank": 18.6,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
     }
   ]
 }
