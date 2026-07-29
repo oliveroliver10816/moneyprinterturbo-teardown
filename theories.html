@@ -98,6 +98,13 @@ details[open] summary::before{content:"▾ "}
 .lever .what{font-size:14.5px;color:var(--dim);margin:0 0 11px}
 .lever .useit{font-size:14.5px;color:var(--dim);margin:0;border-top:1px solid var(--rule-soft);padding-top:11px}
 .lever .useit b{color:var(--ink)}
+.td{width:100%;border-collapse:collapse;font-size:15px}
+.td th{font-family:"JetBrains Mono",monospace;font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;
+color:var(--dimmer);text-align:left;font-weight:400;padding:0 16px 10px 0;border-bottom:1px solid var(--rule);white-space:nowrap}
+.td td{padding:13px 16px 13px 0;border-bottom:1px solid var(--rule-soft);vertical-align:top;color:var(--dim)}
+.td .pass{color:var(--ink);font-weight:500;white-space:nowrap}
+.td .yield{color:var(--dim)}
+.scroller{overflow-x:auto} .scroller .td{min-width:660px}
 .guard{background:var(--panel2);border:1px solid var(--rule);border-left:3px solid var(--anxiety);
 border-radius:6px;padding:19px 22px;margin-top:22px;color:var(--dim);font-size:15.5px}
 
@@ -113,7 +120,8 @@ footer a{color:var(--dim)}
   <div class="rail-in">
     <span class="mark">FIVE THEORIES</span>
     <a href="#method">Method</a>
-    <a href="#exomoon">01 AWE</a><a href="#nutcracker">02 IDENTITY</a><a href="#markovian">03 UNEASE</a><a href="#hormuz">04 ANXIETY</a><a href="#mosquito">05 PERSONAL THREAT</a>
+    <a href="#teardown">Teardown</a>
+    <a href="#satoshi">00 AWE + STAKE</a><a href="#exomoon">01 AWE</a><a href="#nutcracker">02 IDENTITY</a><a href="#markovian">03 UNEASE</a><a href="#hormuz">04 ANXIETY</a><a href="#mosquito">05 PERSONAL THREAT</a>
     <a href="radar.html">◉ Radar</a>
     <a href="conspiracy.html">Plan</a>
   </div>
@@ -124,7 +132,7 @@ footer a{color:var(--dim)}
     <p class="eyebrow">Built from the radar · <span>29 Jul 2026</span> · five stories · five finished videos</p>
     <h1>Five theories. Five different ways into a human head.</h1>
     <p class="lede">Every one of these is a real story from this week, with the real facts underneath it and the theory marked as a theory. <strong>What differs is the emotion each one is built to trigger</strong> — because that, not the subject, is what decides whether a thing gets passed on.</p>
-    <ul class="legend"><li style="--accent:var(--awe)"><span class="dot"></span><a href="#exomoon"><b>AWE</b> — Six thousand planets. Not one moon.</a></li><li style="--accent:var(--identity)"><span class="dot"></span><a href="#nutcracker"><b>IDENTITY</b> — Wrong by nearly two feet.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#markovian"><b>UNEASE</b> — Hundreds of messages. One subject line. Nobody knows.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#hormuz"><b>ANXIETY</b> — Fifteen hundred ships. Sitting still. Growing something.</a></li><li style="--accent:var(--threat)"><span class="dot"></span><a href="#mosquito"><b>PERSONAL THREAT</b> — The spray is not failing. It is teaching.</a></li></ul>
+    <ul class="legend"><li style="--accent:var(--awe)"><span class="dot"></span><a href="#satoshi"><b>AWE + STAKE</b> — The richest wallet on earth has never moved.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#exomoon"><b>AWE</b> — Six thousand planets. Not one moon.</a></li><li style="--accent:var(--identity)"><span class="dot"></span><a href="#nutcracker"><b>IDENTITY</b> — Wrong by nearly two feet.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#markovian"><b>UNEASE</b> — Hundreds of messages. One subject line. Nobody knows.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#hormuz"><b>ANXIETY</b> — Fifteen hundred ships. Sitting still. Growing something.</a></li><li style="--accent:var(--threat)"><span class="dot"></span><a href="#mosquito"><b>PERSONAL THREAT</b> — The spray is not failing. It is teaching.</a></li></ul>
   </div>
 </header>
 
@@ -138,7 +146,33 @@ footer a{color:var(--dim)}
   </div>
 </section>
 
+<section id='teardown'><div class='wrap'><p class='slug'>Teardown</p><h2>Every story gets pulled apart before a word is written</h2><p>Seven passes over the same facts, each asking a different question. The point is that one teardown yields several videos, not one — and that pass five is the whole product.</p><div class='scroller'><table class='td'><thead><tr><th>Pass</th><th>The question</th><th>What it yields</th></tr></thead><tbody><tr><td class='pass'>1. Timeline</td><td>What happened, in what order, on what date?</td><td class='yield'>The spine. Gaps in the timeline are the best angles you will find.</td></tr><tr><td class='pass'>2. Entities</td><td>Who and what is named? Who is conspicuously *not* named?</td><td class='yield'>Absences are angles. A story with no named decision-maker is a story with a hole.</td></tr><tr><td class='pass'>3. Money</td><td>Who paid, who gained, how much, and when relative to the event?</td><td class='yield'>Numbers are the most shareable unit of a conspiracy. Timing beats amount.</td></tr><tr><td class='pass'>4. The official account</td><td>What is the stated explanation, in its own words?</td><td class='yield'>You must be able to state it fairly. If you strawman it, the video dies on contact with a commenter.</td></tr><tr><td class='pass'>5. What it does not explain</td><td>Which specific fact does the official account leave standing?</td><td class='yield'>**This is the video.** Not &quot;they&#x27;re lying&quot; — &quot;here is the thing their answer does not cover.&quot;</td></tr><tr><td class='pass'>6. Beneficiary</td><td>If this were deliberate, who is better off?</td><td class='yield'>Turns a passive event into an agent-driven one, which is what the brain latches onto.</td></tr><tr><td class='pass'>7. The open loop</td><td>What single question can honestly be left unanswered?</td><td class='yield'>The closing line. Never resolve it.</td></tr></tbody></table></div><p class='guard' style='margin-top:20px'><b>The rule that keeps it publishable:</b> pass five has to be a <em>real</em> gap. If the official account covers everything, there is no video and we pick another story. And we interrogate decisions, timing, money and silence — never allege a specific crime by a named living person, because calling it a theory does not change how that reads.</p></div></section>
 
+<article class="story" id="satoshi" style="--accent:var(--awe)">
+  <div class="story-grid">
+    <div class="vid"><div class="novideo">This one did not render. See the log.</div><p class="vcap">satoshi.mp4 · 1080×1920 · public-domain footage</p></div>
+    <div class="body">
+      <p class="idx"><span class="num">00</span><span class="driver">AWE + STAKE</span></p>
+      <h3>The richest wallet on earth has never moved.</h3>
+      <p class="news">Satoshi Nakamoto&#x27;s ~1.1M BTC, untouched since 2009</p>
+
+      <p class="lbl">The gap it opens</p>
+      <p class="gap">Sixteen years, thousands of separate addresses, several bull runs — and not one coin has moved.</p>
+
+      <p class="lbl">Why this one should travel</p>
+      <p class="why">Incomprehensible money plus an unknown person, attached to an asset millions already own. Crypto audiences share this reflexively because it is about their own bag.</p>
+
+      <p class="lbl">Script as recorded</p>
+      <div class="script"></div>
+
+      <details>
+        <summary>The verified facts underneath it</summary>
+        <ul class="facts"></ul>
+        <p class="src">Source: pending independent verification</p>
+      </details>
+    </div>
+  </div>
+</article>
 <article class="story" id="exomoon" style="--accent:var(--awe)">
   <div class="story-grid">
     <div class="vid"><video controls preload="metadata" playsinline poster="video/exomoon.jpg"><source src="video/exomoon.mp4" type="video/mp4">Your browser cannot play this file. <a href="video/exomoon.mp4">Download it instead.</a></video><p class="vcap">exomoon.mp4 · 1080×1920 · public-domain footage</p></div>
