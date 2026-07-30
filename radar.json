@@ -1,15 +1,46 @@
 {
-  "generated": "2026-07-29T21:17:15+00:00",
-  "feeds_ok": 24,
+  "generated": "2026-07-30T00:17:04+00:00",
+  "feeds_ok": 25,
   "feeds_total": 25,
-  "feed_errors": {
-    "reddit-worldnews": "HTTP 429 rate limited"
-  },
-  "raw_items": 1626,
-  "stale_dropped": 1093,
-  "clusters": 474,
-  "off_topic": 35,
+  "feed_errors": {},
+  "raw_items": 1655,
+  "stale_dropped": 1097,
+  "clusters": 498,
+  "off_topic": 32,
   "stories": [
+    {
+      "title": "'Completely Transformed My Understanding': Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0NKVEdRMTlfWmFtNTktWUhkZzN4NFBFNkhHdC1ydEFHZExmQTJBQ0hCbjRjSUhVeFBETFVYUVkyZHBqTE5BVmZ5YTJLb2JacDlzRWlLMVY1cGNWbXNxWnhEa2JSSnJFSHM0VF9SbmFPYlhqbElnWjROd0NWaVcwVGVCLW9HS2plajZyNmRLeUxFSGlMNmVyTEczbTJGTzh2MjQ2cTByUVZpcHM4bEF5RmlPMy1Xa2ZVX2NQdy0zNlg4QlJvN2pGdXBfQVpOSFg3cGc?oc=5",
+      "summary": "'Completely Transformed My Understanding': Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon ScienceAlert Over 20,000 precolonial earthworks in the Southwest Amazonia Nature An ancient civilization of millions once flourished in the Amazon Phys.org Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago Live Science Lost civilisation in the Amazon may have numbered 3 million people New Scientist",
+      "published": "2026-07-29T15:03:39+00:00",
+      "outlets": [
+        "Live Science",
+        "Nature",
+        "New Scientist",
+        "Phys.org",
+        "ScienceAlert"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 40.8,
+      "rank": 24.0,
+      "signals": {
+        "unexplained": [
+          "mysterious"
+        ],
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
     {
       "title": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHRVMHNScnIxclFJS0wzcHZIclA5TkRXemJ0NFlVZy1BbHZYQ1lxRHhhamFaOTZMRlY2TGROYkVnRmJDUHo1b3ppa2YxaXVaNEtlLVpNMm5YYkdCX3hwWGpUWHVrbkRHNThtWE9JdjFSRENRcTl0QWk2RWhfTk1UMG42dlNjNkctcUxTcGswRHNOUQ?oc=5",
@@ -46,13 +77,13 @@
     {
       "title": "New twist on the Einstein problem reveals unexpected physics",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkpRWGp3MjNRQXNaT2RKTzZacjVteGpQbEFkbndRV1hjWDFMOXZKYlhGdjdGUGlfX2hodTFnd0swUVhYYzFCTGYzTHlEUzVqVFhDY2ZoMVlJcU5PbVlPOTZSVm1YZXJKY0t5dzZ2cHdIQ0JVOG5KcWlyX1JlU2tmM1RTdDU?oc=5",
-      "summary": "New twist on the Einstein problem reveals unexpected physics Phys.org Mathematical \u2018einstein\u2019 tile works in the real world, to everyone\u2019s surprise Scientific American University of Tokyo Researchers Apply Smith Hat Aperiodic Geometry to Optical Structures geneonline.com Scientists unravel new physics after laser diffracts in chiral patters Interesting Engineering New Einstein puzzle variant uncovers surprising physics Bioengineer.org",
+      "summary": "New twist on the Einstein problem reveals unexpected physics Phys.org University of Tokyo Researchers Apply Smith Hat Aperiodic Geometry to Optical Structures geneonline.com Scientists unravel new physics after laser diffracts in chiral patters Interesting Engineering New Einstein puzzle variant uncovers surprising physics Bioengineer.org Scientists uncover new physics in a famous Einstein puzzle Tech Explorist",
       "published": "2026-07-29T09:00:04+00:00",
       "outlets": [
         "Bioengineer.org",
         "Interesting Engineering",
         "Phys.org",
-        "Scientific American",
+        "Tech Explorist",
         "geneonline.com"
       ],
       "feeds": [
@@ -73,55 +104,60 @@
       ]
     },
     {
-      "title": "John Hight steps down as Wizards of the Coast president",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3loZXZpVzNzOVJfVTdJYlF6WkFjbXUtLTB3SXpubVZzcHZ5aWtfcXlLVkptV3NNRVlwODJ1UkY5N19VNjgxbnBrQThCd1dyYjVOaDJETE43SjRuQWd0U0U0MDYzT1NwRkhjU2ZRN0hJSGlyUEpiRWhOMU1vSlZac0RFV0pZMmx0bFhNTzJR?oc=5",
-      "summary": "John Hight steps down as Wizards of the Coast president GamesIndustry.biz Wizards of the Coast President Resigns Despite Massive Success Nerdist PEOPLE ON THE MOVE: WIZARDS OF THE COAST'S PRESIDENT WILL STEP DOWN ICv2 Despite Magic's unprecedented success, Wizards' president is already stepping down Polygon.com Wizards of the Coast boss steps down after just 2 years defined by Magic's Universes Beyond and D&D 5.5e, a... Yahoo Finance",
-      "published": "2026-07-28T10:21:38+00:00",
+      "title": "A NASA rover just discovered something strange on Mars that scientists can\u2019t explain",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRGZKdG9iYTF1OUJoS1ZoZ29EUjg4ZkxWb1E4b01VSWViZHhKUUpjM3p4THBSVklfaDJzYU5KTlNYZnhtYzdXU3p4U1E5b3dTNGVITVpxS2lvd3FQSFh5WWVfRGZaS2VCbjJud0hkRWhNakx1Rkc5Y01fWldRUjJzS0hJV2hwMkpMT3JXOUkxZ280OUZJNVowbw?oc=5",
+      "summary": "A NASA rover just discovered something strange on Mars that scientists can\u2019t explain The Independent NASA\u2019s Curiosity Discovers a Field of Martian Polygons NASA Science (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science NASA's Curiosity Rover Captures Miraflores Rising Alone Above a Sea of Martian Honeycombs TechEBlog - Curiosity discovers honeycomb-like rock textures on Mars CW39 Houston",
+      "published": "2026-07-29T20:26:00+00:00",
       "outlets": [
-        "GamesIndustry.biz",
-        "ICv2",
-        "Nerdist",
-        "Polygon.com",
-        "Yahoo Finance"
+        "CW39 Houston",
+        "NASA Science (.gov)",
+        "Popular Science",
+        "TechEBlog -",
+        "The Independent"
       ],
       "feeds": [
-        "google-technology"
+        "google-science"
       ],
-      "reach": 54.8,
-      "angle": 34.0,
-      "rank": 18.6,
+      "reach": 58.8,
+      "angle": 24.8,
+      "rank": 14.6,
       "signals": {
-        "unexplained": [
-          "unprecedented"
+        "institutional": [
+          "nasa"
+        ],
+        "frontier": [
+          "ancient",
+          "discovered"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "The official account stops short of a cause. Open on the gap."
+        "An agency is involved. Its own record is the context nobody pulls.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
-      "title": "Trump said he would ask the Supreme Court to reconsider his birthright order. The clock\u2019s run out.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGZ4bFV6LUhTQWJQZlVLLUxtVXVzZXBENkY1cjROWjNLaUlqSlBNZkl2YXg4QkRaV3pXRE1TOUJ3QzUyVnlLQ0Frak9YNTFWVWJ0dWhvUEdOQmZWRHBsU1lqalBsZkhFVHFuUkc0TFkxMVk4aWh6WDRsWGlZVzVSSllaOHZpMkFqRHBMZ2JnQVFhREtTSWxlVTJR?oc=5",
-      "summary": "Trump said he would ask the Supreme Court to reconsider his birthright order. The clock\u2019s run out. Politico Deadline passes for Trump to ask Supreme Court to reconsider birthright citizenship ruling AP News To fix birthright citizenship, declare a foreign invasion The Hill Despite vow, Trump didn\u2019t seek to reverse ruling on birthright citizenship washingtonpost.com Opinion | MAGA is coming for Puerto Ricans\u2019 birthright citizenship next MS NOW",
-      "published": "2026-07-29T17:12:00+00:00",
+      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
+      "summary": "Wall Street closes down sharply after Fed holds rates unchanged Reuters Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling behind on inflation: Live updates CNBC Dow closes down 1,000 points as Fed votes to leave interest rates unchanged Yahoo U.S. Stocks Slide After Fed Pause, Escalation in Iran War WSJ Nasdaq 100 Enters Correction, S&P 500 Falls After Fed Decision Bloomberg.com",
+      "published": "2026-07-29T22:56:36+00:00",
       "outlets": [
-        "AP News",
-        "MS NOW",
-        "Politico",
-        "The Hill",
-        "washingtonpost.com"
+        "Bloomberg.com",
+        "CNBC",
+        "Reuters",
+        "WSJ",
+        "Yahoo"
       ],
       "feeds": [
-        "google-nation"
+        "google-top"
       ],
       "reach": 58.8,
       "angle": 22.0,
       "rank": 12.9,
       "signals": {
         "reversal": [
-          "reverse"
+          "correction"
         ]
       },
       "verdict": "clear",
@@ -134,7 +170,7 @@
       "title": "Researchers reverse autism-like symptoms in mice with one rapamycin dose",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ER2tCY0NGM3ZvQS1EYjlJak9GMC0tV01EUkhTdzd1TWJHRGNobEd2YU13ZUhucW1HOEY0Y3N6aTdHaGhTcU1oU0VaTWg0RmRpTW5oRE53Ny0zeWtoTE9zZU1wdjNKUDExbWdMMU1jdUItQ0JHLTNRem1XZWFXUdIBgwFBVV95cUxNd01QNkRDZkl1WDlyQ3dwQTJpN2QxbTI2Y3lGQ3hxak1tOG9uODlTTE15eEc2bzc2U3hfZEN6am01LWp4SVFOdkJ4bVpYY0s1OGxfZ0Rvc1JacnF3NDctNndpZGZpNjVHX2doNnlWYTJRMFFYc1A1dDhodWU3SlZVaTRwbw?oc=5",
       "summary": "Researchers reverse autism-like symptoms in mice with one rapamycin dose NewsNation Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature Drug temporarily reverses autism-like brain changes in adult mice within hours Medical Xpress A Single Rapamycin Dose Reversed Adult Autism Traits Technology Networks Single Drug Dose Reversed Autism-Like Traits in Mice Labroots",
-      "published": "2026-07-29T20:56:56+00:00",
+      "published": "2026-07-29T23:58:00+00:00",
       "outlets": [
         "Labroots",
         "Medical Xpress",
@@ -152,34 +188,6 @@
         "reversal": [
           "reverse",
           "reversed"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The story changed. Put the first version and the current one side by side."
-      ]
-    },
-    {
-      "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVHcDBlVjd0RHprWXNCa29VSEdUNm1FUFhDS2ZDeFI0VjQ1a0YyTjRwVFlQaXRTbG5sTzRjdHJWT2VKcWppWERZYzZ0djJuWnkxdnU2ZHRKY3NxMTNHbmJNUFlKbjEtdmhMcTZ1elhIYjI3N0Q5RGFPbWZ3b25yekpES1pITldwdHdMMl9BSFhtT1gtNFNsS3E5NVdKWm5lMjAyVnFCMzl6X0FG?oc=5",
-      "summary": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold Yahoo Finance Dow dives, S&P 500 trades lower in volatile market following Fed decision: Live updates CNBC Nasdaq 100 Enters Correction, S&P 500 Falls After Fed Decision Bloomberg.com Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower AP News Update: Equities Tumble Following Fed's Divided Decision to Stay on Hold Yahoo Finance",
-      "published": "2026-07-29T20:02:18+00:00",
-      "outlets": [
-        "AP News",
-        "Bloomberg.com",
-        "CNBC",
-        "Yahoo Finance"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 51.6,
-      "angle": 22.0,
-      "rank": 11.4,
-      "signals": {
-        "reversal": [
-          "correction"
         ]
       },
       "verdict": "clear",
@@ -252,11 +260,11 @@
     {
       "title": "IRS marks National Whistleblower Day",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQnBtc0QzQi10bzJ3WEE1eXFnMzdWWG5UbTQ1ZUF1alNNVW9rTFdHanFQN3pycUJqYV9ZRnc5TkFfX21OWG10cExXa3JlaXItR0kwd2prS0NNOVVoTzB0TUhaeklqWVV2SklkdUtDMENrUl9aMkNuZzl2dzJxdw?oc=5",
-      "summary": "Whistleblowers to Speak at National Whistleblower Day 2026 Whistleblower Network News",
-      "published": "2026-07-29T16:14:00+00:00",
+      "summary": "IRS to Observe National Whistleblower Day on July 30 CPA Practice Advisor",
+      "published": "2026-07-29T22:05:08+00:00",
       "outlets": [
         "Accounting Today",
-        "Whistleblower Network News"
+        "CPA Practice Advisor"
       ],
       "feeds": [
         "angle:whistleblower"
@@ -273,6 +281,35 @@
       "policy_reasons": [],
       "prompts": [
         "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans: \"It's a wonderful culture and it would be a shame to lose that\"",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPeURaUGtkc0FoRzZLS3Q0eGZod2lORDBlU3I4Rm1VN3hZdWhUSmtZWHY4MjZoTkhHemRia2phaDNOY2txRXhEYy1PTW1qclg1dS1FajlKLVdDS0llOGkyTzlKTVMyWFlsaUNORTZkQXJobjlSWFViRUR0QWhaMHBsVVJ3NkxUaDJjOGZBUUpHWDNNcmJEVHFjTkVPaVNmOER5TVZHUkRxSTU5Wjg2ZzYzc3hFYnpHekhjRC1oLXh1LS0xTU9IdjBTZWd0WEc3bWhjdmxBLU9oX1E4a2JnRDJBWXVpQ3FxVUgwaFNKcFBTWkRIMnAydzBtLTItMng2V0dKbVd3ZmdSTTFMRTViMmV1R2dIQmxDcEN1MjJDYmdPYzl5TWk2cVE?oc=5",
+      "summary": "Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans: \"It's a wonderful culture and it would be a shame to lose that\" GamesRadar+ Final Fantasy 14 could finally introduce a controversial feature to welcome new players Polygon.com Square Enix Reveals the Bastion, Final Fantasy XIV's Newest Job, Coming in Evercold MMORPG.com Yoshi-P says his approach to development on FF14 \"hasn't really changed\" since A Realm Reborn Radio Times WoW\u2019s tank classes feel ancient next to FFXIV\u2019s new Bastion job Windows Central",
+      "published": "2026-07-29T13:00:00+00:00",
+      "outlets": [
+        "GamesRadar+",
+        "MMORPG.com",
+        "Polygon.com",
+        "Radio Times",
+        "Windows Central"
+      ],
+      "feeds": [
+        "google-technology"
+      ],
+      "reach": 58.8,
+      "angle": 16.0,
+      "rank": 9.4,
+      "signals": {
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -308,7 +345,7 @@
     {
       "title": "Scientists discover 210-million-year-old dinosaur in Zimbabwe",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUdVRnl3VTBZb3RtYkJTeGlQSVRTRm5NY2QtNEVhb2w1LXU0Q0stRVBkZWFxQzNvWW5aaGlLclRxaHVRUC1ZelZENW0xUmUyZnJWS3U3RTRybVUyQTcxeVRZdUZ1TERrRVFWYzkzUWpYd2gyUDdQelh3U1cyaWMxZUtn?oc=5",
-      "summary": "Scientists discover 210-million-year-old dinosaur in Zimbabwe Phys.org Musango : The new Zimbabwean dinosaur discovered from a boat Natural History Museum 210-Million-Year-Old Dinosaur Discovered In Zimbabwe 2oceansvibe News New Species of Triassic Dinosaur Discovered on Shores of Zimbabwe\u2019s Lake Kariba Sci.News Newly Discovered Dinosaur From Zimbabwe Could Change What We Know About Ancient Southern African Ecosystems Discover Magazine",
+      "summary": "Scientists discover 210-million-year-old dinosaur in Zimbabwe Phys.org Musango : The new Zimbabwean dinosaur discovered from a boat Natural History Museum New Species of Triassic Dinosaur Discovered on Shores of Zimbabwe\u2019s Lake Kariba Sci.News 210-Million-Year-Old Dinosaur Discovered In Zimbabwe 2oceansvibe News Newly Discovered Dinosaur From Zimbabwe Could Change What We Know About Ancient Southern African Ecosystems Discover Magazine",
       "published": "2026-07-29T08:30:59+00:00",
       "outlets": [
         "2oceansvibe News",
@@ -390,57 +427,6 @@
       ]
     },
     {
-      "title": "Unexplained wealth Act provisions proclaimed",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGZmNzRYVWJWbW4tMW9fNUZEdFpyd0VLRUh2a1NNczVlUzhIbVIya2RyR05zTXVGN2UyamlZMzF1Z2loT09sX3M5Q0tpaTBodHNBM0dpeDdoblVVS0Q1Z2s4VE5Fd0o2d3pGSEVzZS1kQU8xYTNjWmVfenBYbUo1My12ckliWFhhS3B5blA4b1pvOElzT2N4WjJ1dmxFeGNv?oc=5",
-      "summary": "Unexplained wealth Act provisions proclaimed Trinidad Guardian",
-      "published": "2026-07-29T17:21:40+00:00",
-      "outlets": [
-        "Trinidad Guardian"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 26.0,
-      "angle": 34.0,
-      "rank": 8.8,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Assassin\u2019s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95SzVhRTIxTkpNZkNjNThkZFEzV3BSR0t3cEdacDd5TTdfY0FiUHEzLWMxZHBDNUtldm9ReHAycm9Zajh1QUVaX2JCVXBCekJqdXI0Ri11UGRWMzZmTkdVZ19kREU?oc=5",
-      "summary": "Assassin\u2019s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature opencritic.com",
-      "published": "2026-07-27T00:16:31+00:00",
-      "outlets": [
-        "IMDb",
-        "opencritic.com"
-      ],
-      "feeds": [
-        "angle:quietly removed"
-      ],
-      "reach": 27.5,
-      "angle": 28.0,
-      "rank": 7.7,
-      "signals": {
-        "secrecy": [
-          "quietly removed"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
       "title": "Exclusive | Federal Probe Into Dodgers Owner\u2019s Financial Empire Was Sparked by Whistleblower",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObE1wSExzcVlHQzE4ZUJuNlpSdE5vYmlQYTN1ZTdERFRpUXhnczZDaTlfUTVsT3NqYUxEWXY0SFd4a3M5QzBiZXFWSUhuOGJCTlV0YldwZnltLUxISjNpVHFwM2tnZ3A3bXdtNjM4SU16c3RhaTdOdXF6TmtOM2NjM1JXNm4xTXhtZURIaER2OGZCZ09fS0tqbXdROVMwdHhnenlpUlNPcnBpcnFKU25CbXBiRFRza1B4cTlpTXdOb3c0cTVuaUE?oc=5",
       "summary": "Federal probe into Dodgers owner\u2019s financial empire was sparked by whistleblower Private Equity News",
@@ -467,12 +453,12 @@
       ]
     },
     {
-      "title": "Updating Darwin: biologists are returning to an older theory to explain anomalies in evolution",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2hhOUhjN0p0b0JONW03c3czOXJ4dzFja1JVT2VQVVVHMFlFVHFzeF9uR0dDenhKaU5lQUNUOElhRVp2blJMVEUtel8wMHFjOWY5V0xod3ZjM1BzWW1KUmdyMHV1RjB1UE1hTmxZOUt1bU1qekpxR21fMWtWMW5mSnN0ZThRdzltM2tRVHRLd2Jnd0JTalZXNVUxYXFZSENEdFc1Z1R5UVdoT0FlamxRN211M281MTByTWZuYWY2a01VWHMzYXlR?oc=5",
-      "summary": "Updating Darwin: biologists are returning to an older theory to explain anomalies in evolution The Conversation",
-      "published": "2026-07-28T10:20:09+00:00",
+      "title": "Updating Darwin: Biologists are returning to an older theory to explain anomalies in evolution",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3hRNV93Wi1yWFA0cFBrNTdnWkZPb2I4XzZySGpGNzktYWNabENQQTU5bHI5MEx3ZElDX1o0QVI2SU5RelVMTnJxZ0dsa3VHNWJMVU1WSEFSMmtWQV9Fd3RlZUw5YzZZMUU0cUJSMDQ3SS1QUnpOeTQwMGR1Z0VBUg?oc=5",
+      "summary": "Updating Darwin: Biologists are returning to an older theory to explain anomalies in evolution Phys.org",
+      "published": "2026-07-29T00:40:04+00:00",
       "outlets": [
-        "The Conversation"
+        "Phys.org"
       ],
       "feeds": [
         "google-science"
@@ -517,12 +503,12 @@
       ]
     },
     {
-      "title": "The unexplained privileges of a chief of staff",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEgwdlBoTDVnb01IUlJ1eW8ySU1YMmFEc2NRMmVvSVpLVjZsdGFsRnNRaVBpck1CV0xURjNjRm1hN2V2S3NWVElDSEpVTGVyTDF0am9Vc0t5ejZwSHFXNHFDMzM1QVNERUtreExjTzF3eUpzZVZzYUNoT3VNekUwVmpiM1dpMF9jc1dIQjRwRWxEX0lVN0J4aFZfMzdzQQ?oc=5",
-      "summary": "The unexplained privileges of a chief of staff MaltaToday",
-      "published": "2026-07-29T06:56:00+00:00",
+      "title": "Unexplained wealth Act provisions proclaimed",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjM4ZlRkMjhkem5kUm5aWlF1TjNfT0FVbE9DNkszaHdaZE9Tb1BicUk4bVRYZEpKRm1GbXJLdGFnYWpHbWI5UnItSHE4WkVoWUpOSjA0OVhoUVptcWJDUWx0Tmp6TGZVelE2aERBQXQ2Y01fYzVYNjRTQU1wazBDRWtTbERYQVFlblNrQ0xKcFFEY3JwVW9RaDNTZVRpcmM?oc=5",
+      "summary": "Unexplained wealth Act provisions proclaimed Trinidad Guardian",
+      "published": "2026-07-29T04:10:24+00:00",
       "outlets": [
-        "MaltaToday"
+        "Trinidad Guardian"
       ],
       "feeds": [
         "angle:unexplained"
@@ -567,10 +553,35 @@
       ]
     },
     {
+      "title": "The unexplained privileges of a chief of staff",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEgwdlBoTDVnb01IUlJ1eW8ySU1YMmFEc2NRMmVvSVpLVjZsdGFsRnNRaVBpck1CV0xURjNjRm1hN2V2S3NWVElDSEpVTGVyTDF0am9Vc0t5ejZwSHFXNHFDMzM1QVNERUtreExjTzF3eUpzZVZzYUNoT3VNekUwVmpiM1dpMF9jc1dIQjRwRWxEX0lVN0J4aFZfMzdzQQ?oc=5",
+      "summary": "The unexplained privileges of a chief of staff MaltaToday",
+      "published": "2026-07-29T06:56:00+00:00",
+      "outlets": [
+        "MaltaToday"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
       "title": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2JYcC1QT05Ud0hFZDBmZ3I5aFJmTFBLVmRrbWp3NmFzQmUzUnhpTDQwV09CMHd5bXZSdlJCTVl5bEQxakozTk81d0pIeDlibHpkV3A3T0FHWm91dW1BT2ZVQUQtM0xYMXNyRjlHRlYzek4ySnB6Sy05Z0gyRjBYcHY0MTEyN0dKU21DbVpWWXFJYnRhbVVoSlNOVVlMOTFxcl9NR3N6Y1ltMkRXSHpvVm1hZFA?oc=5",
       "summary": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit 5 EYEWITNESS NEWS",
-      "published": "2026-07-29T16:45:05+00:00",
+      "published": "2026-07-29T19:47:54+00:00",
       "outlets": [
         "5 EYEWITNESS NEWS"
       ],
@@ -649,7 +660,7 @@
       "title": "What vendor's audit claims about Clarkstown whistleblower | Exclusive",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU3dBMGs5S2xxSG1hYWVPMHY4LTZwM0pTeEFKWmpJS3ZpalJGRDd4Z3VDUmZQYlRRTDJTSmVkWDgxM09uZEFrR2VWdkFyY0t5cy1ISlFqMDNvWFZWTXFRMm9jandzb1o0VDBOZXNzYUR5UktXaEs3c0VlWkNTNzlvZmNzOVBVLVI4dUM4X19ONVhVOFJVVU5xTFlzZVRCTjFiZ0lZaUc2dmpQYmRDenNrbWJwVExTMGhHM0YyMTNFdmZqUklaREswV0FuRDB5ZXZHQjM0UEln?oc=5",
       "summary": "What vendor's audit claims about Clarkstown whistleblower | Exclusive Lohud",
-      "published": "2026-07-29T17:06:00+00:00",
+      "published": "2026-07-29T22:48:00+00:00",
       "outlets": [
         "Lohud"
       ],
@@ -671,12 +682,12 @@
       ]
     },
     {
-      "title": "Dodgers owner Mark Walter's $16B in private-credit deals draws SEC and DOJ probes after whistleblower complaint",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdm9VVzk2cFJHeUFhZUMzZUdnT0FicDNibFBfZnozVkEwdUM4cUQ5aGwxMEJEbDVUVTljWnRkWVFrMFM1WVdMLU9aS0k0UTFTNXBRVS1fdERGZDB1ZnZkcDFCdkV4MnMwWl9YNERMQ1FXVUtUXzQ5RmtYQjRWY0JwUVBUVFhnZw?oc=5",
-      "summary": "Dodgers owner Mark Walter's $16B in private-credit deals draws SEC and DOJ probes after whistleblower complaint Yahoo Finance Singapore",
-      "published": "2026-07-29T15:15:00+00:00",
+      "title": "FAAA seeks whistleblower protection status",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWdJRFhwdkY1bDIyamdjeDBGRTdKa19DcWxwbHE2ZnhHLXRNT2pQZ1dldEt0cHFrRGZWR3V5YXcxanVhOTVWcm40OEJrWFR6a213N2JDMi1LVDRZYUVNNENFSUZHZFk1WnFZQk0yajdtN1VZbU5ZSFZCaWdlTVRSR0NCdzNUSjZwRnpwRkwxd2hULXR2QzBFWGNnQQ?oc=5",
+      "summary": "FAAA seeks whistleblower protection status Financial Newswire",
+      "published": "2026-07-29T20:33:31+00:00",
       "outlets": [
-        "Yahoo Finance Singapore"
+        "Financial Newswire"
       ],
       "feeds": [
         "angle:whistleblower"
@@ -698,47 +709,54 @@
   ],
   "blocked": [
     {
-      "title": "After the quake came the blast: Inside Japan's shopping mall disaster",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUlpWmt0VXRMT2dCakd5YVQ0QWMzMk5PdnFLNTJfZXJEdHp5eE5VdFZUY0RRYm5GSFdiX0c1OG8zMzkzN0xkV3JQUVh2VjV4OXIyWFphR01qR1pNNUJXOXVVZmIwWWVBQ2dBMVN0eU5jTzF2ZXBJcTQ4YkJPR2hJR1AtZmNGMzFSMDl1RGlpUVBhTElfTlJkVGM1amxFZ1pHdTBXRFdtLTcwaTJUSlA3WXZQU3Y?oc=5",
-      "summary": "After the quake came the blast: Inside Japan's shopping mall disaster Reuters Fault zone in Kumamoto responsible for a 2016 quake likely triggered latest temblor The Japan Times Outdated footage circulates after Kumamoto earthquake in Japan Yahoo Photos show the aftermath of a damaging earthquake in southwestern Japan WRAL Thirteen killed in Japan quake, breast cancer drug made free, and Jared Leto denies assault allegations ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "published": "2026-07-29T19:09:29+00:00",
+      "title": "Salman Rushdie\u2019s Attacker Found Guilty of Aiding a Foreign Terror Group",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZE5vanVVWHktQmdXTV9KTzRuOVhKUlJDcDU2OHJXblFzc3R6QVVBRXJOSU04Y2c3QXFCWXYycnNMbkdiUEtsQ2tkeV9IYkZhRV9CZF80YkV3WUJIbGdxeGlFdW1UeTNaME9IM0lfV2hPbEhIR1NiUmZOZ3E1SkREeHUtZU5LLUpQ?oc=5",
+      "summary": "Salman Rushdie\u2019s Attacker Found Guilty of Aiding a Foreign Terror Group The New York Times Man who stabbed Salman Rushdie in 2022 convicted of federal terrorism charges The Guardian Man found guilty in federal terrorism prosecution tied to Salman Rushdie stabbing The Hill Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie ABC News - Breaking News, Latest News and Videos Salman Rushdie attacker convicted of additional terror offenses BBC",
+      "published": "2026-07-29T22:36:32+00:00",
       "outlets": [
-        "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-        "Reuters",
-        "The Japan Times",
-        "WRAL",
-        "WSJ",
-        "Yahoo"
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "bbc-world"
       ],
       "feeds": [
-        "google-top",
-        "google-world"
+        "bbc-world",
+        "google-nation",
+        "google-top"
       ],
-      "reach": 71.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
+      "reach": 77.7,
+      "angle": 18.0,
+      "rank": 14.0,
+      "signals": {
+        "institutional": [
+          "who"
+        ]
+      },
       "verdict": "block",
       "policy_reasons": [
         "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
       ],
-      "prompts": []
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
     },
     {
-      "title": "Man held without release after boating accident leaves victim decapitated - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmZ0YkxkbW44VG9EanRrbEpNYjdQTGdfTlRUdUo5WWk3UDltS0d6U0M2XzFXZm1UQnhtcm9LdGMxaVpoX18zQXV6QUhEYkRiam1iTFd1NVhURzEyR0NvQ251MTVMLWRVdldsN01uaWc3T0p6Ump2YU5rNTZWa2VOT0xXR3lyeWJDbjFsbEVWV1U5T3FFRThCM1Fpa9IBoAFBVV95cUxOeHpMWVpSYTN5UmdSbnpkM1A1SU82eXdaNXp4bnd4VmNHemFwWVhldG5RVHpzU3Z6Z21IcXhwQ2JfM1ZZZWxCclBHcVlmRE94Q3Y0MDVTaGtZajlDb0pBc1NrZGRMTktlbGNzMVlGSmlKUUliSXpSM0dqVXpCdEJfVm1RNVhTZjUtdWdMa05GS2tXNHJWRzZwTE83ZTRnWTRE?oc=5",
-      "summary": "Man held without release after boating accident leaves victim decapitated ABC News - Breaking News, Latest News and Videos Man arrested after deadly boating accident leaves woman decapitated, police say Global News Richard Stevenson, who has history of DUI, speeding offenses, charged in deadly Fox River boat crash near McHenry, Illinois ABC7 Chicago \u2018Ticking time bomb:' Details emerge after suburban man charged in deadly Fox Lake boat crash NBC 5 Chicago Des Plaines woman identified in fatal Fox River boat crash WGN-TV",
-      "published": "2026-07-29T10:02:32+00:00",
+      "title": "Kavinsky, French DJ and composer of \u2018Nightcall\u2019 on \u2018Drive\u2019 soundtrack, dies at 50",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHdzazF4ZjBMdkJiZmxPMGhuR1pTYjZvcUhhemVMSFB6ejRsTkl2OG5LaExzQ1pSbXpsS3MxdUFQZXhsaTU2SmM3SS1SQ3pOclpVTk54VTZuVFM1U0dUTWdBLXhPWHZJNVl4RWZ2Y0wxbVpoYXFHRkI4OXVjN2sxZWdDNUVFZVhZV3RVTF9TMnByNGREMDdNdzNxd2dCMlp3M1VDVmN2M0hVYktuTWxNVVB4UUE4QXpUY0RvZk9UNnRMeU84?oc=5",
+      "summary": "Kavinsky, French DJ and composer of \u2018Nightcall\u2019 on \u2018Drive\u2019 soundtrack, dies at 50 NBC News Kavinsky, French D.J. and Electronic Musician, Dies at 50 The New York Times French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50 The Guardian DJ Guetta leads tributes to electronic \u200cmusician Kavinsky who has died BBC Kavinsky, French DJ behind hit track \u2018Nightcall,\u2019 found dead at home in Paris CNN",
+      "published": "2026-07-29T15:48:11+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "ABC7 Chicago",
-        "Global News",
-        "NBC 5 Chicago",
-        "WGN-TV",
+        "BBC",
+        "CNN",
+        "NBC News",
+        "The Guardian",
+        "The New York Times",
         "reddit-news"
       ],
       "feeds": [
-        "google-nation",
+        "google-top",
         "reddit-news"
       ],
       "reach": 71.7,
@@ -758,22 +776,23 @@
       ]
     },
     {
-      "title": "At Graham\u2019s Farewell, a Glimpse Into Power in Trump\u2019s Washington",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMHBuQXlFQ3ZySjh3aXVQclJFREUwdnIwWFV5eHJXQTBPM25iVXFGRmYyWkZJYlg4aHBCSHlTbnNSNXU0OVRiT2dXeDV6OXFLaFBoSmN3TC1YNGtVNlBuenR5NzZ6emtudkNEYXZUWmxhRHJGMGp2V0Z4TUt0RVF3dm0yUWNEWXJKNUVZ?oc=5",
-      "summary": "At Graham\u2019s Farewell, a Glimpse Into Power in Trump\u2019s Washington The New York Times Lindsey Graham returns home one last time for his funeral in South Carolina WBAL-TV Trump reflects on infamous phone-number stunt that sparked friendship with Graham Fox News Lindsey Graham\u2019s Last Laugh The Atlantic Lindsey Graham eulogized, US and Saudi Arabia launch strikes in Iraq, search for missing after Japan earthquake AP News",
-      "published": "2026-07-29T14:01:00+00:00",
+      "title": "At least 13 killed in Japan earthquake as rescuers search for survivors in a \u2018race against time\u2019",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmZEeS1ael9pNzVOdDkyTlJuUU80dEhYcWxCcUV4QkY4WTJZLXgtTHJjWnhnUTVlaU5VUzZRSklwck42ZVU2eThVaVQyRXBoaWt1M05lYy1xWGotYXZTSTVWaUNBcW1rQUVHWnBsS1dfYWlhRTd2Rms3aGxRaF9WR0QzRzItRy1qRFBOQ1lqWFpUNnk4T0V5OEtYU09fQmRjUUE?oc=5",
+      "summary": "At least 13 killed in Japan earthquake as rescuers search for survivors in a \u2018race against time\u2019 NBC News 14 confirmed dead after Tues. quake in southwestern Japan Japan Today After the quake came the blast: Inside Japan's shopping mall disaster Reuters Why does Japan experience so many large earthquakes? WMUR Toyota extends Lexus shutdown through week\u2019s end after killer quake throttles Japan Automotive News",
+      "published": "2026-07-29T12:05:26+00:00",
       "outlets": [
-        "AP News",
-        "Fox News",
-        "The Atlantic",
-        "The New York Times",
-        "WBAL-TV"
+        "Automotive News",
+        "Japan Today",
+        "NBC News",
+        "Reuters",
+        "WMUR",
+        "reddit-news"
       ],
       "feeds": [
-        "google-nation",
-        "google-top"
+        "google-top",
+        "reddit-news"
       ],
-      "reach": 64.8,
+      "reach": 67.7,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -784,14 +803,40 @@
       "prompts": []
     },
     {
-      "title": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGQ1Ml9pVlhhZG53X0NtZW5Ha2FfQ3FpZmRYMXhVWVhtU1FxdzhneWtYNGR3ZkY3STJEUkU5YVg0WDZnYXpvaXpBZHlRNExLNXQ1eDNpZXJxbWNTY3FHUEJQT0ZwVlZTNzc1Ul9zX1B2ZU9uRWtlb1ltenl0aEhvVDFxaHF5U1NwZ3ZnX08tUkQ0MXRTUjJwaw?oc=5",
-      "summary": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings WBUR Patrick Clancy testifying in ex-wife\u2019s murder trial about her attempts to seek mental health care. Follow live updates. The Boston Globe Live updates: Lindsay Clancy murder trial continues with her ex-husband\u2019s testimony CNN Lindsay Clancy's ex-husband testifies about the day she killed their 3 children PBS \u2018She killed the kids!\u2019 911 call from Lindsay Clancy\u2019s husband brings tears to the courtroom AP News",
-      "published": "2026-07-29T18:50:05+00:00",
+      "title": "Death of 15 elephants in Kenyan national park sparks outrage, investigation",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUG1Caks1VmhKQ3g4NWVNcXEyUDR0clRtUEQwVWFDMm80d0N1MnMwOGtqU0lzeS1mMTdTNmtZNW1yUjhiaE1rcFpwNVh5NkdnZkJtTHl0Q2w5NzFNLXFKcmlhQjBjalhQTlhrSXg5N2l2YVA3X205bGUyMzVodmltZWIxWlgzNmVVMDhwMHlwYkdIbndfcTUzU1ZGZkg3TFBfQmNzSjdyNkFxWUZLUEJlSGEwVjR1bUZC?oc=5",
+      "summary": "Death of 15 elephants in Kenyan national park sparks outrage, investigation The Washington Post The deaths of 15 elephants in Kenya\u2019s Amboseli National Park spark investigation AP News Kenya investigating unexpected deaths of 15 elephants in national park The Guardian Kenya investigates possible toxin after 15 elephants die in one of Africa\u2019s top safari destinations Business Insider Africa Amboseli elephant deaths: Kenya Wildlife Service launches urgent inquiry after 14 carcasses found BBC",
+      "published": "2026-07-29T22:45:36+00:00",
       "outlets": [
         "AP News",
+        "BBC",
+        "Business Insider Africa",
+        "The Guardian",
+        "The Washington Post"
+      ],
+      "feeds": [
+        "google-top",
+        "google-world"
+      ],
+      "reach": 64.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejZxbGNOcnJucmdDQmlkRHg0Wm1ELVV5bUxqQUw5bDZwbHdCS1B3b2xNYW5tV09ZOFdmcjM0TEFBTmJkSzN3cy10Vk1FbmpIUHdzMFlueEFMMEpGQlJxOWE5LVVqRHd1MGF6Qnk3dzkxQzRhVjktbUQ5S1VnUTByWlVZTGdWRXdWVUFCMzFXY0dxZ2FWYkpIdUNiOXBxVUk4?oc=5",
+      "summary": "Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children CBS News Day 2 of testimony in the Lindsay Clancy murder trial CNN 'She killed the kids!' 911 call from Lindsay Clancy's husband brings tears to the courtroom Dallas News Patrick Clancy testifies about ex-wife\u2019s attempts to seek mental health care after 911 call played in her murder trial The Boston Globe Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings WBUR",
+      "published": "2026-07-29T21:44:00+00:00",
+      "outlets": [
+        "CBS News",
         "CNN",
-        "PBS",
+        "Dallas News",
         "The Boston Globe",
         "WBUR"
       ],
@@ -809,16 +854,16 @@
       "prompts": []
     },
     {
-      "title": "D4vd murder case: What happens next \u2014 and could he be found not guilty?",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUV5NVhuMDdTR0NtTld4eFNENzNqeUh6a1NqeldZZjBuc1JUQnJtcUM1aHB6SXBtdUM4M2RqN0VGQWY0eWtuMUoxbjBaSFZDQmN1LXo0S2lKREtfT3VZNkJaTE5ZRnlEQ1JVTjBKdTlUbGxCZm9xR3lXM0hNWlJCYktMZ2RmLXR0ZWtwajJUUnNEY2UwQS1tYTJJZw?oc=5",
-      "summary": "D4vd murder case: What happens next \u2014 and could he be found not guilty? Los Angeles Times Los Angeles judge rules there\u2019s enough evidence to go to trial in singer d4vd\u2019s murder case CNN Teen who singer D4vd is accused of killing had multiple abortions, texts reveal BBC D4vd's Final Texts With Celeste Rivas Hernandez Before Her Murder Revealed E! News D4vd Murder Case Can Go to Trial, Judge Rules The New York Times",
-      "published": "2026-07-29T10:00:00+00:00",
+      "title": "D4vd Murder Case: Celeste Rivas Was Not Pregnant When She Died",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QdTNna0JrdlpscEU1TTBrNzl4Nl9ZcW1pb05ZNnVqMFc5S1dBWTFiT1RTMXJubnJjUDQ3RV9xbWdoREJqc2t6MEhZLXctb083RUw2TkRkR0FzV205bk1GOU5ZclVyUUU2OUNNeGNBcHNsZ1cxWC1ybWNB?oc=5",
+      "summary": "D4vd Murder Case: Celeste Rivas Was Not Pregnant When She Died TMZ D4vd murder case: What happens next \u2014 and could he be found not guilty? Los Angeles Times Celeste Rivas Hernandez Was Not Pregnant at Time of Killing, DA Says (Exclusive) People.com Judge rules singer D4vd must stand trial in killing of 14-year-old Celeste Rivas Hernandez AP News Teen who singer D4vd is accused of killing had multiple abortions, texts reveal BBC",
+      "published": "2026-07-29T20:27:39+00:00",
       "outlets": [
+        "AP News",
         "BBC",
-        "CNN",
-        "E! News",
         "Los Angeles Times",
-        "The New York Times"
+        "People.com",
+        "TMZ"
       ],
       "feeds": [
         "google-top"
@@ -840,66 +885,91 @@
       ]
     },
     {
-      "title": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GTndhWnRMUlFiNFlZa24wM0ZEQUtjU3MzRzhLWTU4Y3lIckFfWGNlTE9UMmtTaWVXaDZueS1EemRwOHNVaW5ZRHdfam9FX2xFcjRieWgyckdvZFM0TV90emhER3Q2LWhZVHFEZ0RIaw?oc=5",
-      "summary": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56 The New York Times Glen Hansard Once Told Me His Most Important Lesson For Life Esquire Oscar-winning songwriter Glen Hansard killed in crash BBC Oscar-winning singer Glen Hansard dead at 56 Fox News \u2018Once\u2019 Oscar winner and Irish musician Glen Hansard dies in motorcycle crash CNN",
-      "published": "2026-07-29T18:00:48+00:00",
+      "title": "After the quake came the blast: Inside Japan's shopping mall disaster",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUlpWmt0VXRMT2dCakd5YVQ0QWMzMk5PdnFLNTJfZXJEdHp5eE5VdFZUY0RRYm5GSFdiX0c1OG8zMzkzN0xkV3JQUVh2VjV4OXIyWFphR01qR1pNNUJXOXVVZmIwWWVBQ2dBMVN0eU5jTzF2ZXBJcTQ4YkJPR2hJR1AtZmNGMzFSMDl1RGlpUVBhTElfTlJkVGM1amxFZ1pHdTBXRFdtLTcwaTJUSlA3WXZQU3Y?oc=5",
+      "summary": "After the quake came the blast: Inside Japan's shopping mall disaster Reuters 14 confirmed dead after Tues. quake in southwestern Japan Japan Today Why does Japan experience so many large earthquakes? WMUR Toyota extends Lexus shutdown through week\u2019s end after killer quake throttles Japan Automotive News The Quake Struck Japan. Eighty Minutes Later, a Lethal Explosion. WSJ",
+      "published": "2026-07-29T19:09:29+00:00",
+      "outlets": [
+        "Automotive News",
+        "Japan Today",
+        "Reuters",
+        "WMUR",
+        "WSJ"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjZZaTNncGdxWUZzM0xkdnRYQkw1MVZtOUhWMVJaQ0NTNExxZ21kcGhZYkFUYmFyeXZWM2VVa1JycTNaR0RIZVp6dERQMThEV0kySU9VVURjWGdubUg2ODBDVkxraFpmeWtFdEhhYnFRdFI2MVBNS3Z3UHpkWTdkM1J0QkZjSVBwTFZWXzJsbHctZGFuZlg4RWk1dWNTWUlzTDBURGJPTVBxMm8?oc=5",
+      "summary": "Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump AP News Ukraine adapts strikes on Russian energy industry to hit critical components Financial Times Inside Ukraine\u2019s Long-Range Strike Campaign with the AGM-188A Rusty Dagger navalnews.com At Least 3 Dead in Russia and Crimea After Ukraine Strikes Industrial Sites The Moscow Times Ukraine hits Lukoil refinery in Russia's Perm: fire raging\u2013 video \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "published": "2026-07-29T17:37:00+00:00",
+      "outlets": [
+        "AP News",
+        "Financial Times",
+        "The Moscow Times",
+        "navalnews.com",
+        "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "2 firefighters die in wildfire on Crete as massive blazes persist across Europe",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ1VtZWt1bHV4S3F2MDFMTDB2QXJYZWtKd0hoRHVWSmgyRjVzWWZ0d004Ml9pZDZHanJUWHJtQ2RqUl81OG9YQ0lLR3VnNWhRQy00bEpZZXY5M3duZkZPSEVpekpRdkV0QVNGYVFWV19rREd6cERhZEQ0RTBsY1E2RGlMWTAzbGM?oc=5",
+      "summary": "2 firefighters die in wildfire on Crete as massive blazes persist across Europe AP News Two firefighters die in Crete as wildfires threaten parts of southern Europe BBC Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires The Guardian 2 firefighters die in a wildfire on the southern Greek island of Crete PBS Three Greek firefighters killed as wildfires strike further east in Europe Reuters",
+      "published": "2026-07-29T16:18:00+00:00",
+      "outlets": [
+        "AP News",
+        "BBC",
+        "PBS",
+        "Reuters",
+        "The Guardian"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "'Blood everywhere' - Lindsay Clancy's ex-husband testifies in murder trial",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ldlVvX3NvTEw4b2MtQ2FVdjlpVDlnc19DY1FRUXQyRXVUX3hGV1dNUkJmOVdSNGVGLUxtRU96b2dodjVFVGJiZjFMYmVWUE8yb3RsWmowcUNEQQ?oc=5",
+      "summary": "'Blood everywhere' - Lindsay Clancy's ex-husband testifies in murder trial BBC Day 2 of testimony in the Lindsay Clancy murder trial CNN 'She killed the kids!' 911 call from Lindsay Clancy's husband brings tears to the courtroom Dallas News Patrick Clancy testifies about ex-wife\u2019s attempts to seek mental health care after 911 call played in her murder trial The Boston Globe Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings WBUR",
+      "published": "2026-07-29T18:56:15+00:00",
       "outlets": [
         "BBC",
         "CNN",
-        "Esquire",
-        "Fox News",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Moscow Court Jails Journalist Daria Shipacheva 12 Years for Treason",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOE5GRGpYSzVOV1ZyR0VZU1o1Mlp6cW1ZX1A2OGNNMUJOZVVyWHRBUGhiYU03WGhJY3FxWU9meGFnMlZIT0YwQVVpSTNDTzU3UXRnVzE0ZUVRWTUyVzlUSzcwem11R3ItX2Q2Wnd1b1laZUxSX2J1cTBHNlpyRUNUR2tMRDFIUUJ3ODdLRDBpU0Q0aFlNRVlpRmd4T0VlN2M5V3JSRlFQb2tQTnJSQWFkeG5Gb3VMTjg?oc=5",
-      "summary": "Moscow Court Jails Journalist Daria Shipacheva 12 Years for Treason The Moscow Times Russia jails journalist for 12 years on treason charge NBC News Russia sentences journalist to 12 years on treason charges \u041d\u043e\u0432\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430 \u0415\u0432\u0440\u043e\u043f\u0430 Russian court hands science journalist Darya Shipacheva 12 years in treason case reportedly linked to Ukraine money transfer theins.press Russian Journalist Sentenced: Darya Shipacheva's Treason Verdict Devdiscourse",
-      "published": "2026-07-29T13:23:14+00:00",
-      "outlets": [
-        "Devdiscourse",
-        "NBC News",
-        "The Moscow Times",
-        "theins.press",
-        "\u041d\u043e\u0432\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430 \u0415\u0432\u0440\u043e\u043f\u0430"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6NVFnemxxTDhkOVFQNG5naTQtV21fMGZ0YVhDQjRpZUstZWZfU3BVM1hNclpGa25uMjQzRDhjSWoxa3VzN0ttaEc5NjJvTE9vTHUyNWp3UTZlRUxGbk1TOVV1VUFUV1gxQktuZHdEME5ZazhGeGtmNjNlSQ?oc=5",
-      "summary": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court WCVB Patrick Clancy testifies about ex-wife\u2019s attempts to seek mental health care after 911 call played in her murder trial The Boston Globe Live updates: Lindsay Clancy murder trial continues with her ex-husband\u2019s testimony CNN Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings WBUR Lindsay Clancy's ex-husband testifies about the day she killed their 3 children PBS",
-      "published": "2026-07-29T20:42:00+00:00",
-      "outlets": [
-        "CNN",
-        "PBS",
+        "Dallas News",
         "The Boston Globe",
-        "WBUR",
-        "WCVB"
+        "WBUR"
       ],
       "feeds": [
         "google-nation"
@@ -915,16 +985,16 @@
       "prompts": []
     },
     {
-      "title": "Seattle police chief snaps over Chicago home questions, absence from city after mass shooting",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjBxMFhfQ21pLVJSaVNKNXBDRkwwWlVPV2h3OVRucmt6dW50YWNOMWxZTEt3a255c1dqaHZqQkhDYUhZM3ZaT2JxbUQzT1U1OURfaTJEdHoxd291ZHZaQzhMVHlxaFNtMHkxdFI5V1FPcV9fOVBJV19NaG5nRFFmdU9QU19Tc2ZjLTVjR25Lak83ZjdMUGtsQmpFTE5abnBvOFhLRUNR0gGrAUFVX3lxTE5hcG5MLXJHN0Q1ZS1sS2Z1T3FFZ1BLZk54QUNudFI1dTJoRWpONVd5LU94WkF3Ym0zSXNIZmdzYjVzUzdjcS1QLXZGVk10MHJEYWVFTXg3TkRLT2ZUdXhLQmdVSVRhb1BQQzlhOEduR19QUXZyM0VjWWNrTFFwdlJkTks4ampFaVUxelE0UFVlbEV4VjF0eEh3M2p3Z1BDMDFvQnktRmZWdE91WQ?oc=5",
-      "summary": "Seattle police chief snaps over Chicago home questions, absence from city after mass shooting Fox News 'A big deal using the gang word': Photog Steve explains what city lost when it disbanded its gang unit in wake of Bite of Seattle shooting MyNorthwest.com Seattle Center shooting reignites debate over Seattle police disbanded gang unit KOMO Seafair Weekend Festival security shaped by CEO\u2019s mass shooting survival The Seattle Times 'Come inside': Neighbors turn tiny apartment into refuge during Bite of Seattle shooting KING5.com",
-      "published": "2026-07-29T16:42:51+00:00",
+      "title": "EXCLUSIVE: Texts point to possible delay in shooting news conference",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVk5sZ3RaM1Fwc093YU9oX0xCWV80TDVkUjZRV29keldpSnZHc1NKbExrQkpFS2NwQnhKd0lKc0pYQ2t1T1N4amZwSjkwcjc5S0VjUFpFSEF4dGVqRUZFa2VOUGltYXFJUFNXdFJTbUc2d3VYUy1Mc0VFczRvMjN5NGozTDNWSVRuY1pVcFRRaWNxYnEyYVBV0gGcAUFVX3lxTE1iUk5KNEJacnlZa0x5RGgxWkk1LV9UTTJDTXpxN1hiTElRUWtOc1hMTFVBWWo1MUJfVVBOemdyNnVCaWw4VzhHYjFKdXNrTGpkSnEtSTQxeEpaS1NoV3pkQS1ZX3RKd3pSM1A1RWljOTZBVF9ndkpOeWFzRHdlazZhNnEyZHBfSl9jSWIyVzMzMHJST3I5LVhzems3aw?oc=5",
+      "summary": "EXCLUSIVE: Texts point to possible delay in shooting news conference The Center Square Bullets that killed 2 at Seattle festival weren\u2019t recovered from teen shooter\u2019s gun, police say AP News California-based company that runs Bite of Seattle responds to mass shooting 30 hours later MyNorthwest.com Prosecutors anticipate getting a case for 15-year-old suspect in Bite of Seattle shooting KOMO 'Come inside': Neighbors turn tiny apartment into refuge during Bite of Seattle shooting KING5.com",
+      "published": "2026-07-29T16:56:00+00:00",
       "outlets": [
-        "Fox News",
+        "AP News",
         "KING5.com",
         "KOMO",
         "MyNorthwest.com",
-        "The Seattle Times"
+        "The Center Square"
       ],
       "feeds": [
         "google-nation"
@@ -940,79 +1010,35 @@
       "prompts": []
     },
     {
-      "title": "Flooded homes, closed roads, boil water advisories; torrential rain floods the area",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczBXNXFlLVJ3alFDMmpwaU1mMWtpZlRFbXg0VVA5WjlsMmVSQzVGNG16WnU2S204UnhtMHFXcWZqWHdGVzVTUENTZWQxN0dTOHBIRmRBd09Zd0dyOHBYSGR6bFI1Nzh4R2syVXkwbm9kTmw0VFphcF8zd2NBNnFrcFhGVmEyaWlqLXZSdWZfN3NRWUF6c0E2WUpMQ1dWbUU0dGpJ?oc=5",
-      "summary": "Flooded homes, closed roads, boil water advisories; torrential rain floods the area WRGB Flooding spreads in eastern New York as the heavy rain responsible shifts to New England CNN Maps show where heavy rainfall poses flood risks across Northeast CBS News NYC storms: PS 230 in Kensington, Brooklyn houses one of city's safe overnight locations ABC7 New York Tracking NY, NJ rain, floods: Timing and areas to be hardest hit PIX11",
-      "published": "2026-07-29T15:51:31+00:00",
-      "outlets": [
-        "ABC7 New York",
-        "CBS News",
-        "CNN",
-        "PIX11",
-        "WRGB"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "A Dragon Age Trilogy remaster probably won't happen as no one still employed at BioWare knows how the engine works, claims producer",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWtzUGZib0h1Y0otYlktTWFyYnRIR0JKbHUzS1Rjc2FHUVJYdzZQUTIwUkxaNjRETTE3SFBVN1Jjekg1TVBEcGZpakVGRXkyVU5uN3FmUWY1aWtsaUFpZ0ZMRG5KTGdEZGhnN2d0aWs2b1lXRVJ5M3lwNjM2eUlibkxCUEs?oc=5",
-      "summary": "A Dragon Age Trilogy remaster probably won't happen as no one still employed at BioWare knows how the engine works, claims producer Eurogamer.net Dragon Age Creator Says Veilguard May be Series's Last Hurrah TechPowerUp BioWare's Former Dragon Age Boss Says a Mass Effect-Style Remaster Trilogy Is Pretty Much Impossible IGN Ex-BioWare Dev Explains Why He Thinks Dragon Age Is Basically Dead Kotaku Former Dragon Age boss says EA killed the series for good games.gg",
-      "published": "2026-07-29T11:11:51+00:00",
-      "outlets": [
-        "Eurogamer.net",
-        "IGN",
-        "Kotaku",
-        "TechPowerUp",
-        "games.gg"
-      ],
-      "feeds": [
-        "google-technology"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "In France and Spain, the battle to contain wildfires faces another heatwave",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVNENrWFlmNTR4Q0dRV19XR1dFa0pCWTNhTTJaOXFRaVRMS1RkYkVPUU1TNWk5SDEtV2hDbVFPZzM3dHJzalV0M0syTldQZldHVWVPY2N1WV9fU2dlRnlkTUU5Y3p1N3p4UWdz?oc=5",
-      "summary": "In France and Spain, the battle to contain wildfires faces another heatwave NPR Tracking the wildfires in Europe, in maps and charts CNN Europe\u2019s fires are just the start The Economist Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris AP News France battles wildfire 4 times the size of Paris as soaring heat threatens new surge ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-29T07:22:44+00:00",
+      "title": "\u2018Ticking time bomb:' Details emerge after suburban man charged in deadly Fox Lake boat crash",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDNzWjRUOHVUZDQzVlI4WGJuckl2ai1hclNXU2hRbHBKcTFxMGk4X29jdXFHaDItWDBURkNOTk1ra3hDTEY5MkVCU3piODlTNi14NUdOZE9XNUlvVnN0bDFZTk1RMHpwbzFQT0Jwdko3c2ZuOGhKTTlpV2FFTUN0Sm90S1pLU1ExQy13TUVSWmdEQ3d4YzdQNDYyZ25RVU5pNW5qdGhR0gGuAUFVX3lxTE95THVCczZ6YXZpcWlOSVJVbXhhT3pJRVZUS1BJc2ZFaGozNWJQNlZUNjR3bHVRU1k2NERMU3d3bzJrb3RDRkFoNkU4a1Rob1gxRmFGcjNPRkVUVUtHc3Q3dFFsaXlKX2R5VUYtQkZUVmZXaWFQcHVwNmRXbHAtU2FBdE5teFRGM1ZmQ1haWVdoTWlobUE2Y3haczZ1ZTBOUUx2OUZfaGpyVUI5dXlPdw?oc=5",
+      "summary": "\u2018Ticking time bomb:' Details emerge after suburban man charged in deadly Fox Lake boat crash NBC 5 Chicago Man held without release after boating accident leaves victim decapitated ABC News - Breaking News, Latest News and Videos Richard Stevenson, who has history of DUI, speeding offenses, charged in deadly Fox River boat crash near McHenry, Illinois ABC7 Chicago Family remembers victim of deadly Fox River boating crash: 'Strongest of all of us' FOX 32 Chicago \u2018Selfless\u2019 48-Year-Old Marine Veteran Identified as Woman Decapitated After Man Crashed Pontoon into Her Boat People.com",
+      "published": "2026-07-29T17:29:38+00:00",
       "outlets": [
         "ABC News - Breaking News, Latest News and Videos",
-        "AP News",
-        "CNN",
-        "NPR",
-        "The Economist"
+        "ABC7 Chicago",
+        "FOX 32 Chicago",
+        "NBC 5 Chicago",
+        "People.com"
       ],
       "feeds": [
-        "google-world"
+        "google-nation"
       ],
-      "reach": 54.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "who"
+        ]
+      },
       "verdict": "block",
       "policy_reasons": [
         "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
       ],
-      "prompts": []
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
     }
   ]
 }
