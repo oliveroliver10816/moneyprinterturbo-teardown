@@ -1,58 +1,59 @@
 {
-  "generated": "2026-07-30T06:17:15+00:00",
+  "generated": "2026-07-30T09:17:15+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
-    "reddit-worldnews": "HTTP 429 rate limited"
+    "reddit-news": "HTTP 429 rate limited"
   },
-  "raw_items": 1653,
-  "stale_dropped": 1098,
-  "clusters": 498,
-  "off_topic": 33,
+  "raw_items": 1632,
+  "stale_dropped": 1095,
+  "clusters": 479,
+  "off_topic": 32,
   "stories": [
     {
-      "title": "'Completely Transformed My Understanding': Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0NKVEdRMTlfWmFtNTktWUhkZzN4NFBFNkhHdC1ydEFHZExmQTJBQ0hCbjRjSUhVeFBETFVYUVkyZHBqTE5BVmZ5YTJLb2JacDlzRWlLMVY1cGNWbXNxWnhEa2JSSnJFSHM0VF9SbmFPYlhqbElnWjROd0NWaVcwVGVCLW9HS2plajZyNmRLeUxFSGlMNmVyTEczbTJGTzh2MjQ2cTByUVZpcHM4bEF5RmlPMy1Xa2ZVX2NQdy0zNlg4QlJvN2pGdXBfQVpOSFg3cGc?oc=5",
-      "summary": "'Completely Transformed My Understanding': Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon ScienceAlert Over 20,000 precolonial earthworks in the Southwest Amazonia Nature An ancient civilization of millions once flourished in the Amazon Phys.org Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago Live Science Lost civilisation in the Amazon may have numbered 3 million people New Scientist",
-      "published": "2026-07-29T15:03:39+00:00",
+      "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZklmMzNxWVJBcm9sNWdOX2JRc1NaTHdRbktrQnJLejR1bVVnRjJ2MFNtZmFKaDh6UFN3dk9PX1h4YktHUkVGYnpuMFJQRk1PMkg2QUJZOVVNMk05dThqb0R0a3pJNXJwVlNDSG5RY1YtMzRWbG1wWllEUUtaSmFHaTZMRTFkbm1aMEx0eDJOXzBDVWEwbHpWSTV2eldhZHhTZjhYaTlFZXNrdmJDOWdvb0MxVDd0ZllUT29YV1cwRUpEYktOR1hpVVhIcl9DV1BFNlM5V0d4SnFTNXBCSkEtbnQ5T2xkVk5GbjE4TlNuWGtyU0pETWNzYg?oc=5",
+      "summary": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30 Space NASA to Host Media Briefing on Roman Telescope, Launching Next Month NASA (.gov) NASA's new Nancy Grace Roman Space Telescope is about to launch. Here's why it's so cool. Yahoo Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like our own MIT Technology Review The universe\u2019s greatest mysteries could be solved with Nasa\u2019s new launch The Independent",
+      "published": "2026-07-29T22:41:30+00:00",
       "outlets": [
-        "Live Science",
-        "Nature",
-        "New Scientist",
-        "Phys.org",
-        "ScienceAlert"
+        "MIT Technology Review",
+        "NASA (.gov)",
+        "Space",
+        "The Independent",
+        "Yahoo"
       ],
       "feeds": [
-        "google-world"
+        "google-science",
+        "google-top"
       ],
-      "reach": 54.8,
-      "angle": 40.8,
-      "rank": 22.4,
+      "reach": 64.8,
+      "angle": 41.6,
+      "rank": 27.0,
       "signals": {
         "unexplained": [
-          "mysterious"
+          "mysteries"
         ],
-        "frontier": [
-          "ancient"
+        "institutional": [
+          "nasa"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+        "An agency is involved. Its own record is the context nobody pulls."
       ]
     },
     {
       "title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDlKZHc3cDNzMTlSN1dSV1ltaHlvLXlxSnpmSzVGQTgwR2lLZnEtSElodWxPTnVELXFGUThqdHdZRXlLUFUyMGlqNWhmbndVYzkzV1hCSVFkUXdCWWRyQ1RnaG1DLXg3Wk41eG1lTUYzU3BKSTFtMXExYVdrbTNoNVFoMDBaVXNnaVcwUVZGUkJNVHItb0kwMDdHbzhTWkMxM0ZBQ3lfUlpzQWl4MUFFRGRTVkRvd29jQ3p6N05aLTA?oc=5",
-      "summary": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office Spaceflight Now NROL-95 Mission SpaceX SpaceX launching secret US spy satellite early on July 30: Watch it live Space SpaceX launch could trigger sonic booms across Central Florida early Thursday WFTV SpaceX launch from Florida early Thursday will bring nighttime sonic boom Florida Today",
-      "published": "2026-07-30T05:42:13+00:00",
+      "summary": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office Spaceflight Now SpaceX launch could trigger sonic booms across Central Florida early Thursday WFTV SpaceX launching secret US spy satellite early on July 30: Watch it live Space Overnight sonic boom! SpaceX rocket launches from Florida early Thursday on NROL-95 mission Florida Today SpaceX Florida rocket launch. Watch liftoff from the Treasure Coast Treasure Coast News",
+      "published": "2026-07-30T08:47:39+00:00",
       "outlets": [
         "Florida Today",
         "Space",
-        "SpaceX",
         "Spaceflight Now",
+        "Treasure Coast News",
         "WFTV"
       ],
       "feeds": [
@@ -108,22 +109,22 @@
     {
       "title": "Samsung\u2019s next pair of Galaxy Buds show off open-ear design in another leak [Gallery]",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tNHFvYjhoV1NkbW00cFNsOVJIQzhtWTQ5VENVTXJqU1JtSjNSdUZjdVd0TmRPOXZKV1I0c1pRTndsQnFIZXJCNjM1TkFEZDNUWEZEcHQ5RVBycEpibDFLSFRpSG1qZ0xXN19wc09Eb25BU0VLUi1J?oc=5",
-      "summary": "Samsung\u2019s next pair of Galaxy Buds show off open-ear design in another leak [Gallery] 9to5Google Exclusive: New Galaxy Buds On/Able images reveal Samsung's clip-on earbud design SamMobile This is what the Samsung Galaxy Buds On look like - GSMArena.com news GSMArena.com Leaked Galaxy Buds On Icons Gives Us Our Best Look Yet SammyGuru Here\u2019s an early look at Galaxy Buds On, Samsung\u2019s first open-ear earbuds Sammy Fans",
+      "summary": "Samsung\u2019s next pair of Galaxy Buds show off open-ear design in another leak [Gallery] 9to5google.com Exclusive: New Galaxy Buds On/Able images reveal Samsung's clip-on earbud design SamMobile This is what the Samsung Galaxy Buds On look like - GSMArena.com news GSMArena.com Here\u2019s what Samsung\u2019s rumored clip-on earbuds may look like Notebookcheck Leaked Galaxy Buds On Icons Gives Us Our Best Look Yet sammyguru.com",
       "published": "2026-07-29T20:15:00+00:00",
       "outlets": [
-        "9to5Google",
+        "9to5google.com",
         "GSMArena.com",
+        "Notebookcheck",
         "SamMobile",
-        "Sammy Fans",
-        "SammyGuru"
+        "sammyguru.com"
       ],
       "feeds": [
         "google-technology",
         "google-top"
       ],
-      "reach": 64.8,
+      "reach": 60.8,
       "angle": 28.0,
-      "rank": 18.1,
+      "rank": 17.0,
       "signals": {
         "secrecy": [
           "leaked"
@@ -138,14 +139,14 @@
     {
       "title": "Curiosity Mars rover discovers field of honeycomb textures",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbUNSOEdlZmdEa2FycGc0c0g5d3RjT1FWeTVKNVMyWlBhUjliMnFReV8yT0tmT05CTFhqWFZ6aWlXWE01SjZPZ21sZzNkN2ozbXRzVHFsTTlkcGIzaTdrY2lvaC10aEcxNkV6amFyckF3SGx3LW1ILS14TQ?oc=5",
-      "summary": "Curiosity Mars rover discovers field of honeycomb textures Phys.org NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science NASA's Curiosity Rover Captures Miraflores Rising Alone Above a Sea of Martian Honeycombs TechEBlog - NASA\u2019s Curiosity Rover Finds Honeycombs on Mars, They Were Not Made by Bees autoevolution",
+      "summary": "Curiosity Mars rover discovers field of honeycomb textures Phys.org NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science Curiosity rover spots field of giant honeycomb on Mars \u2013 but no giant space bees The Register 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine",
       "published": "2026-07-29T17:30:01+00:00",
       "outlets": [
+        "BBC Sky at Night Magazine",
         "NASA (.gov)",
         "Phys.org",
         "Popular Science",
-        "TechEBlog -",
-        "autoevolution"
+        "The Register"
       ],
       "feeds": [
         "google-science"
@@ -166,38 +167,6 @@
       "prompts": [
         "An agency is involved. Its own record is the context nobody pulls.",
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNbzdNOFBCZTRoSHlpX1JBeUsyNHVDWXpRLUxJcUYzbEFPOW9GbHpqVGRPdlJ4SllnR3R4MDVVX01IMW9PNWpWMHZiLTRkeWNod1M4Z0s0V0FnOTlHTGRmR0RSN29oX2pDNF8xV291akZBbmFzZnNyejJ2bVBQZERqYnVjVHBScFNHTzUwNlBhVnpFMVNLcm9zeUJUQnptQVJOS3dJNkZGTnI3RkVOY1NWUk4yT1dqX1dwS1pULXBTeWFLYlNRaEpkYWdsU2dRb0t2WDlmZGpuR1llRzNINUsyNHVzVTdJbExheW5PeG5ZUDZBUWpWMmVaWVljOS1Mb0wxNGQ5TnJPQ252TzU3UjBDSk11Q3Ntb0YyeVZNMlhXaFJXQ3ZMaTRsZFlJVlRRemRBTlYxdDg0UU9qNUhzZWhxa2xjTEJvSkhGbFF1bXpMX0g3UQ?oc=5",
-      "summary": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz WBOC TV",
-      "published": "2026-07-28T21:00:00+00:00",
-      "outlets": [
-        "Carroll County Mirror-Democrat",
-        "WBOC TV"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 31.5,
-      "angle": 35.6,
-      "rank": 11.2,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ],
-        "institutional": [
-          "who"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered.",
-        "An agency is involved. Its own record is the context nobody pulls."
       ]
     },
     {
@@ -224,6 +193,68 @@
       "policy_reasons": [],
       "prompts": [
         "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNbzdNOFBCZTRoSHlpX1JBeUsyNHVDWXpRLUxJcUYzbEFPOW9GbHpqVGRPdlJ4SllnR3R4MDVVX01IMW9PNWpWMHZiLTRkeWNod1M4Z0s0V0FnOTlHTGRmR0RSN29oX2pDNF8xV291akZBbmFzZnNyejJ2bVBQZERqYnVjVHBScFNHTzUwNlBhVnpFMVNLcm9zeUJUQnptQVJOS3dJNkZGTnI3RkVOY1NWUk4yT1dqX1dwS1pULXBTeWFLYlNRaEpkYWdsU2dRb0t2WDlmZGpuR1llRzNINUsyNHVzVTdJbExheW5PeG5ZUDZBUWpWMmVaWVljOS1Mb0wxNGQ5TnJPQ252TzU3UjBDSk11Q3Ntb0YyeVZNMlhXaFJXQ3ZMaTRsZFlJVlRRemRBTlYxdDg0UU9qNUhzZWhxa2xjTEJvSkhGbFF1bXpMX0g3UQ?oc=5",
+      "summary": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz WBOC TV",
+      "published": "2026-07-28T21:00:00+00:00",
+      "outlets": [
+        "Carroll County Mirror-Democrat",
+        "WBOC TV"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 27.5,
+      "angle": 35.6,
+      "rank": 9.8,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ],
+        "institutional": [
+          "who"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered.",
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Scientists find a simple way to stop cavities without drilling",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMmk1WlljcG5GVlYtM2dPXzhZNzJoN3czbkdEam9QYkpwVDJSeXBLX1ZNVDM0Qm1TR3lIc0dXRDBWa1RZcXV5UjF1YlVCQ0h2OEdhNGNJNzdGcTVENVo0UzFMMjFWOGh0U2NiNG5qcw?oc=5",
+      "summary": "Scientists find a simple way to stop cavities without drilling ScienceDaily Silver diamine fluoride treatment could halt cavities without shots, drilling or sedation Medical Xpress Scientists say they\u2019ve discovered a way to stop cavities\u2014without drilling Fast Company Liquid could be answer to stop cavities without drilling, study finds newsnationnow.com Multi-center Study Shows Benefit of Drill-free Cavity Care for Kids New York University",
+      "published": "2026-07-29T12:37:09+00:00",
+      "outlets": [
+        "Fast Company",
+        "Medical Xpress",
+        "New York University",
+        "ScienceDaily",
+        "newsnationnow.com"
+      ],
+      "feeds": [
+        "google-health",
+        "google-top"
+      ],
+      "reach": 60.8,
+      "angle": 16.0,
+      "rank": 9.7,
+      "signals": {
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -259,14 +290,14 @@
     {
       "title": "Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans: \"It's a wonderful culture and it would be a shame to lose that\"",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPeURaUGtkc0FoRzZLS3Q0eGZod2lORDBlU3I4Rm1VN3hZdWhUSmtZWHY4MjZoTkhHemRia2phaDNOY2txRXhEYy1PTW1qclg1dS1FajlKLVdDS0llOGkyTzlKTVMyWFlsaUNORTZkQXJobjlSWFViRUR0QWhaMHBsVVJ3NkxUaDJjOGZBUUpHWDNNcmJEVHFjTkVPaVNmOER5TVZHUkRxSTU5Wjg2ZzYzc3hFYnpHekhjRC1oLXh1LS0xTU9IdjBTZWd0WEc3bWhjdmxBLU9oX1E4a2JnRDJBWXVpQ3FxVUgwaFNKcFBTWkRIMnAydzBtLTItMng2V0dKbVd3ZmdSTTFMRTViMmV1R2dIQmxDcEN1MjJDYmdPYzl5TWk2cVE?oc=5",
-      "summary": "Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans: \"It's a wonderful culture and it would be a shame to lose that\" gamesradar.com Final Fantasy 14 could finally introduce a controversial feature to welcome new players Polygon.com Square Enix Reveals the Bastion, Final Fantasy XIV's Newest Job, Coming in Evercold MMORPG.com Yoshi-P says his approach to development on FF14 \"hasn't really changed\" since A Realm Reborn Radio Times WoW\u2019s tank classes feel ancient next to FFXIV\u2019s new Bastion job Windows Central",
+      "summary": "Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans: \"It's a wonderful culture and it would be a shame to lose that\" GamesRadar+ Final Fantasy 14 could finally introduce a controversial feature to welcome new players Polygon.com Square Enix Reveals the Bastion, Final Fantasy XIV's Newest Job, Coming in Evercold MMORPG.com Yoshi-P says his approach to development on FF14 \"hasn't really changed\" since A Realm Reborn Radio Times WoW\u2019s tank classes feel ancient next to FFXIV\u2019s new Bastion job Windows Central",
       "published": "2026-07-29T13:00:00+00:00",
       "outlets": [
+        "GamesRadar+",
         "MMORPG.com",
         "Polygon.com",
         "Radio Times",
-        "Windows Central",
-        "gamesradar.com"
+        "Windows Central"
       ],
       "feeds": [
         "google-technology"
@@ -311,10 +342,35 @@
       ]
     },
     {
+      "title": "Missile that left crater deep inside Poland was probably Russian",
+      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+      "published": "2026-07-30T09:05:21+00:00",
+      "outlets": [
+        "bbc-world"
+      ],
+      "feeds": [
+        "bbc-world"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unidentified"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
       "title": "Unexplained wealth Act provisions proclaimed",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjM4ZlRkMjhkem5kUm5aWlF1TjNfT0FVbE9DNkszaHdaZE9Tb1BicUk4bVRYZEpKRm1GbXJLdGFnYWpHbWI5UnItSHE4WkVoWUpOSjA0OVhoUVptcWJDUWx0Tmp6TGZVelE2aERBQXQ2Y01fYzVYNjRTQU1wazBDRWtTbERYQVFlblNrQ0xKcFFEY3JwVW9RaDNTZVRpcmM?oc=5",
       "summary": "Unexplained wealth Act provisions proclaimed Trinidad Guardian",
-      "published": "2026-07-30T00:12:00+00:00",
+      "published": "2026-07-30T00:12:28+00:00",
       "outlets": [
         "Trinidad Guardian"
       ],
@@ -336,16 +392,66 @@
       ]
     },
     {
-      "title": "Kenyan footprints shed light on prehistoric human cousin Paranthropus",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMngtaXBnTHhYNlRzWFpIQmdlY0pBQ2hna2VNMmdsQU14YnY0dExZcF8yWkdNMktEMlEyYmRIeU1hdlVtdjJLd1JxVm5rY2k0UkdWbFFnSEcybWtkWVYyMkZBM3F3LVJnakw4bmhxanVCNFdUc2F4ZllfbHoxN09kbjRCc2RhMGU4Mjg0bUtvcV9CMTQ1Q2JyZmZTelh0NTBFZ2xIVEFhRUY2Q2lYemIw?oc=5",
-      "summary": "Kenyan footprints shed light on prehistoric human cousin Paranthropus Reuters \u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019 cnn.com Fossil footprints reveal body size and group dynamics of 1.4-million-year-old human relative Phys.org News - Hominin Footprints at Lake Turkana Reevaluated Archaeology Magazine Huge 1.5-Million-Year-Old Footprints Suggest a Human Cousin Nicknamed Nutcracker Man Was Far Bigger Than We Thought ZME Science",
-      "published": "2026-07-28T12:49:10+00:00",
+      "title": "Unexplained wealth charge the \u2018strongest\u2019 case vs Sara Duterte \u2013 Tupas",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTndQOE9LMWRrTDZsWTJjcUVDRlE3R1A4Y19ROGtObk5Nb2FDVUE5U095OTQtcDZMY25QdzJOMVhuY0J0X09CaXd2SldGNU5iTmZfamRiNjBYUDR0MGtSQnVQVVQyZHluZU9uV3luSEdlR043TExJUEN4YzkxbmRjT1VaZDhaakxEZ1lyT3BqRzh6YzdpTzdVenB1dUZNVzZEVkdMYzl5NzBUbWZwVWdqeWIwVVl4QkxE?oc=5",
+      "summary": "Unexplained wealth charge the \u2018strongest\u2019 case vs Sara Duterte \u2013 Tupas politiko.com.ph",
+      "published": "2026-07-30T08:02:53+00:00",
+      "outlets": [
+        "politiko.com.ph"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Unexplained rebranding prompts AASA questions",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Qm1idzFjNXc2amQ2a0E5b3o5WkRSZTZRUVBsc21IYy1GazJBb25taHRWTm9PVXJXWnpPdG9wSlh2RTZBODBkMnJKZWN5bjB1RVpPMmI0am03aTZuNU9hdkx2Q0Q4QmZWSGM1cHhSNWxIcnpDZnFYcTRGOXhpM1k?oc=5",
+      "summary": "Unexplained rebranding prompts AASA questions V8 Sleuth",
+      "published": "2026-07-30T07:08:20+00:00",
+      "outlets": [
+        "V8 Sleuth"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHRVMHNScnIxclFJS0wzcHZIclA5TkRXemJ0NFlVZy1BbHZYQ1lxRHhhamFaOTZMRlY2TGROYkVnRmJDUHo1b3ppa2YxaXVaNEtlLVpNMm5YYkdCX3hwWGpUWHVrbkRHNThtWE9JdjFSRENRcTl0QWk2RWhfTk1UMG42dlNjNkctcUxTcGswRHNOUQ?oc=5",
+      "summary": "\u2018A moment in time\u2019: Fossil footprints shed new light on the extinct \u2018Nutcracker Man\u2019 CNN Fossil footprints reveal body size and group dynamics of 1.4-million-year-old human relative Phys.org News - Hominin Footprints at Lake Turkana Reevaluated Archaeology Magazine Kenyan footprints shed light on prehistoric human cousin Paranthropus reuters.com Huge 1.5-Million-Year-Old Footprints Suggest a Human Cousin Nicknamed Nutcracker Man Was Far Bigger Than We Thought ZME Science",
+      "published": "2026-07-28T15:39:30+00:00",
       "outlets": [
         "Archaeology Magazine",
+        "CNN",
         "Phys.org",
-        "Reuters",
         "ZME Science",
-        "cnn.com"
+        "reuters.com"
       ],
       "feeds": [
         "google-science"
@@ -391,32 +497,6 @@
       "prompts": [
         "Something is being withheld. Build the middle on what was asked and not answered.",
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Exclusive | Federal Probe Into Dodgers Owner\u2019s Financial Empire Was Sparked by Whistleblower",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObE1wSExzcVlHQzE4ZUJuNlpSdE5vYmlQYTN1ZTdERFRpUXhnczZDaTlfUTVsT3NqYUxEWXY0SFd4a3M5QzBiZXFWSUhuOGJCTlV0YldwZnltLUxISjNpVHFwM2tnZ3A3bXdtNjM4SU16c3RhaTdOdXF6TmtOM2NjM1JXNm4xTXhtZURIaER2OGZCZ09fS0tqbXdROVMwdHhnenlpUlNPcnBpcnFKU25CbXBiRFRza1B4cTlpTXdOb3c0cTVuaUE?oc=5",
-      "summary": "Federal probe into Dodgers owner\u2019s financial empire was sparked by whistleblower Private Equity News",
-      "published": "2026-07-27T08:33:53+00:00",
-      "outlets": [
-        "Private Equity News",
-        "WSJ"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 27.5,
-      "angle": 28.0,
-      "rank": 7.7,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
       ]
     },
     {
@@ -552,7 +632,7 @@
       "summary": "20 to 30 employees unaccounted for after explosion at quake-hit Kumamoto mall in SW Japan Global Times",
       "published": "2026-07-28T22:49:05+00:00",
       "outlets": [
-        "AZ\u018fRTAC",
+        "Az\u0259rtac",
         "Global Times",
         "Japan Wire by Kyodo News",
         "bernama"
@@ -577,11 +657,11 @@
     {
       "title": "Assassin\u2019s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95SzVhRTIxTkpNZkNjNThkZFEzV3BSR0t3cEdacDd5TTdfY0FiUHEzLWMxZHBDNUtldm9ReHAycm9Zajh1QUVaX2JCVXBCekJqdXI0Ri11UGRWMzZmTkdVZ19kREU?oc=5",
-      "summary": "Assassin\u2019s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature OpenCritic",
+      "summary": "Assassin\u2019s Creed Black Flag Resynced Quietly Removed Fan Favorite Feature opencritic.com",
       "published": "2026-07-27T00:16:31+00:00",
       "outlets": [
         "IMDb",
-        "OpenCritic"
+        "opencritic.com"
       ],
       "feeds": [
         "angle:quietly removed"
@@ -601,100 +681,20 @@
       ]
     },
     {
-      "title": "Trump's war on fraud expands as Treasury launches new site with whistleblower incentives",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3pMY2t3OWdZMUlSLTJxVVFVWmVsa1lMU29EZWs4QW42b0NGMkIwU19lS1UyMW1NZmhrSHFXVWtxXzdldlFwaUFZblBoT1FOYlBEelJlekpjcUJFLWhRTjJFTkdjOUxDRWM2SUZVUHRQX3dLbWZKTjF3anRsR3lDaVdVQWlobW1XVmhSZjdQWUlGcVJQTmFldjF4RFFLQ1AwQXlpdFB6S0JabG9OVmc?oc=5",
-      "summary": "Trump's war on fraud expands as Treasury launches new site with whistleblower incentives Fox News",
-      "published": "2026-07-28T18:43:59+00:00",
+      "title": "Exclusive | Federal Probe Into Dodgers Owner\u2019s Financial Empire Was Sparked by Whistleblower",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObE1wSExzcVlHQzE4ZUJuNlpSdE5vYmlQYTN1ZTdERFRpUXhnczZDaTlfUTVsT3NqYUxEWXY0SFd4a3M5QzBiZXFWSUhuOGJCTlV0YldwZnltLUxISjNpVHFwM2tnZ3A3bXdtNjM4SU16c3RhaTdOdXF6TmtOM2NjM1JXNm4xTXhtZURIaER2OGZCZ09fS0tqbXdROVMwdHhnenlpUlNPcnBpcnFKU25CbXBiRFRza1B4cTlpTXdOb3c0cTVuaUE?oc=5",
+      "summary": "Federal probe into Dodgers owner\u2019s financial empire was sparked by whistleblower Private Equity News",
+      "published": "2026-07-27T08:33:53+00:00",
       "outlets": [
-        "Fox News"
+        "Private Equity News",
+        "WSJ"
       ],
       "feeds": [
         "angle:whistleblower"
       ],
-      "reach": 22.0,
+      "reach": 23.5,
       "angle": 28.0,
-      "rank": 6.2,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2JYcC1QT05Ud0hFZDBmZ3I5aFJmTFBLVmRrbWp3NmFzQmUzUnhpTDQwV09CMHd5bXZSdlJCTVl5bEQxakozTk81d0pIeDlibHpkV3A3T0FHWm91dW1BT2ZVQUQtM0xYMXNyRjlHRlYzek4ySnB6Sy05Z0gyRjBYcHY0MTEyN0dKU21DbVpWWXFJYnRhbVVoSlNOVVlMOTFxcl9NR3N6Y1ltMkRXSHpvVm1hZFA?oc=5",
-      "summary": "Jury awards former Good Thunder clerk more than $3M in whistleblower lawsuit 5 EYEWITNESS NEWS",
-      "published": "2026-07-28T20:57:05+00:00",
-      "outlets": [
-        "5 EYEWITNESS NEWS"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 22.0,
-      "angle": 28.0,
-      "rank": 6.2,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Former Cuba police officer alleges retaliation in whistleblower lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU2M2V0xTa2M0aVN2T1NOMV9XSzk4Y1Q0bDRXTXJxR3M4NjJUMU9qMUNHUnp6aE16bFF6X2p4dldKTUNmWjUwM0s2cFBUVVFqMl9vNVo1OXViekZBMzdJMzRYWFdWQzloanQtNzY1aWVkeGc3QWtKaFpvYWhJRkoxcGl5RF9CU2VpdWc?oc=5",
-      "summary": "Former Cuba police officer alleges retaliation in whistleblower lawsuit KOAT",
-      "published": "2026-07-29T16:53:00+00:00",
-      "outlets": [
-        "KOAT"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 22.0,
-      "angle": 28.0,
-      "rank": 6.2,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Rebekah Jones loses COVID 'whistleblower' appeal as court cites insubordination as termination cause",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX2NNdldIakNodzVacUFEYV8tNG1VTU9pUWNnTnNqeHVKMFJQVHloT0Y2MWtrSEUtYm1tTTZobUtJQmtZY1R6VVJiTnBQVWdMTGl3SjZSZGQzUGFGN2JBZHZUeFRSN0hPMGRJbFBrTW9qdlZkU05jTnFjcG1YNVkya0hKYW5TT0pianBRQllHMGJuc2lCeDUyWEcwTF9ZWTJEUmJNT2xBTDhMUHR5TFVIMERrdDdZbzd2aHJveHZiM1I2T3paaWFTa3pSamFfRkxWLTlIWUlVdThFcGs?oc=5",
-      "summary": "Rebekah Jones loses COVID 'whistleblower' appeal as court cites insubordination as termination cause Florida Politics",
-      "published": "2026-07-29T17:27:48+00:00",
-      "outlets": [
-        "Florida Politics"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 22.0,
-      "angle": 28.0,
-      "rank": 6.2,
+      "rank": 6.6,
       "signals": {
         "secrecy": [
           "whistleblower"
@@ -709,21 +709,21 @@
   ],
   "blocked": [
     {
-      "title": "Three Greek firefighters killed as wildfires strike further east in Europe",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZjdnd1liNzN4a2g2cnJyczdiSFVoY3lEMEVUb2hmVDhmQUVhc1pyYUx4N0NKd0FBcWhvb2FlNlY2UGZRbGQ2aENOT2lzbVBvM0NiUEpiMGtVa1VuT25BOFhIcW9tYi1rY25DV2xzdXpIcF9yQ3JLNmp5TmhOSnYwcGFnckF2TGI2M2lJSlVwSmZ5cVpSOC1KaFZOY3JxOHRod3VrWkdTaW5kbjM5dUNHaTBELWdSZU05?oc=5",
-      "summary": "Three Greek firefighters killed as wildfires strike further east in Europe Reuters Three firefighters die in Greece as wildfires threaten southern Europe BBC Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires The Guardian Three firefighters die as strong winds fuel Greek wildfires Euronews.com 2 firefighters die in a wildfire on the southern Greek island of Crete PBS",
-      "published": "2026-07-30T01:53:25+00:00",
+      "title": "Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejZxbGNOcnJucmdDQmlkRHg0Wm1ELVV5bUxqQUw5bDZwbHdCS1B3b2xNYW5tV09ZOFdmcjM0TEFBTmJkSzN3cy10Vk1FbmpIUHdzMFlueEFMMEpGQlJxOWE5LVVqRHd1MGF6Qnk3dzkxQzRhVjktbUQ5S1VnUTByWlVZTGdWRXdWVUFCMzFXY0dxZ2FWYkpIdUNiOXBxVUk4?oc=5",
+      "summary": "Lindsay Clancy trial today: 911 call from husband Patrick after finding children dead brings tears to courtroom ABC7 Chicago Recap: Patrick Clancy testifies, 911 call plays in Lindsay Clancy's trial NBC Boston Day 2 of testimony in the Lindsay Clancy murder trial CNN Lindsay Clancy's ex-husband testifies about the day she killed their 3 children PBS Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children AP News",
+      "published": "2026-07-29T21:44:00+00:00",
       "outlets": [
-        "BBC",
-        "Euronews.com",
-        "PBS",
-        "Reuters",
-        "The Guardian",
-        "bbc-world"
+        "ABC7 Chicago",
+        "AP News",
+        "CBS News",
+        "CNN",
+        "NBC Boston",
+        "PBS"
       ],
       "feeds": [
-        "bbc-world",
-        "google-world"
+        "google-nation",
+        "google-top"
       ],
       "reach": 71.7,
       "angle": 0.0,
@@ -736,22 +736,84 @@
       "prompts": []
     },
     {
-      "title": "Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejZxbGNOcnJucmdDQmlkRHg0Wm1ELVV5bUxqQUw5bDZwbHdCS1B3b2xNYW5tV09ZOFdmcjM0TEFBTmJkSzN3cy10Vk1FbmpIUHdzMFlueEFMMEpGQlJxOWE5LVVqRHd1MGF6Qnk3dzkxQzRhVjktbUQ5S1VnUTByWlVZTGdWRXdWVUFCMzFXY0dxZ2FWYkpIdUNiOXBxVUk4?oc=5",
-      "summary": "Jury in Lindsay Clancy trial hears ex-husband Patrick's 911 call after murders of 3 children CBS News Recap: Patrick Clancy testifies, 911 call plays in Lindsay Clancy's trial NBC Connecticut Day 2 of testimony in the Lindsay Clancy murder trial cnn.com \u2018She killed the kids!\u2019 911 call from Lindsay Clancy\u2019s husband brings tears to the courtroom AP News Patrick Clancy returns to witness stand in ex-wife\u2019s murder trial, prosecution plays his 9-1-1 call WHDH",
-      "published": "2026-07-29T21:44:00+00:00",
+      "title": "Texts reveal governor had no hand in Seattle police info blackout after mass shooting",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNcEU1aE5xZGxIZG5rRXU1SlVUS2VhWFVud3lyYTh5QWVNOHRfRnRzVzFaU0FwbXRtbVpnMWViT2NIYXNLTHJabGowNHVxSWlxd0M4YVZ2UXh6NTJoaldBSnNoRXAxZHZLaGdxQjlhbzViSzZUTndSRjFVWW9YWWNlbW5IbzdVaFZuT083MUNacUh6R09TZUlSYjF0eTd2UU5UM1VLS0ZRYjJlQ09DWWltdmlxdkxiSlB3REItcEVJZHNGUVpqZXE0UkYxZ2VnS0RGU3JqYllVWFp4enptOWdfZnNCOXg2emFCQXotcjYtbkwxOUNnZDhXU1NDdUtLRm8yV0NtZFZfOFE0NmdIaDJEVmNfNktEZGpIeTk4WWtpOEFoMnhWZlFETktrRklLeW1FMlhkcA?oc=5",
+      "summary": "Texts reveal governor had no hand in Seattle police info blackout after mass shooting KOMO 15-year-old Seattle Center shooting suspect charged with first-degree assault; prosecutors seek adult trial kuow.org 'A big deal using the gang word': Photog Steve explains what city lost when it disbanded its gang unit in wake of Bite of Seattle shooting MyNorthwest.com Bullets that killed 2 bystanders at Seattle festival weren\u2019t from 15-year-old shooter\u2019s gun, police say CNN 15-year-old suspect charged in connection to mass shooting at Seattle Center king5.com",
+      "published": "2026-07-30T04:08:28+00:00",
+      "outlets": [
+        "CNN",
+        "KING5.com",
+        "KOMO",
+        "MyNorthwest.com",
+        "king5.com",
+        "kuow.org"
+      ],
+      "feeds": [
+        "google-nation",
+        "google-top"
+      ],
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Unidentified object lands deep inside Poland causing explosion as Russia launches deadly, Ukraine-wide attack",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnRucjd0azV0V0pXVGZOMzJKY2JITTRZMG9yODhCc2lmdl9vUUV6c01oeTJ5a1VYZzRodlhKZjlMOWdvOExjZ3ZkNF9iNzI3OTEzd0ZXOTFpamhHbWVZdVI4TEFOSTVGYWJzcWVrN2EybU1zSFY0bDFOQ2Z6MUpzcmVB?oc=5",
+      "summary": "Unidentified object lands deep inside Poland causing explosion as Russia launches deadly, Ukraine-wide attack CNN Poland Likely Hit by Russian Missile, Premier Donald Tusk Says Bloomberg.com Polish police find crater, debris of unidentified object as Russia strikes Ukraine reuters.com Poland probes 'airspace violation' after mystery 10-meter crater found as Russia pounds Ukraine TVP World Unidentified object crashes in Poland as Russia strikes Ukraine politico.eu",
+      "published": "2026-07-30T06:23:31+00:00",
+      "outlets": [
+        "Bloomberg.com",
+        "CNN",
+        "TVP World",
+        "politico.eu",
+        "reddit-worldnews",
+        "reuters.com"
+      ],
+      "feeds": [
+        "google-world",
+        "reddit-worldnews"
+      ],
+      "reach": 71.7,
+      "angle": 34.0,
+      "rank": 24.4,
+      "signals": {
+        "unexplained": [
+          "mystery",
+          "unidentified"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Three Greek firefighters killed as wildfires strike further east in Europe",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZjdnd1liNzN4a2g2cnJyczdiSFVoY3lEMEVUb2hmVDhmQUVhc1pyYUx4N0NKd0FBcWhvb2FlNlY2UGZRbGQ2aENOT2lzbVBvM0NiUEpiMGtVa1VuT25BOFhIcW9tYi1rY25DV2xzdXpIcF9yQ3JLNmp5TmhOSnYwcGFnckF2TGI2M2lJSlVwSmZ5cVpSOC1KaFZOY3JxOHRod3VrWkdTaW5kbjM5dUNHaTBELWdSZU05?oc=5",
+      "summary": "Three Greek firefighters killed as wildfires strike further east in Europe reuters.com Three firefighters die in Greece as wildfires threaten southern Europe BBC Greek firefighters battle deadly wildfires on Crete for a second day reuters.com 2 firefighters die in wildfire on Crete as massive blazes persist across Europe AP News Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires The Guardian",
+      "published": "2026-07-30T01:53:25+00:00",
       "outlets": [
         "AP News",
-        "CBS News",
-        "NBC Connecticut",
-        "WHDH",
-        "cnn.com"
+        "BBC",
+        "The Guardian",
+        "bbc-world",
+        "reuters.com"
       ],
       "feeds": [
-        "google-nation",
-        "google-top"
+        "bbc-world",
+        "google-top",
+        "google-world"
       ],
-      "reach": 64.8,
+      "reach": 70.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -762,125 +824,22 @@
       "prompts": []
     },
     {
-      "title": "Bullets that killed 2 at Seattle Center not from 15-year-old\u2019s ghost gun",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU1mQzFIT0JqN1ZhTGV4ZkJuY1B5ZFh4V204aG5XMnZTMHVlV3JCRVdTSlhYR0FvLVoyLV9HdGx3WWNtbEF1TGxsaFdpa0R4WHdUV0MtUFFobmF1dHRRN0hES3JYaUNPZlpOc3Fmc293Z2k4MlVJZmJfMW1zV1AzUDA2WDRyanE1RVgyWWN0WXRlSzc1TnBEYy1faUJGMy11eFBjdlJkcGZ3UWM?oc=5",
-      "summary": "Bullets that killed 2 at Seattle Center not from 15-year-old\u2019s ghost gun The Seattle Times Bullets that killed 2 bystanders at Seattle festival weren\u2019t from 15-year-old shooter\u2019s gun, police say cnn.com 'A big deal using the gang word': Photog Steve explains what city lost when it disbanded its gang unit in wake of Bite of Seattle shooting MyNorthwest.com 15-year-old Seattle Center shooting suspect charged with first-degree assault; prosecutors seek adult trial KUOW 15-year-old suspect charged in connection to mass shooting at Seattle Center KING5.com",
-      "published": "2026-07-30T04:23:28+00:00",
-      "outlets": [
-        "KING5.com",
-        "KUOW",
-        "MyNorthwest.com",
-        "The Seattle Times",
-        "cnn.com"
-      ],
-      "feeds": [
-        "google-nation",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Japan earthquake: Death toll rises to 28 as rescuers keep searching through extreme heat",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hYjNaTjBNaDBhM3BEN0NwMU5nVTlsbllkT0xtYmFFYTdYYmFUZExQNkpVSlppSEdGcVNtZ2Fadmh0bUtkN2E0NkdNcllKeml1U2kxZjRCdFpBQQ?oc=5",
-      "summary": "Japan earthquake: Death toll rises to 28 as rescuers keep searching through extreme heat BBC Why does Japan experience so many large earthquakes unlike any other country in the world? cnn.com Hope for rescue in southwestern Japan quake dwindles as death toll climbs to 23 NBC News Earthquake Destruction in Japan May Affect Production of Thousands of Nissan and Lexus Vehicles Car and Driver \u2018Like volcanic ash falling\u2019: Inside Aeon mall after Japan\u2019s earthquake Al Jazeera",
-      "published": "2026-07-30T04:08:37+00:00",
+      "title": "\u2018Like volcanic ash falling\u2019: Inside Aeon mall after Japan\u2019s earthquake",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOW1yU0JMaFljRHFPSmF0MEdsNGx1WW1RaVpNNmZWeElzUXpOdmdxTExPYWpINWt3b1ZrczNpTzRsTEFfSlRhTEpuSl9VSnVaeW1IYndVOVBobnBfZVpBdjRzakdLOXg1RXhESUFPeTdXTjliTXliM0lSMlgtd0xObTBYQmNxYllsZWM3QTB4eXE0c1J0bEpjZVB4NDVYeWZ2Y21DVnVKb1lmbmfSAbABQVVfeXFMTUNTdkNDeW03ZFNnYmpLdDNxb2ZNQXUwSG5XcjhyejVyTzlaenVSaDhRWEU3enN1RmVGSjFRX0FoQ2JLYlBOU2hQbTRLczJkTmZvTGJmalp5V1FoWjFrV2RTN0RKNWdETXZnWGQ0ZmxLR3dHVzdzT0tVemhjUm40VExiRTFDeHZ0aXZRcTR6S0VOa0xjZ3QwSUZrMW9ZUWhfMWFpVVltTzRlSnJNWHpBZDE?oc=5",
+      "summary": "\u2018Like volcanic ash falling\u2019: Inside Aeon mall after Japan\u2019s earthquake Al Jazeera Japan earthquake: Death toll rises to 30 as rescuers keep searching through extreme heat BBC Japanese mall is rebuilt to withstand earthquakes. Then it collapses again South China Morning Post Japan quake survivors battle thirst, heat as death toll rises to 25 reuters.com Earthquake Destruction in Japan May Affect Production of Thousands of Nissan and Lexus Vehicles Car and Driver",
+      "published": "2026-07-30T04:16:53+00:00",
       "outlets": [
         "Al Jazeera",
         "BBC",
         "Car and Driver",
-        "NBC News",
-        "cnn.com"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXlyZVBWRGZZNXU0WjBMZ01TWjh2a2tYcjlERk02Z1RWa0ZmV3ZTSmQ3eG9JVnJCSHdEWTZMT09RN005b3NTUG1TdmhKUS0xZ3FRMlpsRUNVd2FiNmZIdzRrZExlQ3B4NTBReUFBbUhzeWJod3VJeVJzLUZvMEJIVkNRbU5FOER5OElSOER6NmR4SDB4eFE1VzB4amFrSExFQk9sUTdITTQxVW1uLVp6VFJLWnpzbUU?oc=5",
-      "summary": "Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris AP News Tracking the wildfires in Europe, in maps and charts cnn.com Europe\u2019s fires are just the start The Economist Wildfires Slow in France and Spain, but Worse May Be Ahead The New York Times 'There's nothing left': French wildfire survivors return to burnt homes Reuters",
-      "published": "2026-07-30T01:56:00+00:00",
-      "outlets": [
-        "AP News",
-        "Reuters",
-        "The Economist",
-        "The New York Times",
-        "cnn.com"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Kenya says 15 elephants died of cyanide poisoning after eating tomatoes from nearby farms",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0NRTG5iOFhPY3lacDA0aHA5NngtNVI4TU9DOTM1d0VUdWRfc2pDVVRVenA2c1ZRQkNBRmlUWVo1dkNpbEFwcnBBYmVBYUxwYURVRVpnWjN0blMzdjJiRFo0MjBmRkFyM2w0b1NieUFmNUN3SHAyX2VZSGFfNDd6ak5sSV9YSTF2THoxOXMzeElTTVk4bkRjdw?oc=5",
-      "summary": "Kenya says 15 elephants died of cyanide poisoning after eating tomatoes from nearby farms AP News Death of 15 elephants in Kenyan national park sparks outrage, investigation The Washington Post Amboseli elephant deaths: Kenya Wildlife Service launches urgent inquiry after 14 carcasses found BBC Kenya investigating unexpected deaths of 15 elephants in national park The Guardian Kenya investigates possible toxin after 15 elephants die in one of Africa\u2019s top safari destinations Business Insider Africa",
-      "published": "2026-07-30T00:32:00+00:00",
-      "outlets": [
-        "AP News",
-        "BBC",
-        "Business Insider Africa",
-        "The Guardian",
-        "The Washington Post"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Two children among seven dead in Russian strikes on Ukraine, officials say",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HMjdNYzlKV21KdkZuS0VnTzAyWE5ZNzdVaXRkdjlGQjliVEc4U1RybXJFUHZTUzVhd2RvOUlyS3dRTjRqa09nU1pBTjJ4LVZsWmg1dnVwNjBqZw?oc=5",
-      "summary": "Two children among seven dead in Russian strikes on Ukraine, officials say BBC Russian missile attack across Ukraine kills at least seven, officials say cnn.com Poland scrambles fighter jets as Russia strikes cities across Ukraine South China Morning Post Deadly strikes on Ukrainian cities after Zelenskyy warns of \u2018massive\u2019 Russian attack The Guardian One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning Al Jazeera",
-      "published": "2026-07-30T03:53:14+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "BBC",
         "South China Morning Post",
-        "The Guardian",
-        "cnn.com"
+        "reuters.com"
       ],
       "feeds": [
+        "google-top",
         "google-world"
       ],
-      "reach": 58.8,
+      "reach": 64.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -891,21 +850,22 @@
       "prompts": []
     },
     {
-      "title": "New investigation shows how an Israeli settler escaped justice",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2JCNW5GTjdCN2RFTmVvZ0c0UHdlSXlQaUdLRlJlV3R6OTBaUTltQnVtOUo4SndGb2o2VEdvS2lhVjRXM2FNX2ZtNjA3a29qVDZSNUlqcVBWUUVZYmF5UmJZbWs4Y04wbTFGZ2JDZVVDYTU2VjUwc0tOSnlZY05TMVNVWGZob2NlT1MyNThXT0xLV2VoQ1hLNmI4XzNDSS1nRWZ2eDFn0gGrAUFVX3lxTE8wM1dwSXpwVmtzWGZfMU5IRTVncy1nWTVMTks1a2ZQWmRodkg5OWRQWC1iT2hGZXF2bWRQS0hVQURiMC0yeld5V1RwMksxMmZsTU91eU03MVdPbThKa0dhVElmR1ZzUjU0QWJnWnZNckpsTDM5QW1CY01IbksxQl9PWEM1X0tCRURaY2JNSXQxUHJpLWRtaG5pNkhrRlE5X1FEU1JybEhuNWpLbw?oc=5",
-      "summary": "New investigation shows how an Israeli settler escaped justice Al Jazeera Bay Area Allies Remember Palestinian Activist, 1 Year After His Death KQED Hadash MK shoved by police officer at memorial for slain Palestinian activist The Times of Israel The Killing of Awdah Hathaleen: Beyond a Settler Crime Al-Haq Israeli forces assault MK, storm vigil for Palestinian activist The New Arab",
-      "published": "2026-07-29T20:00:31+00:00",
+      "title": "Explosions in Kyiv after Zelenskyy warns of Russian strikes",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXRTSjVUa3phaXEzcHZGcFlVUHU4MG9iRm0xcUxlTnRkYllhZWZOTlBoQzVfWFNpUGZxNGpJNTB4R1JyNU9CZVN0bmRlT3Rra0RqV3RXTmNNS0d0N0UzS3VNakdDaGtONVcxZDR5OFREdFcyWkpMQVdGNHE1N01FTjhScXhSYW1FbzhaOGlJc3E0a0lKMHQw0gGXAUFVX3lxTE1iYThWTXZLWkVEdE5SSlhwbnUwQnFQOElVODdvdDN6SEx1WWJwTmZVcDIteUtxREtUU2pTdWRtWEZ1bkFrbDlaQlJ4NjlCdTMxUUVxSHJudjZ6NFhGb1JSRGJvck9PZ0QxV2taQ0IxVEZZbWIzLUpxX3RpVGxRMFhHdzItVU9CczhMNkE5SVNKYXQ4cEljNG8?oc=5",
+      "summary": "Explosions in Kyiv after Zelenskyy warns of Russian strikes DW.com Russian strikes on Ukraine kill 8; Poland scrambles fighter jets reuters.com Russian missile attack across Ukraine kills at least seven, officials say edition.cnn.com At least 14 killed as Russia strikes Ukraine a day after Zelenskyy warning Al Jazeera More deaths and injuries in major Russian attacks on Ukraine as Poland investigates airspace violation \u2013 Europe live The Guardian",
+      "published": "2026-07-30T06:35:39+00:00",
       "outlets": [
         "Al Jazeera",
-        "Al-Haq",
-        "KQED",
-        "The New Arab",
-        "The Times of Israel"
+        "DW.com",
+        "The Guardian",
+        "edition.cnn.com",
+        "reuters.com"
       ],
       "feeds": [
+        "google-top",
         "google-world"
       ],
-      "reach": 58.8,
+      "reach": 64.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -918,14 +878,14 @@
     {
       "title": "MS Now Host Sums Up How Gross Trump\u2019s Lindsey Graham Eulogy Was In Just 1 Sentence",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS1NoTTVsQ21xVms4UENoaDR4M0ZmZmpXYURwVFRnalpzUVRxbzNQdlJiRnh6X1M0OXpydFduMEtuUjZDWVhnd2N1SkI1ZEJuVFRDQXFoTjR3UW05OVluMENucERVb2VGTXZydHVQNkViU0VWODJWbHlEeFBkcVFlQS05WURWcUh0TElKYkQzNmJnWEl2VVRmMHp4Mm8tbTBiYnA5YTBFV0UzQ1pMVzVYNEtheVZ4NU5kYVhzc1M3b1JqYjNTOC10ZXpESFFIOW10TjROY9IB2gFBVV95cUxQUVFyVlBIZVdWYkhoaVpJVDNJTWkwOWU4TV85TFZFSzZpcmZwblN2QUhfSlZoX0VLNkhJWmRQZ3ppWXpMTEQwSFBudVJSbk1iYVdYSkdQb04yanRlN0ZYN21DLW1rV1Y0N0FuN2lIblMzTXFjcFpOZnJmNGpqazlNVllQSzF1ZVp4cWM5N3NZSnZiY0pqRm5VZElMdWxQWGtwZUtnUFRNcDhEQ0tfeUhNaGctNWxuOHBNUXVlb3B0TnZTZ1g1N29Edkt2VW8zWVJ6amxlNHlFS0dIZw?oc=5",
-      "summary": "MS Now Host Sums Up How Gross Trump\u2019s Lindsey Graham Eulogy Was In Just 1 Sentence HuffPost At Graham\u2019s Farewell, a Glimpse Into Power in Trump\u2019s Washington The New York Times What Lindsey Graham\u2019s funeral revealed about the world under Trump cnn.com Lindsey Graham returns home one last time for his funeral in South Carolina AP News Netanyahu and Zelenskyy meet Trump at the White House as Washington honors Lindsey Graham Fortune",
+      "summary": "MS Now Host Sums Up How Gross Trump\u2019s Lindsey Graham Eulogy Was In Just 1 Sentence HuffPost At Graham\u2019s Farewell, a Glimpse Into Power in Trump\u2019s Washington The New York Times Lindsey Graham\u2019s Last Laugh The Atlantic Lindsey Graham returns home one last time for his funeral in South Carolina AP News Trump Pays Tribute to Lindsey Graham: \u2018He Died Doing the Work He Was Born to Do\u2019 Time Magazine",
       "published": "2026-07-29T22:21:10+00:00",
       "outlets": [
         "AP News",
-        "Fortune",
         "HuffPost",
+        "The Atlantic",
         "The New York Times",
-        "cnn.com"
+        "Time Magazine"
       ],
       "feeds": [
         "google-nation"
@@ -943,14 +903,14 @@
     {
       "title": "Camera Captures Last Sighting of Missing Mom Before Vanishing on Vacation",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzl2QjRocm9RaUkwQlZLTFdNaVp2R1I1YlJSWms2czNxbkIzbzFVdU0zN3FrcHd2WGdhQVhwOGdZZjdyMlZIVy1hbi00X3VEUVoxZWdlb3ZwMHhURy1IdHZGOTU4OUpfbHFFby10WV9BY2VrdEY1QWF1VEJhVDhaWHdCZDEwSU9PX0lTWWRJa1lhUDg?oc=5",
-      "summary": "Camera Captures Last Sighting of Missing Mom Before Vanishing on Vacation TMZ Mom Who Vanished on Tropical Vacation Seen Entering Water in New Surveillance Footage People.com Family of missing Cary woman believes no foul play in disappearance WRAL Husband of North Carolina woman missing in Grenada doesn't suspect foul play CBS News Chilling Images Show Last Sighting of American Who Vanished on Caribbean Vacation The Daily Beast",
+      "summary": "Camera Captures Last Sighting of Missing Mom Before Vanishing on Vacation TMZ Surveillance video shows missing Cary woman entering water in Grenada before disappearance WRAL Missing North Carolina mom Elizabeth Waddell seen jumping into Caribbean waters hours before going missing nypost.com Mom Who Vanished on Tropical Vacation Seen Entering Water in New Surveillance Footage People.com Husband of North Carolina woman missing in Grenada doesn't suspect foul play CBS News",
       "published": "2026-07-29T22:36:46+00:00",
       "outlets": [
         "CBS News",
         "People.com",
         "TMZ",
-        "The Daily Beast",
-        "WRAL"
+        "WRAL",
+        "nypost.com"
       ],
       "feeds": [
         "google-nation"
@@ -978,16 +938,16 @@
       ]
     },
     {
-      "title": "From bad to worse for Trump and his base",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6d1hkOFJXeE1LTVBnNWNxQi11Q016cjNpRWtyNkpmZU05WC15cFpIUk1RSHJyd2Raa29tdVEwTVk3Wng3MnA5V1dsNmxsVGlQWjc0QW9RaHl5YjJGTy1Tb2VCZ3BlbGkwcGhr?oc=5",
-      "summary": "From bad to worse for Trump and his base cnn.com Trump's job approval hits record low, driven down by Gen X, white Americans, and Independents YouGov Trump\u2019s Approval Rating Falls Even More: Hits 32% In Quinnipiac Poll Forbes Trump\u2019s support among Republicans falls to its lowest mark on record, poll reveals The Independent Trump Crashes Into Reality The Atlantic",
-      "published": "2026-07-29T22:04:31+00:00",
+      "title": "Flooded homes, closed roads, boil water advisories; torrential rain floods the area",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczBXNXFlLVJ3alFDMmpwaU1mMWtpZlRFbXg0VVA5WjlsMmVSQzVGNG16WnU2S204UnhtMHFXcWZqWHdGVzVTUENTZWQxN0dTOHBIRmRBd09Zd0dyOHBYSGR6bFI1Nzh4R2syVXkwbm9kTmw0VFphcF8zd2NBNnFrcFhGVmEyaWlqLXZSdWZfN3NRWUF6c0E2WUpMQ1dWbUU0dGpJ?oc=5",
+      "summary": "Flooded homes, closed roads, boil water advisories; torrential rain floods the area WRGB NYC storms: PS 230 in Kensington, Brooklyn houses one of city's safe overnight locations ABC7 New York Two days of heavy rain across the Northeast set records and forced water rescues CNN Maps show where heavy rainfall poses flood risks across Northeast CBS News Flooding spreads in eastern New York as the heavy rain responsible shifts to New England Yahoo News Singapore",
+      "published": "2026-07-30T00:08:09+00:00",
       "outlets": [
-        "Forbes",
-        "The Atlantic",
-        "The Independent",
-        "YouGov",
-        "cnn.com"
+        "ABC7 New York",
+        "CBS News",
+        "CNN",
+        "WRGB",
+        "Yahoo News Singapore"
       ],
       "feeds": [
         "google-nation"
@@ -1003,19 +963,69 @@
       "prompts": []
     },
     {
-      "title": "Sara Gilson Ex-Husband Shares Chilling Details of Son's Escape Before Mother's Death",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzdJRmZDQ1ZKeER4Z0J2SzhlbktzcG1DcmJwZzdJcG5fU3NFeFcxUTlFRWYxT2hiTVVnbU9YcXZYSUNJQlNnNzlnRkd5V2N2NlRXZUEzNWNYS3pkRFRGYUhyNUR6cHRZTDBDcXlPekdWQUt5ZDEwckR4d3V0Y1o5NVo3ekFjVkZKQXFYdXh2dVpTeXNoWk5ldDF4NXlCbndvQVE?oc=5",
-      "summary": "Sara Gilson Ex-Husband Shares Chilling Details of Son's Escape Before Mother's Death TMZ Influencer killed by husband, police say, after she accused him of pedophilia on TikTok NBC News TikToker's chilling video sparks important conversation after her death USA Today Oklahoma mom killed in murder-suicide weeks after posting allegations about husband The Oklahoman Family identify two killed in apparent murder-suicide in Owasso KTUL",
-      "published": "2026-07-29T19:30:02+00:00",
+      "title": "Protesters blockade Wisconsin street where felon was killed after knifing cop \u2014 and the city is helping them",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZU1fa3lBcFF1ajh6dFl1TDR5OU1SOV9Ed1B3cWFDUDdPN2FjLUFwM3RBUEV2WU9tclZjYnNCazZVbzBpaVJ1SFRvemR6SnJza1Z2cDB1c3Zmd1k3SnpnYVFUUEZ1ckxSLThaZTk3cW15X1otdEJlN1NUNUM2WVl2Z3V0NkMyNHl3aTh1SGl3bnRrXzNHa0JmbFVTanNjb1MzWHlOUWFBcE9UZVlYRzBpY0pyVVFvaG8?oc=5",
+      "summary": "Protesters blockade Wisconsin street where felon was killed after knifing cop \u2014 and the city is helping them nypost.com East side encampment grows, Madison leaders work toward resolution following Corey Ruiz's death WKOW Willy Street businesses impacted as protests block customer traffic Channel 3000 Madison groups calling for hiring, firing power in wake of police shooting Milwaukee Journal Sentinel A week after fatal police shooting, what\u2019s next for Madison protesters? Wisconsin State Journal",
+      "published": "2026-07-29T23:47:00+00:00",
       "outlets": [
-        "KTUL",
-        "NBC News",
-        "TMZ",
-        "The Oklahoman",
-        "USA Today"
+        "Channel 3000",
+        "Milwaukee Journal Sentinel",
+        "WKOW",
+        "Wisconsin State Journal",
+        "nypost.com"
       ],
       "feeds": [
         "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Seattle Police Chief cancels interview, acknowledges frequent travel outside city",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRW85YUp2X0tQN1RNVEotSDY1eU5pWVdaWDVxYlZ6S2xxRDV0T0I4eWVvM1ZKem0tUExFQ3lUNE9ZN0dUczdJaXJJU3BFVmRPZ0RsSUI2TFFZcEFDT1cyUGF1VjQ0RTUtWFM1VVpCRmFpSnpoY2NqTUFseFF2TkZzUXFwdU1yTnYzd2U0RTlnQmpsNmJfWC1NWkFPVVc1bVpScnFiRkJULVV3ei03LUVrMTVEdHVsVUZlcFBWWUZFZ0JwanJNRE9hci1iMEJGUDhXZ0tpckhzeGNCc2Y2b1JkR05JSDVmMmNtSTBRbjJSdnkteDRmU1pXSUkwWmhFQm1rSWM1RlFGV181TEhzTnpXbW9sa3FvSWV0Z1JheUNjMG5abmhoUVRWQmlXYUV1R3BkX242WXVTU1BGXzFOR2xBMGJudw?oc=5",
+      "summary": "Seattle Police Chief cancels interview, acknowledges frequent travel outside city KOMO Seattle Police Chief Shon Barnes fired by Mayor Katie Wilson MyNorthwest.com Seattle police chief snaps over Chicago home questions, absence from city after mass shooting Fox News Seattle Police Chief Barnes defends travel schedule as shooting investigation intensifies kuow.org KING 5 source: Seattle Police Chief Shon Barnes out KING5.com",
+      "published": "2026-07-30T00:06:14+00:00",
+      "outlets": [
+        "Fox News",
+        "KING5.com",
+        "KOMO",
+        "MyNorthwest.com",
+        "kuow.org"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Florida reports first 2026 death from flesh-eating bacteria. How to reduce your risk of Vibrio vulnificus infection before dining or swimming in the ocean.",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPS3VkWFNRc2ZlR0RnSTFoZnZuVkxvQ0ZKOUNyTzNiaWNqZXZuMVNLS2c4QmpuNEt1ZEFJUEJoM1l4RmF0QTMzZjFKUXBrdkJ2LUxaWEsyUF9YcnNOcGVXNnA0T0lPWnZwekF4MWpJSlpOLTAtNlVQVTFwWHBlYTZrY0lNZmw4anZQMmk1YW9XYm1iQ1hXQU5pRHhIWTc3cEpjU0hPOTRWU1A4ZUhNYTJtQUlaeHUtVzd0WW9PaFFIcnlBNXUtSk9DUEljQ3BZMzlIZWROVVdlaGVTSXdGaGJaUTZpWWNPQ0k2a0tuNTBOZzlHNFM0bmJrWm1qcGxRanJCa1hfUG1lRE1uQng1eVgyMTZVNGk4RmxQaW5COGNiYXlhaUo1YlQ3VmdLYk1XaGM?oc=5",
+      "summary": "Florida reports first 2026 death from flesh-eating bacteria. How to reduce your risk of Vibrio vulnificus infection before dining or swimming in the ocean. Yahoo Case tracker: Here is where flesh-eating bacteria cases have been reported in the US FOX Weather Florida records first flesh-eating bacteria death of 2026 WTHR Florida reports first 2026 death from a 'flesh-eating bacteria' infection WUSF Palm Beach County records Florida\u2019s first death in 2026 from bacteria found in shellfish, coastal waters Sun Sentinel",
+      "published": "2026-07-29T21:41:30+00:00",
+      "outlets": [
+        "FOX Weather",
+        "Sun Sentinel",
+        "WTHR",
+        "WUSF",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-health"
       ],
       "reach": 58.8,
       "angle": 0.0,
