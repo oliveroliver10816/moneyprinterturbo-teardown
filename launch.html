@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Conspiraciously — launch pack</title>
+<meta name="description" content="Every YouTube and Instagram signup field, pre-filled, with the settings that cannot be changed later.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Karla:wght@400;500;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0A0C10; --panel:#12161C; --panel2:#171C24; --rule:#242C36; --rule-soft:#1B222B;
+  /* --dimmer was #6E7885: 4.05 against the panel, i.e. a WCAG fail on every mono
+     label on the page. Screenshots do not show that — only a measured pass does. */
+  --ink:#E9EDF2; --dim:#A6B0BE; --dimmer:#828C99;
+  --yt:#E4607E; --ig:#A98BE8; --go:#46C07A; --warn:#E8A33D; --stop:#E4462D;
+  --maxw:960px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Karla",system-ui,sans-serif;
+font-size:17px;line-height:1.62;-webkit-font-smoothing:antialiased}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+
+.rail{position:sticky;top:0;z-index:50;background:rgba(10,12,16,.9);backdrop-filter:blur(10px);
+border-bottom:1px solid var(--rule)}
+.rail-in{max-width:var(--maxw);margin:0 auto;padding:11px 24px;display:flex;gap:22px;align-items:center;
+font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+overflow-x:auto;scrollbar-width:none}
+.rail-in::-webkit-scrollbar{display:none}
+.rail a{color:var(--dimmer);text-decoration:none;white-space:nowrap;transition:color .18s}
+.rail a:hover,.rail a:focus-visible{color:var(--ink)}
+.rail .mark{color:var(--yt);font-weight:600}
+
+header{padding:66px 0 44px;border-bottom:1px solid var(--rule-soft)}
+.eyebrow{font-family:"JetBrains Mono",monospace;font-size:11.5px;letter-spacing:.18em;
+text-transform:uppercase;color:var(--dimmer);margin:0 0 22px}
+.eyebrow span{color:var(--yt)}
+h1{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(34px,5.8vw,58px);
+line-height:1;letter-spacing:-.028em;margin:0 0 22px;max-width:17ch}
+.lede{font-size:clamp(17px,2.1vw,20px);color:var(--dim);max-width:62ch;margin:0}
+.lede strong{color:var(--ink);font-weight:500}
+
+section{padding:54px 0;border-bottom:1px solid var(--rule-soft)}
+.slug{font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.2em;
+text-transform:uppercase;margin:0 0 14px}
+.slug.yt{color:var(--yt)} .slug.ig{color:var(--ig)} .slug.warn{color:var(--warn)}
+h2{font-family:"Bricolage Grotesque",sans-serif;font-weight:700;font-size:clamp(25px,3.3vw,34px);
+line-height:1.08;letter-spacing:-.02em;margin:0 0 18px;max-width:24ch}
+p{margin:0 0 16px;max-width:70ch}
+.sub{color:var(--dim)}
+
+/* handle ladder */
+ul.handles{list-style:none;padding:0;margin:0 0 8px;display:grid;gap:8px}
+ul.handles li{display:flex;align-items:center;gap:14px;padding:12px 15px;background:var(--panel);
+border:1px solid var(--rule);border-radius:7px;flex-wrap:wrap}
+ul.handles code{font-family:"JetBrains Mono",monospace;font-size:15px;color:var(--ink)}
+.tag{font-family:"JetBrains Mono",monospace;font-size:10px;letter-spacing:.12em;padding:3px 8px;
+border-radius:3px;font-weight:700}
+.tag.free{color:#0A0C10;background:var(--go)}
+.tag.taken{color:#0A0C10;background:var(--stop)}
+.rank{font-family:"JetBrains Mono",monospace;font-size:11px;color:var(--dimmer);margin-left:auto}
+
+/* fields */
+.field{background:var(--panel);border:1px solid var(--rule);border-radius:8px;padding:14px 16px;
+margin:0 0 12px}
+.field-head{display:flex;align-items:baseline;gap:12px;margin:0 0 9px}
+.field-label{font-family:"JetBrains Mono",monospace;font-size:10.5px;letter-spacing:.16em;
+text-transform:uppercase;color:var(--dimmer)}
+.count{font-family:"JetBrains Mono",monospace;font-size:10.5px;color:var(--dimmer);margin-left:auto}
+.count.ok{color:var(--go)}
+.count.over{color:var(--stop);font-weight:700}
+.field-body{display:flex;gap:12px;align-items:flex-start}
+.field-body pre{flex:1;margin:0;font-family:"Karla",system-ui,sans-serif;font-size:16.5px;
+white-space:pre-wrap;word-break:break-word;color:var(--ink);line-height:1.55}
+.field.is-multi .field-body pre{background:var(--panel2);border:1px solid var(--rule-soft);
+border-radius:6px;padding:12px 13px}
+.copy{flex:none;font-family:"JetBrains Mono",monospace;font-size:10.5px;letter-spacing:.1em;
+text-transform:uppercase;color:var(--dim);background:var(--panel2);border:1px solid var(--rule);
+border-radius:5px;padding:7px 11px;cursor:pointer;transition:all .16s}
+.copy:hover,.copy:focus-visible{color:var(--ink);border-color:var(--dim)}
+.copy.done{color:#0A0C10;background:var(--go);border-color:var(--go);font-weight:700}
+.field-note{margin:10px 0 0;font-size:14.5px;color:var(--dim);max-width:none}
+
+/* warn + dob rows */
+.warn-row,.dob-row{display:flex;gap:16px;padding:16px 0;border-top:1px solid var(--rule-soft)}
+.warn-row:first-child,.dob-row:first-child{border-top:0}
+.plat{flex:none;width:88px;font-family:"JetBrains Mono",monospace;font-size:10.5px;
+letter-spacing:.12em;text-transform:uppercase;color:var(--dimmer);padding-top:3px}
+.warn-head,.dob-head{margin:0 0 5px;font-size:17.5px;color:var(--ink);max-width:none}
+.warn-body,.dob-body{margin:0;font-size:15.5px;color:var(--dim);max-width:none}
+.dob-call{background:var(--panel);border:1px solid var(--warn);border-left-width:3px;
+border-radius:8px;padding:20px 22px;margin:0 0 26px}
+.dob-call p{margin:0;font-size:19px}
+.dob-call b{color:var(--warn)}
+
+.note{background:var(--panel);border:1px solid var(--rule);border-left:3px solid var(--warn);
+border-radius:7px;padding:15px 18px;margin:22px 0 0;font-size:15.5px;color:var(--dim)}
+.note b{color:var(--ink)}
+
+ol.steps{padding-left:0;margin:0;list-style:none;counter-reset:s}
+ol.steps li{counter-increment:s;position:relative;padding:0 0 18px 44px;font-size:16.5px;color:var(--dim)}
+ol.steps li::before{content:counter(s,decimal-leading-zero);position:absolute;left:0;top:1px;
+font-family:"JetBrains Mono",monospace;font-size:12px;font-weight:700;color:var(--yt)}
+ol.steps b{color:var(--ink);font-weight:600}
+footer{padding:44px 0 70px;color:var(--dimmer);font-family:"JetBrains Mono",monospace;font-size:11.5px}
+@media(max-width:640px){
+  .warn-row,.dob-row{flex-direction:column;gap:6px}
+  .plat{width:auto}
+  .field-body{flex-direction:column}
+  .copy{align-self:flex-start}
+}
+</style>
+</head>
+<body>
+
+<nav class="rail"><div class="rail-in">
+  <a href="index.html" class="mark">CONSPIRACIOUSLY</a>
+  <a href="#handle">Handle</a>
+  <a href="#youtube">YouTube</a>
+  <a href="#instagram">Instagram</a>
+  <a href="#dob">Date of birth</a>
+  <a href="#locked">Can't change later</a>
+  <a href="theories.html">36 videos</a>
+</div></nav>
+
+<div class="wrap">
+
+<header>
+  <p class="eyebrow"><span>Launch pack</span> · YouTube + Instagram · every field pre-filled</p>
+  <h1>Everything the signup forms ask for.</h1>
+  <p class="lede">Copy each field straight in. The only things not here are the ones only you can
+  supply — <strong>email, phone, and your real date of birth</strong>. Claim the handles before you
+  share this link.</p>
+</header>
+
+<section id="handle">
+  <p class="slug yt">Step 01 — the name</p>
+  <h2>Claim Instagram first.</h2>
+  <p class="sub">Instagram is the constrained namespace, so it decides. Whatever you get there, take
+  the same string on YouTube so the two match.</p>
+  <ul class="handles"><li><code>@conspiraciously</code><span class="tag free">FREE</span><span class="rank">first choice</span></li><li><code>@conspiraciously.tv</code><span class="tag free">FREE</span><span class="rank">fallback 1</span></li><li><code>@conspiraciouslyhq</code><span class="tag free">FREE</span><span class="rank">fallback 2</span></li><li><code>@theconspiraciously</code><span class="tag free">FREE</span><span class="rank">fallback 3</span></li></ul>
+  <div class="note"><b>These FREE marks are YouTube only.</b> I checked with controls, so the check
+  is real — <code>@youtube</code> came back taken and a junk handle came back free. <b>Instagram
+  availability could not be checked from here at all:</b> instagram.com serves a byte-identical
+  login shell for a real handle and a fake one, so any answer I gave you would be invented. You'll
+  see the truth in the signup form.</div>
+</section>
+
+<section id="youtube">
+  <p class="slug yt">Step 02 — YouTube</p>
+  <h2>Channel fields.</h2>
+  
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Channel name</span>
+        <span class="count">15 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vyt0">Conspiraciously</pre>
+        <button class="copy" data-target="vyt0" type="button">copy</button>
+      </div>
+      <p class="field-note">Not your Google account name — this is why the channel goes on a Brand Account.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Handle</span>
+        <span class="count ok">16 / 30</span>
+      </div>
+      <div class="field-body">
+        <pre id="vyt1">@conspiraciously</pre>
+        <button class="copy" data-target="vyt1" type="button">copy</button>
+      </div>
+      <p class="field-note">3–30 characters, letters/numbers plus _ - . (not at the start or end). Verified free.</p>
+    </div>
+    <div class="field is-multi">
+      <div class="field-head">
+        <span class="field-label">Description (About)</span>
+        <span class="count">386 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vyt2">Strange stories, actually checked.
+
+Every file starts with something that really happened — a declassified memo, a signal nobody ever identified, a number that doesn&#x27;t add up. You get the official explanation, given fairly. Then you get the part it doesn&#x27;t explain.
+
+We don&#x27;t tell you what to believe. We show you where the record stops.
+
+Nothing invented. Sources listed on every file.</pre>
+        <button class="copy" data-target="vyt2" type="button">copy</button>
+      </div>
+      <p class="field-note">YouTube publishes no character limit for this field, so this shows the count only.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Keywords</span>
+        <span class="count">88 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vyt3">unexplained, declassified, cold case, strange history, unsolved, archive, open questions</pre>
+        <button class="copy" data-target="vyt3" type="button">copy</button>
+      </div>
+      <p class="field-note">Settings → Channel → Basic info. Describes the channel to YouTube, not to viewers.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Category</span>
+        <span class="count">9 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vyt4">Education</pre>
+        <button class="copy" data-target="vyt4" type="button">copy</button>
+      </div>
+      <p class="field-note">The editorial line is 'here is the record, here is where it stops' — that is the honest fit.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Country</span>
+        <span class="count">36 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vyt5">— your actual country of residence —</pre>
+        <button class="copy" data-target="vyt5" type="button">copy</button>
+      </div>
+      <p class="field-note">Drives payout eligibility later. Must be true.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Links</span>
+        <span class="count">38 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vyt6">the site, once we point a domain at it</pre>
+        <button class="copy" data-target="vyt6" type="button">copy</button>
+      </div>
+      <p class="field-note">Currently the release-hosted page. Bob still owes a domain here.</p>
+    </div>
+</section>
+
+<section id="instagram">
+  <p class="slug ig">Step 03 — Instagram</p>
+  <h2>Profile fields.</h2>
+  <p class="sub">The bio is 104 of the 150 characters Instagram allows, so nothing gets cut.</p>
+  
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Username</span>
+        <span class="count ok">15 / 30</span>
+      </div>
+      <div class="field-body">
+        <pre id="vig0">conspiraciously</pre>
+        <button class="copy" data-target="vig0" type="button">copy</button>
+      </div>
+      <p class="field-note">Claim this FIRST — Instagram is the constrained namespace, and whatever wins here is what we take on YouTube.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Name (display)</span>
+        <span class="count">15 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vig1">Conspiraciously</pre>
+        <button class="copy" data-target="vig1" type="button">copy</button>
+      </div>
+      <p class="field-note">The searchable name field, separate from the username.</p>
+    </div>
+    <div class="field is-multi">
+      <div class="field-head">
+        <span class="field-label">Bio</span>
+        <span class="count ok">104 / 150</span>
+      </div>
+      <div class="field-body">
+        <pre id="vig2">Strange stories, actually checked.
+The official answer — then what it doesn&#x27;t explain.
+New file weekly ⤵</pre>
+        <button class="copy" data-target="vig2" type="button">copy</button>
+      </div>
+      <p class="field-note">150 characters, confirmed on help.instagram.com.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Category</span>
+        <span class="count">15 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vig3">Digital creator</pre>
+        <button class="copy" data-target="vig3" type="button">copy</button>
+      </div>
+      <p class="field-note">Set when switching to a Professional account.</p>
+    </div>
+    <div class="field">
+      <div class="field-head">
+        <span class="field-label">Link</span>
+        <span class="count">30 chars</span>
+      </div>
+      <div class="field-body">
+        <pre id="vig4">the site, once a domain exists</pre>
+        <button class="copy" data-target="vig4" type="button">copy</button>
+      </div>
+      
+    </div>
+</section>
+
+<section id="dob">
+  <p class="slug warn">Step 04 — the one that bites</p>
+  <h2>Use your real date of birth.</h2>
+  <div class="dob-call"><p>Not a convenient one. <b>A birthday you invent cannot be defended
+  later</b> — and on YouTube the thing that challenges it doesn't read the birthday at all.</p></div>
+  <div class="dob-row"><span class="plat">YouTube</span><div><p class="dob-head">13–17 → uploads default to <b>Private</b>. 18+ → Public.</p><p class="dob-body">A wrong birthday means every upload silently lands private and you find out from the view count.</p></div></div><div class="dob-row"><span class="plat">Instagram</span><div><p class="dob-head">13–17 → <b>Teen Account</b>, private by default.</p><p class="dob-body">Content is excluded from Explore and hashtags entirely. That is a growth channel that cannot grow.</p></div></div><div class="dob-row"><span class="plat">YouTube</span><div><p class="dob-head">Age estimation runs <b>regardless of the birthday on the account</b>.</p><p class="dob-body">Their words: <i>“We do this regardless of the birthdate in their account.”</i> Clearing a wrong flag needs <b>government ID, credit card, or selfie</b> — none of which will match a birthday you invented. A locked Google account takes the YouTube channel with it.</p></div></div>
+</section>
+
+<section id="locked">
+  <p class="slug warn">Step 05</p>
+  <h2>Set these at signup — they're painful later.</h2>
+  <div class="warn-row"><span class="plat">YouTube</span><div><p class="warn-head">Create the channel on a <b>Brand Account</b></p><p class="warn-body">Google's own wording: <i>“a Google account for your business or brand”</i>, and <i>“multiple people can manage it from their Google Accounts.”</i> Keeps the channel off your personal identity and lets a VA in later without sharing a password.</p></div></div><div class="warn-row"><span class="plat">YouTube</span><div><p class="warn-head">Use a <b>new dedicated Google account</b></p><p class="warn-body">Not your personal one. I will not touch your personal Google credentials, and a channel tied to them is a channel you can never hand to anyone.</p></div></div><div class="warn-row"><span class="plat">Instagram</span><div><p class="warn-head">Switch to <b>Professional → Creator</b> and link a Facebook Page</p><p class="warn-body">This is what unlocks the deeper Insights, and it is the precondition for pulling numbers through the API later. Converting after the fact works but the early data does not backfill.</p></div></div>
+</section>
+
+<section id="next">
+  <p class="slug yt">After signup</p>
+  <h2>What happens once the accounts exist.</h2>
+  <ol class="steps">
+    <li><b>One story, one video, both platforms.</b> Never three cuts of the same story on one
+    channel — that is exactly what YouTube's "Reused content" and Meta's "Duplicative content"
+    triggers name, and a new account has no credit to spend on it.</li>
+    <li><b>Three opening variants, rotated across stories.</b> V1 is the best-scoring opening frame,
+    V2 the second-best with the same line, V3 the best frame with a rewritten opening line. V1 vs V2
+    tells us whether the <b>frame</b> matters; V1 vs V3 tells us whether the <b>line</b> does.</li>
+    <li><b>1–2 posts a day, ramping.</b> Thirty-six uploads onto a week-old channel is a spam signal
+    on its own, and it would poison the numbers we're collecting.</li>
+    <li><b>Winner = CTR × average view percentage</b> — percentage, not seconds, because the videos
+    run 60 to 77 seconds and a raw seconds comparison quietly rewards the short ones.</li>
+  </ol>
+  <div class="note"><b>One thing OAuth won't fix.</b> The YouTube Analytics API has no thumbnail
+  impressions and no impression CTR — it carries <code>adImpressions</code>, which is advertising,
+  and <code>cpm</code>. Those two numbers live only in Studio's Reach tab. So the API can pull the
+  retention half automatically, and <b>the CTR half stays a human read</b> — two numbers typed per
+  post, not six.</div>
+</section>
+
+<footer>Conspiraciously · launch pack · handle availability verified on YouTube with controls ·
+Instagram unverifiable from this box</footer>
+
+</div>
+
+<script>
+document.querySelectorAll('.copy').forEach(function (btn) {
+  btn.addEventListener('click', function () {
+    var el = document.getElementById(btn.dataset.target);
+    if (!el) return;
+    var text = el.textContent;
+    var done = function () {
+      btn.textContent = 'copied';
+      btn.classList.add('done');
+      setTimeout(function () {
+        btn.textContent = 'copy';
+        btn.classList.remove('done');
+      }, 1400);
+    };
+    // navigator.clipboard is undefined on plain http and in some in-app browsers,
+    // so fall back rather than silently doing nothing.
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(text).then(done, fallback);
+    } else {
+      fallback();
+    }
+    function fallback() {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed';
+      ta.style.left = '-9999px';
+      document.body.appendChild(ta);
+      ta.select();
+      try { document.execCommand('copy'); done(); } catch (e) { btn.textContent = 'select it'; }
+      document.body.removeChild(ta);
+    }
+  });
+});
+</script>
+</body>
+</html>
