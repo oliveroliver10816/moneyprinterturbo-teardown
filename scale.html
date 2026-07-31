@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Going worldwide — what actually scales this channel</title>
+<meta name="description" content="What makes a short-form format go global, the free lever we already own, the font that blocks three languages, and the uncomfortable thing the biggest faceless conspiracy accounts are actually doing.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Karla:wght@400;500;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0A0C10; --panel:#12161C; --panel2:#171C24; --rule:#242C36; --rule-soft:#1B222B;
+  --ink:#E9EDF2; --dim:#8B95A3; --dimmer:#5E6875;
+  --stamp:#E4607E; --ok:#46C07A; --warn:#E8A33D; --cool:#4F8DF7; --teal:#2FB3A8;
+  --maxw:1120px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0; background:var(--bg); color:var(--ink);
+  font-family:"Karla",system-ui,sans-serif; font-size:17px; line-height:1.62; -webkit-font-smoothing:antialiased}
+img{max-width:100%; display:block}
+.wrap{max-width:var(--maxw); margin:0 auto; padding:0 24px}
+
+.rail{position:sticky; top:0; z-index:50; background:rgba(10,12,16,.86);
+  backdrop-filter:blur(10px); border-bottom:1px solid var(--rule)}
+.rail-in{max-width:var(--maxw); margin:0 auto; padding:11px 24px; display:flex; gap:22px; align-items:center;
+  font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+  overflow-x:auto; scrollbar-width:none}
+.rail-in::-webkit-scrollbar{display:none}
+.rail a{color:var(--dimmer); text-decoration:none; white-space:nowrap; transition:color .18s}
+.rail a:hover,.rail a:focus-visible{color:var(--ink)}
+.rail .mark{color:var(--stamp); font-weight:600}
+
+.hero{padding:74px 0 58px; border-bottom:1px solid var(--rule-soft)}
+.eyebrow{font-family:"JetBrains Mono",monospace; font-size:11.5px; letter-spacing:.18em;
+  text-transform:uppercase; color:var(--dimmer); margin-bottom:26px}
+.eyebrow span{color:var(--stamp)}
+h1{font-family:"Bricolage Grotesque",sans-serif; font-weight:800; font-size:clamp(36px,6.2vw,70px);
+  line-height:1; letter-spacing:-.028em; margin:0 0 8px; max-width:16ch}
+.lede{font-size:clamp(17px,2.1vw,21px); color:var(--dim); max-width:63ch; margin:30px 0 0}
+.lede strong{color:var(--ink); font-weight:500}
+
+section{padding:62px 0; border-bottom:1px solid var(--rule-soft)}
+.slug{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.2em;
+  text-transform:uppercase; color:var(--stamp); margin-bottom:16px}
+h2{font-family:"Bricolage Grotesque",sans-serif; font-weight:700; font-size:clamp(26px,3.5vw,39px);
+  line-height:1.07; letter-spacing:-.02em; margin:0 0 22px; max-width:23ch}
+h3{font-family:"Bricolage Grotesque",sans-serif; font-weight:600; font-size:20px;
+  letter-spacing:-.01em; margin:36px 0 12px}
+p{margin:0 0 18px; max-width:72ch}
+strong{color:#fff; font-weight:700}
+em.q{font-style:normal; color:var(--warn)}
+code{font-family:"JetBrains Mono",monospace; font-size:.88em; background:var(--panel2);
+  border:1px solid var(--rule); border-radius:4px; padding:1px 6px; color:#CFD8E3}
+
+.correction{background:var(--panel2); border:1px solid var(--rule); border-left:3px solid var(--warn);
+  border-radius:6px; padding:22px 26px; margin:0 0 30px}
+.correction .tag{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--warn); margin-bottom:10px}
+.correction p{margin:0 0 14px; color:#D6DDE6; font-size:16px}
+.correction p:last-child{margin-bottom:0}
+.correction.bad{border-left-color:var(--stamp)}
+.correction.bad .tag{color:var(--stamp)}
+.correction.good{border-left-color:var(--ok)}
+.correction.good .tag{color:var(--ok)}
+
+.lines{display:grid; gap:11px; margin:24px 0 8px}
+.line{background:var(--panel); border:1px solid var(--rule); border-radius:5px;
+  padding:16px 20px; display:grid; grid-template-columns:190px 1fr; gap:20px; align-items:baseline}
+@media(max-width:760px){.line{grid-template-columns:1fr; gap:5px}}
+.line .k{font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--stamp); font-weight:600}
+.line .t{font-size:15.5px; color:var(--dim)}
+.line .t b{color:var(--ink); font-weight:500}
+
+table.glyphs{width:100%; border-collapse:collapse; margin:24px 0 8px;
+  font-family:"JetBrains Mono",monospace; font-size:13px}
+table.glyphs th{text-align:left; font-size:10.5px; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--dimmer); font-weight:600; padding:10px 14px; border-bottom:1px solid var(--rule)}
+table.glyphs td{padding:11px 14px; border-bottom:1px solid var(--rule-soft); color:var(--dim)}
+table.glyphs tr:last-child td{border-bottom:0}
+table.glyphs td.y{color:var(--ok); font-weight:600}
+table.glyphs td.n{color:var(--stamp); font-weight:600}
+.tbl-scroll{overflow-x:auto; background:var(--panel); border:1px solid var(--rule); border-radius:6px}
+
+.fixes{display:grid; gap:12px; margin:24px 0 8px}
+.fx{background:var(--panel); border:1px solid var(--rule); border-left:3px solid var(--ok);
+  border-radius:5px; padding:17px 20px}
+.fx.warn{border-left-color:var(--warn)}
+.fx.no{border-left-color:var(--stamp)}
+.fx h4{font-family:"Bricolage Grotesque",sans-serif; font-weight:700; font-size:17px; margin:0 0 6px}
+.fx p{font-size:15px; color:var(--dim); margin:0; max-width:none}
+
+.next{counter-reset:n; list-style:none; padding:0; margin:24px 0 0}
+.next li{counter-increment:n; position:relative; padding:0 0 20px 46px; margin:0 0 20px; border-bottom:1px solid var(--rule-soft)}
+.next li:last-child{border-bottom:0; margin-bottom:0; padding-bottom:0}
+.next li::before{content:counter(n,decimal-leading-zero); position:absolute; left:0; top:1px;
+  font-family:"JetBrains Mono",monospace; font-size:12px; font-weight:600; color:var(--stamp)}
+.next b{display:block; font-family:"Bricolage Grotesque",sans-serif; font-weight:700;
+  font-size:18px; color:var(--ink); margin-bottom:5px; letter-spacing:-.01em}
+.next span{color:var(--dim); font-size:15.5px}
+.next .owner{font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--dimmer);
+  letter-spacing:.1em; text-transform:uppercase; display:block; margin-top:7px}
+
+.srt{background:var(--panel2); border:1px solid var(--rule); border-radius:6px; padding:20px 22px;
+  margin:22px 0; font-family:"JetBrains Mono",monospace; font-size:13px; color:#CFD8E3;
+  white-space:pre; overflow-x:auto; line-height:1.85}
+.srt .tc{color:var(--teal)}
+
+footer{padding:42px 0 70px; font-family:"JetBrains Mono",monospace; font-size:11.5px;
+  color:var(--dimmer); line-height:1.9}
+footer a{color:var(--dim)}
+::selection{background:var(--stamp); color:#0A0C10}
+:focus-visible{outline:2px solid var(--stamp); outline-offset:3px; border-radius:2px}
+</style>
+</head>
+<body>
+
+<nav class="rail"><div class="rail-in">
+  <span class="mark">CONSPIRACIOUSLY</span>
+  <a href="index.html">Teardown</a>
+  <a href="conspiracy.html">Channel plan</a>
+  <a href="theories.html">The videos</a>
+  <a href="radar.html">◉ Live radar</a>
+  <a href="#lever">The lever</a>
+  <a href="#font">The blocker</a>
+  <a href="#rivals">What rivals do</a>
+  <a href="#next">Next</a>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <div class="eyebrow">Strategy · <span>31 July 2026</span> · answering point 3</div>
+  <h1>Going worldwide</h1>
+  <p class="lede">You asked for a conspiracy platform that goes <strong>worldwide crazy famous</strong> — the way DIY and quirky one-minute videos did. Here is the mechanism those formats actually used, the free lever we already own, the one thing blocking three big languages, and the uncomfortable thing the biggest faceless conspiracy accounts are really doing to get their numbers.</p>
+</div></header>
+
+<section id="mechanism"><div class="wrap">
+  <div class="slug">The mechanism</div>
+  <h2>The formats that went global were the ones you didn't have to translate</h2>
+  <p>5-Minute Crafts is one of the largest channels on YouTube, and the reason is not the crafts. It is that the videos are built to be understood <strong>with the sound off, in any country</strong> — bright colours, top-down shots of hands, fast cuts, almost no spoken language. Nothing needs localising, so one upload serves every market at once.</p>
+  <p>Our videos are the structural opposite. <strong>One hundred percent of the story is carried by English narration.</strong> Strip the audio and a viewer gets stock footage and a caption they may not read. That single fact is what stands between this channel and a global audience — not the topics, not the edit, not the production quality.</p>
+  <p>There are two honest ways out, and only one of them is cheap.</p>
+  <div class="fixes">
+    <div class="fx no"><h4>Become visual-native — rebuild so the pictures carry the story</h4><p>This is what 5-Minute Crafts actually did. For us it would mean abandoning the narration-led format entirely and finding a way to tell a documents-and-dates story in pictures. That is a different channel, and archival conspiracy material does not lend itself to it.</p></div>
+    <div class="fx"><h4>Stay narration-led, but make the narration nearly free to replace</h4><p>Keep the format. Swap the voice and the captions per language, reuse everything else. This is the one that fits what we have already built — and it turns out we can do it today, at no cost.</p></div>
+  </div>
+</div></section>
+
+<section id="lever"><div class="wrap">
+  <div class="slug">The lever we already own</div>
+  <h2>Everything below the voiceover is already language-agnostic</h2>
+  <p>The composer takes an <strong>audio file and a subtitle file</strong> and builds the entire video from them — segment timing, still selection, dolly moves, sound design, the caption track, the evidence stamps. It never reads English. Change the voiceover and the subtitles, and the same 36 stories become 36 videos in another language, with <strong>no new footage, no new research and no new fact-checking</strong>.</p>
+  <p>The voice engine we already use — Edge TTS — is free, needs no API key, and is already installed on this box. I queried it directly rather than trusting documentation:</p>
+  <div class="lines">
+    <div class="line"><div class="k">Voices available</div><div class="t"><b>322</b> — measured by listing them from the installed library, not quoted from a blog</div></div>
+    <div class="line"><div class="k">Distinct languages</div><div class="t"><b>75</b></div></div>
+    <div class="line"><div class="k">Distinct locales</div><div class="t"><b>142</b> — e.g. Spanish alone has 45 voices across Spain and Latin America</div></div>
+    <div class="line"><div class="k">Cost per language</div><div class="t"><b>Zero</b> for the voice. The only real cost is CPU for the re-render.</div></div>
+  </div>
+  <h3>Proven, not assumed</h3>
+  <p>I generated a Spanish voiceover of the Satoshi script through the real pipeline and checked what came out the other end. The accented characters survive and the word-level timings are correct, which is what the caption track is built from:</p>
+  <div class="srt">1
+<span class="tc">00:00:00,100 --&gt; 00:00:03,485</span>
+Existe una cartera que contiene setenta mil millones de dólares
+
+2
+<span class="tc">00:00:03,801 --&gt; 00:00:07,030</span>
+y durante dieciséis años casi nada ha salido de ella
+
+3
+<span class="tc">00:00:07,928 --&gt; 00:00:09,646</span>
+Todo el mundo conoce la historia</div>
+  <p>So the localisation play is real and it is close. The remaining work per language is translating 36 short scripts — and that is writing, not engineering.</p>
+</div></section>
+
+<section id="font"><div class="wrap">
+  <div class="slug">The blocker</div>
+  <h2>The caption font, not the voice, is what actually limits which languages we can ship</h2>
+  <p>Edge TTS will happily speak Hindi, Arabic and Bengali. Our captions will not render them. The composer burns subtitles using a single font file, and a font can only draw the characters it contains. I tested its character coverage directly against the languages worth targeting:</p>
+  <div class="tbl-scroll"><table class="glyphs">
+    <thead><tr><th>Language</th><th>Script</th><th>Renders today</th></tr></thead>
+    <tbody>
+      <tr><td>Spanish</td><td>Latin</td><td class="y">YES</td></tr>
+      <tr><td>Portuguese</td><td>Latin</td><td class="y">YES</td></tr>
+      <tr><td>German</td><td>Latin</td><td class="y">YES</td></tr>
+      <tr><td>French</td><td>Latin</td><td class="y">YES</td></tr>
+      <tr><td>Turkish</td><td>Latin</td><td class="y">YES</td></tr>
+      <tr><td>Polish</td><td>Latin</td><td class="y">YES</td></tr>
+      <tr><td>Indonesian</td><td>Latin</td><td class="y">YES</td></tr>
+      <tr><td>Russian</td><td>Cyrillic</td><td class="y">YES</td></tr>
+      <tr><td>Japanese</td><td>CJK</td><td class="y">YES</td></tr>
+      <tr><td>Arabic</td><td>Arabic</td><td class="n">NO — empty boxes</td></tr>
+      <tr><td>Hindi</td><td>Devanagari</td><td class="n">NO — empty boxes</td></tr>
+      <tr><td>Bengali</td><td>Bengali</td><td class="n">NO — empty boxes</td></tr>
+    </tbody>
+  </table></div>
+  <p>This is worth knowing <em class="q">before</em> anyone commissions translations. Nine of the twelve languages I checked would ship today with no change at all. The three that fail need a Noto font dropped in first — a small job, but a silent disaster if nobody checks and we render a hundred Hindi videos full of blank rectangles.</p>
+</div></section>
+
+<section id="rivals"><div class="wrap">
+  <div class="slug">What the rivals are actually doing</div>
+  <h2>The faceless conspiracy accounts with the huge numbers are winning by making it up</h2>
+  <p>You asked at the start of the week whether I had tracked the channels in this niche. I had, but the work was never written down anywhere and it was lost. Here it is properly, and the finding is not what I expected.</p>
+  <p>Media Matters documented the biggest faceless conspiracy operations on TikTok in a piece dated <strong>8 February 2024</strong>. The numbers are large and the mechanism is unambiguous:</p>
+  <div class="lines">
+    <div class="line"><div class="k">forbiddencombo</div><div class="t"><b>342 million views</b> since February 2023</div></div>
+    <div class="line"><div class="k">prohibidocombo</div><div class="t"><b>329 million views</b> since September 2023 — the <b>Spanish-language twin</b> of the account above</div></div>
+    <div class="line"><div class="k">Single video peak</div><div class="t"><b>32.3M</b> — <em class="q">"scientist just got caught hiding the last saber-toothed tiger"</em></div></div>
+    <div class="line"><div class="k">Others</div><div class="t"><b>23M</b> — government captured a giant kraken · <b>21.6M</b> — scientists captured the wendigo</div></div>
+  </div>
+  <div class="correction bad">
+    <div class="tag">The uncomfortable part</div>
+    <p>Every one of those stories is <strong>invented</strong>. Wendigos, krakens, a surviving saber-toothed tiger, captured vampires. This is not a niche where careful sourcing is being rewarded — it is a niche where the biggest numbers belong to people making things up, and the reason the story travels is that no real event constrains how good the hook can be.</p>
+    <p>That is the growth curve you would be copying, and it is the exact thing we ruled out. I am not going to quietly drift toward it, and I would not recommend chasing those numbers.</p>
+  </div>
+  <div class="correction good">
+    <div class="tag">But one thing they prove is worth taking</div>
+    <p><strong>The same operator runs an English account and a Spanish account.</strong> 342 million views on one, 329 million on the other — Spanish is not a junior market here, it is nearly half the total. They have already proved that this exact content localises, and that the second language roughly doubles the audience.</p>
+    <p>We can copy that mechanism without copying the fabrication. It is the single strongest argument for the multi-language plan above.</p>
+  </div>
+  <h3>Where the real money in the niche sits</h3>
+  <p>The largest genuine channel in this space, The Why Files, is in the millions of subscribers — but it is <strong>long-form, human-hosted and funny</strong>, with a few hundred videos built over about five years. It is a different business from ours and not a template we can copy with a synthesised voice.</p>
+  <p>So the honest map is this: <strong>nobody has won this niche with faceless short-form built on true stories.</strong> That is simultaneously the opportunity and the warning. The opportunity is that the position is empty. The warning is that it may be empty because the fabricated version simply out-performs the true one on a scroll-based feed.</p>
+</div></section>
+
+<section id="position"><div class="wrap">
+  <div class="slug">The position</div>
+  <h2>Our only defensible edge is that ours survive being checked</h2>
+  <p>If we cannot out-hook the invented stories, we should compete where they are weak. A wendigo video dies the moment a viewer searches the claim. Ours are built the other way round: a real document, a real date, a real number, and the official explanation given fairly before the theory is offered as a theory.</p>
+  <p>That suggests a simple, repeatable identity — <strong>the channel that shows the receipt</strong>. The evidence stamp already burned into every video (the year, the figure, pulled out of the caption and set in the upper third) is exactly that signal, and it is the thing to lean into rather than dilute. It is also, usefully, the one element that reads instantly with the sound off and needs no translation at all.</p>
+  <div class="correction">
+    <div class="tag">A number I am deliberately not quoting</div>
+    <p>The claim that <em class="q">"85% of Facebook video is watched without sound"</em> is everywhere, and it is the kind of thing I would normally use to argue for caption-first design. I traced it: it comes from <strong>Digiday, 17 May 2016</strong>, and it is <strong>publisher self-reporting</strong> — LittleThings and Mic each estimated 85% for their own pages, while PopSugar in the same piece reported a range of 50 to 80%. Facebook never published the figure.</p>
+    <p>So it is a ten-year-old estimate that hardened into a fact through repetition — the same shape as the TikTok RPM number we already struck. The design conclusion still holds, because feeds genuinely do autoplay muted, but the number itself should not be used to justify anything.</p>
+  </div>
+</div></section>
+
+<section id="next"><div class="wrap">
+  <div class="slug">What happens next</div>
+  <h2>Recommended order</h2>
+  <ol class="next">
+    <li><b>Ship the English 36 first</b><span>They are re-rendering now with the length cap, the caption sync fix and the stills that end the shot repetition. Nothing else should start until this set is one consistent product.</span><span class="owner">Me · in progress</span></li>
+    <li><b>Then Spanish, before any other language</b><span>It is the only second market with direct evidence behind it — the Spanish twin account earns almost as much reach as the English original. The font already supports it, the voices already exist, and the work is translating 36 short scripts.</span><span class="owner">Me · needs your go</span></li>
+    <li><b>Swap in a Noto font before anyone touches Hindi, Arabic or Bengali</b><span>Otherwise those captions render as empty boxes. Small job, but it has to happen first, not after a batch is produced.</span><span class="owner">Me · only if we target those markets</span></li>
+    <li><b>Decide the one thing I cannot decide for you</b><span>Whether the channel is worth running as a true-stories channel given what the numbers above say about the invented ones. I think the position is defensible and the fabricated accounts are living on borrowed time — but it is your money and your call, and you should make it knowing the competition is not playing the same game.</span><span class="owner">You</span></li>
+  </ol>
+</div></section>
+
+<footer><div class="wrap">
+  Conspiraciously · strategy note, 31 July 2026 · internal, noindex<br>
+  Figures on this page were checked at source: voice and font coverage measured directly on the build machine; competitor figures from Media Matters, 8 February 2024; the muted-video figure traced to Digiday, 17 May 2016 and deliberately not used.<br>
+  <a href="index.html">Teardown</a> · <a href="conspiracy.html">Channel plan</a> · <a href="theories.html">The videos</a> · <a href="radar.html">Live radar</a>
+</div></footer>
+
+</body>
+</html>
