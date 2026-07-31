@@ -1,15 +1,48 @@
 {
-  "generated": "2026-07-31T00:17:15+00:00",
+  "generated": "2026-07-31T03:17:15+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
     "reddit-worldnews": "HTTP 429 rate limited"
   },
-  "raw_items": 1673,
-  "stale_dropped": 1057,
-  "clusters": 514,
-  "off_topic": 35,
+  "raw_items": 1666,
+  "stale_dropped": 1054,
+  "clusters": 499,
+  "off_topic": 37,
   "stories": [
+    {
+      "title": "Pixel 11 series leaks with seemingly official renders, includes all-matte Pixel 11 Pro [Gallery]",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0FUVWozT19KdVI3Ylc2NlQtcTdwd3ZSN1JYdXdaeS1rZGJLQ2JqWE9FUnpHSHR4c2JJaXZ3Z2Y2UmdCM2sxeXJBRkVSdlB2b01jZV9BR2wzR1c2eWNSdWZHTE05VlJhYlJGdEpZUHhoUHB4YnFnZDJLekFENTFqVWxRZklILVMxbDhxb2VnMTRTdFg3NWpIVHFINGNEVzJvMlQxNXRwZ3N0Sm9JYWtCTWxZRUV2bVBNUHZTQ1F6ZEVlMUNDSjJz?oc=5",
+      "summary": "Pixel 11 series leaks with seemingly official renders, includes all-matte Pixel 11 Pro [Gallery] 9to5Google Pixel 11 Pro Fold design leaks ahead of Google launch event The Verge Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget Pixel 11 Pricing to Shift Like Stocks With RAM Market Prices extremetech.com New Pixel 11 Pro Teaser Offers a Better Look at Google's Camera Bar Indicator PCMag",
+      "published": "2026-07-30T17:20:00+00:00",
+      "outlets": [
+        "9to5Google",
+        "Engadget",
+        "PCMag",
+        "The Verge",
+        "extremetech.com"
+      ],
+      "feeds": [
+        "google-technology"
+      ],
+      "reach": 58.8,
+      "angle": 45.8,
+      "rank": 26.9,
+      "signals": {
+        "unexplained": [
+          "mysterious"
+        ],
+        "secrecy": [
+          "leaked"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
     {
       "title": "New technique pinpoints human DNA inherited from 'ghost' ancestors",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUZXV4WUdFaVBhOE16UXEteEVnX2doN0wtTjBQTE4xb2haT1dHbmdPZWZlT2pmdHNwU0sySWZrMEEzR3FYS2RnU0trajNOV2JjNkVmY0lvRzFBZTgtb2k4M25UZVJtOHk2M0RNbEM3SzYwaFkxSFpGNzdR?oc=5",
@@ -42,6 +75,40 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZklmMzNxWVJBcm9sNWdOX2JRc1NaTHdRbktrQnJLejR1bVVnRjJ2MFNtZmFKaDh6UFN3dk9PX1h4YktHUkVGYnpuMFJQRk1PMkg2QUJZOVVNMk05dThqb0R0a3pJNXJwVlNDSG5RY1YtMzRWbG1wWllEUUtaSmFHaTZMRTFkbm1aMEx0eDJOXzBDVWEwbHpWSTV2eldhZHhTZjhYaTlFZXNrdmJDOWdvb0MxVDd0ZllUT29YV1cwRUpEYktOR1hpVVhIcl9DV1BFNlM5V0d4SnFTNXBCSkEtbnQ5T2xkVk5GbjE4TlNuWGtyU0pETWNzYg?oc=5",
+      "summary": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30 Space NASA to Host Media Briefing on Roman Telescope, Launching Next Month NASA (.gov) Roman Space Telescope on track for late August launch SpaceNews NASA's new Nancy Grace Roman Space Telescope is about to launch. Here's why it's so cool. Yahoo The universe\u2019s greatest mysteries could be solved with Nasa\u2019s new launch The Independent",
+      "published": "2026-07-29T22:41:30+00:00",
+      "outlets": [
+        "NASA (.gov)",
+        "Space",
+        "SpaceNews",
+        "The Independent",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 60.8,
+      "angle": 41.6,
+      "rank": 25.3,
+      "signals": {
+        "unexplained": [
+          "mysteries"
+        ],
+        "institutional": [
+          "nasa"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "An agency is involved. Its own record is the context nobody pulls."
       ]
     },
     {
@@ -82,15 +149,15 @@
       ]
     },
     {
-      "title": "T.S.A. Finds 5 Civil War Cannonballs in Passenger\u2019s Luggage in Alabama",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0FYSUFYRlRXLTlKMU9NaTNUMEdEVjZYcFdLcTBrczdRVzlOeWNjS3BfV3pFTGtFamd6cjBONFFIVVk1R3ZDbktWRUVBMVJIWmtqbTZib3dLcEUyRmZQQ3NRbUotd3U3YlNPRU5GbzRQY1NUUWQ4bXdtZFNyRldEenZR?oc=5",
-      "summary": "T.S.A. Finds 5 Civil War Cannonballs in Passenger\u2019s Luggage in Alabama The New York Times Cannonball run! \u2018Indiana Jones-esque\u2019 discovery by TSA at Alabama airport tsa.gov TSA finds stolen Civil War-era cannonballs in a passenger\u2019s suitcase at an Alabama airport AP News TSA officer sees alarming shapes on X-ray before stolen Civil War mystery unravels foxnews.com Stolen cannonballs discovered inside passenger's bag during airport security check ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-30T21:14:12+00:00",
+      "title": "TSA finds stolen Civil War-era cannonballs in a passenger\u2019s suitcase at an Alabama airport",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHFUQm9JbkNpRU40OEpkWExOSFoxamU2YXlZdGF4R0EwTHpqMmlmMDl6WHVnZ3dLTmoxakdfcXJKcDF4UDBfdngzbTJhOEcyN3l4d2s3Xy0td1EtR3BVWVJFS1RmUHJyMDJzLTVhbnBBQW9VYXEyZXJvTmJsR205OE1yNGlaSDZ1cHFYVVc2T3NVSUR6b19Mc1NR?oc=5",
+      "summary": "TSA finds stolen Civil War-era cannonballs in a passenger\u2019s suitcase at an Alabama airport AP News T.S.A. Finds 5 Civil War Cannonballs in Passenger\u2019s Luggage in Alabama The New York Times Stolen Civil War-era cannonballs found in suitcase at Alabama airport CBS News Cannonball run! \u2018Indiana Jones-esque\u2019 discovery by TSA at Alabama airport tsa.gov TSA officer sees alarming shapes on X-ray before stolen Civil War mystery unravels Fox News",
+      "published": "2026-07-30T21:38:00+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
         "AP News",
+        "CBS News",
+        "Fox News",
         "The New York Times",
-        "foxnews.com",
         "tsa.gov"
       ],
       "feeds": [
@@ -104,7 +171,6 @@
           "mystery"
         ],
         "frontier": [
-          "discovered",
           "discovery"
         ]
       },
@@ -116,49 +182,45 @@
       ]
     },
     {
-      "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZklmMzNxWVJBcm9sNWdOX2JRc1NaTHdRbktrQnJLejR1bVVnRjJ2MFNtZmFKaDh6UFN3dk9PX1h4YktHUkVGYnpuMFJQRk1PMkg2QUJZOVVNMk05dThqb0R0a3pJNXJwVlNDSG5RY1YtMzRWbG1wWllEUUtaSmFHaTZMRTFkbm1aMEx0eDJOXzBDVWEwbHpWSTV2eldhZHhTZjhYaTlFZXNrdmJDOWdvb0MxVDd0ZllUT29YV1cwRUpEYktOR1hpVVhIcl9DV1BFNlM5V0d4SnFTNXBCSkEtbnQ5T2xkVk5GbjE4TlNuWGtyU0pETWNzYg?oc=5",
-      "summary": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30 Space NASA to Host Media Briefing on Roman Telescope, Launching Next Month NASA (.gov) Roman Space Telescope on track for late August launch SpaceNews NASA's new Nancy Grace Roman Space Telescope is about to launch. Here's why it's so cool. Yahoo The universe\u2019s greatest mysteries could be solved with Nasa\u2019s new launch The Independent",
-      "published": "2026-07-29T22:41:30+00:00",
+      "title": "UEFA vows World Cup boycott as Concacaf rejects FIFA private equity plan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYUs0R2JSZ2dyZHNsRmZvdnF0SnNvRDBzaEtRemlQMWppeEdSWi1qdzRydVpKSXVXX3NJS1pPZFNLMko1cWRHaVZYMmhwTWxrR21fS2V4VndwaFNVTWx2V0FicHZNeWlsaU1FbmxaY0ItVFFUbzc2Qnd0MDh0WldIQ2xzaFVpMXVBTGY2UWVqZ2FBcG5KOU9Xa2c1Y1RWbVRBc213NzJBc09RanJxelYwaEZoMFJSQWlfLVVHMw?oc=5",
+      "summary": "UEFA vows World Cup boycott as Concacaf rejects FIFA private equity plan ESPN Statement on behalf of Concacaf and its 41 Member Associations Concacaf | Official Website Trump Pal\u2019s Plot to Seize World Cup Hit by Trump Curse thedailybeast.com European soccer leaders to boycott the World Cup in an unprecedented step NPR USWNT's Emma Hayes comments on FIFA's proposal to sell minority stake USA Today",
+      "published": "2026-07-30T19:53:00+00:00",
       "outlets": [
-        "NASA (.gov)",
-        "Space",
-        "SpaceNews",
-        "The Independent",
-        "Yahoo"
+        "Concacaf | Official Website",
+        "ESPN",
+        "NPR",
+        "USA Today",
+        "thedailybeast.com"
       ],
       "feeds": [
-        "google-science"
+        "google-top"
       ],
-      "reach": 54.8,
-      "angle": 41.6,
-      "rank": 22.8,
+      "reach": 58.8,
+      "angle": 34.0,
+      "rank": 20.0,
       "signals": {
         "unexplained": [
-          "mysteries"
-        ],
-        "institutional": [
-          "nasa"
+          "unprecedented"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
-        "An agency is involved. Its own record is the context nobody pulls."
+        "The official account stops short of a cause. Open on the gap."
       ]
     },
     {
       "title": "1st three-headed asteroid found in our solar system \u2014 and it has a little moon",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXI4NFQyeXJWZTFfMHR1VlJ4U2FmX2Nhb21WNFBwTTZYNTVWczBwYlJXczFxZzY5RDhsbXJLLVFEc3NfUlU2RzFJZlJLQVlGVnR1bUkzVjk3TmRLMUQ3andNcS1TaUNtOGlfNVluU0JWYTRtTUN2Z2tYbnlMTThJU0UwZW1BU2xzUjBOVDdNVG5SY1gteGZ2ejV1LTVwanBtVUJHc1o0UDZsTXJtMjJWRFdtZUhNbHQ0X1E?oc=5",
-      "summary": "1st three-headed asteroid found in our solar system \u2014 and it has a little moon Space Three-lobed asteroid is a world unlike any other University of Arizona News Strange three-lobed asteroid seems to have its own tiny moon New Scientist This Asteroid Has 3 Lobes and a Secret Moon Scientists Didn\u2019t Expect Gizmodo Mount Graham scope helps crack mystery of 3-lobed asteroid KVOA",
+      "summary": "1st three-headed asteroid found in our solar system \u2014 and it has a little moon Space Three-lobed asteroid is a world unlike any other University of Arizona News Strange three-lobed asteroid seems to have its own tiny moon New Scientist This Asteroid Has 3 Lobes and a Secret Moon Scientists Didn\u2019t Expect gizmodo.com Mount Graham scope helps crack mystery of 3-lobed asteroid KVOA",
       "published": "2026-07-30T17:03:10+00:00",
       "outlets": [
-        "Gizmodo",
         "KVOA",
         "New Scientist",
         "Space",
-        "University of Arizona News"
+        "University of Arizona News",
+        "gizmodo.com"
       ],
       "feeds": [
         "google-science"
@@ -180,14 +242,14 @@
     {
       "title": "SpaceX launch recap: Liftoff from Florida early Thursday brings sonic boom.",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdV9oQ0tnVXVPVTYzTExpQ1JXenhkb3Z6Q05fTm8zRU5JU1cza2NGVEF3UWlSRXpOQm9sdEJoN1dsRnUtQmt1U0JZM3Zma010RGFKOUZrTUtpMXhoTC1XNFpXWkVhM0RPLUJQTm0wM2w3UWI4SVZsUDV4dDdfc3pBaVphd3hsX0hGb2p6cXZCck5HMGliaUZLekFXZnNoTkVadG13enN6Y3ZsVzdSQ0Y4dmE5ZEpVS1ZFYVUzdDc4QWFWNWliSFB0Mk9VQVpvaWM0RjVEYjJpZ3ZsV3FnU1Rac2NtcEJmZG1TZFZOc2x6WGRwQjBQd28zWnRvR2stUWc?oc=5",
-      "summary": "SpaceX launch recap: Liftoff from Florida early Thursday brings sonic boom. Florida Today NROL-95 Mission spacex.com SpaceX launches classified payload for National Reconnaissance Office Spaceflight Now SpaceX launches secret US spy satellite from Florida (video) Space SpaceX to launch top-secret mission for National Reconnaissance Office Spectrum News 13",
-      "published": "2026-07-30T09:08:11+00:00",
+      "summary": "SpaceX launch recap: Liftoff from Florida early Thursday brings sonic boom. Florida Today NROL-95 Mission SpaceX SpaceX launches classified payload for National Reconnaissance Office spaceflightnow.com SpaceX launches secret US spy satellite from Florida (video) Space SpaceX launches top-secret mission for National Reconnaissance Office Spectrum News 13",
+      "published": "2026-07-30T08:26:00+00:00",
       "outlets": [
         "Florida Today",
         "Space",
-        "Spaceflight Now",
+        "SpaceX",
         "Spectrum News 13",
-        "spacex.com"
+        "spaceflightnow.com"
       ],
       "feeds": [
         "google-science"
@@ -211,14 +273,43 @@
       ]
     },
     {
+      "title": "New twist on the Einstein problem reveals unexpected physics",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkpRWGp3MjNRQXNaT2RKTzZacjVteGpQbEFkbndRV1hjWDFMOXZKYlhGdjdGUGlfX2hodTFnd0swUVhYYzFCTGYzTHlEUzVqVFhDY2ZoMVlJcU5PbVlPOTZSVm1YZXJKY0t5dzZ2cHdIQ0JVOG5KcWlyX1JlU2tmM1RTdDU?oc=5",
+      "summary": "New twist on the Einstein problem reveals unexpected physics Phys.org Math\u2019s acclaimed \u2018einstein tile\u2019 finds a new home among physicists Yahoo Scientists unravel new physics after laser diffracts in chiral patters Interesting Engineering New Einstein puzzle variant uncovers surprising physics Bioengineer.org Scientists uncover new physics in a famous Einstein puzzle Tech Explorist",
+      "published": "2026-07-29T09:00:04+00:00",
+      "outlets": [
+        "Bioengineer.org",
+        "Interesting Engineering",
+        "Phys.org",
+        "Tech Explorist",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 50.8,
+      "angle": 34.0,
+      "rank": 17.3,
+      "signals": {
+        "unexplained": [
+          "puzzle"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
       "title": "NASA\u2019s Curiosity rover found a \u2018sea of polygons\u2019 on Mars",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUTnluUFk3QTU0WjROWTdUN2RycFk5RTJVenVvSF90ZkVpQVR1SnRxekZ4bXV1cWVMWE1YdkxPdVdFWGZZdkpfamhzd1RPTkdkRHVjY0lILUloZGt0QU92bUYtUFBOWnRsSjdWdUEwTUxlVGhmc2hBRjF5RHdvYUE?oc=5",
-      "summary": "NASA\u2019s Curiosity rover found a \u2018sea of polygons\u2019 on Mars The Verge NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine Curiosity rover spots ancient sea of Martian polygons Popular Science Curiosity Mars rover discovers field of honeycomb textures Phys.org",
+      "summary": "NASA\u2019s Curiosity rover found a \u2018sea of polygons\u2019 on Mars The Verge NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine Mars rover discovers honeycomb-like fields on Red Planet NewsNation",
       "published": "2026-07-30T17:20:06+00:00",
       "outlets": [
         "BBC Sky at Night Magazine",
         "NASA (.gov)",
-        "Phys.org",
+        "NewsNation",
         "Popular Science",
         "The Verge"
       ],
@@ -245,40 +336,45 @@
       ]
     },
     {
-      "title": "New twist on the Einstein problem reveals unexpected physics",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkpRWGp3MjNRQXNaT2RKTzZacjVteGpQbEFkbndRV1hjWDFMOXZKYlhGdjdGUGlfX2hodTFnd0swUVhYYzFCTGYzTHlEUzVqVFhDY2ZoMVlJcU5PbVlPOTZSVm1YZXJKY0t5dzZ2cHdIQ0JVOG5KcWlyX1JlU2tmM1RTdDU?oc=5",
-      "summary": "New twist on the Einstein problem reveals unexpected physics Phys.org Scientists unravel new physics after laser diffracts in chiral patters Interesting Engineering New Einstein puzzle variant uncovers surprising physics Bioengineer.org Scientists uncover new physics in a famous Einstein puzzle Tech Explorist",
-      "published": "2026-07-29T09:00:04+00:00",
+      "title": "The genomic identity of early smallpox in South America",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWl9WR2lsSlB6bHpERFVEMEZ1M2diMGdMSmk2cU9TM0xNLXc3eGlmRlhpWnlKMjVkSXItTGd3MWlHbndJOGVRWEdSSm0tWS1pVGN4UWFqd2QzNjhJbmxaUg?oc=5",
+      "summary": "The genomic identity of early smallpox in South America Science | AAAS \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times 'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas ScienceAlert Smallpox DNA in ancient Inca mummies shows virus came from Europe New Scientist Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas AP News",
+      "published": "2026-07-30T18:01:36+00:00",
       "outlets": [
-        "Bioengineer.org",
-        "Interesting Engineering",
-        "Phys.org",
-        "Tech Explorist"
+        "AP News",
+        "New Scientist",
+        "Science | AAAS",
+        "ScienceAlert",
+        "The New York Times"
       ],
       "feeds": [
-        "google-science"
+        "google-health"
       ],
-      "reach": 43.6,
-      "angle": 34.0,
-      "rank": 14.8,
+      "reach": 58.8,
+      "angle": 24.8,
+      "rank": 14.6,
       "signals": {
-        "unexplained": [
-          "puzzle"
+        "institutional": [
+          "who"
+        ],
+        "frontier": [
+          "ancient"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "The official account stops short of a cause. Open on the gap."
+        "An agency is involved. Its own record is the context nobody pulls.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
-      "title": "Senate Committee Approves Measure to Block Trump\u2019s Effort to Gut Education Dept.",
+      "title": "Trump\u2019s Effort to Gut Education Dept. Rebuked by Senate Committee",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1loVk84WWt4UFJXcnJrOGtMUUZ0SDlxV3U0RTFpdl8xNHo3SS1BRV9SUy05RGFCNDhablJFQlJmZld1Umg3cUp6QzhWRVlSdUhnTUFaVFdqa1FCUVRSODRoQzFhVE9wenNfSDg5Y2RpdEJpNVdWV3lITVFUVGxzZjByck9iS1hRblZN?oc=5",
-      "summary": "Senate Committee Approves Measure to Block Trump\u2019s Effort to Gut Education Dept. The New York Times In bipartisan rebuke, Senate panel votes to shield special ed from RFK Jr.'s agency USA Today Senate committee votes to block part of Trump\u2019s Education Department breakup Politico Senate Panel Passes Bill to Reverse Dismantling of Education Department The 74 'It puts special education back 50 years.' Ohio advocates concerned over recent federal changes. Ohio Capital Journal",
-      "published": "2026-07-30T19:44:53+00:00",
+      "summary": "Trump\u2019s Effort to Gut Education Dept. Rebuked by Senate Committee The New York Times In bipartisan rebuke, Senate panel votes to shield special ed from RFK Jr.'s agency USA Today Senate committee votes to block part of Trump\u2019s Education Department breakup Politico Senate Panel Passes Bill to Reverse Dismantling of Education Department The 74 Pushback On Ed Department Plan To Offload Special Education Intensifies Disability Scoop",
+      "published": "2026-07-30T20:19:01+00:00",
       "outlets": [
-        "Ohio Capital Journal",
+        "Disability Scoop",
         "Politico",
         "The 74",
         "The New York Times",
@@ -304,14 +400,14 @@
     {
       "title": "Trump\u2019s Desperate Attempt to Get the Supreme Court to Reverse Itself on Voting Chaos",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGNCRlI2dC1XcDJYWjdPYUdzeGl4SElCcTdCR0VReU11MHdNU2Z1TUQ2Q0p1QW1GNHkwMUVwZ1hHLTNJWGI3QlFvR0RzWWx6TzYxUWhYMkZkNHBQNHRBS052NWwzaGxXRFVlUmIteUM0REFYRGc0dG02RjlsRVZCa1hENWYzNG13Mnl3YURuRXJFRmc5?oc=5",
-      "summary": "Trump\u2019s Desperate Attempt to Get the Supreme Court to Reverse Itself on Voting Chaos Slate Magazine Trump administration, states urge justices to allow full implementation of executive order on mail-in voting SCOTUSblog Court declines to block Trump mail ballot order, but fate for midterms remains uncertain New Jersey Globe GOP states join DOJ in asking Supreme Court to let Trump block some mail ballots Democracy Docket Mail-in voting: Trump administration appeals to Supreme Court to revive executive order setting limits, rejected by lower courts The Conversation",
+      "summary": "Trump\u2019s Desperate Attempt to Get the Supreme Court to Reverse Itself on Voting Chaos Slate Magazine Trump wants the Supreme Court to give him the unilateral power to rewrite election law vox.com Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms AP News Court declines to block Trump mail ballot order, but fate for midterms remains uncertain New Jersey Globe GOP states join DOJ in asking Supreme Court to let Trump block some mail ballots Democracy Docket",
       "published": "2026-07-30T15:59:00+00:00",
       "outlets": [
+        "AP News",
         "Democracy Docket",
         "New Jersey Globe",
-        "SCOTUSblog",
         "Slate Magazine",
-        "The Conversation"
+        "vox.com"
       ],
       "feeds": [
         "google-nation"
@@ -333,95 +429,8 @@
       ]
     },
     {
-      "title": "Blood Falls, Antarctica: Why This Glacier Flows Bright Red",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDVlcmVZR0ZhWmpzeFQ1VHhVTTFaWUNxdmcxUXJqbWlHbjB4M05KN0tELV9BM1owTmtnNzk5TDFqbER0R1pGVFNwTjZhNlRfb3FmLXdxSURYUU5yb3lLLWkzX2F2S3dsX3Qza0NlRkVpZmI0RXJzaGMzN2hSN05FQWpZc250SGhNS3RPbkF5NUJUZw?oc=5",
-      "summary": "Blood Falls, Antarctica: Why This Glacier Flows Bright Red HowStuffWorks On a glacier in Antarctica there is a waterfall that appears to bleed \u2014 a slow ooze of deep red spreading across the white \u2014 and the truth beneath it is stranger than the sight: a reservoir of ancient brine, sealed under the ice for an age still argued over, staining Space Daily In September 2018, three instruments at Antarctica\u2019s Blood Falls recorded the same hidden event as Taylor Glacier dropped about 15 millimetres, cold brine entered Lake Bonney, and the escaping water briefly slowed the ice moving above it Space Dai",
-      "published": "2026-07-30T14:06:01+00:00",
-      "outlets": [
-        "HowStuffWorks",
-        "Space Daily"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 35.5,
-      "angle": 34.8,
-      "rank": 12.4,
-      "signals": {
-        "secrecy": [
-          "sealed"
-        ],
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNm9sc21DMUItM1ljOXNWZUptWGFScU1rUWNxYjg5MnNFMk45Y3dURW5GcmxFZndTZ0RrY3U5ODRDWldmSkhtMWtwRDhKblhyRFJucXI0YkxfUzYwdHIzSzM1N3J3eDF6MkJMblRrN2pTU3dGUEQ4Ri1nQjA0bzJmZnFEYk5XdVVSTGxSZjFPMVVwbHp6N0xMQlNLVXh3REFUVFl5UC1aVHNrTkM1bHJLVjlVSDdRSWhR0gHMAUFVX3lxTE84bHZnMHUzXzdBQVByLW5FSnA2ZkU0TEh5VkdCeXktVnRHVVVMT2hPYnFMMTJHSDNRdHhPbE1jUWk3eDM5RlJBczBYZTJoRW1Yc0ZJQnktY1Bmdi1PT2E3UVdoc1dIaFk3RmZTY0RGb2IwdmFJWWRJRE5tazR5bEtaTkR0SEhQRTlSZEJyMUNQUEozcHJkanNfbDJRQ2xFcVBvTlZoNjVyUnNQSU9XVWk5NV9YbERhb3B1VGNDOWk1NFFpUXhLdzdubWNhRg?oc=5",
-      "summary": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips KOTA Territory News",
-      "published": "2026-07-30T13:30:00+00:00",
-      "outlets": [
-        "Accounting Today",
-        "CPA Practice Advisor",
-        "KOTA Territory News"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 43.9,
-      "angle": 28.0,
-      "rank": 12.3,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Researchers reverse autism-like symptoms in mice with one rapamycin dose",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ER2tCY0NGM3ZvQS1EYjlJak9GMC0tV01EUkhTdzd1TWJHRGNobEd2YU13ZUhucW1HOEY0Y3N6aTdHaGhTcU1oU0VaTWg0RmRpTW5oRE53Ny0zeWtoTE9zZU1wdjNKUDExbWdMMU1jdUItQ0JHLTNRem1XZWFXUdIBgwFBVV95cUxNd01QNkRDZkl1WDlyQ3dwQTJpN2QxbTI2Y3lGQ3hxak1tOG9uODlTTE15eEc2bzc2U3hfZEN6am01LWp4SVFOdkJ4bVpYY0s1OGxfZ0Rvc1JacnF3NDctNndpZGZpNjVHX2doNnlWYTJRMFFYc1A1dDhodWU3SlZVaTRwbw?oc=5",
-      "summary": "Researchers reverse autism-like symptoms in mice with one rapamycin dose NewsNation Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours SciTechDaily Single Drug Dose Reversed Autism-Like Traits in Mice Labroots Did scientists \u2018reverse\u2019 autism? Plus a measles milestone, e-bike injuries and gum health Straight Arrow",
-      "published": "2026-07-29T13:08:10+00:00",
-      "outlets": [
-        "Labroots",
-        "Nature",
-        "NewsNation",
-        "SciTechDaily",
-        "Straight Arrow"
-      ],
-      "feeds": [
-        "google-health"
-      ],
-      "reach": 54.8,
-      "angle": 22.0,
-      "rank": 12.1,
-      "signals": {
-        "reversal": [
-          "reverse",
-          "reversed"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The story changed. Put the first version and the current one side by side."
-      ]
-    },
-    {
       "title": "10-year-old drowns saving sister, another girl still unaccounted for",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQanVDMHluSGNLNTlKZnI1QndLcXNpSTJzcl9OOHhGR0ZLd3VsbG9fY3Z0bkprazg2SGlTbzE5X2MtQXhSWjhuMDl3UWxLc1V6dmNnai1EeW5jX0VOTWxITTVnRWVvd21QYkJTS2Z2amdnZUZGMmpZRl9od2ZMOWdta2JvY3U4UXhyY0VxcFBaalFOeXdvSjJyeVpyNDLSAbABQVVfeXFMT19fQ1Q2blRLSmNPZ3Y4TjRxa3FKZnhmeHMzMzV5SHE0Z09Qb1BOdTN1a0xnRXlyajN2N3UtRExkRi1HLUZhbDRTLTl2OG9teTBtVGRUckVEcERRM3JNT3ktLUg3d1BnNjB1MUhuQ3pHakNmVzlFc000UGZuUG5mc1hjeFdjZ3gyZGhpc01mWkZDQzRrYXBlNmUzZjhlU2EtRE40Y3h0UnF1ZkFqemxOQnU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVowR1VpT3JVejJNZnRWZktqZFlPTENHYTBYWlRUclVwWmM0bkR4UG5yX2QydFJPbTA2Sm9JMzMzVjNFOUw0aVNaX1lTWlR0dlFkTnROTVBkbkItSURlMmxTUDNGeGF2WW8wdV9oYjNacm1DUzVTOVVrUDh6c29BdTNsUHR4bjllNG8zbGYtbk4zY3NEQVBpLWlDc0NFZ9IBsgFBVV95cUxPdUVEdERrSkNFY0ZnUW9Bb08wa3pwTGVma0JZenlXS0xIOEdvYnJDNXRja3hDN2E2amtaaXU4b0ZOakVRYzR5aWMyTUM5UFdYRFAzU19IMjhEekFrUWdheU1XU05xbkhNS3FFbzloN1d6TzJ3WUh5dTRKYTYtSXBpd2o5SVVRc2VrMnJnNEdjOERJRUFtOHp0NHJ0dVdxT25aaVNqRW00RFZSMm9RT0dwcWl3?oc=5",
       "summary": "10-year-old drowns saving sister, another girl still unaccounted for WPTA | 21Alive | Fort Wayne, IN",
       "published": "2026-07-30T20:01:00+00:00",
       "outlets": [
@@ -451,11 +460,11 @@
         "WBRC 6 News",
         "WCAX",
         "WDBJ7",
+        "WEEK | 25 News Now",
         "WFIE | 14 News",
         "WFLX",
         "WFSB",
         "WIS News 10",
-        "WLBT",
         "WMBF",
         "WMTV 15 NEWS",
         "WNDU",
@@ -488,6 +497,93 @@
       ]
     },
     {
+      "title": "Researchers reverse autism-like symptoms in mice with one rapamycin dose",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ER2tCY0NGM3ZvQS1EYjlJak9GMC0tV01EUkhTdzd1TWJHRGNobEd2YU13ZUhucW1HOEY0Y3N6aTdHaGhTcU1oU0VaTWg0RmRpTW5oRE53Ny0zeWtoTE9zZU1wdjNKUDExbWdMMU1jdUItQ0JHLTNRem1XZWFXUdIBgwFBVV95cUxNd01QNkRDZkl1WDlyQ3dwQTJpN2QxbTI2Y3lGQ3hxak1tOG9uODlTTE15eEc2bzc2U3hfZEN6am01LWp4SVFOdkJ4bVpYY0s1OGxfZ0Rvc1JacnF3NDctNndpZGZpNjVHX2doNnlWYTJRMFFYc1A1dDhodWU3SlZVaTRwbw?oc=5",
+      "summary": "Researchers reverse autism-like symptoms in mice with one rapamycin dose NewsNation Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours SciTechDaily Single Drug Dose Reversed Autism-Like Traits in Mice Labroots Did scientists \u2018reverse\u2019 autism? Plus a measles milestone, e-bike injuries and gum health Straight Arrow",
+      "published": "2026-07-29T13:08:10+00:00",
+      "outlets": [
+        "Labroots",
+        "Nature",
+        "NewsNation",
+        "SciTechDaily",
+        "Straight Arrow"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 50.8,
+      "angle": 22.0,
+      "rank": 11.2,
+      "signals": {
+        "reversal": [
+          "reverse",
+          "reversed"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The story changed. Put the first version and the current one side by side."
+      ]
+    },
+    {
+      "title": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNm9sc21DMUItM1ljOXNWZUptWGFScU1rUWNxYjg5MnNFMk45Y3dURW5GcmxFZndTZ0RrY3U5ODRDWldmSkhtMWtwRDhKblhyRFJucXI0YkxfUzYwdHIzSzM1N3J3eDF6MkJMblRrN2pTU3dGUEQ4Ri1nQjA0bzJmZnFEYk5XdVVSTGxSZjFPMVVwbHp6N0xMQlNLVXh3REFUVFl5UC1aVHNrTkM1bHJLVjlVSDdRSWhR0gHMAUFVX3lxTE84bHZnMHUzXzdBQVByLW5FSnA2ZkU0TEh5VkdCeXktVnRHVVVMT2hPYnFMMTJHSDNRdHhPbE1jUWk3eDM5RlJBczBYZTJoRW1Yc0ZJQnktY1Bmdi1PT2E3UVdoc1dIaFk3RmZTY0RGb2IwdmFJWWRJRE5tazR5bEtaTkR0SEhQRTlSZEJyMUNQUEozcHJkanNfbDJRQ2xFcVBvTlZoNjVyUnNQSU9XVWk5NV9YbERhb3B1VGNDOWk1NFFpUXhLdzdubWNhRg?oc=5",
+      "summary": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips KOTA Territory News",
+      "published": "2026-07-30T13:30:00+00:00",
+      "outlets": [
+        "Accounting Today",
+        "CPA Practice Advisor",
+        "KOTA Territory News"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 39.9,
+      "angle": 28.0,
+      "rank": 11.2,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Blood Falls, Antarctica: Why This Glacier Flows Bright Red",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDVlcmVZR0ZhWmpzeFQ1VHhVTTFaWUNxdmcxUXJqbWlHbjB4M05KN0tELV9BM1owTmtnNzk5TDFqbER0R1pGVFNwTjZhNlRfb3FmLXdxSURYUU5yb3lLLWkzX2F2S3dsX3Qza0NlRkVpZmI0RXJzaGMzN2hSN05FQWpZc250SGhNS3RPbkF5NUJUZw?oc=5",
+      "summary": "Blood Falls, Antarctica: Why This Glacier Flows Bright Red HowStuffWorks On a glacier in Antarctica there is a waterfall that appears to bleed \u2014 a slow ooze of deep red spreading across the white \u2014 and the truth beneath it is stranger than the sight: a reservoir of ancient brine, sealed under the ice for an age still argued over, staining Space Daily In September 2018, three instruments at Antarctica\u2019s Blood Falls recorded the same hidden event as Taylor Glacier dropped about 15 millimetres, cold brine entered Lake Bonney, and the escaping water briefly slowed the ice moving above it Space Dai",
+      "published": "2026-07-30T14:06:01+00:00",
+      "outlets": [
+        "HowStuffWorks",
+        "Space Daily"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 31.5,
+      "angle": 34.8,
+      "rank": 11.0,
+      "signals": {
+        "secrecy": [
+          "sealed"
+        ],
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
       "title": "UFO Files: Declassified US Report Describes Mysterious Object Over the Mediterranean - Nice-Matin",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUW1oZDhPSTMzaVRTaHMwVTBncENveFNxMXc5Zm1SbTFXbFRqYUZOQ2h1LVZ4b09DRW8xYWNVdlJnX20wM2MtR0Q5RlZvd2xiMzQ0bHllckl4alVteHUtOTRzZ2xZZTU0M201aDg1MkNGUUVSTlRtZU1IRHNvVVcwN183MnRGQTlWSV8wcEZXbFZFUzUwUHd6dEFEdVowTkMxM0QxRnVrVXZpbnQ1NkphcWwtY05XN0lsblRqOVhxVGRoUmJEWGJvYW11clk?oc=5",
       "summary": "UFO Files: Declassified US Report Describes Mysterious Object Over the Mediterranean Nice-Matin",
@@ -517,96 +613,6 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
         "Something is being withheld. Build the middle on what was asked and not answered.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNbzdNOFBCZTRoSHlpX1JBeUsyNHVDWXpRLUxJcUYzbEFPOW9GbHpqVGRPdlJ4SllnR3R4MDVVX01IMW9PNWpWMHZiLTRkeWNod1M4Z0s0V0FnOTlHTGRmR0RSN29oX2pDNF8xV291akZBbmFzZnNyejJ2bVBQZERqYnVjVHBScFNHTzUwNlBhVnpFMVNLcm9zeUJUQnptQVJOS3dJNkZGTnI3RkVOY1NWUk4yT1dqX1dwS1pULXBTeWFLYlNRaEpkYWdsU2dRb0t2WDlmZGpuR1llRzNINUsyNHVzVTdJbExheW5PeG5ZUDZBUWpWMmVaWVljOS1Mb0wxNGQ5TnJPQ252TzU3UjBDSk11Q3Ntb0YyeVZNMlhXaFJXQ3ZMaTRsZFlJVlRRemRBTlYxdDg0UU9qNUhzZWhxa2xjTEJvSkhGbFF1bXpMX0g3UQ?oc=5",
-      "summary": "Securities Fraud Investigation Into Alignment Healthcare, Inc. (NASDAQ: ALHC) Following Whistleblower Lawsuit Of Financial Manipulation \u2013 Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz WBOC TV",
-      "published": "2026-07-28T21:00:00+00:00",
-      "outlets": [
-        "Carroll County Mirror-Democrat",
-        "WBOC TV"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 27.5,
-      "angle": 35.6,
-      "rank": 9.8,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ],
-        "institutional": [
-          "who"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered.",
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
-      "title": "Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1ZGUGZnOFhVckk4aVA0dWdRN2I4MHo0bkFBdjhvbnI0U2Y0Q3pUemtWV1N1cGQ2b3FiTG0yUEY4Z2pLelcxdm1SWEFqYlFYOHlGQlYzWHpEaENhRF9fSGtCdTRYOWFxTG9SLXRjTHJsbVpMYnIxTVhlT3d2VmdQSU92RTd2VjBrMGZRX0ZEU1lVZjZQX3BlVUFjenVSRWs?oc=5",
-      "summary": "Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas AP News \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times Smallpox DNA in ancient Inca mummies shows virus came from Europe New Scientist 500-year-old Inca mummies prove that European colonists brought devastating smallpox to the Americas Live Science Telltale DNA: First direct evidence found that the Spanish brought smallpox to the Inca CIDRAP",
-      "published": "2026-07-30T18:16:00+00:00",
-      "outlets": [
-        "AP News",
-        "CIDRAP",
-        "Live Science",
-        "New Scientist",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-health"
-      ],
-      "reach": 58.8,
-      "angle": 16.0,
-      "rank": 9.4,
-      "signals": {
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Chinese fossil shows internal organs of prehistoric marine reptile",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3ZZaG1SR3RDVFhmbDVzWFlTRWYzb2RIaG93dFVvVlR0QnBLaTFNQkdpeFhfc0o4QnVfOEVCSWNrZ29jZFlkWEh5VXlmTzc1N2FoZE12Q1U5XzBydXItS0p3VHllcC01QktCTkNiWnpUOWdVcEJOR2FuNHRTTFh5Q0pCekpCa0wyNkd4d1ViNXNDSWxySVAxVUltcw?oc=5",
-      "summary": "Chinese fossil shows internal organs of prehistoric marine reptile Yahoo Spectacular fossil preserves internal organs of ancient marine reptile New Scientist Unique fossil reveals the internal organs of a 245-million-year-old marine reptile Phys.org Triassic fish for lunch? Chinese fossil reveals oldest preserved reptile stomach South China Morning Post Incredible Marine Reptile Fossil Preserves Its Internal Organs In Such Detail That Its Liver Is Still A \"Reddish Color\" IFLScience",
-      "published": "2026-07-30T09:03:08+00:00",
-      "outlets": [
-        "IFLScience",
-        "New Scientist",
-        "Phys.org",
-        "South China Morning Post",
-        "Yahoo"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 54.8,
-      "angle": 16.0,
-      "rank": 8.8,
-      "signals": {
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
@@ -671,6 +677,35 @@
       ]
     },
     {
+      "title": "Liquid could be answer to stop cavities without drilling, study finds",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHJ6QWZjSTdYdGFwNXpHT3RDSFAyNmotTzBiNkQ3Z0V3LS1RZUhUTzdrZjFibEplcEZxa2h4Z213MmpDbVFDTThuTVJteFNCcGtDcWFvM2R6amlweV9ONnZRU0hJbmMyc1ZMTlF0YWhjRzR0b3h5X3RkM3dWLWRuZTF2MlN2d3VqN0hzc2E4Y0lqVlRNQ2dN0gGcAUFVX3lxTE1HVE1aY3l0RkV3LWZkZzVuY09nak5CVXBXUUFxdm14YS1VR21KRnpnYWRVR05nSlFuVGgwZ1VvVld1bG81N0Zub1hLQ2lPNWR5MGFQaG1TdVZNUTdWNGY4ZFBZQTdVeFRIWU1oS2JEbHlaRzBpcmhWNDAzUjZWZlNsR1p4TXhGQlR6dExLdnZEMm5fNm1KOWdEVHhwVQ?oc=5",
+      "summary": "Liquid could be answer to stop cavities without drilling, study finds The Hill Scientists find a simple way to stop cavities without drilling ScienceDaily New liquid method might have US dentists dropping the drill to fix your cavity The Independent Silver diamine fluoride treatment could halt cavities without shots, drilling or sedation Medical Xpress Scientists say they\u2019ve discovered a way to stop cavities\u2014without drilling Fast Company",
+      "published": "2026-07-30T10:32:00+00:00",
+      "outlets": [
+        "Fast Company",
+        "Medical Xpress",
+        "ScienceDaily",
+        "The Hill",
+        "The Independent"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
       "title": "Browns Break Silence on Rookie Amid Unexplained Absence",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjZEaWFXajdSS1dmVm1QUnYwZ202SGdqVE1BZnVIZzhNZ2w3Y1NiYXFUVWJKNWFtekZCOG9vbGxOUjIweUV6NHh3eVVsNEFGOUNYQlRNZUlNeGpyNWlQdHlvVHplQnpieUF0UUtjeV9HVEQzR2FuSnk4cVhLZDNHUGlGbzRfazdpZUttMG82U2dkZGtU?oc=5",
       "summary": "Browns Break Silence on Rookie Amid Unexplained Absence heavy.com",
@@ -691,6 +726,58 @@
       },
       "verdict": "clear",
       "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Coldcard Mk3 Warning Amid Unexplained 594 BTC Sweep",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0JwT2RhNi1qM2x1a2Z3cllnOXIxU2FZU012dmJzdFNKc3lGTFNUTUx4d2w1N3RyT1V1dnZxVmFXOW84azZHbmk0YlM5VFMyMmttTzBIS2x3d2taRUo2YUpjY3NiRTBsaFFQUVJXMVlPaGkyMU9nSnVkakxacGZDRWdEQmFfSkpOakhhb3ZLdVNhYWF0XzdKdWd5VjVWOEh6QncwODVGMElWY2VpX0V3d080UndZQ0FUYkJhcVlZdm0?oc=5",
+      "summary": "Coldcard Mk3 Warning Amid Unexplained 594 BTC Sweep Finanzen.net",
+      "published": "2026-07-31T02:49:43+00:00",
+      "outlets": [
+        "Finanzen.net"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Mervyn Silva accused of amassing over Rs. 600 million in unexplained assets \u2013 Dinamina",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQy1MdE55VzBNb01aRjJBVkRkT2swUFJmSDRIMkR3R0hLbG9jZFlfa09NdWZIVkY4RDVtOUZvcGxhR2lCSGs2WnVHcXlsTmZKS3Itakh4UW1kOXd5ek5PTDBENlVCdVozR1NQeEhzUTRmYmUyNXNFVW1lbXFMQTBoWW92TEJPOVhYb3BKYndveEVIWFJockZsb1lOMzJmbmlhdHdtTFZNTlpxXzl3MTdkSWxvemhoYmdMT040?oc=5",
+      "summary": "Mervyn Silva accused of amassing over Rs. 600 million in unexplained assets \u2013 Dinamina Newswire",
+      "published": "2026-07-31T02:13:05+00:00",
+      "outlets": [
+        "Newswire"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
@@ -722,108 +809,32 @@
       "prompts": [
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
-    },
-    {
-      "title": "Unexplained wealth Act provisions proclaimed",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjM4ZlRkMjhkem5kUm5aWlF1TjNfT0FVbE9DNkszaHdaZE9Tb1BicUk4bVRYZEpKRm1GbXJLdGFnYWpHbWI5UnItSHE4WkVoWUpOSjA0OVhoUVptcWJDUWx0Tmp6TGZVelE2aERBQXQ2Y01fYzVYNjRTQU1wazBDRWtTbERYQVFlblNrQ0xKcFFEY3JwVW9RaDNTZVRpcmM?oc=5",
-      "summary": "Unexplained wealth Act provisions proclaimed Trinidad Guardian",
-      "published": "2026-07-30T00:21:12+00:00",
-      "outlets": [
-        "Trinidad Guardian"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 22.0,
-      "angle": 34.0,
-      "rank": 7.5,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Unexplained rebranding prompts AASA questions",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Qm1idzFjNXc2amQ2a0E5b3o5WkRSZTZRUVBsc21IYy1GazJBb25taHRWTm9PVXJXWnpPdG9wSlh2RTZBODBkMnJKZWN5bjB1RVpPMmI0am03aTZuNU9hdkx2Q0Q4QmZWSGM1cHhSNWxIcnpDZnFYcTRGOXhpM1k?oc=5",
-      "summary": "Unexplained rebranding prompts AASA questions V8 Sleuth",
-      "published": "2026-07-30T07:08:20+00:00",
-      "outlets": [
-        "V8 Sleuth"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 22.0,
-      "angle": 34.0,
-      "rank": 7.5,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Trump\u2019s claims of election interference in doubt after release of declassified intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1IxODBCNWZNbXJOQmNTcXhDVk5hWjFMSGV3M3lMVHc1ampBVlN5OEczVmtNeHpNWlBKTXdET0lpMEpFc1IwR1h6bW1NTEpTZlJuRUF0THFYcGVjUmJQbEZnSTRwWlVld0FTMFJ6RW9xOGxBTzF2VDJDRnFvc0RHMVRKMUljTVZ4QmxFUWVDRkc2TjF0OEhZUDV3eXl3UmxPcVdRTGhaVmlUVUVteERlS1RRSTcxZTBndGc?oc=5",
-      "summary": "Trump\u2019s claims of election interference in doubt after release of declassified intelligence The Washington Post",
-      "published": "2026-07-30T23:31:52+00:00",
-      "outlets": [
-        "The Washington Post"
-      ],
-      "feeds": [
-        "angle:newly declassified"
-      ],
-      "reach": 26.0,
-      "angle": 28.0,
-      "rank": 7.3,
-      "signals": {
-        "secrecy": [
-          "declassified"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "touches elections or voting \u2014 the one topic with a hard false-claims rule"
-      ],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
     }
   ],
   "blocked": [
     {
-      "title": "Father of US teen school shooter sentenced to 15 years for providing gun",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUpzVTdNN1RqbUlUVnRwTnZjNDVTRjlCU3NfejI4dEhyaUs0dXFBYWhGS1J2ck1KRmQ1WkF2V1J2RFRnMEhQalRTV3pjbDcyZXpPc0FMSVRGdGxGTUI3OXlZUS1SVXJzdTB2MmlsTUdGWGxxemZ5VGFfUmp1NEg3cWY1MXc0MmJzeDdxa3RjTQ?oc=5",
-      "summary": "Georgia school shooter\u2019s father, who bought son a gun, sentenced to 15 years The Washington Post Apalachee High School shooter\u2019s father sentenced to 15 years NBC News Father who bought AR-15 for Georgia school shooter learns fate in first-of-its-kind conviction foxnews.com Colin Gray: Father of Georgia school shooter sentenced to 15 years in prison in landmark murder case cnn.com First parent convicted of murder for son's school shooting sentenced to 15 years in prison Courthouse News",
-      "published": "2026-07-30T23:49:09+00:00",
+      "title": "Georgia school shooter\u2019s father, who bought son a gun, sentenced to 15 years",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVdCMGpjdDB3Q2Jia1dnZ2ZFQzJmNHB4TEJBY1ROUDd5Vjk0VWdzVDlCaFRlbDlnR2pyeGpPcUJNaXRTaEtCcDNTeUpLT1dYN3JpTTVYRlpGN0Z3bXV5WDd3RHJLWlJZTGdoZzQyR3B1NHgxcWdtY1dZdm1TMm8zV0oxV05NaWxLNm5pUTVSVmZzSkJyNURDaXppU3BxR3ZxT2pKQVdCVXk3YWs0bkszbGstaXdLRWc?oc=5",
+      "summary": "Georgia school shooter\u2019s father, who bought son a gun, sentenced to 15 years The Washington Post Apalachee High School shooter\u2019s father sentenced to 15 years NBC News Colin Gray, Father of Teenage Shooter in Georgia, Sentenced to 15 Years in Prison The New York Times Apalachee High School shooting suspect pleads guilty AJC.com Father who gave gun to Apalachee High School shooter sentenced to 15 years in prison WABE",
+      "published": "2026-07-31T02:44:23+00:00",
       "outlets": [
-        "Courthouse News",
+        "AJC.com",
         "NBC News",
-        "The Guardian",
+        "The New York Times",
         "The Washington Post",
+        "WABE",
         "bbc-world",
-        "cnn.com",
-        "foxnews.com"
+        "reddit-news"
       ],
       "feeds": [
         "bbc-world",
         "google-nation",
-        "google-top"
+        "google-top",
+        "reddit-news"
       ],
-      "reach": 84.2,
+      "reach": 90.2,
       "angle": 18.0,
-      "rank": 15.2,
+      "rank": 16.2,
       "signals": {
         "institutional": [
           "who"
@@ -838,28 +849,28 @@
       ]
     },
     {
-      "title": "Flock cameras are getting mobbed",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mQzhiaWg3YTNUOTBwTVBSY0drSGlxTjE3OExxUzl4R21tUHc2U0R6eEM4ODhlaGJSRGZBVWtJejBpbGZpZFNYb1k4NWhOTGVYeXdxcjFmaUFYM0d1aE8tX0xCX0JMNWdWR2tBZ3lHcENNSzBNQ2h6Tg?oc=5",
-      "summary": "Flock cameras are getting mobbed cnn.com Flock surveillance cameras can pose a crash risk for drivers, US experts say The Guardian Bay area man protests Flock cameras because of privacy concerns Spectrum News Why Flock surveillance cameras are drawing fierce backlash across Massachusetts The Boston Globe Flock CEO Claims Its Cameras Aren\u2019t a Constitutional Violation: \u2018Cut and Dry\u2019 The Drive",
-      "published": "2026-07-30T23:36:57+00:00",
+      "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTElwVDgtUVhfVkxONjJOejY2NWEyRHRoTWxyMENROXRLQVNjN0JILVVjYnlLY25HWVFKSlhJQ3lydU5LdHlmcnFjSG5SeXZ3N2lrOU4xc2lwaC1YRFFjUmZKZ0RicE5NTUJxaDVZcXVEZEwzNEhiRFdZMmNxZlJ3c2h5aVA2blEt?oc=5",
+      "summary": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco The New York Times Spain deploys military to Morocco border after thousands of migrant crossings, at least 9 deaths CBS News Spain will send troops to Ceuta to help with border security DW.com Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta BBC Thousands of Migrants Pour Across Border Into a Tiny Spanish Territory WSJ",
+      "published": "2026-07-31T02:41:09+00:00",
       "outlets": [
-        "Spectrum News",
-        "The Boston Globe",
-        "The Drive",
-        "The Guardian",
-        "cnn.com",
-        "reddit-news"
+        "BBC",
+        "CBS News",
+        "DW.com",
+        "The New York Times",
+        "WSJ",
+        "bbc-world"
       ],
       "feeds": [
-        "google-nation",
-        "reddit-news"
+        "bbc-world",
+        "google-world"
       ],
       "reach": 71.7,
       "angle": 18.0,
       "rank": 12.9,
       "signals": {
         "institutional": [
-          "surveillance"
+          "military"
         ]
       },
       "verdict": "block",
@@ -898,16 +909,16 @@
       "prompts": []
     },
     {
-      "title": "Partial Human Head Found Near Fox River Boat Crash Scene; Identity Not Yet Confirmed",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEtIN1hNSDZzaFJCVE53VUdaS3JSVzB4dlQ5XzI3c1NEU0NLdTJwS3R6VHlDX2ZUaWVfbjFQcndWc3E2dHFFejlmQVlNb3VFdHB2T2dGR0dnWnU1UE04b1o3ci16NThQOGlsU1Z2SzNFQTR4WlY2QjNVUTg5TWt5VUNwakhjNGFTOWh5ZWIxQU82Q1UyNlFfd2FfanF3Rk1xNFJnTVhsUGZxQzVHajlOUUdR0gHQAUFVX3lxTE44UlV2VVdUS3ZicUR5QjlLdmwtdkZCaUE1NmJQM0Q2S0xUWWEwcWhRakVpNXMxRUFCaGE0S08tT2lTY1dnNHZ4OUdqNjBTNUl0eC1Bcy05MmIwQWZMUzVZTmtNTFNKckNVMWZsbkJ6ZDdEb3dia2ZpblNYZlZVdExPSjJfSWpRM1A3ZmliaTZCU1cwX2hRY3NJUTIxaHp1WDFlMmlRTlJrd3R4aWIxcDhGeEowYVVhWUtwdVo3V0taSWQwVG5UT2tsX3g1S2pCaFY?oc=5",
-      "summary": "Partial Human Head Found Near Fox River Boat Crash Scene; Identity Not Yet Confirmed Patch Partial head recovered from Fox River in McHenry County WGN-TV Man held without release after boating accident leaves victim decapitated ABC News - Breaking News, Latest News and Videos Richard Stevenson, who has history of DUI, speeding offenses, charged in deadly Fox River boat crash near McHenry, Illinois ABC7 Chicago Family mourns Des Plaines woman killed in Fox River boat crash over the weekend Chicago Sun-Times",
-      "published": "2026-07-30T19:53:13+00:00",
+      "title": "Seattle police chief resigns amid fallout from mass shooting, mayor names interim chief",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNRTdHNXVKaW9vWWFxSFhNWGZoalA0dnFhZEpwWWVLVFhBWG5yc1ZpZEV2bUNpNUZ4MExHblZVSmpKZlA0VnV5ckZkTFZJM2luQXdrbTRIQ1NQdTdnSUFLRnR6UWRJVkNsaEoxYzd0bTN2OVlzckR5Y2Z0b19USlhRS2M5dm9GRUVraWxBVTF2N3cyeHppSG9oMDBjNi1yWGNCQUZGc042b0NWM2poZ2N5ZG90Tk9SSmNNZWI0c0xDMTNfRjd4UVJLekc5Zi1MUm5WUHVWdlZPdUdyRkZvdWVRUFR0SVFGem8xRHVJZmFrMHJLWWFEOG5NSmNNOHFRNjBueVZGQ2xXZERGRnFRZHJkZzdhNE53aXZXei0wNGN1SXdVQTFfMkNIdnpLOHZ4ZmJtWFE?oc=5",
+      "summary": "Seattle police chief resigns amid fallout from mass shooting, mayor names interim chief KOMO Seattle police watchdog fielded 60 complaints against Chief Barnes \u2014 two new investigations opened after reporter clash KING5.com Seattle Police Chief Shon Barnes fired by Mayor Katie Wilson MyNorthwest.com Seattle police chief resigns after deadly food festival shooting The Guardian City Councilmembers react to Police Chief Barnes\u2019 departure, voice major concerns council.seattle.gov",
+      "published": "2026-07-31T01:32:36+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "ABC7 Chicago",
-        "Chicago Sun-Times",
-        "Patch",
-        "WGN-TV"
+        "KING5.com",
+        "KOMO",
+        "MyNorthwest.com",
+        "The Guardian",
+        "council.seattle.gov"
       ],
       "feeds": [
         "google-nation",
@@ -918,7 +929,7 @@
       "rank": 11.7,
       "signals": {
         "institutional": [
-          "who"
+          "watchdog"
         ]
       },
       "verdict": "block",
@@ -930,16 +941,16 @@
       ]
     },
     {
-      "title": "The France and Spain wildfires\u2019 path of destruction in maps, satellite images and photos",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW96cVJPVlMxZTNmUFVMYjZXZ1d4ZUdsV3otbG1yMjd0dUhJbndwcklVZUN0VDRsaWpfZk9vcXNPOGFtR05Qbk1jLVZnOTFMcy1LRU5UWlNOSkNtU1RWTXFyQjZZSzJTMTk5ZGxvQ3NyVTJ0TTd0WnF0dWpaSkZXYl9LZTJqZFJMMElnQk5oMnZfZkZFUnZ3Tm51MmM3MWZkY3VnU29ZRmR1YVFPZWk2S09WYlI?oc=5",
-      "summary": "The France and Spain wildfires\u2019 path of destruction in maps, satellite images and photos NBC News Devastating European wildfires in maps - and how they're being tackled BBC In wildfire-hit France, 3 rescuers find a dehydrated deer and carry it to safety Yahoo Europe\u2019s fires are just the start The Economist Wildfires near Bordeaux threaten to squeeze France's struggling wine industry PBS",
-      "published": "2026-07-30T14:43:00+00:00",
+      "title": "Andy Burnham to give regional mayors share of income tax",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOUNwa1Q0MlFqckFmNllSTHFoenpNT05fWEJUdW5jbVRLRlFaWC1sN3hxTWpFTWNrTV83WGpndkRjVC0xVEhlY0ZjZFo2YjF6R21VTV8zRTVSQQ?oc=5",
+      "summary": "Andy Burnham to give regional mayors share of income tax BBC UK PM Burnham to give mayors a share of income tax in devolution drive Reuters Burnham to free mayors from \u2018Treasury death grip\u2019 with new devolved powers The Guardian Mayors plan tax rebates for voters with devolution windfall The Times New spending powers for mayors \u2013 LGA response Local Government Association",
+      "published": "2026-07-30T21:32:09+00:00",
       "outlets": [
         "BBC",
-        "NBC News",
-        "PBS",
-        "The Economist",
-        "Yahoo"
+        "Local Government Association",
+        "Reuters",
+        "The Guardian",
+        "The Times"
       ],
       "feeds": [
         "google-top",
@@ -982,15 +993,46 @@
       "prompts": []
     },
     {
+      "title": "Spainish enclave Ceuta raises alarm as thousands cross border from Morocco",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1pQQVRKRUI5MGFlZXFrNlBudlIxcERKVGVjdWh5RW9rM1VCcTFxN25JTC1sZExNbzFFTlV5VUgzMzU0akRvX3lEZDJFcFpWeHpCOEtSajRXa3praTR5V0tKT25JektLQVA5SEpPWEZoWmhlUHNyRzlFY2N3Q2IwVG5XMWw0YVExeFE5cXpfRGVQMVJPd3ZVYXdPMVI4amFZM2xmVHVOR2hGUGd5NUk4LThB0gG3AUFVX3lxTE5TcHpwU3c5UWJUZnU5b3lWakkwUnBVeFYtZlBfUEJDbU1RUVNaTEVuMEgyYU9xUGRheUtzN2RjV3A5UkI1RTVoR29nZTNoN3cwc3RuOG9FZmVnakxVOENsNkx5cEczR0QzcGhUemwwQ3pySW5ocnlGNmppLWRreWxoaHhoWkU3REU0UXFjdC1ZaklvWWRzLTRvTV9BMDkwTzk0Um16VjRKNDNEM3JCQ0RXRFVwYzdRRQ?oc=5",
+      "summary": "Spainish enclave Ceuta raises alarm as thousands cross border from Morocco Al Jazeera Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco The New York Times Spain deploys military to Morocco border after thousands of migrant crossings, at least 9 deaths CBS News Spain will send troops to Ceuta to help with border security DW.com Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta BBC",
+      "published": "2026-07-30T21:42:37+00:00",
+      "outlets": [
+        "Al Jazeera",
+        "BBC",
+        "CBS News",
+        "DW.com",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-top"
+      ],
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "military"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
       "title": "Nolan Wells Death: Ben Crump Hires Audio Experts to Review Sea Tow Call",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTJwcmFsVUJWa0FicXJDSkdIS2gzVVVyVlBPSW8zSkIxLUVIRlJ4dkcxN3Fnbng5YTBzNnhBY21QcGJZSGEtRjV3MU1ZUWc4bkFrRUJDMldaM0hGaXd6cllwZ2xTR3pVOUpuZEFsT1FuSVJPVGxvdW9WcEgxWFhPRTNn?oc=5",
-      "summary": "Nolan Wells Death: Ben Crump Hires Audio Experts to Review Sea Tow Call TMZ Ben Crump, family of Nolan Wells in Nashville to provide update on teen's death WZTV Attorney for Nolan Wells' family says experts will review a July 4 boat distress call PBS Nolan Wells Emergency Audio Could Be \u2018Huge,\u2019 Says Expert, Who Shares Tools for Understanding It (Exclusive) People.com Nolan Wells' family releases update in investigation USA Today",
+      "summary": "Nolan Wells Death: Ben Crump Hires Audio Experts to Review Sea Tow Call TMZ Nolan Wells' state autopsy completed amid investigation into teen's death: Officials ABC News - Breaking News, Latest News and Videos Nolan Wells Emergency Audio Could Be \u2018Huge,\u2019 Says Expert, Who Shares Tools for Understanding It (Exclusive) People.com Attorney for Nolan Wells' family says experts will review a July 4 boat distress call PBS Ben Crump, family of Nolan Wells in Nashville to provide update on teen's death WZTV",
       "published": "2026-07-30T15:54:21+00:00",
       "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
         "PBS",
         "People.com",
         "TMZ",
-        "USA Today",
         "WZTV"
       ],
       "feeds": [
@@ -1013,16 +1055,16 @@
       ]
     },
     {
-      "title": "Noah Kahan, Maine author make Barack Obama\u2019s summer favorites lists",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3p0MkNadFMtYmZxcF9GVmFEeGhnZnFldHFIa0V3RV9VcUFOcV94RC1meG5pamlJTTNRWXB4Q0xncExnNFljbkNYNndIcjdKVTFKVndOb3gxUUpZLXdSMnplMG1TMEFrWXM3ZVpuM0RDeW1velQ5alRUMlNFdUNjcjVVbnhUTzhXM195bw?oc=5",
-      "summary": "Noah Kahan, Maine author make Barack Obama\u2019s summer favorites lists The Boston Globe Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56 The New York Times \u2018Once\u2019 Oscar winner and Irish musician Glen Hansard dies in motorcycle crash CNN Glen Hansard died in single-vehicle crash in Dublin in early hours of Wednesday The Irish Times Opinion | Glen Hansard and the Power of Song WSJ",
-      "published": "2026-07-30T19:04:04+00:00",
+      "title": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yeUZhX2VEczgwYkZOeFV5NGJmT0dGOU1kUDlMODljMGVHOFNpanNydjdDZ0RDS3V0ekI4V3VOeG1vTm9obUpwYUhKRFdyamoyUE1PemhaanFiRnk1YXd2Q2JGR2FOZmVwdkZEblF6UDRYZ9IBd0FVX3lxTFBScU1PdzhuQUxKdmRLeTA4Vi0yV0g3UnBpUmwwLU9yTi0zbkI5UEFzdjVPUVVsdHU2QXVQRG1sb0tPZXBhZnlwZ0hlZDhQNTdIMF9JWmdsdUI3UzN1Vm4zZ2lQT01oV3dOYmk1OVg3ZG5mQzZXNy00?oc=5",
+      "summary": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO CNBC Apple Posts Record June Quarter, Warns Supply Constraints Are Coming gizmodo.com Apple\u2019s Profit Increases 27 Percent, Topping Wall Street Expectations The New York Times Tim Cook signed off on his final Apple earnings call with a warning about a \u2018hundred year flood\u2019 in memory chip pricing Fortune Apple disappoints with forecast dogged by supply chain struggles Reuters",
+      "published": "2026-07-31T00:36:00+00:00",
       "outlets": [
-        "CNN",
-        "The Boston Globe",
-        "The Irish Times",
+        "CNBC",
+        "Fortune",
+        "Reuters",
         "The New York Times",
-        "WSJ"
+        "gizmodo.com"
       ],
       "feeds": [
         "google-top"
@@ -1038,41 +1080,16 @@
       "prompts": []
     },
     {
-      "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUI5RmE0STdnLThRMWpSNF9VTGRjWklIX2NEako2cXBMc2ttYldYdzVWM0hfZFZBVWozRlRtRndJREljUGduOGViX0xtN3RYSEYwdG1oTXc1VTBBMFhMekFpVUprOTB2M3I4ajdfOUZyM1kwckI5VFlhUGtNU2kyOGQ1NkN5Y2l4UU01dTV2LWRiandpOWJzV2g0dTE5RzQ?oc=5",
-      "summary": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 AP News Death toll rises in Japan. Why does the country experience so many large earthquakes? cnn.com Hope dwindles for rescue after southwestern Japan earthquake as death toll climbs to 25 PBS The Quake Struck Japan. Eighty Minutes Later, a Lethal Explosion. WSJ Earthquake Destruction in Japan May Affect Production of Thousands of Nissan and Lexus Vehicles Car and Driver",
-      "published": "2026-07-30T19:45:00+00:00",
-      "outlets": [
-        "AP News",
-        "Car and Driver",
-        "PBS",
-        "WSJ",
-        "cnn.com"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
       "title": "See Glen Hansard Sing Moving, Unreleased Song at Final Performance",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTRnMXNLUjdWTTE1N0xMTkFLN0daUEQ1amtCTVE1LXV0aDN1YzlxRkxJUGdzUGFkZUlyTkhuX29BWVQ3TmswOTZTTkRZTVpWNkJFcWl0SzgyU3kxSTM5OHFscldRNDZQQi1OMGp4TGxzdzNuS0tBTnVUdmR4Q2xXY2g4YkgxOFhNYmVhd216a0ZHc28wNmNxR1Y4SHAzc01WSmhycGMxNA?oc=5",
-      "summary": "See Glen Hansard Sing Moving, Unreleased Song at Final Performance Rolling Stone Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56 The New York Times \u2018Once\u2019 Oscar winner and Irish musician Glen Hansard dies in motorcycle crash CNN Glen Hansard died in single-vehicle crash in Dublin in early hours of Wednesday The Irish Times Opinion | Glen Hansard and the Power of Song WSJ",
+      "summary": "See Glen Hansard Sing Moving, Unreleased Song at Final Performance rollingstone.com Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56 The New York Times \u2018Once\u2019 Oscar winner and Irish musician Glen Hansard dies in motorcycle crash CNN Glen Hansard died in single-vehicle crash in Dublin in early hours of Wednesday The Irish Times Opinion | Glen Hansard and the Power of Song WSJ",
       "published": "2026-07-30T16:58:06+00:00",
       "outlets": [
         "CNN",
-        "Rolling Stone",
         "The Irish Times",
         "The New York Times",
-        "WSJ"
+        "WSJ",
+        "rollingstone.com"
       ],
       "feeds": [
         "google-world"
@@ -1088,16 +1105,16 @@
       "prompts": []
     },
     {
-      "title": "Europe Gets a Taste of the Wildfire Blame Game ? Climate & Energy for July 30",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVExMG1DX2hGNlpkallZMUcwSklIMWNmYU1rLVIzQ1VkSkFmN2pVUFNwYjJOSnNLVDhyWUI2dWRIREctSUxFYkhQckl5eTdVeWJVQW9JZjRqR0VPSnlCOXpaZXBNVXp6ZzRnaVNVZ1ozSUQtcHZZM0RMN1lPWmNzMVVkTFFEQmNyS0R1V2gxMHVTek9sMVYwMElZaw?oc=5",
-      "summary": "Europe Gets a Taste of the Wildfire Blame Game ? Climate & Energy for July 30 WSJ European Wildfires Amplified by Emptying Countryside and Fewer Farms The New York Times Why France and Spain may be entering a new era of giant, out-of-control fires NBC News Race to extinguish blazes across Europe as fire weather breaks records The Guardian Human-caused climate change made Spanish, French fires much more likely, scientists calculate AP News",
-      "published": "2026-07-30T13:26:00+00:00",
+      "title": "\u2018Nightmarish\u2019 Wildfire in Crete Kills Two Firefighters as Thousands Evacuate",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0xnc2F3alFoSThjM1FWc24wTkM3QTZmblNGQ0l5QmUyZzJWUUFvdmExRWIzNWFzRzQxVDlvT1pqWVYxZVoxRUp5UG0ydm11R2VadEJaS3VhWmo3aFB5MkloWlJfV2xGbFFVZjdVOUpnWGl5cmk4VDdsVFVFc18xaVBB?oc=5",
+      "summary": "\u2018Nightmarish\u2019 Wildfire in Crete Kills Two Firefighters as Thousands Evacuate The New York Times Thousands evacuated in Crete as wildfires threaten tourist resorts BBC 2 firefighters die in wildfire on Crete as massive blazes persist across Europe AP News Three Greek firefighters killed as wildfires strike further east in Europe Reuters Three firefighters die as strong winds fuel Greek wildfires euronews.com",
+      "published": "2026-07-30T20:56:45+00:00",
       "outlets": [
         "AP News",
-        "NBC News",
-        "The Guardian",
+        "BBC",
+        "Reuters",
         "The New York Times",
-        "WSJ"
+        "euronews.com"
       ],
       "feeds": [
         "google-world"
@@ -1113,16 +1130,16 @@
       "prompts": []
     },
     {
-      "title": "Ukraine escalates Wildberries attacks to hit Russia\u2019s second-biggest bank as missile crashes in Poland (Ukraine Battlefield update, Day 1,618)",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZkQ0bF96dENzaVR6bnJlYlJNNGxyaEVyUy04M1dJSGtYR29kVjQ0WTZXOVVrcUVpNWNZV3JDR0NKakNKZ3Vxa3Q2dHZnQVF6Y0ZEaW1GLVhTRFo2cUwwUFhUUmw3VGF6c1hWZWI3bGtQVWszOE5KbDJvUFJEUHRLYnpTM1JsUm9TZHNJLWRxV2tfV1pxUWtZNnhUOEJFaU9BZ2Jjejh6VXQxWFFybXhpaW5RVHQ4VHZyeFlOQWwxeXNmUklCQkpGeHdvZEhfUWRIZ05TZ2Z1b0duTlV2YzFXZjNHaXdsZTYxWFY3bmg0Rlh2LU9xNFl3cWFmcmM?oc=5",
-      "summary": "Ukraine escalates Wildberries attacks to hit Russia\u2019s second-biggest bank as missile crashes in Poland (Ukraine Battlefield update, Day 1,618) EUobserver Ukraine strikes two more warehouses of Russian online retailer Wildberries reuters.com Ukraine has found a new pressure point in Russia\u2019s wartime economy CNBC The Wildberries Theory of Russian Defeat Foreign Policy Ukraine's long-range drones have a new war target: Russia's version of the Amazon warehouse Business Insider",
-      "published": "2026-07-30T12:59:08+00:00",
+      "title": "Russia used N.Korean missile for deadly strike on Ukrainian village, Zelenskiy says",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
+      "summary": "Russia used N.Korean missile for deadly strike on Ukrainian village, Zelenskiy says Reuters A Russian missile slammed into a house in Ukraine. Four children are among the dead CNN At least five members of same family killed in Russian missile attack, Zelensky says BBC Ukrainian family killed near Kryvyi Rih were hit by North Korean missile fired by Russia \u2013 Zelenskyy \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430 Ukraine war latest: Six killed after Putin launches \u2018North Korean ballistic missile\u2019 The Independent",
+      "published": "2026-07-30T17:42:49+00:00",
       "outlets": [
-        "Business Insider",
-        "CNBC",
-        "EUobserver",
-        "Foreign Policy",
-        "reuters.com"
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Independent",
+        "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430"
       ],
       "feeds": [
         "google-world"
