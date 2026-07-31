@@ -1,23 +1,57 @@
 {
-  "generated": "2026-07-31T15:17:05+00:00",
+  "generated": "2026-07-31T18:17:05+00:00",
   "feeds_ok": 25,
   "feeds_total": 25,
   "feed_errors": {},
-  "raw_items": 1718,
-  "stale_dropped": 1056,
-  "clusters": 534,
-  "off_topic": 32,
+  "raw_items": 1720,
+  "stale_dropped": 1062,
+  "clusters": 539,
+  "off_topic": 34,
   "stories": [
+    {
+      "title": "Software takes center stage in this Pixel 11 series and Pixel Watch 5 leak",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3dhQmREenU0bUpkTkJRaXhvbDJ3QjhVSnpJRk94MndDcUtjUVppM2F5dFltZWpaMzlPRkx0dm0tYV94WE5fRjljU082bi1fSlhPc01CcGs4U043aGNjUGdLdGFWMGdDVldHWWhwcG56MEltWXBwNWpJVGwzcHU2czJfMA?oc=5",
+      "summary": "Software takes center stage in this Pixel 11 series and Pixel Watch 5 leak Android Authority Pixel 11 Pro Fold design leaks ahead of Google launch event The Verge Google Pixel 11 Explained: What Google Has Confirmed and What the Rumors Say TechRepublic Pixel 11 series leaks with seemingly official renders, includes all-matte Pixel 11 Pro [Gallery] 9to5google.com Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget",
+      "published": "2026-07-31T14:55:00+00:00",
+      "outlets": [
+        "9to5google.com",
+        "Android Authority",
+        "Engadget",
+        "TechRepublic",
+        "The Verge"
+      ],
+      "feeds": [
+        "google-technology",
+        "google-top"
+      ],
+      "reach": 64.8,
+      "angle": 45.8,
+      "rank": 29.7,
+      "signals": {
+        "unexplained": [
+          "mysterious"
+        ],
+        "secrecy": [
+          "leaked"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
     {
       "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDhycGVRdWJsWGJHd25aOEFQZ21pbVM0aWR2MmZJRU10cG0zTFV3WDFsZzBMNWZSMXgwX3MwNURNWlRyelVGQ1gxNzA5cGFQTWlfbDZiM2xoMThqVmdGUW1kTkM5YThWTkFNZHFqd1ZOdmhTVHlvVFRqTlBaR2JubjZMQ0IwZ2xFTFZN?oc=5",
-      "summary": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon The New York Times Over 20,000 precolonial earthworks in the Southwest Amazonia Nature Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago Live Science 'Completely Transformed My Understanding': Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon ScienceAlert An ancient civilization of millions once flourished in the Amazon Phys.org",
+      "summary": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon The New York Times Over 20,000 precolonial earthworks in the Southwest Amazonia Nature An ancient civilization of millions once flourished in the Amazon Phys.org 'Completely Transformed My Understanding': Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon ScienceAlert Mysterious Shapes Hidden Beneath the Amazon Canopy Reveal a Sprawling Ancient Civilization Much Bigger Than Researchers Expected Smithsonian Magazine",
       "published": "2026-07-31T10:44:34+00:00",
       "outlets": [
-        "Live Science",
         "Nature",
         "Phys.org",
         "ScienceAlert",
+        "Smithsonian Magazine",
         "The New York Times"
       ],
       "feeds": [
@@ -45,14 +79,14 @@
     {
       "title": "Little red dots may mark temporary black hole phase",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWldKemppaXN2MlNoa0s5TExObFljNUwwODN1ZnR4Yi1RbjBHY1kwWVcxQ2MtTUlKS1FTd0VDRmpMRDhPV0lMRllHbGJNem1ZdkUwaVlWVDFlRVp1UmhCUWRLODNHcjg0SGdCUlZNcGREUQ?oc=5",
-      "summary": "Little red dots may mark temporary black hole phase Phys.org NASA Webb Explores Family Tree of Newly Discovered Distant Objects NASA Science (.gov) Where did the mysterious Little Red Dots in the Universe come from? Universe Space Tech A Distant Primordial Object May Be a Newborn Little Red Dot Universe Today James Webb Space Telescope links Little Red Dots with globular clusters Earth.com",
+      "summary": "Little red dots may mark temporary black hole phase Phys.org NASA Webb Explores Family Tree of Newly Discovered Distant Objects NASA Science (.gov) James Webb\u2019s discovery sheds light on the mystery of the Little Red Dots Universe Space Tech A Distant Primordial Object May Be a Newborn Little Red Dot Universe Today James Webb Space Telescope links Little Red Dots with globular clusters earth.com",
       "published": "2026-07-29T19:10:01+00:00",
       "outlets": [
-        "Earth.com",
         "NASA Science (.gov)",
         "Phys.org",
         "Universe Space Tech",
-        "Universe Today"
+        "Universe Today",
+        "earth.com"
       ],
       "feeds": [
         "google-science"
@@ -62,13 +96,14 @@
       "rank": 23.4,
       "signals": {
         "unexplained": [
-          "mysterious"
+          "mystery"
         ],
         "institutional": [
           "nasa"
         ],
         "frontier": [
-          "discovered"
+          "discovered",
+          "discovery"
         ]
       },
       "verdict": "clear",
@@ -80,16 +115,49 @@
       ]
     },
     {
+      "title": "40,000-year-old bird figurines the size of a thumbnail discovered in German cave",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVBHTldsNHhzT1RDUDZ6TFJiaTlIaDFMX24tRFFMVHBnNm5ZMFlWZFFyQll0MEpheHdnVmxEVU9EbnlyQ3JVbVRJakh2VTJJWkJtV3dKY0tTTlNsX20yQm5RekRzeUlXWVNicmZmMlhfekk5eEVRRmpsLUVzTkV1UmNaX0E3eUUyb3pGbEVlRlZmM2gyT0hmcENJcGxiMlhZclZHU19FM3F6VUlQcjVWdjFtVUtfSENaUGMzcQ?oc=5",
+      "summary": "40,000-year-old bird figurines the size of a thumbnail discovered in German cave Live Science Two Tiny Ivory Figurines Dating Back 40,000 Years Add To Enduring Mystery Of Why There Are So Few Birds Depicted In Ice Age Art IFLScience 40,000-Year-Old Bird Figurines Found in German Cave Sci.News Miniature, 40,000-year old ivory birds discovered in German cave Yahoo Ice Age artists carved thumbnail-size bird figurines from mammoth ivory 40,000 years ago Phys.org",
+      "published": "2026-07-30T17:43:39+00:00",
+      "outlets": [
+        "IFLScience",
+        "Live Science",
+        "Phys.org",
+        "Sci.News",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 54.8,
+      "angle": 40.8,
+      "rank": 22.4,
+      "signals": {
+        "unexplained": [
+          "mystery"
+        ],
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
       "title": "New technique pinpoints human DNA inherited from 'ghost' ancestors",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUZXV4WUdFaVBhOE16UXEteEVnX2doN0wtTjBQTE4xb2haT1dHbmdPZWZlT2pmdHNwU0sySWZrMEEzR3FYS2RnU0trajNOV2JjNkVmY0lvRzFBZTgtb2k4M25UZVJtOHk2M0RNbEM3SzYwaFkxSFpGNzdR?oc=5",
-      "summary": "New technique pinpoints human DNA inherited from 'ghost' ancestors Phys.org Humans carry DNA from mysterious ancestors The Telegraph Researchers Narrow Down The Identities Of \"Ghost Lineages\" \u2013 Mysterious Ancient Hominins That Contribute To Modern Human DNA iflscience.com The genome of a long-extinct ancient human is hiding within us New Scientist Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans Live Science",
+      "summary": "New technique pinpoints human DNA inherited from 'ghost' ancestors Phys.org Humans carry DNA from mysterious ancestors The Telegraph The genome of a long-extinct ancient human is hiding within us New Scientist Researchers Narrow Down The Identities Of \"Ghost Lineages\" \u2013 Mysterious Ancient Hominins That Contribute To Modern Human DNA IFLScience Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans Live Science",
       "published": "2026-07-30T18:00:10+00:00",
       "outlets": [
+        "IFLScience",
         "Live Science",
         "New Scientist",
         "Phys.org",
-        "The Telegraph",
-        "iflscience.com"
+        "The Telegraph"
       ],
       "feeds": [
         "google-science"
@@ -113,6 +181,37 @@
       ]
     },
     {
+      "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+      "summary": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled NPR Pennsylvania asks Trump admin how it identified potential noncitizens registered to vote Spotlight PA States push DHS to explain its noncitizen voter claims NBC News \u2018Serious doubts about the reliability of your data\u2019: California bluntly challenges DHS over sweeping noncitizen voter claims Democracy Docket Pa. pushes back after DHS claims 14,576 non-citizens may be registered to vote WGAL",
+      "published": "2026-07-31T09:00:00+00:00",
+      "outlets": [
+        "Democracy Docket",
+        "NBC News",
+        "NPR",
+        "Spotlight PA",
+        "WGAL"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 34.0,
+      "rank": 20.0,
+      "signals": {
+        "unexplained": [
+          "baffled"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "touches elections or voting \u2014 the one topic with a hard false-claims rule"
+      ],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
       "title": "Tecno's New Concept May Be The First Truly Bezel-Less Smartphone",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HTUJFY3ZUZE1kWUFfZllMajFQVlhsS012Uzl2cFNZNHkwQTVMREZwVi1zZlJTekVYTHNTRWUzVERBOFd2SlRCUGdEVkRHUzV0NUM0QjJWMGxINU83UG00OFpuVjRaZGswU3Z4XzBQRHdYYm9EWmRlNQ?oc=5",
       "summary": "Tecno's New Concept May Be The First Truly Bezel-Less Smartphone Engadget This Android phone maker just built the closest thing to an all-screen phone Android Central Tecno teases Borderless Concept phone with 0mm display bezels - GSMArena.com news GSMArena.com TECNO\u2019s Latest Concept Smartphone Defies Manufacturing Physics And Limitations With A Completely Bezel-Less Screen Measuring 0mm Wccftech A Little-Known Android Brand Beat Apple to a Bezel-Free Phone The Mac Observer",
@@ -125,12 +224,11 @@
         "Wccftech"
       ],
       "feeds": [
-        "google-technology",
-        "google-top"
+        "google-technology"
       ],
-      "reach": 64.8,
+      "reach": 58.8,
       "angle": 34.0,
-      "rank": 22.0,
+      "rank": 20.0,
       "signals": {
         "unexplained": [
           "defies"
@@ -143,47 +241,16 @@
       ]
     },
     {
-      "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
-      "summary": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears NPR Pennsylvania asks Trump admin how it identified potential noncitizens registered to vote Spotlight PA \u2018Serious doubts about the reliability of your data\u2019: California bluntly challenges DHS over sweeping noncitizen voter claims Democracy Docket Pennsylvania officials ask Trump admin to provide evidence after non-citizen voter registration claims fox43.com States push DHS to explain its noncitizen voter claims NBC News",
-      "published": "2026-07-31T09:00:00+00:00",
-      "outlets": [
-        "Democracy Docket",
-        "NBC News",
-        "NPR",
-        "Spotlight PA",
-        "fox43.com"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 58.8,
-      "angle": 34.0,
-      "rank": 20.0,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "touches elections or voting \u2014 the one topic with a hard false-claims rule"
-      ],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "SpaceX launches secret US spy satellite from Florida (video)",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0FtQ2hNNjZ6T2d0SXZJclkwNlI2WU5xN25tV0F5WXprd0tmcWx4QTlybmtSYTZQMHVfb2dXNFNuaDZJaFRwM3lhMXNrZGlxdHpTbjkySkxheWF4TUR2Y2ZVNXpWTzhoR3BKZHFsTEQ2Z05EYmNuN1hNRU9hLTI3TkxnWHJDUXhMdHlnLWFxMGpDd0NwMEpaM0RaVzZ2dDVwM3VYY1hWUQ?oc=5",
-      "summary": "SpaceX launches secret US spy satellite from Florida (video) Space NROL-95 Mission SpaceX SpaceX launches classified payload for National Reconnaissance Office Spaceflight Now SpaceX launch recap: Liftoff from Florida early Thursday brings sonic boom. Florida Today Florida TODAY: Sonic booms, August storms and LeBron James Tallahassee Democrat",
+      "summary": "SpaceX launches secret US spy satellite from Florida (video) Space SpaceX launches classified payload for National Reconnaissance Office Spaceflight Now SpaceX launch recap: Liftoff from Florida early Thursday brings sonic boom. Florida Today Florida TODAY: Sonic booms, August storms and LeBron James Tallahassee Democrat DID YOU HEAR IT? SpaceX rocket launch triggers sonic booms in Central Florida WKMG",
       "published": "2026-07-30T16:17:38+00:00",
       "outlets": [
         "Florida Today",
         "Space",
-        "SpaceX",
         "Spaceflight Now",
-        "Tallahassee Democrat"
+        "Tallahassee Democrat",
+        "WKMG"
       ],
       "feeds": [
         "google-science"
@@ -207,16 +274,16 @@
       ]
     },
     {
-      "title": "1st three-headed asteroid found in our solar system \u2014 and it has a little moon",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXI4NFQyeXJWZTFfMHR1VlJ4U2FmX2Nhb21WNFBwTTZYNTVWczBwYlJXczFxZzY5RDhsbXJLLVFEc3NfUlU2RzFJZlJLQVlGVnR1bUkzVjk3TmRLMUQ3andNcS1TaUNtOGlfNVluU0JWYTRtTUN2Z2tYbnlMTThJU0UwZW1BU2xzUjBOVDdNVG5SY1gteGZ2ejV1LTVwanBtVUJHc1o0UDZsTXJtMjJWRFdtZUhNbHQ0X1E?oc=5",
-      "summary": "1st three-headed asteroid found in our solar system \u2014 and it has a little moon Space Three-lobed asteroid is a world unlike any other University of Arizona News Strange three-lobed asteroid seems to have its own tiny moon New Scientist This Asteroid Has 3 Lobes and a Secret Moon Scientists Didn\u2019t Expect Gizmodo Mount Graham scope helps crack mystery of 3-lobed asteroid KVOA",
-      "published": "2026-07-30T17:03:10+00:00",
+      "title": "Before North and South America were connected, their mammals found a way to intermingle",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xeUNlRk1UWmloX1Q3TzRHbXRMNGcteHFoOHlfcjY5b3ZjRF9kSXpBaEY1eGFDOFdRNE84ZGF3NFJlZnZMT3VFTU55X2Nob29VUm1zTndZXzUxSUQzUV9ETkJnMDFob3NrOUFjMldyX0hWZ0c4Qzc4Y3B6bXVYMjg?oc=5",
+      "summary": "Before North and South America were connected, their mammals found a way to intermingle Phys.org Mammals moving between the Americas stopped over in Mexico Science News FSU geologists discover North, South American mammals mingled before continental connection EurekAlert! Mexico may explain a migration mystery courthousenews.com Mammals crossed between the Americas before the land bridge Tech Explorist",
+      "published": "2026-07-30T18:00:01+00:00",
       "outlets": [
-        "Gizmodo",
-        "KVOA",
-        "New Scientist",
-        "Space",
-        "University of Arizona News"
+        "EurekAlert!",
+        "Phys.org",
+        "Science News",
+        "Tech Explorist",
+        "courthousenews.com"
       ],
       "feeds": [
         "google-science"
@@ -238,14 +305,14 @@
     {
       "title": "Groundbreaking discovery could remake California's avocado breeding",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUGh1ZG1CNTg0VEoxVDhyZkx4VDk5SGgtTUtyYWhyNXJYYTJHVEZIYm1KWXEwenlwcUFJa2xVb0hJRDc5VWtnekU2Vy1BT2RRMVMwUVdsMWhIUFU5SXF6MldGYzlsS3dXNkstU1AwWlM4c1I3UVdRZ2FmWWNHRVk?oc=5",
-      "summary": "Groundbreaking discovery could remake California's avocado breeding SFGATE Study Reveals How Avocados Reverse Sexes Throughout the Day University of California Davis | UC Davis Avocado Trees Start The Day As One Sex And Switch To The Other In The Afternoon. We\u2019ve Only Just Learned How iflscience.com Jeffrey Groh in greenhouse (IMAGE) EurekAlert! Avocado Gene Discovery Speeds Up Tree Breeding Labroots",
+      "summary": "Groundbreaking discovery could remake California's avocado breeding SFGATE Study Reveals How Avocados Reverse Sexes Throughout the Day University of California Davis | UC Davis Avocado Trees Start The Day As One Sex And Switch To The Other In The Afternoon. We\u2019ve Only Just Learned How IFLScience Jeffrey Groh in greenhouse (IMAGE) EurekAlert! Avocado Gene Discovery Speeds Up Tree Breeding Labroots",
       "published": "2026-07-31T14:09:45+00:00",
       "outlets": [
         "EurekAlert!",
+        "IFLScience",
         "Labroots",
         "SFGATE",
-        "University of California Davis | UC Davis",
-        "iflscience.com"
+        "University of California Davis | UC Davis"
       ],
       "feeds": [
         "google-science"
@@ -269,24 +336,24 @@
       ]
     },
     {
-      "title": "Mars rover discovers honeycomb-like fields on Red Planet",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MUUFVYUNkMGVuOV9CZTVKblFZdGI1ZDYzT0VKeVFOUEJNOFVQLXA5SjE0d0dQNmtlbUdpVW5rZzhOdTU3aUZBNVhsRExXUzBsSDdra3VNcHNzS281N0FHQmxyRTNHVGhCQnhBa0x0OUV6VEE1WEHSAXtBVV95cUxQZ2xVNlNscXcyaGMwUmZSaUM1OVNaZ3hiNlN6YnN3VmIwOEVxT0hTbl9ROFQzRjdQejZwRHJUMGM1enI4WVlNNU9vOElRU1JoajQxYnJKOXhETHpYUFFpUU14aUlxMTF5YURqbGtpYXdKWEpXaGNjNFBpYlU?oc=5",
-      "summary": "Mars rover discovers honeycomb-like fields on Red Planet NewsNation NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine Curiosity Mars rover discovers field of honeycomb textures Phys.org",
-      "published": "2026-07-31T04:39:52+00:00",
+      "title": "NASA\u2019s Curiosity rover found a \u2018sea of polygons\u2019 on Mars",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUTnluUFk3QTU0WjROWTdUN2RycFk5RTJVenVvSF90ZkVpQVR1SnRxekZ4bXV1cWVMWE1YdkxPdVdFWGZZdkpfamhzd1RPTkdkRHVjY0lILUloZGt0QU92bUYtUFBOWnRsSjdWdUEwTUxlVGhmc2hBRjF5RHdvYUE?oc=5",
+      "summary": "NASA\u2019s Curiosity rover found a \u2018sea of polygons\u2019 on Mars The Verge NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) Curiosity Rover Finds \u201cSea of Polygons\u201d on Martian Surface Nautilus | Science 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine Curiosity rover spots ancient sea of Martian polygons Popular Science",
+      "published": "2026-07-30T17:20:06+00:00",
       "outlets": [
         "BBC Sky at Night Magazine",
         "NASA (.gov)",
-        "NewsNation",
-        "Phys.org",
-        "Popular Science"
+        "Nautilus | Science",
+        "Popular Science",
+        "The Verge"
       ],
       "feeds": [
         "google-science",
         "google-top"
       ],
-      "reach": 64.8,
+      "reach": 60.8,
       "angle": 24.8,
-      "rank": 16.1,
+      "rank": 15.1,
       "signals": {
         "institutional": [
           "nasa"
@@ -303,106 +370,14 @@
       ]
     },
     {
-      "title": "OnePlus 16 officially teased with three performance-focused upgrades",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNldVYkRZX3Zpbm5RajRDbHg2MDJVaTd5Ulc0bHZaRmctRDlyNjNQa1kxMktPTy1kSVpIaUJ5ZjQzVWlCR1R5eFN5WUEtZ3RKcWRReHlDdDFjd3hKNm5XV2lxWC1CalhOZmwtd3FXUHZXYWR5dlpNUDdFY3E2TUY2ejF1UVd5bzZkbzlQd0JONTh3dVNUTER4eV9VUXdnODdJM0xFV0ctWmlxM2VZcFBmRkNVVQ?oc=5",
-      "summary": "OnePlus 16 officially teased with three performance-focused upgrades Notebookcheck OnePlus 16\u2019s October launch tipped with ultra-thin bezels, refined rear design Gizmochina The Galaxy S26 Ultra rival we can't get has just leaked, and it's built for gamers PhoneArena OnePlus confirms OnePlus 16, its first flagship after US exit, is coming soon Android Authority OnePlus 16 sounds great; too bad you won\u2019t be able to buy it 9to5Google",
-      "published": "2026-07-30T13:18:00+00:00",
-      "outlets": [
-        "9to5Google",
-        "Android Authority",
-        "Gizmochina",
-        "Notebookcheck",
-        "PhoneArena"
-      ],
-      "feeds": [
-        "google-technology"
-      ],
-      "reach": 54.8,
-      "angle": 28.0,
-      "rank": 15.3,
-      "signals": {
-        "secrecy": [
-          "leaked"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "MacBook Ultra's New Design Won't Stay Exclusive for Long",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFd4REZ4U3lmNkZobmhWdU0wbUU3VndzQ3lIcXFPNjJEaE1ESF9YMzdRVFRNOWtuRmV0bzEwMEp4Y0hNMTNHYWRHYWdva0lyX0FHUHo0Z2hIcllGLTJmc3lDT1VsYTM5UFFlOWF0TDRfWXRWSDM5SkQ3a2xaWkxWSWVuZkI?oc=5",
-      "summary": "MacBook Ultra's New Design Won't Stay Exclusive for Long MacRumors Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand Bloomberg.com Demand for AI Computing Is So High That Apple Is Redesigning Every Mac It Sells Yahoo Finance MacBook Neo Refresh: Apple Targets Annual Consumer Upgrades Forbes Leaked: $2999 M7 MacBook Ultra Reportedly Coming March 2027 Geeky Gadgets",
-      "published": "2026-07-31T01:00:00+00:00",
-      "outlets": [
-        "Bloomberg.com",
-        "Forbes",
-        "Geeky Gadgets",
-        "MacRumors",
-        "Yahoo Finance"
-      ],
-      "feeds": [
-        "google-technology"
-      ],
-      "reach": 54.8,
-      "angle": 28.0,
-      "rank": 15.3,
-      "signals": {
-        "secrecy": [
-          "leaked"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZklmMzNxWVJBcm9sNWdOX2JRc1NaTHdRbktrQnJLejR1bVVnRjJ2MFNtZmFKaDh6UFN3dk9PX1h4YktHUkVGYnpuMFJQRk1PMkg2QUJZOVVNMk05dThqb0R0a3pJNXJwVlNDSG5RY1YtMzRWbG1wWllEUUtaSmFHaTZMRTFkbm1aMEx0eDJOXzBDVWEwbHpWSTV2eldhZHhTZjhYaTlFZXNrdmJDOWdvb0MxVDd0ZllUT29YV1cwRUpEYktOR1hpVVhIcl9DV1BFNlM5V0d4SnFTNXBCSkEtbnQ5T2xkVk5GbjE4TlNuWGtyU0pETWNzYg?oc=5",
-      "summary": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30 Space Roman Space Telescope on track for late August launch SpaceNews NASA Fuels Roman Space Telescope for Late August Launch NASA Science (.gov) NASA's newest telescope set to track Earth-like planets closer to launch Yahoo NASA\u2019s Roman Telescope to Carry 1.35 Million Names to Deep Space NASA (.gov)",
-      "published": "2026-07-29T22:41:30+00:00",
-      "outlets": [
-        "NASA (.gov)",
-        "NASA Science (.gov)",
-        "Space",
-        "SpaceNews",
-        "Yahoo"
-      ],
-      "feeds": [
-        "google-science",
-        "google-top"
-      ],
-      "reach": 56.8,
-      "angle": 24.8,
-      "rank": 14.1,
-      "signals": {
-        "institutional": [
-          "nasa"
-        ],
-        "frontier": [
-          "deep space"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2FhdkR1R3hEdHFsY3JBdk1kdEI3WXlqd0p3V2ZnQUNhWFoyc25Tc2tHVEZVR2FZdU9HUmlMTE5zR2lOYmE1TVE4b1M1clhaSkxzWWNiaWhESndHcmhHQkp4M2k4VmVIVW4wWFVDaGwyUF9CZk1FQWhURVh1UlhMai1HRnNHd2RaLVNXVGk5ZEFIeVBGd3ozNmR6aWc1QnFMWVFPckVZenp4dUxDNFZlSThKT3VUTm03eHhiWHJn?oc=5",
-      "summary": "'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas ScienceAlert Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas AP News Smallpox DNA is recovered from Spanish conquest-era Chilean mummies Reuters \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times Ancient smallpox genomes reveal how European colonization brought the disease to the Americas Phys.org",
-      "published": "2026-07-30T23:18:40+00:00",
+      "title": "Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1ZGUGZnOFhVckk4aVA0dWdRN2I4MHo0bkFBdjhvbnI0U2Y0Q3pUemtWV1N1cGQ2b3FiTG0yUEY4Z2pLelcxdm1SWEFqYlFYOHlGQlYzWHpEaENhRF9fSGtCdTRYOWFxTG9SLXRjTHJsbVpMYnIxTVhlT3d2VmdQSU92RTd2VjBrMGZRX0ZEU1lVZjZQX3BlVUFjenVSRWs?oc=5",
+      "summary": "Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas AP News 'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas ScienceAlert \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times Ancient smallpox genomes reveal how European colonization brought the disease to the Americas Phys.org Smallpox DNA in ancient Inca mummies shows virus came from Europe New Scientist",
+      "published": "2026-07-30T18:16:00+00:00",
       "outlets": [
         "AP News",
+        "New Scientist",
         "Phys.org",
-        "Reuters",
         "ScienceAlert",
         "The New York Times"
       ],
@@ -430,12 +405,12 @@
     {
       "title": "The Universe Was Sculpted in Invisible Matter",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVk95ZlJiQnJwdkV1UTJ5UTNleUlRNzVYcFNIcjVYRHRydFlLdG93VmFuaEcyUl9udWZvZ2lzM2ZwR1dMX0hiU2FvQVNBN3MzenVqc2FNMFNzc0VlYUVuQVUxZ2xZRDF4VzlpbGZTYU1nTVNpS1Z4Z2pVblNiNTZqRGxiOHRwOG9GS1prdnAwWQ?oc=5",
-      "summary": "The Universe Was Sculpted in Invisible Matter Avi Loeb \u2013 Medium New dark matter map offers fresh look at one of the universe\u2019s biggest mysteries CTV News This cosmologist studies the invisible parts of the universe TAPinto",
+      "summary": "The Universe Was Sculpted in Invisible Matter Avi Loeb \u2013 Medium New dark matter map offers fresh look at one of the universe\u2019s biggest mysteries ctvnews.ca This cosmologist studies the invisible parts of the universe TAPinto",
       "published": "2026-07-30T10:19:23+00:00",
       "outlets": [
         "Avi Loeb \u2013 Medium",
-        "CTV News",
-        "TAPinto"
+        "TAPinto",
+        "ctvnews.ca"
       ],
       "feeds": [
         "google-science"
@@ -455,26 +430,26 @@
       ]
     },
     {
-      "title": "Trump\u2019s Effort to Gut Education Dept. Rebuked by Senate Committee",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1loVk84WWt4UFJXcnJrOGtMUUZ0SDlxV3U0RTFpdl8xNHo3SS1BRV9SUy05RGFCNDhablJFQlJmZld1Umg3cUp6QzhWRVlSdUhnTUFaVFdqa1FCUVRSODRoQzFhVE9wenNfSDg5Y2RpdEJpNVdWV3lITVFUVGxzZjByck9iS1hRblZN?oc=5",
-      "summary": "Trump\u2019s Effort to Gut Education Dept. Rebuked by Senate Committee The New York Times In bipartisan rebuke, Senate panel votes to shield special ed from RFK Jr.'s agency USA Today Senate Panel Passes Bill to Reverse Dismantling of Education Department The 74 'It puts special education back 50 years.' Ohio advocates concerned over recent federal changes. Ohio Capital Journal Pushback On Ed Department Plan To Offload Special Education Intensifies Disability Scoop",
-      "published": "2026-07-30T19:44:53+00:00",
+      "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0R5ZzAwSHZoTGFiZlVxSV9LZXdOR1NrQWFUdG9USFpydmlFQ2wtSXhfNVRySTd5YmNJSGZSZFdnSzVqOVZ2VnJvS1U2OWlaVzBCSWN5aDNiYXFDNFFvLWpWWGhmOVRVV2hpQWZRVE9kOWs3eDlHeG83MTlXY1pKWm15OGZ4TVFj0gGOAUFVX3lxTE1KSlBrVEFFOVBsUG1yOEdIM2NDVEE4V1ZvWU9Cb3BLUUZTQUNwajlQbDY2TGU5MkRMaElOckVVb0RHalpWZlJWNEVQenpyS2dQY3dDS2hkbzNVcTdsbTFCcGVRMGpIUEdfaFc5RFJySkhzb2x4QXdOZmQzNlFTdjI3blpWLWFndTRrRnM0ekE?oc=5",
+      "summary": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses CNBC Trump backtracks from promise to let Ukraine build Patriot missiles The Guardian Opinion | The fastest way to help Ukraine stop Russia\u2019s missile threat The Washington Post Zelensky to Axios: Ukraine needs missile interceptors to head off winter disaster Axios Trump says US has not agreed to Ukraine building Patriot missiles Reuters",
+      "published": "2026-07-31T16:27:40+00:00",
       "outlets": [
-        "Disability Scoop",
-        "Ohio Capital Journal",
-        "The 74",
-        "The New York Times",
-        "USA Today"
+        "Axios",
+        "CNBC",
+        "Reuters",
+        "The Guardian",
+        "The Washington Post"
       ],
       "feeds": [
         "google-nation"
       ],
-      "reach": 54.8,
+      "reach": 58.8,
       "angle": 22.0,
-      "rank": 12.1,
+      "rank": 12.9,
       "signals": {
         "reversal": [
-          "reverse"
+          "backtrack"
         ]
       },
       "verdict": "clear",
@@ -484,43 +459,12 @@
       ]
     },
     {
-      "title": "Trump\u2019s Desperate Attempt to Get the Supreme Court to Reverse Itself on Voting Chaos",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGNCRlI2dC1XcDJYWjdPYUdzeGl4SElCcTdCR0VReU11MHdNU2Z1TUQ2Q0p1QW1GNHkwMUVwZ1hHLTNJWGI3QlFvR0RzWWx6TzYxUWhYMkZkNHBQNHRBS052NWwzaGxXRFVlUmIteUM0REFYRGc0dG02RjlsRVZCa1hENWYzNG13Mnl3YURuRXJFRmc5?oc=5",
-      "summary": "Trump\u2019s Desperate Attempt to Get the Supreme Court to Reverse Itself on Voting Chaos Slate Trump wants the Supreme Court to give him the unilateral power to rewrite election law vox.com Trump Asks Supreme Court to Allow Order Restricting Mail Voting The New York Times US appeals court upholds injunction that blocks Trump\u2019s order to create a federal voter list AP News Court declines to block Trump mail ballot order, but fate for midterms remains uncertain New Jersey Globe",
-      "published": "2026-07-30T15:59:00+00:00",
-      "outlets": [
-        "AP News",
-        "New Jersey Globe",
-        "Slate",
-        "The New York Times",
-        "vox.com"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 54.8,
-      "angle": 22.0,
-      "rank": 12.1,
-      "signals": {
-        "reversal": [
-          "reverse"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "touches elections or voting \u2014 the one topic with a hard false-claims rule"
-      ],
-      "prompts": [
-        "The story changed. Put the first version and the current one side by side."
-      ]
-    },
-    {
       "title": "Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHlQZ05WMUVORWNJYkduM0ZueEwxU28zb2xFQmUwb1BYWmtQdnBTNHRrdTRJSGVzVjVLbE5nQnEyaUJKakxQWExBbHBEOGtzeldieV9kNk81TzBvN0VsZ0IwbExocDlMWG5JVmtqUU1RcWx4LXlYM1haeTg2WjR5VkRFeFpsVEd6aWxLSHNMRlJwUDlQeThTVndkaW5EZw?oc=5",
-      "summary": "Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours SciTechDaily Researchers reverse autism-like symptoms in mice with one rapamycin dose NewsNation Did scientists \u2018reverse\u2019 autism? Plus a measles milestone, e-bike injuries and gum health Straight Arrow Scientists reverse autism-like traits in hours with one drug dose The Mirror Single Drug Dose Reversed Autism-Like Traits in Mice Labroots",
+      "summary": "Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours SciTechDaily Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature Researchers reverse autism-like symptoms in mice with one rapamycin dose NewsNation Did scientists \u2018reverse\u2019 autism? Plus a measles milestone, e-bike injuries and gum health Straight Arrow Scientists reverse autism-like traits in hours with one drug dose The Mirror",
       "published": "2026-07-30T22:43:03+00:00",
       "outlets": [
-        "Labroots",
+        "Nature",
         "NewsNation",
         "SciTechDaily",
         "Straight Arrow",
@@ -545,15 +489,14 @@
       ]
     },
     {
-      "title": "10-year-old drowns saving sister, another girl still unaccounted for - CBS7 | Permian Basin, West Texas News | Midland, TX",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUEl6dENMdUpxVnlYSFpMQUVVaHo2UzYzdkdROUJsSTFNQ0RZekxvNU9IRTVHR25vcmpSdDJUeS1UdnR2MWsxLU93Zmo5N2NBSlFCR21LeTBaRTFuSVVQa1haRzFWVmU0a05PVDlxRGZhcTJDblBuMHBMZl9GU1c2aU5Kako4MXlzMlQzNnJORnRwd2V0T3piSnlUNl9kTTAyM1ZvRmNn0gG6AUFVX3lxTE10XzF4R1owdFV0eVZrSktKdE1wS1BKR1dzajlaTU1GUWJsV0hwR0FDTkh2TUotZEtGcF82SldjelVieGdJT0dVQmo5ampTd1J0Q3pkWVd0SDB6R0lUZU10S05jcjVSdzBNQzJGamZJeE1ockpNeU5zbDE1RlRPRF9qbGxaRkxFTkhjZy1kY1RJTTVpMy1fLUlJZjRIVVM2dk1hMFdUeEJWQ0xSUmFoSGVKWEljanJGQ25YUQ?oc=5",
+      "title": "10-year-old drowns saving sister, another girl still unaccounted for",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd01WcWVmaTZMY3dKaEVaZk02OGlTZnJUdjNmUW1YVzRXM1BqQUM5NzhyLUY4T3dIVFFWSzNOaFpXc1c1bVk3N2hqVDh2SW5haDVud1E1UmN4bnVTM2VnTktQdkNhNktUT3oxalpuUk83ZlJLeU5YOUFmclNTN3VTRzVqWVRYWTJOWXh2dE13UTNsRU0wbnJGamJPVkbSAbABQVVfeXFMUG9tUm1wYnZCUkQ5V2NYSU5yR3c1MnNkUkZGUHFXUEFtcm9RN2FFUS1GdTdpMHJLdjFRd1dlNmttUi1JZzFKWnZ0Y0YyUXdIWG1NZ19UU05YcXZCaHpySmdvTFdxcEQ5ZE5PWWd1VlN3YUdlN1d6aEdJMGZoR1BHRkJlN3JETVl6TnFrakZaM3ZicmZoV3FoYWhmR3kxd0dWRHpvdGtjN2lpcWZ2SUpidy0?oc=5",
       "summary": "10-year-old drowns saving sister, another girl still unaccounted for KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
       "published": "2026-07-30T20:01:00+00:00",
       "outlets": [
         "AZ Family",
         "Alaska's News Source",
         "Atlanta News First",
-        "CBS7 | Permian Basin, West Texas News | Midland, TX",
         "FOX19 | Cincinnati",
         "Hawaii News Now",
         "K8 News | Jonesboro, Arkansas",
@@ -580,17 +523,19 @@
         "Upper Michigan's Source",
         "Valley News Live",
         "WAFF",
-        "WAVE News",
         "WBKO",
+        "WBNG",
         "WBRC 6 News",
         "WBTV",
         "WCAX",
+        "WDBJ7",
         "WEAU",
         "WEEK | 25 News Now",
         "WFIE | 14 News",
         "WFLX",
         "WFSB",
         "WIS News 10",
+        "WJHG",
         "WMBF",
         "WMTV 15 NEWS",
         "WNDU",
@@ -599,16 +544,15 @@
         "WPTA | 21Alive | Fort Wayne, IN",
         "WSAZ",
         "WSFA",
+        "WTAP",
         "WTHI-TV",
         "WTVA",
         "WVLT",
         "WVVA",
         "WWBT",
         "WYMT",
-        "Western Mass News",
         "knopnews2.com",
-        "wbbjtv.com",
-        "wdbj7.com"
+        "wbbjtv.com"
       ],
       "feeds": [
         "angle:unaccounted for"
@@ -625,67 +569,6 @@
       "policy_reasons": [],
       "prompts": [
         "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
-      "title": "Resident and dog unaccounted for in West Linn house fire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQnQwQVRndHdmd3dhaUFEcC03ZHYySi0xb05PTVFEVGhTZUZKYzFRbF92c1l1UE5WcmIyUWRjWFZ3aWFuZTdWZlYxeVRDR3RRakZNc3p2UnJDcDB6X1N2Zm5xQ0p1VEZ2TmdfUnprakhDXzg2VWE3Q19WVHZfXzFFbDR4Si1GOEZMcXMwVDk0cFdQXzQwRFBj?oc=5",
-      "summary": "Person who re-entered large West Linn house fire to rescue dog still \u2018unaccounted for\u2019 KOIN.com",
-      "published": "2026-07-31T06:04:53+00:00",
-      "outlets": [
-        "KATU",
-        "KOIN.com",
-        "KPTV"
-      ],
-      "feeds": [
-        "angle:unaccounted for"
-      ],
-      "reach": 43.9,
-      "angle": 23.9,
-      "rank": 10.5,
-      "signals": {
-        "institutional": [
-          "who"
-        ],
-        "disappearance": [
-          "unaccounted for"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls.",
-        "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
-      "title": "TSA discovers five stolen Civil War-era cannonballs in a traveler\u2019s luggage in Alabama",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVFvRmtublZCdFNQZll1TXNTZ3dqdG91MHJleFJzS0NtZGFDcXlrVjJtSm12YjdTZnZoWXRZN2dtUUl2RU0tLUdTSXZkejBMYzdUNUdWb0pqRlRXMUlwT2xJa3pRM3J1VlhXRi0wMzZ2UlNUdndPaDdrU29kM29YckJzc0FCeVZHMUIyd19HcWw5c01IWlk1Y3c2UjVMTVNFNDNxRjIwUzVGZXNpNkxr?oc=5",
-      "summary": "TSA discovers five stolen Civil War-era cannonballs in a traveler\u2019s luggage in Alabama NBC News T.S.A. Finds 5 Civil War Cannonballs in Passenger\u2019s Luggage in Alabama The New York Times Cannonball run! \u2018Indiana Jones-esque\u2019 discovery by TSA at Alabama airport tsa.gov Stolen Civil War-era cannonballs found in suitcase at Alabama airport CBS News It Was the Most 'Unique' Find of TSA Officer's Career Newser",
-      "published": "2026-07-31T13:44:10+00:00",
-      "outlets": [
-        "CBS News",
-        "NBC News",
-        "Newser",
-        "The New York Times",
-        "tsa.gov"
-      ],
-      "feeds": [
-        "google-nation",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 16.0,
-      "rank": 10.4,
-      "signals": {
-        "frontier": [
-          "discovery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -715,26 +598,57 @@
       ]
     },
     {
-      "title": "Ancient DNA Reveals Woolly Mammoth With A Sex Chromosome Combination Never Before Seen In An Extinct Species",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNVlqaTNZYk9kUnd0aDd0ekpXUXJIcWVSYlY5Qi0xcmt6WG1wWGxMellMVzNCOV9UUzdzSHFnUmh6S2NXSnZXWFJROXNreUp0LVB1N2h0dGd0SmFhcVhiRFR2eTdPZzVVTVZBVDBmRlBSNE11bnNBenUtSllyY3VsV09NRm8tblZLUGJ1SmluYUlnUlhjRWtzSVFKeGtmOEQzMy1tMzRWTENKWXMzZHZFbDRScHJubV80aXI4NGtEYTlKQnRLRDFzVGpZaEZGTXh6WEljZnl2bmk?oc=5",
-      "summary": "Ancient DNA Reveals Woolly Mammoth With A Sex Chromosome Combination Never Before Seen In An Extinct Species iflscience.com Study shows prehistoric people targeted female mammoths Reuters Ice Age humans preferred hunting female woolly mammoths Popular Science Woolly mammoths butchered by humans were mostly female New Scientist Ancient DNA reveals Ice Age humans targeted female woolly mammoths Phys.org",
-      "published": "2026-07-30T15:15:57+00:00",
+      "title": "Resident and dog unaccounted for in West Linn house fire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQnQwQVRndHdmd3dhaUFEcC03ZHYySi0xb05PTVFEVGhTZUZKYzFRbF92c1l1UE5WcmIyUWRjWFZ3aWFuZTdWZlYxeVRDR3RRakZNc3p2UnJDcDB6X1N2Zm5xQ0p1VEZ2TmdfUnprakhDXzg2VWE3Q19WVHZfXzFFbDR4Si1GOEZMcXMwVDk0cFdQXzQwRFBj?oc=5",
+      "summary": "Person who re-entered large West Linn house fire to rescue dog still \u2018unaccounted for\u2019 KOIN.com",
+      "published": "2026-07-31T06:04:53+00:00",
       "outlets": [
-        "New Scientist",
-        "Phys.org",
-        "Popular Science",
-        "Reuters",
-        "iflscience.com"
+        "KATU",
+        "KOIN.com",
+        "KPTV"
+      ],
+      "feeds": [
+        "angle:unaccounted for"
+      ],
+      "reach": 39.9,
+      "angle": 23.9,
+      "rank": 9.5,
+      "signals": {
+        "institutional": [
+          "who"
+        ],
+        "disappearance": [
+          "unaccounted for"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls.",
+        "Someone or something is gone. Absence is the strongest open ending there is."
+      ]
+    },
+    {
+      "title": "A rocky exoplanet may be a formidable candidate for extraterrestrial life",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoajROQ3VYVFZja1dQX2QxMTdOclNENVp5STRnOEFZcHk5N3RYTzE3czFsMGJHRVNTdTBMYmxTdkJFbmY4RkZLb1ZGQUVCTmNTV1ItcDZyWk1tekt0ZWRRMVBRYm12aUdjajVhRGFjTDdwa0pRT0VhMGJwUUFub00?oc=5",
+      "summary": "A rocky exoplanet may be a formidable candidate for extraterrestrial life CNN Astronomers just found the first atmosphere on a rocky exoplanet in the habitable zone Astronomy Magazine Scientists stunned: rocky planet\u2019s atmosphere breakthrough could change everything for life Futura, le m\u00e9dia qui explore le monde Could this distant rocky exoplanet support life? Astronomers say yes USA Today Scientists observe atmospheric signs on super-Earth LHS 1140b \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "published": "2026-07-31T16:00:25+00:00",
+      "outlets": [
+        "Astronomy Magazine",
+        "CNN",
+        "Futura, le m\u00e9dia qui explore le monde",
+        "USA Today",
+        "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
       ],
       "feeds": [
         "google-science"
       ],
-      "reach": 54.8,
+      "reach": 58.8,
       "angle": 16.0,
-      "rank": 8.8,
+      "rank": 9.4,
       "signals": {
         "frontier": [
-          "ancient"
+          "extraterrestrial"
         ]
       },
       "verdict": "clear",
@@ -744,28 +658,62 @@
       ]
     },
     {
-      "title": "Chronic hives can be effectively controlled even when the cause remains unknown: expert",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wVWV5MUVMTERDWWVHRWwwYTJheUFmMDNsOVRpeE9yTUlTU3NSUmUzdXB6MkdIR3dWU2R3MGlZNWdFbjlrWnpBX0c3WVhiMnVSVVBRV2JyR0s3ZHljZjRYRzNCc0g3eVUtM3FBXzR30gFyQVVfeXFMTTNaWDFNS00yMXBQaERHZVBRdDFzNTc1c0VuVG02RkdiNW81eTNSdG5DLUdiYnNJUm1vOU0wc3E2QXVpZXBJZ2NBU21OOWRwT0VOYzktOGhROHZRcjNnTlJkZmlzbzdSd1FwMVlCeTRmakpR?oc=5",
-      "summary": "Chronic hives can be effectively controlled even when the cause remains unknown: expert koreabiomed.com",
-      "published": "2026-07-31T06:07:11+00:00",
+      "title": "The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmhnOHIzcV9DWXotQ0tOX3dYcWtLZU5vRWltRkM2N2tLRDljdTN2RmFGTXlBbUtObktmMXQyZVBjUzZrWVpTbVFBeXAtY3lTYnp0UGU1dWNnbXpzZWtnWnZNUU40TlhfWENvSk5sUDlNX1B0U05HU0lTZS14a2JyMUFCdzdmR2F3enBFMllyNWdVV1hPdGJmSndPNzYwMTlNbC1JSHBUcUYxeVUtYnJPdXlCSnI?oc=5",
+      "summary": "The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science Predators, prey and parasites discovered 1,640ft below North America's Great Lakes BBC Wildlife Magazine Fungi (IMAGE) EurekAlert!",
+      "published": "2026-07-31T13:15:58+00:00",
       "outlets": [
-        "koreabiomed.com"
+        "BBC Wildlife Magazine",
+        "EurekAlert!",
+        "Gizmodo",
+        "Phys.org",
+        "Popular Science"
       ],
       "feeds": [
-        "angle:cause remains unknown"
+        "google-science"
       ],
-      "reach": 26.0,
-      "angle": 34.0,
-      "rank": 8.8,
+      "reach": 58.8,
+      "angle": 16.0,
+      "rank": 9.4,
       "signals": {
-        "unexplained": [
-          "cause remains unknown"
+        "frontier": [
+          "discovered"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "The official account stops short of a cause. Open on the gap."
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "TSA finds stolen Civil War-era cannonballs in a passenger\u2019s suitcase at an Alabama airport",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHFUQm9JbkNpRU40OEpkWExOSFoxamU2YXlZdGF4R0EwTHpqMmlmMDl6WHVnZ3dLTmoxakdfcXJKcDF4UDBfdngzbTJhOEcyN3l4d2s3Xy0td1EtR3BVWVJFS1RmUHJyMDJzLTVhbnBBQW9VYXEyZXJvTmJsR205OE1yNGlaSDZ1cHFYVVc2T3NVSUR6b19Mc1NR?oc=5",
+      "summary": "TSA finds stolen Civil War-era cannonballs in a passenger\u2019s suitcase at an Alabama airport AP News T.S.A. Finds 5 Civil War Cannonballs in Passenger\u2019s Luggage in Alabama The New York Times Stolen Civil War-era cannonballs found in suitcase at Alabama airport CBS News Cannonball run! \u2018Indiana Jones-esque\u2019 discovery by TSA at Alabama airport tsa.gov Stolen cannonballs discovered inside passenger's bag during airport security check ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-30T21:38:00+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "CBS News",
+        "The New York Times",
+        "tsa.gov"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "discovered",
+          "discovery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -818,114 +766,84 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
+    },
+    {
+      "title": "Tax records bolster documentary trail in unexplained wealth charge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RBNWViV3NzLXdSUUVjODBkYUZyRW5VdnkzNkJOMGdKUHhBR0JJY2M4QXdDWDQ5S2t4MzJ1MnJPUUl4QTd0OG5nVFQ3Q05nTWlsNTBCYndnNV96czB1c0dtcUJGdG1ORVFXWlphU0dGYWNKeHBPU1doTzdJRkpJYlhKVlZXai1LVWpNRGF4dkVHSktjRXVKNmY4NEU4V1hkckHSAa8BQVVfeXFMTVRUN0RIaDhWa0RKdGNBODFwa1luYXMtd2I3b040anFYenMzeHVaTnBRV0xEYlVVbkdVSGEzNjhPelhSQ0VVZi05Vk9FdFdUV2lhMnotZDBlSW5yWlE5WXZvOUp2aEprdUlLaXN0bFJkTGtfSXJJcHZJbkI5aGFrbm9QU0djdVNnYThkQW1VbW5GVkRXazBXRDlkaU9FeVZUVFdvOVNiREg2V0RkOTdaaw?oc=5",
+      "summary": "Tax records bolster documentary trail in unexplained wealth charge SunStar Publishing Inc.",
+      "published": "2026-07-31T08:19:52+00:00",
+      "outlets": [
+        "SunStar Publishing Inc."
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNm9sc21DMUItM1ljOXNWZUptWGFScU1rUWNxYjg5MnNFMk45Y3dURW5GcmxFZndTZ0RrY3U5ODRDWldmSkhtMWtwRDhKblhyRFJucXI0YkxfUzYwdHIzSzM1N3J3eDF6MkJMblRrN2pTU3dGUEQ4Ri1nQjA0bzJmZnFEYk5XdVVSTGxSZjFPMVVwbHp6N0xMQlNLVXh3REFUVFl5UC1aVHNrTkM1bHJLVjlVSDdRSWhR0gHMAUFVX3lxTE84bHZnMHUzXzdBQVByLW5FSnA2ZkU0TEh5VkdCeXktVnRHVVVMT2hPYnFMMTJHSDNRdHhPbE1jUWk3eDM5RlJBczBYZTJoRW1Yc0ZJQnktY1Bmdi1PT2E3UVdoc1dIaFk3RmZTY0RGb2IwdmFJWWRJRE5tazR5bEtaTkR0SEhQRTlSZEJyMUNQUEozcHJkanNfbDJRQ2xFcVBvTlZoNjVyUnNQSU9XVWk5NV9YbERhb3B1VGNDOWk1NFFpUXhLdzdubWNhRg?oc=5",
+      "summary": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips KOTA Territory News",
+      "published": "2026-07-30T13:30:00+00:00",
+      "outlets": [
+        "CPA Practice Advisor",
+        "KOTA Territory News"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 31.5,
+      "angle": 28.0,
+      "rank": 8.8,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
     }
   ],
   "blocked": [
     {
-      "title": "Drifting SpaceX rocket heading for accidental collision with moon",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQm1YZ2t5dUZzMU43R1Q2VTliaGRpTXE2RWZqemxfM24zbWVPMXRRdzdwbUxYa0VRaE9IN3c1QUtwZEZLREFnUGFCZmlMc01tSW5ySV82RVI3NWo4YlZwTU5xaERwN2E4bTJsZnhHS085THUwbjEwU2FfYVZ3dkN4RlpR?oc=5",
-      "summary": "Drifting SpaceX rocket heading for accidental collision with moon The Guardian SpaceX rocket to crash into moon Aug. 5. Can Wisconsin residents see it? Milwaukee Journal Sentinel A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect Space Falcon 9 Rocket Stage \"Abandoned\" In High-Earth Orbit Is About To Slam Into The Moon, With The Energy Of 11.8 Gigajoules iflscience.com A piece of a SpaceX rocket is about to hit the moon ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-31T13:05:00+00:00",
+      "title": "Father of Georgia school shooter sentenced to 15 years in prison",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3hNU2VVOGx6bTJLdDBab1o0eU5wYTFybHcwY1M0MFR2Qk8weUhOLVN6cTNwRzJwNGtva2RNQXBmVlZXdFZtZGUyd1VJYTJTVXphVUdKWExHaXVnMFNZam4zakNRaHRyQWhMMnZLbU14czN2VnN2UjVJY2t5ZWUyLW1MYURza2E3Q05IVXdiNG9pT2NxNjFoRm5YV2VfWU9HWWtEQlFnRFppMGpC?oc=5",
+      "summary": "Father of Georgia school shooter sentenced to 15 years in prison Reuters Father of Apalachee High shooter given 15 years in prison in second degree murder case 11Alive.com Colin Gray, Father of Teenage Shooter in Georgia, Sentenced to 15 Years in Prison The New York Times Colin Gray\u2019s 15-year sentence signals new legal risks for parents of school shooters NBC News Georgia school shooter\u2019s father, who bought son a gun, sentenced to 15 years The Washington Post",
+      "published": "2026-07-30T21:57:38+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "IFLScience",
-        "Milwaukee Journal Sentinel",
-        "New York Post",
-        "Space",
-        "The Guardian",
-        "iflscience.com"
+        "11Alive.com",
+        "NBC News",
+        "Reuters",
+        "The New York Times",
+        "The Washington Post",
+        "bbc-world"
       ],
       "feeds": [
-        "google-science",
-        "google-top"
-      ],
-      "reach": 78.2,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDRNOE5LZUo3T2pqTkZ6UWtaLWZLUnYwcEZheGNJalRlN25EemRPTE9Ta1o3MW14Y0hWc0FPSFJrdnNOZkFCblNYUTVXcjh1ZTA4WUZMQ2hfOVlmY0VWbUNncTJWMXdXZ0g5VWpzd3pTTmlFZHBBcDFaY2lESnJhOU1rdw?oc=5",
-      "summary": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules The New York Times Bordeaux Vineyards Dodge Wildfires But May Face Smaller Vintage Bloomberg.com What the fires burning near Bordeaux's vineyards could mean for France's wine industry CBS News Thousands in France allowed to return home as Europe tackles wildfires and heatwave NPR As heat and dry conditions fan wildfires in France, volunteers fan out to help The Boston Globe",
-      "published": "2026-07-31T10:25:47+00:00",
-      "outlets": [
-        "10TV",
-        "Bloomberg.com",
-        "CBS News",
-        "NPR",
-        "The Boston Globe",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 71.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNzRJREpZS2tpQ1ladm1EcG93c0dEZGJfTko5Z2ZvSDBnMnhJZFMwVjltbW5nM1VJYU5MRnMwQlB1ZDZLcDY4SWMtWGhqN3ViZUgyWGktM1Jrell0dndUOUxGa1UwandLNV95QWg0cmdlbHhhWEt2N0o1Sk1xMjV4Z2xsVE8wTTFiUWxfczZ1cC1lbFJRSU9ZWUZndjdQREJ5Y21IR2NOdWdTNkpyT0laRUEyQXdHSnlMSUljSVNFTHBhLUNFbU9F?oc=5",
-      "summary": "Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Ebola death toll in DR Congo surpasses 1,000 NPR Ebola cases in DR Congo surpass 3,000 - as health workers go on strike Sky News Congo Ebola death toll tops 1,400 as vaccine trials start dw.com DR Congo says the number of confirmed Ebola cases has surpassed 3,000 africanews.com",
-      "published": "2026-07-31T08:01:00+00:00",
-      "outlets": [
-        "DW.com",
-        "NPR",
-        "Sky News",
-        "The Guardian",
-        "africanews.com",
-        "dw.com"
-      ],
-      "feeds": [
-        "google-health",
-        "google-top"
-      ],
-      "reach": 71.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Flock cameras are getting mobbed",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mQzhiaWg3YTNUOTBwTVBSY0drSGlxTjE3OExxUzl4R21tUHc2U0R6eEM4ODhlaGJSRGZBVWtJejBpbGZpZFNYb1k4NWhOTGVYeXdxcjFmaUFYM0d1aE8tX0xCX0JMNWdWR2tBZ3lHcENNSzBNQ2h6Tg?oc=5",
-      "summary": "Flock cameras are getting mobbed CNN Florida Man Uses 12-Foot Pool Skimmer to Block Police Surveillance Camera Yahoo Twin Cities suburbs restrict license plate data after Star Tribune investigation Star Tribune Bay area man protests Flock cameras because of privacy concerns Spectrum News Flock surveillance cameras can pose a crash risk for drivers, US experts say The Guardian",
-      "published": "2026-07-30T23:36:57+00:00",
-      "outlets": [
-        "CNN",
-        "Spectrum News",
-        "Star Tribune",
-        "The Guardian",
-        "Yahoo",
-        "reddit-news"
-      ],
-      "feeds": [
+        "bbc-world",
         "google-nation",
-        "reddit-news"
+        "google-top"
       ],
-      "reach": 67.7,
+      "reach": 73.7,
       "angle": 18.0,
-      "rank": 12.2,
+      "rank": 13.3,
       "signals": {
         "institutional": [
-          "surveillance"
+          "who"
         ]
       },
       "verdict": "block",
@@ -937,56 +855,51 @@
       ]
     },
     {
-      "title": "Spain\u2019s PM blames trafficking gangs as 60,000 cross into Ceuta from Morocco, with 41 deaths",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5",
-      "summary": "Spain\u2019s PM blames trafficking gangs as 60,000 cross into Ceuta from Morocco, with 41 deaths AP News Spain\u2019s Leader Rushes to Ceuta After Tens of Thousands of Migrants Cross From Morocco: Live Updates The New York Times Spain says huge surge across border into enclave has reversed, half of migrants go back Reuters Trump, Miller seize on migrant crisis in Spain as midterm warning The Hill Migrants overrun a Spanish outpost, stirring White House outrage The Washington Post",
-      "published": "2026-07-31T13:29:00+00:00",
+      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZSUdlNDRWUHVHYUlqT1c1NmdRWWtfalJPbjZzNnEyLWJ3OFlqYl9Qbml1SWtOZERRTDNodmVfMmhEdUJFYUc3bVdHUjdIa1BDNTQ1b0lZWTl3Zw?oc=5",
+      "summary": "Hundreds escape Greek wildfire by sea as blazes continue across Europe BBC \u2018Nightmarish\u2019 Wildfire in Crete Kills Two Firefighters as Thousands Evacuate The New York Times Greece fights fires near Athens as France, Spain improve Reuters Crete wildfires cause evacuations and firefighter deaths DW.com Is it safe to travel to Greece? Foreign Office latest as wildfires strike several tourist destinations The Independent",
+      "published": "2026-07-31T14:26:07+00:00",
       "outlets": [
-        "AP News",
+        "BBC",
+        "DW.com",
         "Reuters",
-        "The Hill",
+        "The Independent",
         "The New York Times",
-        "The Washington Post"
+        "bbc-world"
       ],
       "feeds": [
-        "google-top",
+        "bbc-world",
         "google-world"
       ],
-      "reach": 64.8,
-      "angle": 22.0,
-      "rank": 14.3,
-      "signals": {
-        "reversal": [
-          "reversed"
-        ]
-      },
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
       "verdict": "block",
       "policy_reasons": [
         "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
       ],
-      "prompts": [
-        "The story changed. Put the first version and the current one side by side."
-      ]
+      "prompts": []
     },
     {
-      "title": "Seattle City Council members react to mayor asking SPD Chief Shon Barnes to resign",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjZkZVdtV3lrT3lydFdST0VrajRWRXJUSEM5c3M0LUpMTmwyX1pmeV81MjVNWE1TVXMxdWdkVTI4TFB5SHlFTl9GOWxmOXBBTUNOQm5PNFZwbmNVdG9oaXVOMWxTeF9jVTNmSHlrdEJKUU9jTENsdDFXS0FteC1MdjZ2OWNFaXVEZE5zWWZMblFoZUt5SWFPZ1FQNHI5M2R6S3hSbmdnZUw2V2FiZlBfd3d2aG5Nb1FqM3RrM29wNUJpQWxnUlcxdl9B?oc=5",
-      "summary": "Seattle City Council members react to mayor asking SPD Chief Shon Barnes to resign KOMO Seattle Police Chief Barnes has resigned; mayor makes it official after hours of silence KUOW Police chief resigns days after deadly shooting in US city of Seattle Al Jazeera Seattle police watchdog fielded 60 complaints against Chief Barnes \u2014 two new investigations opened after reporter clash KING5.com Andre Sayles named Seattle\u2019s new interim police chief The Seattle Times",
-      "published": "2026-07-31T02:02:45+00:00",
+      "title": "Police chief resigns days after deadly shooting in US city of Seattle",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRllodGlHOFJLMWxfRTItMzdJejFPOXVuQzRibjJCNFhoUmxBMUtPLVZ4SmJfQ1AwNFBLWnV5OGR5N0Q1SGJ4WTQzV1ZxSFVuVFY3cEdhRUNzUUFaMHU0Y2Z3aVl3TlE0UE53cllMZEtlbFQ5Wm42bkFCNkJfVTRucEE5VXBTYmRiTWZuMWtZRWpPTHo0RkNlXzhpOExjNTBUUkJVdU1BRjNOckwtT2Fr0gG0AUFVX3lxTFB3MldWMm9ZbndpeTF2bWlxbG8wOHhNZFBPTmduLWt0Z3IwQk9Lc2piVE90TnFicFQzRDRrbkdwb180MXhhVEl0MjAyMk5rRlRRUDJINS1jYTlnRXlDZGVJQVpPNUxjdjY4YnR1WnRFSW9SYlJjVkJOUVQ3Y2hwa2R6eTIwclBrMTRzY0otLXpDSGxoelEyc012Z2hRVkVwMTVTY0YzOEUzR3l3OFFZMFJfWVBUXw?oc=5",
+      "summary": "Police chief resigns days after deadly shooting in US city of Seattle Al Jazeera Seattle Police Chief Barnes has resigned; mayor makes it official after hours of silence KUOW Seattle Police Officers Guild praises interim chief appointment while criticizing mayor\u2019s actions MyNorthwest.com Seattle police chief resigns following festival shooting response Police1 Seattle police watchdog fielded 60 complaints against Chief Barnes \u2014 two new investigations opened after reporter clash KING5.com",
+      "published": "2026-07-31T14:48:45+00:00",
       "outlets": [
         "Al Jazeera",
         "KING5.com",
-        "KOMO",
         "KUOW",
-        "The Seattle Times"
+        "MyNorthwest.com",
+        "Police1"
       ],
       "feeds": [
         "google-nation",
         "google-top"
       ],
-      "reach": 60.8,
+      "reach": 64.8,
       "angle": 18.0,
-      "rank": 10.9,
+      "rank": 11.7,
       "signals": {
         "institutional": [
           "watchdog"
@@ -1001,22 +914,22 @@
       ]
     },
     {
-      "title": "Death toll rises to at least 34 after blast at Pakistan coal mine complex",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazNiS0FGWDFrek9rc2ZXUHJ2a1hsSEdnYmlUeS1tVTloY0tKdGpJZjl6Vm9ITWt2QUcxZkI4Q3R3cmoxZnVQNEpiUThhY2QwakdydkNPcTZtbU8xTjEzU0NQR0RlNjFYcTI5Ul9ZZGZTSzlpdzVwNC1LOEVLWEZzWjBodzB5Xzk3cGxKNDgtb2g4VjZIY1RjcUJnYlFEN0IxT1RkZkh5ZDU0aXNzWXJQenBHS1U0bWU1VnBnWjU3dXFNS3BQMEhB?oc=5",
-      "summary": "Death toll rises to at least 34 after blast at Pakistan coal mine complex Reuters At Least 34 Dead From Coal Mine Blast in Pakistan The New York Times Coal mine blast in Pakistan kills at least 32 miners and traps 10 others NBC News 34 miners killed in methane explosion at coal mine \u2014 despite overnight rescue attempt New York Post Blast Kills 18 Miners, Traps 24 Newser",
-      "published": "2026-07-30T17:39:00+00:00",
+      "title": "Drifting SpaceX rocket heading for accidental collision with moon",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQm1YZ2t5dUZzMU43R1Q2VTliaGRpTXE2RWZqemxfM24zbWVPMXRRdzdwbUxYa0VRaE9IN3c1QUtwZEZLREFnUGFCZmlMc01tSW5ySV82RVI3NWo4YlZwTU5xaERwN2E4bTJsZnhHS085THUwbjEwU2FfYVZ3dkN4RlpR?oc=5",
+      "summary": "Drifting SpaceX rocket heading for accidental collision with moon The Guardian SpaceX Falcon 9 rocket stage to hit the moon on Aug. 5 qz.com A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect Space Falcon 9 Rocket Stage \"Abandoned\" In High-Earth Orbit Is About To Slam Into The Moon, With The Energy Of 11.8 Gigajoules IFLScience A discarded SpaceX rocket is on a high-speed collision course with the moon CNBC",
+      "published": "2026-07-31T13:05:00+00:00",
       "outlets": [
-        "NBC News",
-        "New York Post",
-        "Newser",
-        "Reuters",
-        "The New York Times"
+        "CNBC",
+        "IFLScience",
+        "Space",
+        "The Guardian",
+        "qz.com"
       ],
       "feeds": [
-        "google-top",
-        "google-world"
+        "google-science",
+        "google-top"
       ],
-      "reach": 60.8,
+      "reach": 64.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -1027,16 +940,68 @@
       "prompts": []
     },
     {
-      "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUlBuUW9uS2NyYUZJTFhqWUJYLVA3UllKZThEbzFtRm1yTHdVMXR3aERlYjM4cElURlRhNFNxdlFGWF9VaDNPZ1ZlSXNqTVo3ZHpzcTB6SHVLbDdjOC0yUWd2WWl3NjR4NlhmR21xUnlYbGRGc3dDb09lNWFiZGlXUGluRWNkOTY0eTdIeEltSlYxYm5KMHBXRURTNkJNX1Nhbjl0bFd5ZHZvYkxYaGpJTGZZZXU0dWhjeW83ZHE0Q2hYeUZ1MWJUSTVOUU9ZbTgtellWTXdsa2lQb1RJMldlcjcyOHptMTZuNWRTVUkxYnMzZGlCaHc?oc=5",
-      "summary": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage Yahoo Finance Tim Cook signed off on his final Apple earnings call with a warning about a \u2018hundred year flood\u2019 in memory chip pricing Fortune Apple\u2019s Profit Is Up 27%, but Expectations for Current Quarter Disappoint The New York Times Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO CNBC Apple stock price falls: 3 reasons why AAPL shares are down after a record-breaking quarter Fast Company",
-      "published": "2026-07-31T13:04:28+00:00",
+      "title": "7th death confirmed in Manhattan Legionnaires\u2019 outbreak, matching total from 2025 outbreak",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmxQVzZmbGx6ODNoUmdUNEp4TkxzTE5vb3dFM2xQWC1SWlhRV3REWi1TTk5GRndxT3o5Q2U2U1hxRDlkeTROY3I3eWNFSHVPYzVqdV9YdHJSS2R1NE1uUHZnRm5Cenduc0lRbEJTM25lSFlVbGUtWGNibHliSk5HN1hKWDVKNHZKU1M3cTN4a1lkbFdtRnhyTjJsd041c3J3NmhSdkIxUXppR21BeG05NDRGZlBLMnQzY2VJ?oc=5",
+      "summary": "7th death confirmed in Manhattan Legionnaires\u2019 outbreak, matching total from 2025 outbreak NBC News 7th death confirmed in Manhattan Legionnaires' outbreak, matching total from 2025 outbreak NBC New York New York City Legionnaires\u2019 disease outbreak linked to 7 deaths is declared over CNN East Village Legionella bacteria: Haven Plaza tenants demand action after water system brought into question ABC7 New York 7th person dies in Upper East Side Legionnaires' outbreak as NYC reports 92 cases Gothamist",
+      "published": "2026-07-31T10:59:33+00:00",
       "outlets": [
-        "CNBC",
-        "Fast Company",
-        "Fortune",
+        "ABC7 New York",
+        "CNN",
+        "Gothamist",
+        "NBC New York",
+        "NBC News"
+      ],
+      "feeds": [
+        "google-health",
+        "google-top"
+      ],
+      "reach": 64.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "DR Congo Ebola epidemic becomes world\u2019s second largest outbreak",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTRLaEtTaDI5ZGwyZGF1WkQzNnZ6dVRBZW5WRHJiYW1uM2U2NzZxVmlFZGVrblM2c05jdGNPVW5wTFFJa2hUMGxkWFVjaVdqN2czMGw1dTBENzNkNTVDeDJvcHk0RmMwZzZYMDMwc19VNmtpQWs1YWFaVXZQeTNZME9YTXpLQ3RFaHpVenBrV2VuWTFxMmlGR1VrejBKVzZwS21RX0ZB0gGrAUFVX3lxTE03bV8tazhKZmswVHYxR2h2SjJPeGZnUG1IT0ZQQkREMm5jaDRlNThBT1ZialFLNWRHQTVmWFNVTDZ4SXVQWjctMzlFVEFkdnEySmVXdmRJcUp3alI3YUdaTWJyNjNaeTN4Q1NwaVlQZnZFR093RFlmQ01xTUxNZWxnMzdtSzZDZ2cxZmdRQnlDQkpaQktJQWdZM0FGMTZ3WTRFek9rT0poT01BRQ?oc=5",
+      "summary": "DR Congo Ebola epidemic becomes world\u2019s second largest outbreak Al Jazeera Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN DR Congo Ebola outbreak becomes world's second-largest ever DW.com Ebola deaths surpass 1,500 in DRC as outbreak continues to spread ABC News - Breaking News, Latest News and Videos Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian",
+      "published": "2026-07-31T16:56:15+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Al Jazeera",
+        "CNN",
+        "DW.com",
+        "The Guardian"
+      ],
+      "feeds": [
+        "google-health",
+        "google-top"
+      ],
+      "reach": 64.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "60,000 migrants crossed into Spanish territory of Ceuta, but many soon left voluntarily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5",
+      "summary": "60,000 migrants crossed into Spanish territory of Ceuta, but many soon left voluntarily AP News Spain Rushes to Control Border After Tens of Thousands of Migrants Flood Into Exclave wsj.com Migrants in Ceuta cannot move to mainland Europe Euronews.com 57 dead after thousands breach border into Spain\u2019s tiny Ceuta: Maps USA Today Ceuta Evokes Europe\u2019s 2015 Migration Crisis. But Much Has Changed Since. The New York Times",
+      "published": "2026-07-31T16:04:00+00:00",
+      "outlets": [
+        "AP News",
+        "Euronews.com",
         "The New York Times",
-        "Yahoo Finance"
+        "USA Today",
+        "wsj.com"
       ],
       "feeds": [
         "google-top"
@@ -1052,16 +1017,16 @@
       "prompts": []
     },
     {
-      "title": "Death toll from southwestern Japan quake climbs to 34",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rYTllMHozb05TdktfX25Wcm5ab3pWekp6QUQ2cjB4Zy1DMnRZVEYwMy1US2NrT0JFcjVhb2kwLVNob2t4NzdpRUp2bU0xY2RwQzNic1p4aloxbG56YjFwQjJNX2g3b2tHRkd4Vzc1WXdlOU0?oc=5",
-      "summary": "Death toll from southwestern Japan quake climbs to 34 NPR How a preparedness culture saves lives in Japan\u2019s earthquakes NBC News Japan: Death toll rises to 35 after deadly earthquake DW.com Quake survivors in southwestern Japan sleep in cars in sweltering heat as death toll rises to 34 AP News Japan quake halts auto and chip plants, testing supply chain resilience Reuters",
-      "published": "2026-07-31T05:40:16+00:00",
+      "title": "Spain says migrants are returning from Ceuta after 57 killed in border rush",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ?oc=5",
+      "summary": "Spain says migrants are returning from Ceuta after 57 killed in border rush Reuters Spain Rushes to Control Border After Tens of Thousands of Migrants Flood Into Exclave wsj.com Migrants in Ceuta cannot move to mainland Europe Euronews.com 57 dead after thousands breach border into Spain\u2019s tiny Ceuta: Maps USA Today Ceuta Evokes Europe\u2019s 2015 Migration Crisis. But Much Has Changed Since. The New York Times",
+      "published": "2026-07-31T17:47:34+00:00",
       "outlets": [
-        "AP News",
-        "DW.com",
-        "NBC News",
-        "NPR",
-        "Reuters"
+        "Euronews.com",
+        "Reuters",
+        "The New York Times",
+        "USA Today",
+        "wsj.com"
       ],
       "feeds": [
         "google-world"
@@ -1077,16 +1042,72 @@
       "prompts": []
     },
     {
-      "title": "Heavy rain threat builds across Southwest Florida",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjV1bUYxTFdVOVNkX3JudmRrZzZVNUVCR3p4ZWhKOG1ySm56UllZeTJoZzV2RHVvaEZicDRUVWZJQkJKYmFBQUZlbEVLZFo3cUlPamlHUzd6dkZ5dGM0WURGVUhCeDVvQXd1VkJwWW1pOGdPbXVMdVplNFg5Ri16Z1JTYVFSYnZmOE1CcnZ3WjJUeWMzMVpFLXVTMy1tdjZmeFN5Z293YjNCekZfQ3FhMExRdDRKN0JQRDFTTjdIWVpWRDRXS3F6NFVXUEQ?oc=5",
-      "summary": "Heavy rain threat builds across Southwest Florida WINK News Heavy rain, localized flooding possible today in Central Florida WESH Orlando weather: Central Florida to see daily rounds of showers, storms through weekend FOX 35 Orlando Stormy pattern continues through the weekend. Here\u2019s what Central Florida can expect. WKMG Humidity to fuel Florida downpours through the weekend, raising flood concerns and travel threats FOX Weather",
-      "published": "2026-07-31T08:50:00+00:00",
+      "title": "Concerning Map Suggests The Worst May Be Yet to Come For Devastating European Fires",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkJoUVQ3QVFMYUY1M0pCQmhZU0o5UG1odFEyekJXdVdjc1QzRjBXLTZsR3dieVdlZXNOMHp6T3RkTlMzRF8yaGdEUklieks4b01HdDFTWno5aWZ0eTBCWHBycEpkRWJjWXlOQzNsQjBTT1pTZTRxRTMxc24xVS1fQVY3bGk0ZG95QllBbXp1LU9JLS1SNWZ1MHhoelNfVnhlR3VtVHJPWVBRN2F1X2pBNE9n?oc=5",
+      "summary": "Concerning Map Suggests The Worst May Be Yet to Come For Devastating European Fires ScienceAlert Our estimated death toll for this year\u2019s wildfires The Economist Wildfire emissions soar, exposing millions to worse air pollution Reuters Past fires suggest effects of Europe and North America wildfires may linger for years The Guardian Extreme wildfires in western Europe expose millions to dangerous air pollution levels Copernicus Atmosphere",
+      "published": "2026-07-31T08:03:41+00:00",
       "outlets": [
-        "FOX 35 Orlando",
-        "FOX Weather",
-        "WESH",
-        "WINK News",
-        "WKMG"
+        "Copernicus Atmosphere",
+        "Reuters",
+        "ScienceAlert",
+        "The Economist",
+        "The Guardian"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Autopsy results for Nolan Wells now complete, officials say",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTJ5dDhGYlJwdU9KQXFSZmxPb2NhOFVGMzdxSWUxSnVSYWFyNEZnZUczNXREWWhHUUNfbFpyMHU5QWNHN3czYldMNnJCb1Y1ZkZTR08yVHFBRjN0bTNkOFZLamZ1aFRYc1NSX2NkNXJFeHlNRHJlUGRubWJZWngtengyS1VMWGtIcC16WS14LWVPdUxuaDJwWXQweHrSAbABQVVfeXFMT2dXU2l2UzZBc2pabHRDVVBQeWYzdWE4aVRHMVI0eG1QZXY0RkxKWW1fd3BkOGQ0RVpEWHNJVnJHOVFLU3R6RVQ1b043TkhtbGdNRFBCbDI0Z1otRWliRE80M2ZOSnJFMXZ5dnl0aXdCbTVQc2xiLTV3UHJEdHJQSEk5MzBINElUZzlJZlc0ZTc2SlRyQUduSHZOUWxpS1dpMjY0aU1ybTdWX2dIWWQ4cHQ?oc=5",
+      "summary": "Autopsy results for Nolan Wells now complete, officials say wlbt.com Nolan Wells' state autopsy completed amid investigation into teen's death: Officials ABC News - Breaking News, Latest News and Videos Nolan Wells state autopsy results are done, officials say USA Today Attorney for Nolan Wells' family says experts will review a July 4 boat distress call PBS Nolan Wells Emergency Audio Could Be \u2018Huge,\u2019 Says Expert, Who Shares Tools for Understanding It (Exclusive) People.com",
+      "published": "2026-07-31T13:43:00+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "PBS",
+        "People.com",
+        "USA Today",
+        "wlbt.com"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "who"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Residents, campers forced to evacuate as Sonoma Coast wildfire closes Highway 1, blankets region in smoke",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1VZYkNqTWJoV0phQlNmVVRkcFp3WVpVWmNGMWk0bWhZanY4T3hGM0NWU3dVVU5SV0ZqNk1aQmxRTHJTTlVKUWJHVEJsVjNhSExKSlY3T0NWU3dfQnl3OHkzQXpBd2g0d1VnUEthbDBPa3hjNEZPRXJDUXE2VnphTnBfTTNKSkEySUJ3SFVJYzBpLTZfbUZ0eWg2RVF6Y0po?oc=5",
+      "summary": "Residents, campers forced to evacuate as Sonoma Coast wildfire closes Highway 1, blankets region in smoke The Press Democrat MAP: See air quality impacts across the Sacramento Valley from coastal Woodside Fire smoke KCRA Wildfire near Salt Point State Park in Sonoma County forces evacuations CBS News Brushfire Burns Along California Coast Yahoo Woodside Fire is 30% contained, but what does that actually mean? KRON4",
+      "published": "2026-07-31T11:33:30+00:00",
+      "outlets": [
+        "CBS News",
+        "KCRA",
+        "KRON4",
+        "The Press Democrat",
+        "Yahoo"
       ],
       "feeds": [
         "google-nation"
@@ -1102,53 +1123,16 @@
       "prompts": []
     },
     {
-      "title": "Husband of missing North Carolina woman in Grenada says he believes 'no foul play' involved - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZJN1JKN2UwVEFPcVBoblZ4bm5aSTJRN2diQmJMd2lGQ1JFeFlRbXJtaUZlbFBaSDZRVFh4WUpxTzJEbmZHR0hwdzJqekw5dTF4OFJEaXpqa0k3cTdhb1c2eEJOMHF4TlFCU2JIZEZNQzNjZGpXMTY5eEpzWnR5OEFHYndiSU1qN0d0U3A3SGpPSXpUNVNjQzAyQXYyQdIBowFBVV95cUxPcDBCakdITGZkR09LNGZlSjVWREIzWXRWZ05jbGNaanI2YVpVRFM1ajhfc3JIM0h3b3ptc1lXLUZTdDRkbWtfSTVqZlNzS2tVUEdISlpobS03dWhtcGpTbDVzZHJhd2NoZkRUazV0b1J1UlY0eXBOSFhoMlNKd0Y5ckRUd3BJNWNZOUtGVnh1bERDRWNrRWxkWWFUVWFyZTI0QXZz?oc=5",
-      "summary": "Husband of missing North Carolina woman in Grenada says he believes 'no foul play' involved ABC News - Breaking News, Latest News and Videos Husband of missing mom gives heart-wrenching update after she\u2019s seen jumping into Caribbean waters New York Post Family of missing Cary woman believes no foul play in disappearance WRAL Husband of Missing Mom Who Disappeared on Caribbean Vacation Reveals What He Thinks Happened to Her People.com Surveillance video shows missing American woman moments before she entered water during Caribbean vacation Fox News",
-      "published": "2026-07-31T12:18:22+00:00",
+      "title": "Heavy rain threat builds across Southwest Florida",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjV1bUYxTFdVOVNkX3JudmRrZzZVNUVCR3p4ZWhKOG1ySm56UllZeTJoZzV2RHVvaEZicDRUVWZJQkJKYmFBQUZlbEVLZFo3cUlPamlHUzd6dkZ5dGM0WURGVUhCeDVvQXd1VkJwWW1pOGdPbXVMdVplNFg5Ri16Z1JTYVFSYnZmOE1CcnZ3WjJUeWMzMVpFLXVTMy1tdjZmeFN5Z293YjNCekZfQ3FhMExRdDRKN0JQRDFTTjdIWVpWRDRXS3F6NFVXUEQ?oc=5",
+      "summary": "Heavy rain threat builds across Southwest Florida WINK News Heavy rain, localized flooding possible today in Central Florida WESH Stormy pattern continues through the weekend. Here\u2019s what Central Florida can expect. WKMG Orlando weather: Central Florida to see daily rounds of showers, storms through weekend FOX 35 Orlando Humidity to fuel Florida downpours through the weekend, raising flood concerns and travel threats FOX Weather",
+      "published": "2026-07-31T08:50:00+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "Fox News",
-        "New York Post",
-        "People.com",
-        "WRAL"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 58.8,
-      "angle": 23.9,
-      "rank": 14.1,
-      "signals": {
-        "institutional": [
-          "surveillance",
-          "who"
-        ],
-        "disappearance": [
-          "disappearance",
-          "disappeared"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a live missing-person case \u2014 a private individual, never speculate about one"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls.",
-        "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
-      "title": "Residents, campers forced to evacuate as Sonoma Coast wildfire closes Highway 1, blankets region in smoke",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1VZYkNqTWJoV0phQlNmVVRkcFp3WVpVWmNGMWk0bWhZanY4T3hGM0NWU3dVVU5SV0ZqNk1aQmxRTHJTTlVKUWJHVEJsVjNhSExKSlY3T0NWU3dfQnl3OHkzQXpBd2g0d1VnUEthbDBPa3hjNEZPRXJDUXE2VnphTnBfTTNKSkEySUJ3SFVJYzBpLTZfbUZ0eWg2RVF6Y0po?oc=5",
-      "summary": "Residents, campers forced to evacuate as Sonoma Coast wildfire closes Highway 1, blankets region in smoke The Press Democrat \u2018Woodside Fire\u2019 burns 140+ acres in Sonoma County KRON4 Hazardous air conditions across Sonoma County Yahoo Evacuation orders issued as Woodside Fire grows north of Timber Cove, closing stretch of Highway 1 Marin Independent Journal Smelling smoke? It's coming from a fire along the coast ABC10",
-      "published": "2026-07-31T11:33:30+00:00",
-      "outlets": [
-        "ABC10",
-        "KRON4",
-        "Marin Independent Journal",
-        "The Press Democrat",
-        "Yahoo"
+        "FOX 35 Orlando",
+        "FOX Weather",
+        "WESH",
+        "WINK News",
+        "WKMG"
       ],
       "feeds": [
         "google-nation"
