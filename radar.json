@@ -1,26 +1,26 @@
 {
-  "generated": "2026-08-01T00:17:15+00:00",
+  "generated": "2026-08-01T03:17:15+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
-    "reddit-news": "HTTP 429 rate limited"
+    "reddit-worldnews": "HTTP 429 rate limited"
   },
-  "raw_items": 1700,
-  "stale_dropped": 1054,
-  "clusters": 537,
-  "off_topic": 30,
+  "raw_items": 1686,
+  "stale_dropped": 1053,
+  "clusters": 521,
+  "off_topic": 29,
   "stories": [
     {
       "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONllNRnZiRzJDemFPSmF5Qmp5STJrNlF2Zmh0RDhDRkt5dFhtUW9JdVZlclRtcFZZUy1KRHIwWVUxNTJUMHBPSXRMOGZJakNVYjV4UkM0U0lodkFhWUpzdGItUWNrTGxYREpua3N0N2FOaWdaam1TMkxKdmU4Ql84T3NZMFdWVTJON2hkNW55MWMwUVFUZjNtLUhEYnZsZ184b3pBT1RfUzRQMmVJZkJzNw?oc=5",
-      "summary": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA Ars Technica New technique pinpoints human DNA inherited from 'ghost' ancestors Phys.org Humans carry DNA from mysterious ancestors The Telegraph The genome of a long-extinct ancient human is hiding within us New Scientist Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans Live Science",
+      "summary": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA Ars Technica New technique pinpoints human DNA inherited from 'ghost' ancestors Phys.org Humans carry DNA from mysterious ancestors The Telegraph The genome of a long-extinct ancient human is hiding within us New Scientist Everyone alive may carry DNA from a \u2018ghost lineage\u2019 of human ancestors Yahoo",
       "published": "2026-07-31T22:17:05+00:00",
       "outlets": [
         "Ars Technica",
-        "Live Science",
         "New Scientist",
         "Phys.org",
-        "The Telegraph"
+        "The Telegraph",
+        "Yahoo"
       ],
       "feeds": [
         "google-science"
@@ -46,12 +46,12 @@
     {
       "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDhycGVRdWJsWGJHd25aOEFQZ21pbVM0aWR2MmZJRU10cG0zTFV3WDFsZzBMNWZSMXgwX3MwNURNWlRyelVGQ1gxNzA5cGFQTWlfbDZiM2xoMThqVmdGUW1kTkM5YThWTkFNZHFqd1ZOdmhTVHlvVFRqTlBaR2JubjZMQ0IwZ2xFTFZN?oc=5",
-      "summary": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon The New York Times News - Hundreds of Geoglyphs Discovered in Amazon Rainforest Archaeology Magazine Over 20,000 precolonial earthworks in the Southwest Amazonia Nature An ancient civilization of millions once flourished in the Amazon Phys.org Mysterious Shapes Hidden Beneath the Amazon Canopy Reveal a Sprawling Ancient Civilization Much Bigger Than Researchers Expected Smithsonian Magazine",
-      "published": "2026-07-31T10:44:34+00:00",
+      "summary": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon The New York Times Hundreds of ancient, never-before-seen \u2018earthworks\u2019 discovered in the Amazon Scientific American Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago Live Science An ancient civilization of millions once flourished in the Amazon Phys.org Mysterious Shapes Hidden Beneath the Amazon Canopy Reveal a Sprawling Ancient Civilization Much Bigger Than Researchers Expected Smithsonian Magazine",
+      "published": "2026-07-31T12:38:45+00:00",
       "outlets": [
-        "Archaeology Magazine",
-        "Nature",
+        "Live Science",
         "Phys.org",
+        "Scientific American",
         "Smithsonian Magazine",
         "The New York Times"
       ],
@@ -79,47 +79,16 @@
       ]
     },
     {
-      "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
-      "summary": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled NPR Pennsylvania asks Trump admin how it identified potential noncitizens registered to vote Spotlight PA Pa. pushes back after DHS claims 14,576 non-citizens may be registered to vote WGAL Pennsylvania calls for DHS to substantiate sweeping noncitizen voter roll claims Democracy Docket States push DHS to explain its noncitizen voter claims NBC News",
-      "published": "2026-07-31T09:00:00+00:00",
-      "outlets": [
-        "Democracy Docket",
-        "NBC News",
-        "NPR",
-        "Spotlight PA",
-        "WGAL"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 54.8,
-      "angle": 34.0,
-      "rank": 18.6,
-      "signals": {
-        "unexplained": [
-          "baffled"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "touches elections or voting \u2014 the one topic with a hard false-claims rule"
-      ],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "A 10-million-year biogeographic holding pen primed the Great American Biotic Interchange",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fYXc5WmVleVdsV2hkdElQUjhxS196MFdJSlVLREJNM0FDaTNvcF9pa3Bxd1drUU9QUHlzRHRxUEtKS2FFa3Zsa0VXWW51WnZILXBNUk93X3ROb01Obm1wOA?oc=5",
-      "summary": "A 10-million-year biogeographic holding pen primed the Great American Biotic Interchange Science | AAAS Before North and South America were connected, their mammals found a way to intermingle Phys.org Mammals moving between the Americas stopped over in Mexico Science News FSU geologists discover North, South American mammals mingled before continental connection EurekAlert! Mexico may explain a migration mystery Courthouse News",
-      "published": "2026-07-30T18:20:12+00:00",
+      "title": "Before North and South America were connected, their mammals found a way to intermingle",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xeUNlRk1UWmloX1Q3TzRHbXRMNGcteHFoOHlfcjY5b3ZjRF9kSXpBaEY1eGFDOFdRNE84ZGF3NFJlZnZMT3VFTU55X2Nob29VUm1zTndZXzUxSUQzUV9ETkJnMDFob3NrOUFjMldyX0hWZ0c4Qzc4Y3B6bXVYMjg?oc=5",
+      "summary": "Before North and South America were connected, their mammals found a way to intermingle Phys.org Mammals moving between the Americas stopped over in Mexico Science News FSU geologists discover North, South American mammals mingled before continental connection EurekAlert! Mexico may explain a migration mystery Courthouse News Mammals crossed between the Americas before the land bridge Tech Explorist",
+      "published": "2026-07-30T18:00:01+00:00",
       "outlets": [
         "Courthouse News",
         "EurekAlert!",
         "Phys.org",
         "Science News",
-        "Science | AAAS"
+        "Tech Explorist"
       ],
       "feeds": [
         "google-science"
@@ -139,49 +108,16 @@
       ]
     },
     {
-      "title": "Groundbreaking discovery could remake California's avocado breeding",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUGh1ZG1CNTg0VEoxVDhyZkx4VDk5SGgtTUtyYWhyNXJYYTJHVEZIYm1KWXEwenlwcUFJa2xVb0hJRDc5VWtnekU2Vy1BT2RRMVMwUVdsMWhIUFU5SXF6MldGYzlsS3dXNkstU1AwWlM4c1I3UVdRZ2FmWWNHRVk?oc=5",
-      "summary": "Groundbreaking discovery could remake California's avocado breeding SFGATE Study Reveals How Avocados Reverse Sexes Throughout the Day University of California Davis | UC Davis The avocado's sex life has run on the same schedule for 42 million years Boing Boing Jeffrey Groh in greenhouse (IMAGE) EurekAlert! Avocado Trees Start The Day As One Sex And Switch To The Other In The Afternoon. We\u2019ve Only Just Learned How IFLScience",
-      "published": "2026-07-31T14:09:45+00:00",
-      "outlets": [
-        "Boing Boing",
-        "EurekAlert!",
-        "IFLScience",
-        "SFGATE",
-        "University of California Davis | UC Davis"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 58.8,
-      "angle": 28.8,
-      "rank": 16.9,
-      "signals": {
-        "reversal": [
-          "reverse"
-        ],
-        "frontier": [
-          "discovery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The story changed. Put the first version and the current one side by side.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Lenovo's First Googlebooks Have Leaked",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RWFdKRDkxMGI3RHEwLVg4d0xuMVBMcDBKRGw2VXM4a1E5aTFUNVhEcWFQYXNBNjk1TUJHWGVMUHV2SWgwUl9oSVJlbm1BWmFUR3RHMUdCNjBVb0R2R2t0eEYyaXIzSUlMUDJIWk5sbXZPYUpoUFVzWXlB?oc=5",
-      "summary": "Lenovo's First Googlebooks Have Leaked Engadget Exclusive: Lenovo is making a Googlebook 2-in-1 Tablet Android Headlines Lenovo\u2019s Googlebook lineup could include two laptops, a 2-in-1 tablet, and an AI mouse digitaltrends.com First Googlebooks from Lenovo leak: Two sizes and 2-in-1 tablet 9to5Google Beyond the Lenovo AI Mouse, what will the Googlebook accessory ecosystem look like? Chrome Unboxed",
-      "published": "2026-07-31T22:09:27+00:00",
+      "title": "Google might launch a \u2018Pixel Tag\u2019",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnOUNZeUsxMjlKWGhqbnhvTlhIV01sM0ZLNTJkeEdxWDZQMFFZTGxQLU8zY3pmLU1sTndtZHNZdmJsNjVpZzZCYWhYaUVTU204QUJrSE1WYldSQ1pIWC00NTVCLUpVb3dhX3U3OGVOOXRUVS1u?oc=5",
+      "summary": "Google might launch a \u2018Pixel Tag\u2019 The Verge This is the \u2018Google Pixel Tag\u2019 9to5Google Google's Take on Apple's AirTag May Have Just Leaked Lifehacker Google is about to launch its version of the Apple AirTag How-To Geek Pixel Tag shows us Google's potential answer to years of Android smart tag frustrations Android Police",
+      "published": "2026-07-31T18:27:24+00:00",
       "outlets": [
         "9to5Google",
-        "Android Headlines",
-        "Chrome Unboxed",
-        "Engadget",
-        "digitaltrends.com"
+        "Android Police",
+        "How-To Geek",
+        "Lifehacker",
+        "The Verge"
       ],
       "feeds": [
         "google-technology"
@@ -201,25 +137,86 @@
       ]
     },
     {
+      "title": "Lenovo's First Googlebooks Have Leaked",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RWFdKRDkxMGI3RHEwLVg4d0xuMVBMcDBKRGw2VXM4a1E5aTFUNVhEcWFQYXNBNjk1TUJHWGVMUHV2SWgwUl9oSVJlbm1BWmFUR3RHMUdCNjBVb0R2R2t0eEYyaXIzSUlMUDJIWk5sbXZPYUpoUFVzWXlB?oc=5",
+      "summary": "Lenovo's First Googlebooks Have Leaked Engadget Exclusive: Lenovo is making a Googlebook 2-in-1 Tablet Android Headlines Lenovo\u2019s Googlebook lineup could include two laptops, a 2-in-1 tablet, and an AI mouse Digital Trends Here's your first look at Lenovo's upcoming Googlebook devices Android Central Our first real look at Lenovo's Googlebook just leaked and it comes with a surprise PhoneArena",
+      "published": "2026-07-31T22:09:27+00:00",
+      "outlets": [
+        "Android Central",
+        "Android Headlines",
+        "Digital Trends",
+        "Engadget",
+        "PhoneArena"
+      ],
+      "feeds": [
+        "google-technology"
+      ],
+      "reach": 58.8,
+      "angle": 28.0,
+      "rank": 16.5,
+      "signals": {
+        "secrecy": [
+          "leaked"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Groundbreaking discovery could remake California's avocado breeding",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUGh1ZG1CNTg0VEoxVDhyZkx4VDk5SGgtTUtyYWhyNXJYYTJHVEZIYm1KWXEwenlwcUFJa2xVb0hJRDc5VWtnekU2Vy1BT2RRMVMwUVdsMWhIUFU5SXF6MldGYzlsS3dXNkstU1AwWlM4c1I3UVdRZ2FmWWNHRVk?oc=5",
+      "summary": "Groundbreaking discovery could remake California's avocado breeding SFGATE California scientists find avocado gene that reveals flower type years before trees bloom Yahoo Study Reveals How Avocados Reverse Sexes Throughout the Day UC Davis The avocado's sex life has run on the same schedule for 42 million years Boing Boing Jeffrey Groh in greenhouse (IMAGE) EurekAlert!",
+      "published": "2026-07-31T14:09:45+00:00",
+      "outlets": [
+        "Boing Boing",
+        "EurekAlert!",
+        "SFGATE",
+        "UC Davis",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 54.8,
+      "angle": 28.8,
+      "rank": 15.8,
+      "signals": {
+        "reversal": [
+          "reverse"
+        ],
+        "frontier": [
+          "discovery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The story changed. Put the first version and the current one side by side.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
       "title": "Trump backtracks from promise to let Ukraine build Patriot missiles",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGRYc19FcExSWXhmcVRwbHFWMDlXbS1TbTM1TGt5NjF3cXNmdHZMVEpSeDJ4MnFtQ3R4QXJYSGhubUVoYlQ0V0hNYThZTFM1N2RUS3E2ZDhWamZuLUJCQ0g4Q2xKbXZvdk9iZVlnX1N3dlk5Y1JzMkNSREVzLTI2UUZKUnhvQ2s?oc=5",
-      "summary": "Trump backtracks from promise to let Ukraine build Patriot missiles The Guardian Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles The New York Times Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses CNBC Opinion | The fastest way to help Ukraine stop Russia\u2019s missile threat The Washington Post Trump now 'not sure' about letting Ukraine build Patriot missiles bbc.com",
+      "summary": "Trump backtracks from promise to let Ukraine build Patriot missiles The Guardian Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles The New York Times Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses CNBC Opinion | The fastest way to help Ukraine stop Russia\u2019s missile threat The Washington Post Trump now 'not sure' about letting Ukraine build Patriot missiles BBC",
       "published": "2026-07-31T22:33:00+00:00",
       "outlets": [
+        "BBC",
         "CNBC",
         "The Guardian",
         "The New York Times",
-        "The Washington Post",
-        "bbc.com",
-        "reddit-worldnews"
+        "The Washington Post"
       ],
       "feeds": [
         "google-nation",
-        "reddit-worldnews"
+        "google-top"
       ],
-      "reach": 71.7,
+      "reach": 64.8,
       "angle": 22.0,
-      "rank": 15.8,
+      "rank": 14.3,
       "signals": {
         "reversal": [
           "backtrack"
@@ -265,33 +262,6 @@
       ]
     },
     {
-      "title": "The Universe Was Sculpted in Invisible Matter",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVk95ZlJiQnJwdkV1UTJ5UTNleUlRNzVYcFNIcjVYRHRydFlLdG93VmFuaEcyUl9udWZvZ2lzM2ZwR1dMX0hiU2FvQVNBN3MzenVqc2FNMFNzc0VlYUVuQVUxZ2xZRDF4VzlpbGZTYU1nTVNpS1Z4Z2pVblNiNTZqRGxiOHRwOG9GS1prdnAwWQ?oc=5",
-      "summary": "The Universe Was Sculpted in Invisible Matter Avi Loeb \u2013 Medium New dark matter map offers fresh look at one of the universe\u2019s biggest mysteries CTV News This cosmologist studies the invisible parts of the universe TAPinto",
-      "published": "2026-07-30T10:19:23+00:00",
-      "outlets": [
-        "Avi Loeb \u2013 Medium",
-        "CTV News",
-        "TAPinto"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 35.9,
-      "angle": 34.0,
-      "rank": 12.2,
-      "signals": {
-        "unexplained": [
-          "mysteries"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHlQZ05WMUVORWNJYkduM0ZueEwxU28zb2xFQmUwb1BYWmtQdnBTNHRrdTRJSGVzVjVLbE5nQnEyaUJKakxQWExBbHBEOGtzeldieV9kNk81TzBvN0VsZ0IwbExocDlMWG5JVmtqUU1RcWx4LXlYM1haeTg2WjR5VkRFeFpsVEd6aWxLSHNMRlJwUDlQeThTVndkaW5EZw?oc=5",
       "summary": "Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours SciTechDaily Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model Nature Researchers reverse autism-like symptoms in mice with one rapamycin dose NewsNation Did scientists \u2018reverse\u2019 autism? Plus a measles milestone, e-bike injuries and gum health Straight Arrow Scientists reverse autism-like traits in hours with one drug dose The Mirror",
@@ -324,7 +294,7 @@
     {
       "title": "10-year-old drowns saving sister, another girl still unaccounted for",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd01WcWVmaTZMY3dKaEVaZk02OGlTZnJUdjNmUW1YVzRXM1BqQUM5NzhyLUY4T3dIVFFWSzNOaFpXc1c1bVk3N2hqVDh2SW5haDVud1E1UmN4bnVTM2VnTktQdkNhNktUT3oxalpuUk83ZlJLeU5YOUFmclNTN3VTRzVqWVRYWTJOWXh2dE13UTNsRU0wbnJGamJPVkbSAbABQVVfeXFMUG9tUm1wYnZCUkQ5V2NYSU5yR3c1MnNkUkZGUHFXUEFtcm9RN2FFUS1GdTdpMHJLdjFRd1dlNmttUi1JZzFKWnZ0Y0YyUXdIWG1NZ19UU05YcXZCaHpySmdvTFdxcEQ5ZE5PWWd1VlN3YUdlN1d6aEdJMGZoR1BHRkJlN3JETVl6TnFrakZaM3ZicmZoV3FoYWhmR3kxd0dWRHpvdGtjN2lpcWZ2SUpidy0?oc=5",
-      "summary": "10-year-old drowns saving sister, another girl still unaccounted for KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "summary": "10-year-old drowns saving sister, another girl still unaccounted for WPTA | 21Alive | Fort Wayne, IN",
       "published": "2026-07-30T20:01:00+00:00",
       "outlets": [
         "AZ Family",
@@ -338,7 +308,6 @@
         "KFYR-TV",
         "KMVT",
         "KNOE",
-        "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
         "KOLO | 8 News Now",
         "KOTA Territory News",
         "KTIV",
@@ -355,7 +324,6 @@
         "Upper Michigan's Source",
         "Valley News Live",
         "WAFF",
-        "WALB",
         "WBKO",
         "WCAX",
         "WDBJ7",
@@ -432,63 +400,6 @@
       ]
     },
     {
-      "title": "Illinois launches dedicated whistleblower reporting page for financial industry",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3ZJVHJ4eGI0UkxpSlE2MkcyRDBOdWhndUNpaExYc2tsanIyTkgyeDM2RFVpYVVPaGFyTDNMRDZ3c2JrcGdtQ3RzaEN1eEo5VDlTR3hMa0l3aVgxSGptZU56OGJEckRpUnI2RHdENzJmRXB4Yzh5c1l0eXJLbFF2UjJnYTJrN3dHSG4tUktZazNJTnYyTEVMNlR1R1VKN2hiLVoyRGxjS0xrNENv?oc=5",
-      "summary": "Illinois Launches Whistleblower Complaint Page For Financial Industry Misconduct Reports RiverBender.com",
-      "published": "2026-07-31T13:12:48+00:00",
-      "outlets": [
-        "RiverBender.com",
-        "whig.com"
-      ],
-      "feeds": [
-        "angle:whistleblower"
-      ],
-      "reach": 35.5,
-      "angle": 28.0,
-      "rank": 9.9,
-      "signals": {
-        "secrecy": [
-          "whistleblower"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Resident and dog unaccounted for in West Linn house fire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQnQwQVRndHdmd3dhaUFEcC03ZHYySi0xb05PTVFEVGhTZUZKYzFRbF92c1l1UE5WcmIyUWRjWFZ3aWFuZTdWZlYxeVRDR3RRakZNc3p2UnJDcDB6X1N2Zm5xQ0p1VEZ2TmdfUnprakhDXzg2VWE3Q19WVHZfXzFFbDR4Si1GOEZMcXMwVDk0cFdQXzQwRFBj?oc=5",
-      "summary": "Person who re-entered large West Linn house fire to rescue dog still \u2018unaccounted for\u2019 KOIN.com",
-      "published": "2026-07-31T06:16:11+00:00",
-      "outlets": [
-        "KATU",
-        "KOIN.com",
-        "KPTV"
-      ],
-      "feeds": [
-        "angle:unaccounted for"
-      ],
-      "reach": 39.9,
-      "angle": 23.9,
-      "rank": 9.5,
-      "signals": {
-        "institutional": [
-          "who"
-        ],
-        "disappearance": [
-          "unaccounted for"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls.",
-        "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
       "title": "A rocky exoplanet may be a formidable candidate for extraterrestrial life",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoajROQ3VYVFZja1dQX2QxMTdOclNENVp5STRnOEFZcHk5N3RYTzE3czFsMGJHRVNTdTBMYmxTdkJFbmY4RkZLb1ZGQUVCTmNTV1ItcDZyWk1tekt0ZWRRMVBRYm12aUdjajVhRGFjTDdwa0pRT0VhMGJwUUFub00?oc=5",
       "summary": "A rocky exoplanet may be a formidable candidate for extraterrestrial life CNN Astronomers just found the first atmosphere on a rocky exoplanet in the habitable zone Astronomy Magazine Scientists stunned: rocky planet\u2019s atmosphere breakthrough could change everything for life Futura, le m\u00e9dia qui explore le monde Could this distant rocky exoplanet support life? Astronomers say yes USA Today Scientists observe atmospheric signs on super-Earth LHS 1140b \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
@@ -509,35 +420,6 @@
       "signals": {
         "frontier": [
           "extraterrestrial"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmhnOHIzcV9DWXotQ0tOX3dYcWtLZU5vRWltRkM2N2tLRDljdTN2RmFGTXlBbUtObktmMXQyZVBjUzZrWVpTbVFBeXAtY3lTYnp0UGU1dWNnbXpzZWtnWnZNUU40TlhfWENvSk5sUDlNX1B0U05HU0lTZS14a2JyMUFCdzdmR2F3enBFMllyNWdVV1hPdGJmSndPNzYwMTlNbC1JSHBUcUYxeVUtYnJPdXlCSnI?oc=5",
-      "summary": "The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org Scientists drilled 1,640 feet beneath Michigan and found 689 kinds of fungi living in water that last touched the surface 11,000 years ago The Times of India Predators, prey and parasites discovered 1,640ft below North America's Great Lakes BBC Wildlife Magazine",
-      "published": "2026-07-31T13:15:58+00:00",
-      "outlets": [
-        "BBC Wildlife Magazine",
-        "Gizmodo",
-        "Phys.org",
-        "Popular Science",
-        "The Times of India"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 58.8,
-      "angle": 16.0,
-      "rank": 9.4,
-      "signals": {
-        "frontier": [
-          "discovered"
         ]
       },
       "verdict": "clear",
@@ -578,11 +460,11 @@
     {
       "title": "Receding Danube reveals potential centuries-old catapult stone",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHRNbzFRMUU4RTNQc3ZMX2NKTmZRcXQ5RGV0U2cya3hFaEpRcHlpVmdqNmJ1WDVMaEkyN3NscE15c3N5c2NKMUV6SHJpSVZWZnJWMXlySkx5X0NlLTVlQkhZQ0tQOGdnOUFuc1R4eWZBb1k1ZGJPbTlnTG5BMHc2Q2JVM0h1d1c3amd0MUVkc0VfMUR3aE55UkJrM0RIcS1NYmNEenRqZ3VRbzJqOWVXaHhycno?oc=5",
-      "summary": "Receding Danube reveals potential centuries-old catapult stone Euronews Sunken Nazi warships resurface as water levels drop Reuters Ancient mammoth remains and a Nazi shipwreck: Europe\u2019s shrinking rivers reveal past relics CNN Nazi boat uncovered in Danube drought The Telegraph Nazi-era warships emerge as heatwave reduces water level in Europe's Danube India Today",
+      "summary": "Receding Danube reveals potential centuries-old catapult stone Euronews.com Sunken Nazi warships resurface as water levels drop Reuters Ancient mammoth remains and a Nazi shipwreck: Europe\u2019s shrinking rivers reveal past relics CNN Nazi boat uncovered in Danube drought The Telegraph Nazi-era warships emerge as heatwave reduces water level in Europe's Danube India Today",
       "published": "2026-07-31T09:31:31+00:00",
       "outlets": [
         "CNN",
-        "Euronews",
+        "Euronews.com",
         "India Today",
         "Reuters",
         "The Telegraph"
@@ -608,11 +490,11 @@
     {
       "title": "40,000-year-old bird figurines the size of a thumbnail discovered in German cave",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVBHTldsNHhzT1RDUDZ6TFJiaTlIaDFMX24tRFFMVHBnNm5ZMFlWZFFyQll0MEpheHdnVmxEVU9EbnlyQ3JVbVRJakh2VTJJWkJtV3dKY0tTTlNsX20yQm5RekRzeUlXWVNicmZmMlhfekk5eEVRRmpsLUVzTkV1UmNaX0E3eUUyb3pGbEVlRlZmM2gyT0hmcENJcGxiMlhZclZHU19FM3F6VUlQcjVWdjFtVUtfSENaUGMzcQ?oc=5",
-      "summary": "40,000-year-old bird figurines the size of a thumbnail discovered in German cave Live Science Ice Age artists carved thumbnail-size bird figurines from mammoth ivory 40,000 years ago Phys.org These Tiny 40,000-Year-Old Bird Carvings Reveal Astonishing Ice Age Artistry ZME Science Miniature, 40,000-year old ivory birds discovered in German cave Yahoo Archaeologists Discover Two Thumbnail-Size Bird Sculptures Carved From Mammoth Ivory 40,000 Years Ago Smithsonian Magazine",
+      "summary": "40,000-year-old bird figurines the size of a thumbnail discovered in German cave Live Science Archaeologists Discover Two Thumbnail-Size Bird Sculptures Carved From Mammoth Ivory 40,000 Years Ago Smithsonian Magazine These Tiny 40,000-Year-Old Bird Carvings Reveal Astonishing Ice Age Artistry ZME Science Thumbnail-sized Ice Age figurines discovered in Hohle Fels Cave HeritageDaily Miniature, 40,000-year old ivory birds discovered in German cave Yahoo",
       "published": "2026-07-30T17:43:39+00:00",
       "outlets": [
+        "HeritageDaily",
         "Live Science",
-        "Phys.org",
         "Smithsonian Magazine",
         "Yahoo",
         "ZME Science"
@@ -636,12 +518,41 @@
       ]
     },
     {
-      "title": "Hawaii Quarterback's Mysterious Unexplained Exit Creates Depth Chart Chaos Right Before Training Camp",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0psQm14Z3B2d2ZNTHI4NlBTcmdVYTVWRVd2aWVvNC00YUp1WlVZUUZleWJyUk51QkRXNy1CWDZUMmJyd1E4MUFka3hmYzVWVXktZGtBX1ZuNjZJX3ZuVGtTTWhpSGs0Z204VmJrcEJnVVdkR2NpcTl1M296dllIRDBWWHB2anQtLVJDY2lKZVJKaU5uWGZ3WmtMNEYyVDdtR0V5b2l1cGxxMEE4cGJXcg?oc=5",
-      "summary": "Hawaii Quarterback's Mysterious Unexplained Exit Creates Depth Chart Chaos Right Before Training Camp brobible.com",
-      "published": "2026-07-31T14:22:21+00:00",
+      "title": "The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmhnOHIzcV9DWXotQ0tOX3dYcWtLZU5vRWltRkM2N2tLRDljdTN2RmFGTXlBbUtObktmMXQyZVBjUzZrWVpTbVFBeXAtY3lTYnp0UGU1dWNnbXpzZWtnWnZNUU40TlhfWENvSk5sUDlNX1B0U05HU0lTZS14a2JyMUFCdzdmR2F3enBFMllyNWdVV1hPdGJmSndPNzYwMTlNbC1JSHBUcUYxeVUtYnJPdXlCSnI?oc=5",
+      "summary": "The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org Scientists drilled 1,640 feet beneath Michigan and found 689 kinds of fungi living in water that last touched the surface 11,000 years ago The Times of India Predators, prey and parasites discovered 1,640ft below North America's Great Lakes BBC Wildlife Magazine",
+      "published": "2026-07-31T13:15:58+00:00",
       "outlets": [
-        "brobible.com"
+        "BBC Wildlife Magazine",
+        "Gizmodo",
+        "Phys.org",
+        "Popular Science",
+        "The Times of India"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Unexplained lump or bone pain? Know the signs of sarcoma",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeERmTHJUV0Y3SmF1TVVEOXV3TkVuY29QV3pZUnh4VHE2dDkwTUJhdngyYzBZaHpFZmxTTzdVVVFlQlBKR0hEdThPdXMtTUZsM0VIOU53bTVjU2hocjZ2M0gzM1FGcWZIUHRnU1dsM2ZOZlE2MWNkZDVkcktLdl94cmNsUU5tS2FNaG0wa0tFclg4emEyNWFickdsTWFCdWVrZ1BxY2I1SV9xUUIwRmg1WW5jRlM2Nmc?oc=5",
+      "summary": "Unexplained lump or bone pain? Know the signs of sarcoma Northside Hospital",
+      "published": "2026-08-01T00:08:07+00:00",
+      "outlets": [
+        "Northside Hospital"
       ],
       "feeds": [
         "angle:unexplained"
@@ -651,7 +562,6 @@
       "rank": 8.8,
       "signals": {
         "unexplained": [
-          "mysterious",
           "unexplained"
         ]
       },
@@ -687,13 +597,13 @@
       ]
     },
     {
-      "title": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNm9sc21DMUItM1ljOXNWZUptWGFScU1rUWNxYjg5MnNFMk45Y3dURW5GcmxFZndTZ0RrY3U5ODRDWldmSkhtMWtwRDhKblhyRFJucXI0YkxfUzYwdHIzSzM1N3J3eDF6MkJMblRrN2pTU3dGUEQ4Ri1nQjA0bzJmZnFEYk5XdVVSTGxSZjFPMVVwbHp6N0xMQlNLVXh3REFUVFl5UC1aVHNrTkM1bHJLVjlVSDdRSWhR0gHMAUFVX3lxTE84bHZnMHUzXzdBQVByLW5FSnA2ZkU0TEh5VkdCeXktVnRHVVVMT2hPYnFMMTJHSDNRdHhPbE1jUWk3eDM5RlJBczBYZTJoRW1Yc0ZJQnktY1Bmdi1PT2E3UVdoc1dIaFk3RmZTY0RGb2IwdmFJWWRJRE5tazR5bEtaTkR0SEhQRTlSZEJyMUNQUEozcHJkanNfbDJRQ2xFcVBvTlZoNjVyUnNQSU9XVWk5NV9YbERhb3B1VGNDOWk1NFFpUXhLdzdubWNhRg?oc=5",
-      "summary": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips KOTA Territory News",
-      "published": "2026-07-30T13:30:00+00:00",
+      "title": "Illinois launches dedicated whistleblower reporting page for financial industry",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3ZJVHJ4eGI0UkxpSlE2MkcyRDBOdWhndUNpaExYc2tsanIyTkgyeDM2RFVpYVVPaGFyTDNMRDZ3c2JrcGdtQ3RzaEN1eEo5VDlTR3hMa0l3aVgxSGptZU56OGJEckRpUnI2RHdENzJmRXB4Yzh5c1l0eXJLbFF2UjJnYTJrN3dHSG4tUktZazNJTnYyTEVMNlR1R1VKN2hiLVoyRGxjS0xrNENv?oc=5",
+      "summary": "Illinois Launches Whistleblower Complaint Page For Financial Industry Misconduct Reports RiverBender.com",
+      "published": "2026-07-31T13:12:48+00:00",
       "outlets": [
-        "CPA Practice Advisor",
-        "KOTA Territory News"
+        "RiverBender.com",
+        "whig.com"
       ],
       "feeds": [
         "angle:whistleblower"
@@ -771,6 +681,32 @@
       ]
     },
     {
+      "title": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNm9sc21DMUItM1ljOXNWZUptWGFScU1rUWNxYjg5MnNFMk45Y3dURW5GcmxFZndTZ0RrY3U5ODRDWldmSkhtMWtwRDhKblhyRFJucXI0YkxfUzYwdHIzSzM1N3J3eDF6MkJMblRrN2pTU3dGUEQ4Ri1nQjA0bzJmZnFEYk5XdVVSTGxSZjFPMVVwbHp6N0xMQlNLVXh3REFUVFl5UC1aVHNrTkM1bHJLVjlVSDdRSWhR0gHMAUFVX3lxTE84bHZnMHUzXzdBQVByLW5FSnA2ZkU0TEh5VkdCeXktVnRHVVVMT2hPYnFMMTJHSDNRdHhPbE1jUWk3eDM5RlJBczBYZTJoRW1Yc0ZJQnktY1Bmdi1PT2E3UVdoc1dIaFk3RmZTY0RGb2IwdmFJWWRJRE5tazR5bEtaTkR0SEhQRTlSZEJyMUNQUEozcHJkanNfbDJRQ2xFcVBvTlZoNjVyUnNQSU9XVWk5NV9YbERhb3B1VGNDOWk1NFFpUXhLdzdubWNhRg?oc=5",
+      "summary": "IRS marks National Whistleblower Day, touts $8B recovered through whistleblower tips KOTA Territory News",
+      "published": "2026-07-30T13:30:00+00:00",
+      "outlets": [
+        "CPA Practice Advisor",
+        "KOTA Territory News"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 27.5,
+      "angle": 28.0,
+      "rank": 7.7,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
       "title": "224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtaGJRNl9MWmIzWlVRVnRGNk5vdGpha1c1VnZBc2NGMUVOMEE1YUhMejBsc01VVjRyb3czVWtVanh0UFR1SkFSNzE0TEp2UTcxdmlNVWpFVkNtVk0yZG52Wm9zYnM0allJLXJJRUdVbXhDZEszMWl4UUZJUQ?oc=5",
       "summary": "224,000-Year-Old Homo Skull Fragment Adds New Mystery to Human Origins Sci.News",
@@ -794,28 +730,76 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
+    },
+    {
+      "title": "Chronic hives can be effectively controlled even when the cause remains unknown: expert",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wVWV5MUVMTERDWWVHRWwwYTJheUFmMDNsOVRpeE9yTUlTU3NSUmUzdXB6MkdIR3dWU2R3MGlZNWdFbjlrWnpBX0c3WVhiMnVSVVBRV2JyR0s3ZHljZjRYRzNCc0g3eVUtM3FBXzR30gFyQVVfeXFMTTNaWDFNS00yMXBQaERHZVBRdDFzNTc1c0VuVG02RkdiNW81eTNSdG5DLUdiYnNJUm1vOU0wc3E2QXVpZXBJZ2NBU21OOWRwT0VOYzktOGhROHZRcjNnTlJkZmlzbzdSd1FwMVlCeTRmakpR?oc=5",
+      "summary": "Chronic hives can be effectively controlled even when the cause remains unknown: expert koreabiomed.com",
+      "published": "2026-07-31T06:07:11+00:00",
+      "outlets": [
+        "koreabiomed.com"
+      ],
+      "feeds": [
+        "angle:cause remains unknown"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "cause remains unknown"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Secret oceans could be hiding in our solar system and scientists are baffled",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HV21JLWZHdzhxaDFWc1lfei13NWhrTXVrU0R3bFBndmtZVXZISzZSRlBHLThXaFY2di1zYjRjQ2RaWmJzQVNUTTYxYW5RN1UxNk9nb2xSb1Q2YXFFUk16R29yNEpScVdZQl8tc00wM3Q2czJoNklYTkYxeTRzX1E?oc=5",
+      "summary": "Secret oceans could be hiding in our solar system and scientists are baffled Indy100",
+      "published": "2026-07-31T08:15:12+00:00",
+      "outlets": [
+        "Indy100"
+      ],
+      "feeds": [
+        "angle:scientists are baffled"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "baffled"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
     }
   ],
   "blocked": [
     {
-      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlZrblhRajBMcWNtSEd2ZmhsUmN0ZmFpTVFoZWlsS2Q4c0VQbWhlUV92YU1vdTNoVEMyd0t4bjJWaERIQ2VKeWdYUnVxQ2JlUTQ1dkRLY3Z2ZlpOM0hHMkVfdXd5alpUMWk5R1ZGUjN3V240dXQzTnk2Yjk0b1QwYVBjSQ?oc=5",
-      "summary": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say CBS News Trump considering strikes on Iranian energy targets within days Axios Report: US and Israel weighing attacks on Iran infrastructure NewsNation US and Israel said planning joint strikes on energy sites in Iran, bombing could continue throughout weekend The Times of Israel Live updates \u2022 Report: U.S., Israel plan Iran energy strikes as soon as weekend Haaretz",
-      "published": "2026-07-31T23:38:13+00:00",
+      "title": "Trump says anti-weaponization fund in IRS settlement is \u2018dead\u2019 even as he defends it",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmxlakE4Z2pCMEFKODRZQXBFdUNKUTEtR3l1YU56V0dlck1nUkxrZjQyVHJCbGU3UzVvVTFXcDk4OV9FMlNSQS1sTHc3a2hKRUZLRWhkVlAyT1F2MGpIZ2pnampUdWR3MHp6aXNyUDZxd0k5VG9hb0RVNUlBem92OExqYWpfTUJZNjNmOGg1SnNWQlJrZlNvWHhGczliWGdLeF9RUkx2U3pHaHNZZ2JPMHlNbHUyQQ?oc=5",
+      "summary": "Trump says anti-weaponization fund in IRS settlement is \u2018dead\u2019 even as he defends it AP News Trump Escalates Feud With Senate Over Blanche The New York Times Why senators fear Trump\u2019s DOJ payout fund isn\u2019t dead, despite Blanche\u2019s promises The Washington Post Fetterman: Trump has \u2018zero leverage\u2019 over lame-duck GOP senators thehill.com Trump's comments reignite Blanche confirmation fight Axios",
+      "published": "2026-08-01T00:19:00+00:00",
       "outlets": [
+        "AP News",
         "Axios",
-        "CBS News",
-        "Haaretz",
-        "NewsNation",
-        "The Times of Israel",
-        "reddit-worldnews"
+        "The New York Times",
+        "The Washington Post",
+        "thehill.com"
       ],
       "feeds": [
         "google-nation",
-        "google-top",
-        "reddit-worldnews"
+        "google-top"
       ],
-      "reach": 77.7,
+      "reach": 64.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -826,45 +810,13 @@
       "prompts": []
     },
     {
-      "title": "Ex-cop convicted of Sonya Massey\u2019s murder denied early prison release - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSXE3MklJcE95ZVpZQjdTel81WEZ4d1VCX0VWQnQwb0VSVEpjUF9aSWt3LXRuY2Rpd0swQndCYVBqNnFKaVVkcm5MTGJ3cGlrM1FTdnNoVk9FTHlTXzVVYWNxTlpzWEFEWG5kWGpZVnBSVTdPY0x3bUx0R1VaeTFoSzZhZzgtYW4tYVhxaTlaNktndDZDa1lHQWxBSFJmUzNnT0tyYWJwckRlRVRNOG5jRlhMU05WNjVVSHN1UEZmSVFIRWlwZnNGRkVTSHFORFFQYVhRZ3g2WFVHSWs5WDlYVE81SjdIYnRYREE?oc=5",
-      "summary": "Ex-cop convicted of Sonya Massey\u2019s murder denied early prison release Chicago Sun-Times Illinois officer who killed Sonya Massey denied medical release from prison The Guardian Former deputy convicted of murdering Sonya Massey denied early release ABC News - Breaking News, Latest News and Videos Illinois Prisoner Review Board votes to deny Grayson release The State Journal-Register UPDATE: Massey family reacts to Prisoner Review Board\u2019s denial of Sean Grayson\u2019s release from prison WCIA.com",
-      "published": "2026-07-31T17:12:00+00:00",
-      "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "Chicago Sun-Times",
-        "The Guardian",
-        "The State Journal-Register",
-        "WCIA.com"
-      ],
-      "feeds": [
-        "google-nation",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 18.0,
-      "rank": 11.7,
-      "signals": {
-        "institutional": [
-          "who"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
       "title": "In France\u2019s beloved vineyards, raging wildfires threaten a way of life",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOanVsQk5nU2VQRUJCSEM0UFlIX2VqQTdZdXV4bHktcUZzSHpSdnZpVG5ZNFNaSEctN00wNmI2NnVROWVEYWdUVGFBSGZRdUhGaDhNM25HcnFPcnVFT2JRdU9jTEx0czZPNkRyNHpEVi10NmFlY1hER2hwWi1UakMtaDNMRVlOMHZxeGhUWndONDcydjFWdGRXMF9fZlNNQjdOelNTOGp3RG1TSDdZ?oc=5",
-      "summary": "In France\u2019s beloved vineyards, raging wildfires threaten a way of life NBC News What the fires burning near Bordeaux's vineyards could mean for France's wine industry CBS News In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules The New York Times Church provides relief to members, firefighters amid wildfires in Spain and France Church News Blazes burning with the intensity of \u2018atomic bombs\u2019: Europe enters a new era of mega fires CNN",
+      "summary": "In France\u2019s beloved vineyards, raging wildfires threaten a way of life NBC News In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules The New York Times What the fires burning near Bordeaux's vineyards could mean for France's wine industry CBS News Church provides relief to members, firefighters amid wildfires in Spain and France Church News As heat and dry conditions fan wildfires in France, volunteers fan out to help AP News",
       "published": "2026-07-31T17:27:24+00:00",
       "outlets": [
+        "AP News",
         "CBS News",
-        "CNN",
         "Church News",
         "NBC News",
         "The New York Times"
@@ -884,68 +836,16 @@
       "prompts": []
     },
     {
-      "title": "Russia and Ukraine report casualties as they continue to trade attacks",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZVZ4SjVJRlZmRGNGQzlpSHVLSHhJNFdORHZtM0QxbXhmM3UzdVV6ZVY0QU9Fc1lUb3ZBaHhoZlBCQzdxLVBvV3VPSEJVM3RrdC05OGVzSHA1Vmxld3pDcXhsb25XaTB0VW5QZGFfQjByUUUtdm1xemF5QkJBZ3lPYVNGU1dQWmlDTkYyejRYT2pVN2hTQ2JOZjZRT240R2t3TWFPR2ZjbFMwanZuN2p5TNIBtgFBVV95cUxNVDNFQzVnWWk3TUJCZ0sydzJiUlRYWDJ3T2dzTUxSemFJU1pOQ3NRYXRhMnJxamVFRmxLV2pyZ1MzeHFJa0dmMEFua2xIWTd3djZ0N0JBRjRPbV9tbEVfSWZQald3aV9FT2l1R05NZVJSZk9LdEw1N21oM3lqQ1E0UnlKZUs4ZjJ5N29tbUUtZTQwWFJjYndXV3ZBVkQ0YU80cFRfMC1ZR1lGclVjS2tudFVDVndLQQ?oc=5",
-      "summary": "Russia and Ukraine report casualties as they continue to trade attacks Al Jazeera Russia pounds Kyiv with missiles Reuters Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8 The New York Times Poland blames Russia for firing missile into its territory as Moscow unleashes deadly attack on Ukraine CNN Russian Bombardment Kills at Least Eight in Ukraine as Zelensky Renews Plea for Air Defense Supplies Time Magazine",
-      "published": "2026-07-31T22:52:25+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "Reuters",
-        "The New York Times",
-        "Time Magazine"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNEhzWDdjWlNBT0Z3MU5ac00xZDY3aGNKWWV6cDlwbDF2UHl1ZW9kWmVlRjNHOEtVaUd1WGFybmpCMEdRNjNrdWR2cjk4clBXM2piTXREd3N4MTJfcnBTQk5veXNrdW03X1FzMnJORFdYQXQ0RUdVNlY3Y3ZaYk5LeTlBalNoX3J5OHp0MUppUDQ?oc=5",
-      "summary": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found The New York Times Four bodies found after group including top mountaineer Nirmal Purja missing in avalanche CNN U.S. Climber Confirmed Dead After Avalanche as Search Continues for 6 Missing Mountaineers People.com How Nims Purja\u2019s Himalayan climb ended in deadly disaster National Geographic Broad Peak Search Continues, Shocked K2 Teams Abort Summit Push Explorersweb \u00bb",
-      "published": "2026-07-31T18:35:11+00:00",
-      "outlets": [
-        "CNN",
-        "Explorersweb \u00bb",
-        "National Geographic",
-        "People.com",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-top",
-        "google-world"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Drifting SpaceX rocket heading for accidental collision with moon",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQm1YZ2t5dUZzMU43R1Q2VTliaGRpTXE2RWZqemxfM24zbWVPMXRRdzdwbUxYa0VRaE9IN3c1QUtwZEZLREFnUGFCZmlMc01tSW5ySV82RVI3NWo4YlZwTU5xaERwN2E4bTJsZnhHS085THUwbjEwU2FfYVZ3dkN4RlpR?oc=5",
-      "summary": "Drifting SpaceX rocket heading for accidental collision with moon The Guardian Falcon 9 Rocket Stage \"Abandoned\" In High-Earth Orbit Is About To Slam Into The Moon, With The Energy Of 11.8 Gigajoules IFLScience A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect Space A piece of a SpaceX rocket is about to hit the moon ABC News - Breaking News, Latest News and Videos SpaceX Rocket Is on Course to Slam into the Moon at 7 Times the Speed of Sound People.com",
-      "published": "2026-07-31T13:05:00+00:00",
+      "title": "SpaceX\u2019s Falcon 9 Rocket Is About to Crash Into the Moon\u2014and It Could Be Visible From Earth",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96S1BJUlU0T1ljclhxc3BzSHRabE10bV81MG1iRWU5aEpsYzlURE5YcHFDcEdUeDJtMzJrV1lBbVZRblZEUDZwdVZWMzlzU2thN0RaeDlVZW5VSGpiRnE4SXRvMm1CeVRUTnJvSW8zY290Qjd1Rnc?oc=5",
+      "summary": "SpaceX\u2019s Falcon 9 Rocket Is About to Crash Into the Moon\u2014and It Could Be Visible From Earth wired.com Drifting SpaceX rocket heading for accidental collision with moon The Guardian A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect Space Falcon 9 Rocket Stage \"Abandoned\" In High-Earth Orbit Is About To Slam Into The Moon, With The Energy Of 11.8 Gigajoules IFLScience A piece of a SpaceX rocket is about to hit the moon ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-31T23:38:00+00:00",
       "outlets": [
         "ABC News - Breaking News, Latest News and Videos",
         "IFLScience",
-        "People.com",
         "Space",
-        "The Guardian"
+        "The Guardian",
+        "wired.com"
       ],
       "feeds": [
         "google-science",
@@ -964,10 +864,10 @@
     {
       "title": "New York City Legionnaires\u2019 disease outbreak linked to 7 deaths is declared over",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkZyU2U0SzlWNVMtVGo0S0tyRDFTUjJQUDZBR3Y0SF95WmJ0MUlQWGl0S3pVY284aGZlclY5b3NHNzl2c0FxcTlrRURCSkQ3VDF5ZHE2LUhNT1ZFalNuOHZCMDNiVHdNZlZ4S3VrUE1MVWxCY1FfUENSeUtmWG41cEJSNGxSSlp4OUhXS09iUkZGT2M2SG1tdl9PZEVScDJaS3ZsTzM2Ul83ZE9RVFk4dDhqaWw?oc=5",
-      "summary": "New York City Legionnaires\u2019 disease outbreak linked to 7 deaths is declared over CNN 7th death confirmed in Manhattan Legionnaires' outbreak, matching total from 2025 outbreak NBC New York NYC Legionnaires' outbreak: New York City health department says UES cluster exposure has ended ABC7 New York NYC says UES Legionnaires\u2019 outbreak is over, after recording 7th death Gothamist East Village tenants fearing Legionnaires\u2019 disease exposure are frustrated after going two months without showers amNewYork",
+      "summary": "New York City Legionnaires\u2019 disease outbreak linked to 7 deaths is declared over CNN 7th death confirmed in Manhattan Legionnaires' outbreak, matching total from 2025 outbreak NBC New York NYC says UES Legionnaires\u2019 outbreak is over, after recording 7th death Gothamist East Village tenants fearing Legionnaires\u2019 disease exposure are frustrated after going two months without showers amNewYork Source of exposure for Legionnaires' disease cluster in New York City 'eliminated': Health officials ABC News - Breaking News, Latest News and Videos",
       "published": "2026-07-31T15:46:50+00:00",
       "outlets": [
-        "ABC7 New York",
+        "ABC News - Breaking News, Latest News and Videos",
         "CNN",
         "Gothamist",
         "NBC New York",
@@ -990,10 +890,10 @@
     {
       "title": "DR Congo Ebola epidemic becomes world\u2019s second largest outbreak",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTRLaEtTaDI5ZGwyZGF1WkQzNnZ6dVRBZW5WRHJiYW1uM2U2NzZxVmlFZGVrblM2c05jdGNPVW5wTFFJa2hUMGxkWFVjaVdqN2czMGw1dTBENzNkNTVDeDJvcHk0RmMwZzZYMDMwc19VNmtpQWs1YWFaVXZQeTNZME9YTXpLQ3RFaHpVenBrV2VuWTFxMmlGR1VrejBKVzZwS21RX0ZB0gGrAUFVX3lxTE03bV8tazhKZmswVHYxR2h2SjJPeGZnUG1IT0ZQQkREMm5jaDRlNThBT1ZialFLNWRHQTVmWFNVTDZ4SXVQWjctMzlFVEFkdnEySmVXdmRJcUp3alI3YUdaTWJyNjNaeTN4Q1NwaVlQZnZFR093RFlmQ01xTUxNZWxnMzdtSzZDZ2cxZmdRQnlDQkpaQktJQWdZM0FGMTZ3WTRFek9rT0poT01BRQ?oc=5",
-      "summary": "DR Congo Ebola epidemic becomes world\u2019s second largest outbreak Al Jazeera Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Congo says the death toll in fastest-growing Ebola outbreak has passed 1,500 ABC News - Breaking News, Latest News and Videos Fastest growing Ebola outbreak is worsening hunger in eastern Congo, UN agency chief warns PBS Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN",
+      "summary": "DR Congo Ebola epidemic becomes world\u2019s second largest outbreak Al Jazeera Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Congo says the death toll in fastest-growing Ebola outbreak has passed 1,500 AP News Fastest growing Ebola outbreak is worsening hunger in eastern Congo, UN agency chief warns PBS Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN",
       "published": "2026-07-31T16:56:15+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
         "Al Jazeera",
         "CNN",
         "PBS",
@@ -1014,65 +914,9 @@
       "prompts": []
     },
     {
-      "title": "Trump says he wishes anti-weaponization fund wasn't dead, angering senators he needs to confirm Blanche",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXJDcWFCRHE5SlVaM2VEaVE3TDBkbGNqS2dBU09CclFnUWJwU0REQURyQzBYQU5td0lDcWx5M1VuRGRrY0V0ZmtSTkFHVjI3bU9hNmNrZzY5X1A4YjU4WmpMaUI2cTNzOFNZbEtNa0oyQ19OUk1fS0Rxc3hzMlBmTllIeFVIQ1dlMmNIZXgzRHo1cHVneWFN?oc=5",
-      "summary": "Trump says he wishes anti-weaponization fund wasn't dead, angering senators he needs to confirm Blanche Politico Loyalty to Trump Proves a Double-Edged Sword for Attorney General Nominee The New York Times Why senators fear Trump\u2019s DOJ payout fund isn\u2019t dead, despite Blanche\u2019s promises The Washington Post Trump defends \u2018anti-weaponization\u2019 fund, further complicating Blanche nomination NBC News Trump says anti-weaponization fund in IRS settlement is \u2018dead\u2019 even as he defends it AP News",
-      "published": "2026-07-31T19:28:00+00:00",
-      "outlets": [
-        "AP News",
-        "NBC News",
-        "Politico",
-        "The New York Times",
-        "The Washington Post"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "The Harrison Bader scooter crash story keeps getting messier",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVdBeHRJOWNUVm9uZVE4em1NaERYU1BQMGFGN1l2bGNyVlpvQzYyRnVGblhtWGoyMzZvaFlCNVhUTVo4OGNGRGxfcHZXZ0w5ckh5NFZucTJsbjZiUjFjV0luQjd5alo2WWUzTnBvOFdhOVBGYVA2cUtTb2xNd1QydzZrRmd5UQ?oc=5",
-      "summary": "The Harrison Bader scooter crash story keeps getting messier SFGATE Giants gathering details about Harrison Bader\u2019s late-night scooter crash The New York Times Giants OF Harrison Bader out for season after late-night scooter accident Yahoo Sports SF Giants Pride Night controversy sparks debate over faith and inclusion KTVU Giants risky rides: from Jeff Kent\u2019s motorcycle mystery to Harrison Bader\u2019s scooter crash Los Angeles Times",
-      "published": "2026-07-31T19:41:49+00:00",
-      "outlets": [
-        "KTVU",
-        "Los Angeles Times",
-        "SFGATE",
-        "The New York Times",
-        "Yahoo Sports"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 34.0,
-      "rank": 20.0,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "Earth Is On Track to Break the All-Time Record for Category 5 Hurricanes This Year",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWdHbUc1cGVzYS1wQndtWm9JT20tc1l6SWtjNUZvRllBUUNrRktnZEVacHAtN1ZXSVFwMDFSdzAzc19ySE5EM1JwSWRELUpDNUhnelF6VUpsM21mMHAwRzFWeUJXYWpUeWU3ZmdwbzdUOHlGOVRhQUk0TzhUVE5iTTFrTTVuYzVpNVlCVzBxSm9Mc05tTzVUOFp2SmE3T3M1TTkyWU5TSDRtc0t2MHNId3lPdw?oc=5",
-      "summary": "Earth Is On Track to Break the All-Time Record for Category 5 Hurricanes This Year Gizmodo Super Typhoon Dolphin in the Northwest Pacific Ocean NASA Earthdata (.gov) Super Typhoon Dolphin barrels towards Asia as it reaches 160 mph winds, equivalent to a Category 5 hurricane FOX Weather Typhoon Dolphin Forecast to Reach Sea Near Japan\u2019s Minami-Torishima Island by Sunday The Japan News Historic Super Typhoon Dolphin hits Category 5 strength in the Northwest Pacific Yale Climate Connections",
+      "summary": "Earth Is On Track to Break the All-Time Record for Category 5 Hurricanes This Year Gizmodo Super Typhoon Dolphin in the Northwest Pacific Ocean NASA Earthdata (.gov) Super Typhoon Dolphin barrels towards Asia as it reaches 160 mph winds, equivalent to a Category 5 hurricane FOX Weather Typhoon Dolphin to Move Westward toward Japan\u2019s Ogasawara Islands The Japan News Historic Super Typhoon Dolphin hits Category 5 strength in the Northwest Pacific Yale Climate Connections",
       "published": "2026-07-31T15:25:42+00:00",
       "outlets": [
         "FOX Weather",
@@ -1101,16 +945,16 @@
       ]
     },
     {
-      "title": "Greece fights fires near Athens as France, Spain improve",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd05jdW45TDVMejhCUHVfa2RCaDJLTFk5RUxkOTFmeEdKMllFcTk1eVllOFlsZWFXWTBXTVdIME1OUWxMemY3WUhJdFpZVUpyNXoxNy1SMTRBVTRNTjYteHNBRmhRTHB5T19PRmFFcFNheE91aUFEY1FkbzItS18xR2dDTHFpTDVKcVBYU2VmaWItSnRzeHJPeFhWTlRtRDRpTTAwd0RiWElITEdhdHc?oc=5",
-      "summary": "Greece fights fires near Athens as France, Spain improve Reuters \u2018Nightmarish\u2019 Wildfire in Crete Kills Two Firefighters as Thousands Evacuate The New York Times Hundreds escape Greek wildfire by sea as blazes continue across Europe bbc.com More than 100 firefighters battle wildfire near Athens Euronews Stranded Tourists Flee by Boat as Wildfires Blaze on the Coast of Greece People.com",
-      "published": "2026-07-31T19:20:00+00:00",
+      "title": "Putin Humiliated as Russians Rage Over \u2018Catastrophe\u2019 Cover-Up",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM25lWjlSMUVfc1EtQXNpWXlId01GS0NGbW1OZlNSVHVOaWpEUXI1elNkSjdzVjlyQk9UdGdPNU82YjF4VlpNNThFT2l0NjhpbTlEeDh5UnBzMXVTbEVHalRPdk5SX184RE1WaUVSbkJOMHh1blEzcGhtd1BZREZ6M0xTSVAzQQ?oc=5",
+      "summary": "Putin Humiliated as Russians Rage Over \u2018Catastrophe\u2019 Cover-Up The Daily Beast \u2018It reeks, pardon me, of shit\u2019: A Siberian city spent two weeks with sewage-smelling tap water while officials insisted that it was safe Meduza Tyumen Region Declares State of Emergency as It Braces for Major Flooding The Moscow Times In Tyumen, the water began to smell like feces; a state of emergency has been declared UA.NEWS \"The water stinks, the air stinks\u2014everything stinks\": the Tura River in Tyumen has exceeded critical levels. \u0413\u043e\u0432\u043e\u0440\u0438\u0442 \u041d\u0435\u041c\u043e\u0441\u043a\u0432\u0430",
+      "published": "2026-07-31T20:14:00+00:00",
       "outlets": [
-        "Euronews",
-        "People.com",
-        "Reuters",
-        "The New York Times",
-        "bbc.com"
+        "Meduza",
+        "The Daily Beast",
+        "The Moscow Times",
+        "UA.NEWS",
+        "\u0413\u043e\u0432\u043e\u0440\u0438\u0442 \u041d\u0435\u041c\u043e\u0441\u043a\u0432\u0430"
       ],
       "feeds": [
         "google-world"
@@ -1122,6 +966,143 @@
       "verdict": "block",
       "policy_reasons": [
         "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlgyNjZWZHNwYi11LWFaMENYZFAwRFVFaHhLQWxHNHlGMEtHc2RKV3JaVXhreUh4MEJLZzhMRjZ0MzhDWlVZdmhTRmNpVEdHRTRGQ285UUNZQk41eDVneFBJUkdUdV9NOHBkT29Cb2VWTUM0TElnaGV6UFRrR20xYWc5NGxsSkdiRUpDV2pYbk9wUTVvSVpCMg?oc=5",
+      "summary": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar USNI News Pilot ejects from fighter jet before crash at MCAS Miramar, base officials say NBC 7 San Diego F-35 jet \u2018mishap\u2019 on San Diego Marine base, pilot ejected fox5sandiego.com Military F-35B fighter jet crashes and burns at California Marine Corps base CNN Emergency crews respond to 'aircraft mishap' involving F-35 at Marine Corps Air Station Miramar 10News.com",
+      "published": "2026-07-31T18:48:00+00:00",
+      "outlets": [
+        "10News.com",
+        "CNN",
+        "NBC 7 San Diego",
+        "USNI News",
+        "fox5sandiego.com"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "military"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Fuming Mamdani blocked from speaking at fallen NYC soldier\u2019s funeral despite writing speech: \u2018He was never called\u2019",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTJEUGdNaDNlX2NocFFRV2VVeTE2WU9qcDRTWFplT3pKaTVTbHBxSi03c3dKb0t4dTVoLWxvczZfQVNYS3NRbVRqQ1ZTS3l5S1lJa1cyY0pFOXZYLVAwelVYWXpQWEw3Vkx2dWdmWnZPREJ5TVBuMU1UV1FIVnlHMGJ3UGNxNjRINlRyYjRCUWNUOFBlc0taejFseWNxTXYy?oc=5",
+      "summary": "Fuming Mamdani blocked from speaking at fallen NYC soldier\u2019s funeral despite writing speech: \u2018He was never called\u2019 New York Post Staff Sgt. Angel Rampersad laid to rest in Ozone Park, Queens ABC7 New York Fallen Queens soldier Sgt. Angel Rampersad laid to rest in emotional funeral as mom says, \u2018My daughter was a real hero\u2019 amNewYork NYC to bid final farewell to fallen US soldier from Queens PIX11 Angel Sarah Rampersad, of Queens, Army staff sergeant killed in Iranian attack in Jordan, remembered as a 'real hero' Newsday",
+      "published": "2026-07-31T22:32:00+00:00",
+      "outlets": [
+        "ABC7 New York",
+        "New York Post",
+        "Newsday",
+        "PIX11",
+        "amNewYork"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Sean Grayson, officer who shot Sonya Massey, denied medical release from 20-year prison sentence",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMThBVUNSVW9tWkVESGZ5Mnl3bEI1SUY0WU1uWjdxQVJwWTdiY081dnRpdlBGYmNHajk3ajBWZkQwSGJmSi1QNl92TXEzVGh4YTdhRHZFenQ0VHRxUWlHNHpkR3d6Z0MwUjFGUDVTM0JkWnlLakJ1dm1XUWFkUW1DRlN5VzZvNV9GOGUtUmhEdGxDZ0RkWWd1VzBHZWNLS2NEbzRfX1JxblZlRHM2MGc?oc=5",
+      "summary": "Sean Grayson, officer who shot Sonya Massey, denied medical release from 20-year prison sentence NBC News Illinois officer who killed Sonya Massey denied medical release from prison The Guardian Illinois Prisoner Review Board votes to deny Grayson release The State Journal-Register UPDATE: Massey family reacts to Prisoner Review Board\u2019s denial of Sean Grayson\u2019s release from prison wcia.com Former deputy convicted of murdering Sonya Massey denied early release ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-31T19:36:17+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "NBC News",
+        "The Guardian",
+        "The State Journal-Register",
+        "wcia.com"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "who"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Divers Search a New Jersey River for Second of 2 Children They Fear Drowned",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejhyRmx3TDh4NmExdlNaVE5Wa2RZQmFUMXN1QnNBNE9RaGRtaF9rV0h3Q1d4al9YMHFpdjVWRnppcTQwNzRlZjJtSmlqWEw4aElsWWljUnJ6ZWtfbTZMbkVmN3hmdFh2M0k3THpNUl95Qkdfc1JsaEZhWnd4OGQ4NUJDdkJNZ2FKVDNn?oc=5",
+      "summary": "Divers Search a New Jersey River for Second of 2 Children They Fear Drowned The New York Times Passaic River: Body of missing 10-year-old girl recovered, officials say ABC7 New York Body of 10-year-old girl located in Passaic River after two-day search Bergen Record Brother may have saved sister\u2019s life in Passaic River before drowning PIX11 Memorial Honors Boy Found In Passaic River As Search For Other Child Continues News12 | New Jersey",
+      "published": "2026-07-31T21:52:34+00:00",
+      "outlets": [
+        "ABC7 New York",
+        "Bergen Record",
+        "News12 | New Jersey",
+        "PIX11",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a live missing-person case \u2014 a private individual, never speculate about one"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Police search for gunman after Walmart employee shot during dispute in Pennsylvania",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3FpdUlZeEN4bkIyQzJGSzBjUWpiMzNuSGNzSmVESEk5RnVnTkFLUE1LMHZnbnctc2Nqd3F6OF9aTlR2aTExQzZnX0FsSUtpT0NrNXdiVFpfTVI2NmE5V1VUZTZkWFktaEJ1MlItNk1tV2JDdVJ5RWx1aUo4bUJiUzBoQ3pPUGVXWTFxNlNRdHVMeDZY0gGaAUFVX3lxTE9ITHJCWjVpZnNxeVNTS04zSS1IOHBERUlGb0RqaVRQd2hRNW9KRHA5LV82MGdlT2NpRVZkMGMzUS03ckdmeFJZNmtRR3hpQzZvTWVzMExCUzRQY3FHY2hzZUk5b0tXOFd5M09zSnlrdFhrMWc5ek93bkVxX0g4NkU1UW10dUI2LVlFZ21wSk9SOGozTDdBSDB4cnc?oc=5",
+      "summary": "Police search for gunman after Walmart employee shot during dispute in Pennsylvania Fox News Darby Township, Pa. Walmart employee shot during argument between 2 men; suspect wanted 6abc Philadelphia Police investigate shooting at Walmart in Glenolden, Pennsylvania NBC10 Philadelphia Police probe shooting inside eastern Delco Walmart Delco Times Walmart employee shot in leg during argument at Delco store, suspect sought: police FOX 29 Philadelphia",
+      "published": "2026-08-01T01:00:27+00:00",
+      "outlets": [
+        "6abc Philadelphia",
+        "Delco Times",
+        "FOX 29 Philadelphia",
+        "Fox News",
+        "NBC10 Philadelphia"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a live missing-person case \u2014 a private individual, never speculate about one"
       ],
       "prompts": []
     }
