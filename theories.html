@@ -13,7 +13,11 @@
 <style>
 :root{
   --bg:#0A0C10; --panel:#12161C; --panel2:#171C24; --rule:#242C36; --rule-soft:#1B222B;
-  --ink:#E9EDF2; --dim:#8B95A3; --dimmer:#5E6875;
+  /* --dimmer was #5E6875: 3.02-3.46 against these panels, a WCAG fail on every
+     mono label and the whole nav rail. #7E8895 is the smallest lift in the same
+     hue that clears 4.5, so the hierarchy and the approved look are unchanged.
+     --dim already passed at 5.64+ and is untouched. */
+  --ink:#E9EDF2; --dim:#8B95A3; --dimmer:#7E8895;
   --awe:#6E8BF5; --identity:#C9A227; --unease:#A98BE8; --anxiety:#2FB3A8; --threat:#E4607E;
   --greed:#46C07A; --dread:#E8663D; --anger:#E4462D;
   --maxw:1180px;
@@ -35,6 +39,12 @@ overflow-x:auto;scrollbar-width:none}
 .rail .mark{color:var(--threat);font-weight:600}
 
 header{padding:72px 0 52px;border-bottom:1px solid var(--rule-soft)}
+.created{display:inline-flex;align-items:center;gap:10px;margin:0 0 26px;padding:7px 13px;
+border:1px solid var(--rule);border-left:3px solid var(--threat);border-radius:6px;
+background:var(--panel);font-family:"JetBrains Mono",monospace;font-size:11.5px;
+letter-spacing:.13em;text-transform:uppercase}
+.created .k{color:var(--dimmer)}
+.created time{color:var(--ink);font-weight:700}
 .eyebrow{font-family:"JetBrains Mono",monospace;font-size:11.5px;letter-spacing:.18em;
 text-transform:uppercase;color:var(--dimmer);margin:0 0 24px}
 .eyebrow span{color:var(--threat)}
@@ -63,6 +73,11 @@ p{margin:0 0 16px;max-width:72ch}
 @media(max-width:880px){.story-grid{grid-template-columns:1fr;gap:24px}}
 .vid{position:sticky;top:70px}
 @media(max-width:880px){.vid{position:static}}
+/* Fallback content inside <video> is never laid out in a browser that can play
+   mp4 (zero client rects), and it inherits the element's black on black. Give
+   it an explicit colour so the one browser that does fall back can read it. */
+.vid video{color:var(--ink);background:#000}
+.vid video a{color:var(--threat)}
 .vid video{width:100%;border-radius:8px;border:1px solid var(--rule);background:#000;display:block}
 .novideo{padding:40px 18px;border:1px dashed var(--rule);border-radius:8px;color:var(--dimmer);
 font-family:"JetBrains Mono",monospace;font-size:12px;text-align:center}
@@ -126,14 +141,16 @@ footer a{color:var(--dim)}
     <a href="radar.html">◉ Radar</a>
     <a href="conspiracy.html">Plan</a>
     <a href="scale.html">Worldwide</a>
+
   </div>
 </nav>
 
 <header>
   <div class="wrap">
-    <p class="eyebrow">Built from the radar · <span>29 Jul 2026</span> · 46 stories · 46 finished videos</p>
+    <p class="created"><span class="k">Page created</span><time datetime="2026-07-29">29 July 2026</time><span class="k">· updated</span><time datetime="2026-08-02">2 August 2026</time></p>
+    <p class="eyebrow">Built from the radar · 46 stories · 46 finished videos</p>
     <h1>Every theory is a different way into a human head.</h1>
-    <p class="lede">Every one of these is a real story from this week, with the real facts underneath it and the theory marked as a theory. <strong>What differs is the emotion each one is built to trigger</strong> — because that, not the subject, is what decides whether a thing gets passed on.</p>
+    <p class="lede">Every one of these is a real story, with the real facts underneath it and the theory marked as a theory. <strong>What differs is the emotion each one is built to trigger</strong> — because that, not the subject, is what decides whether a thing gets passed on.</p>
     <ul class="legend"><li style="--accent:var(--awe)"><span class="dot"></span><a href="#satoshi"><b>AWE + STAKE</b> — One wallet. $70 billion. It has barely moved in 16 years.</a></li><li style="--accent:var(--identity)"><span class="dot"></span><a href="#nutcracker"><b>IDENTITY</b> — Wrong by nearly two feet.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#markovian"><b>UNEASE</b> — Hundreds of messages. One subject line. Nobody knows.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#hormuz"><b>ANXIETY</b> — Fifteen hundred ships. Sitting still. Growing something.</a></li><li style="--accent:var(--greed)"><span class="dot"></span><a href="#overflow"><b>GREED</b> — For nine hours, Bitcoin was infinite.</a></li><li style="--accent:var(--greed)"><span class="dot"></span><a href="#mtgox"><b>GREED</b> — 850,000 coins left the building.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#goldwindow"><b>UNEASE</b> — The word was temporary. That was 1971.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#fortknox"><b>UNEASE</b> — Nobody has fully counted it since 1953.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#jekyll"><b>UNEASE</b> — Six men. A private island. First names only.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#mkultra"><b>DREAD</b> — Twenty thousand pages survived by accident.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#northwoods"><b>DREAD</b> — The Joint Chiefs signed it. Kennedy said no.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#stargate"><b>UNEASE</b> — The state paid people to see at a distance.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#paperclip"><b>DREAD</b> — They were the enemy on Friday.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#room641a"><b>DREAD</b> — A room with no handle on the inside.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#wowsignal"><b>AWE</b> — Seventy-two seconds. Once. Never again.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#oumuamua"><b>AWE</b> — It entered our solar system. On the way out, it accelerated.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#tunguska"><b>AWE</b> — Two thousand square kilometres. No crater.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#cicada"><b>UNEASE</b> — The hardest puzzle on the internet. Unclaimed.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#maxheadroom"><b>UNEASE</b> — Two stations. One night. Never identified.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#uvb76"><b>DREAD</b> — It has been buzzing since before you were born.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#nordstream"><b>ANXIETY</b> — Someone blew up a pipeline. No one has been charged.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#havana"><b>ANXIETY</b> — Diplomats got hurt. The cause is still contested.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#dbcooper"><b>AWE</b> — He jumped into the dark and was never found.</a></li><li style="--accent:var(--anger)"><span class="dot"></span><a href="#sugar"><b>ANGER</b> — They paid for the review. It blamed fat.</a></li><li style="--accent:var(--anger)"><span class="dot"></span><a href="#leaded"><b>ANGER</b> — They knew in the 1920s. It ended in 2021.</a></li><li style="--accent:var(--anger)"><span class="dot"></span><a href="#doubt"><b>ANGER</b> — One memo from 1969 explains every argument you&#x27;ve had about science.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#pfas"><b>DREAD</b> — It is in almost everybody&#x27;s blood.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#microplastic"><b>DREAD</b> — They found it in placentas.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#antibiotics"><b>ANXIETY</b> — We stopped finding new ones.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#topsoil"><b>UNEASE</b> — The food is not what it was.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#groundwater"><b>ANXIETY</b> — The water underneath is going down.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#bees"><b>UNEASE</b> — The pollinators are going quiet.</a></li><li style="--accent:var(--threat)"><span class="dot"></span><a href="#sleep"><b>PERSONAL THREAT</b> — Your body clock is set by light you no longer see.</a></li><li style="--accent:var(--threat)"><span class="dot"></span><a href="#noise"><b>PERSONAL THREAT</b> — Traffic noise is a cardiovascular risk factor.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#radiumgirls"><b>DREAD</b> — They were told to point the brush with their lips.</a></li><li style="--accent:var(--threat)"><span class="dot"></span><a href="#ultraprocessed"><b>PERSONAL THREAT</b> — Most of it is not really food. It is formulation.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#solarmines"><b>AWE</b> — Two dozen mines detonated in thirty seconds. The cause was the sun.</a></li><li style="--accent:var(--anxiety)"><span class="dot"></span><a href="#carrington"><b>ANXIETY</b> — A storm that could end the grid missed us by about a week.</a></li><li style="--accent:var(--anger)"><span class="dot"></span><a href="#tornadoban"><b>ANGER</b> — For half a century it was forbidden to say the word tornado.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#krakatoa"><b>AWE</b> — A sound heard three thousand miles away, and it kept coming back.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#banana"><b>UNEASE</b> — Every banana you have eaten is a clone. The last one already died.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#rainbugs"><b>UNEASE</b> — Some of the rain that falls on you may have been made by bacteria.</a></li><li style="--accent:var(--awe)"><span class="dot"></span><a href="#poleshift"><b>AWE</b> — We pumped so much water out of the ground that the planet tilted.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#thehum"><b>UNEASE</b> — Two in a hundred people hear a sound instruments cannot find.</a></li><li style="--accent:var(--unease)"><span class="dot"></span><a href="#eqlights"><b>UNEASE</b> — The ground lights up before some earthquakes. Nobody agrees why.</a></li><li style="--accent:var(--dread)"><span class="dot"></span><a href="#tambora"><b>DREAD</b> — It snowed in June and the harvest failed across the northern world.</a></li></ul>
   </div>
 </header>
@@ -1307,7 +1324,7 @@ footer a{color:var(--dim)}
     Footage: Dareful (CC BY 4.0), Internet Archive / Prelinger (public domain), NASA (public domain) — sourced via OpenMontage's stock adapters<br>
     Music: Kevin MacLeod (incompetech.com), licensed under Creative Commons BY 4.0 — attribution required and given here<br>
     Rendered on this machine. Nothing has been published to any platform.<br>
-    <a href="radar.html">◉ Live radar</a> · <a href="conspiracy.html">Channel plan</a> · <a href="index.html">Teardown</a>
+    <a href="radar.html">◉ Live radar</a> · <a href="conspiracy.html">Channel plan</a> · <a href="index.html">Teardown</a> · <a href="theories.html">All 46 stories</a>
   </div>
 </footer>
 </body>
