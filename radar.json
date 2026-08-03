@@ -1,20 +1,20 @@
 {
-  "generated": "2026-08-03T18:17:15+00:00",
+  "generated": "2026-08-03T21:17:15+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
     "reddit-worldnews": "HTTP 429 rate limited"
   },
-  "raw_items": 1669,
-  "stale_dropped": 1087,
-  "clusters": 509,
-  "off_topic": 34,
+  "raw_items": 1653,
+  "stale_dropped": 1077,
+  "clusters": 498,
+  "off_topic": 35,
   "stories": [
     {
-      "title": "Matte black Pixel 11 Pro shown off in detailed images [Gallery]",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Leno2S2d1M3EtbTVpRGt2blI0MVBmVFk5R005RmpwcE0yX2FXdVJESWJTUDdBSHkxQlBXdnRlR3d1M3pPb3p2WmJJVW9iRkVrNVhqUmtIeERmMHkxTGRmUV83NmpkX2dUY013?oc=5",
-      "summary": "Matte black Pixel 11 Pro shown off in detailed images [Gallery] 9to5Google Exclusive: Google Pixel 11 Series Full Specs + US & EU Price Tags Android Headlines Pixel 11 specs and price leak with no surprises The Verge Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget Google Pixel 11 Buyers Should Brace for Higher Costs, Less RAM PCMag",
-      "published": "2026-08-03T15:01:00+00:00",
+      "title": "Google teases Pixel 11 Pro Fold, early pre-order time on August 12",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SUkxfYzJQQkZSbktYaDc2aVBxc1UtTFpqU0E3NFBBSzEwZ3JRSUY2X3ptbHRxczl5dzZhSTdNWDR2VmhmRWNNQllfSTNsa0U0cGw2Skw1WnE5bV91OTloVURGNG1YOVE0cjRFa3JCREdiZw?oc=5",
+      "summary": "Google teases Pixel 11 Pro Fold, early pre-order time on August 12 9to5Google Exclusive: Google Pixel 11 Series Full Specs + US & EU Price Tags Android Headlines Pixel 11 specs and price leak with no surprises The Verge Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget Google Pixel 11 Buyers Should Brace for Higher Costs, Less RAM PCMag",
+      "published": "2026-08-03T16:23:00+00:00",
       "outlets": [
         "9to5Google",
         "Android Headlines",
@@ -23,12 +23,11 @@
         "The Verge"
       ],
       "feeds": [
-        "google-technology",
-        "google-top"
+        "google-technology"
       ],
-      "reach": 64.8,
+      "reach": 58.8,
       "angle": 45.8,
-      "rank": 29.7,
+      "rank": 26.9,
       "signals": {
         "unexplained": [
           "mysterious"
@@ -42,41 +41,6 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
         "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTdoZnFPc2cxOFp2UmNxcmZZNHlTWG94NU1pRkRaUExnRlFtTzRFdm5NN212RTZobFAyZU5rNWdIMHNoQndnUUdyb0RlVjJ3SE1PZ0JQVU0xNnhjd29fRjY4MHNoUm1ubG02MEVVTGhMUTg0d1BXUjVGWFVaV1N3MGtOWU91Qmc4WjFNcDN0QUNqeUFjSVZCSmZFRnRVNjB3UTZPZDlWNExRMEcweC1sOE9R?oc=5",
-      "summary": "Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins Gizmodo Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system Nature How Antarctica's Blood Falls came to be Scientific American Scientists uncover big clue as to how Antarctica's mysterious Blood Falls came to be Yahoo 'Unique Refuge': A Lost Sea May Still Be Alive Beneath Antarctica's Eerie Blood Falls ScienceAlert",
-      "published": "2026-08-03T15:00:59+00:00",
-      "outlets": [
-        "Gizmodo",
-        "Nature",
-        "ScienceAlert",
-        "Scientific American",
-        "Yahoo"
-      ],
-      "feeds": [
-        "google-science",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 40.8,
-      "rank": 26.4,
-      "signals": {
-        "unexplained": [
-          "mysterious"
-        ],
-        "frontier": [
-          "ancient",
-          "discovered"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -120,14 +84,14 @@
     {
       "title": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOE5VVmJSTjhoOEZvVW5pZkNhRXprR250bjFKbFUtMVVma05GZXktdVFiQy1ma1ItV1Q0eDhFaGY5WXR1aUdzejJiMC1kdVBhNl84LW1vS0dYblNzM1VfcjhhYW9GeFBzNFFkQ2tmV1BxWVdZYlpIUTRRVlJEZzFHdXdrWjRhZm1Ua1hJZ3djOWVvdXFYc3BHTkFGeDRVRjUwemh0MVBHWm5Rdw?oc=5",
-      "summary": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019 Good News Network NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA Jet Propulsion Laboratory (JPL) (.gov) Curiosity rover spots ancient sea of Martian polygons popsci.com NASA\u2019s Curiosity rover finds a mysterious honeycomb landscape on Mars ScienceDaily Mars rover discovers honeycomb-like fields on Red Planet NewsNation",
+      "summary": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019 Good News Network NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA Jet Propulsion Laboratory (JPL) (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science NASA\u2019s Curiosity rover finds a mysterious honeycomb landscape on Mars ScienceDaily Mars rover discovers honeycomb-like fields on Red Planet NewsNation",
       "published": "2026-08-02T00:32:13+00:00",
       "outlets": [
         "Good News Network",
         "NASA Jet Propulsion Laboratory (JPL) (.gov)",
         "NewsNation",
-        "ScienceDaily",
-        "popsci.com"
+        "Popular Science",
+        "ScienceDaily"
       ],
       "feeds": [
         "google-science"
@@ -158,49 +122,54 @@
     {
       "title": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGtKLUVwTGp1ejR2WUZuMzZBeldMNWpLOXNfUjNMNVBScUVDYVRCelA0cF9uOGROeGxBUmhiWlJXc25CVWY1RmI2VEtBLVBON19VN0FuekZPRi13TWdrQVlYYlkxLUlSa1NvTzlzbnVoYkdKSG1fTzg2ZThuTDlUUjRFUGZsQQ?oc=5",
-      "summary": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA Sci.News Mysterious DNA: two unknown ancestors found in human genome Euronews.com Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA Ars Technica New computational technique traces ghost ancestry in modern human genomes news-medical.net Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans livescience.com",
+      "summary": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA Sci.News The genome of a long-extinct ancient human is hiding within us New Scientist Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA Ars Technica Mysterious DNA: two unknown ancestors found in human genome Euronews.com Up to 1% of Your DNA May Come From a Mysterious Human Lineage ZME Science",
       "published": "2026-08-02T08:16:01+00:00",
       "outlets": [
         "Ars Technica",
         "Euronews.com",
+        "New Scientist",
         "Sci.News",
-        "livescience.com",
-        "news-medical.net"
+        "ZME Science"
       ],
       "feeds": [
         "google-science"
       ],
-      "reach": 54.8,
-      "angle": 34.0,
-      "rank": 18.6,
+      "reach": 50.8,
+      "angle": 40.8,
+      "rank": 20.7,
       "signals": {
         "unexplained": [
           "mysterious"
+        ],
+        "frontier": [
+          "ancient"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "The official account stops short of a cause. Open on the gap."
+        "The official account stops short of a cause. Open on the gap.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
       "title": "Teen\u2019s three-word joke turns his life upside-down as he\u2019s outed as the vicious sea lion fighter",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWdyR3ktbVhQWjRxQXFNWDVkcVo0SHNFN1lxUFdxbjRndjFoYVktdTM4MFRaVHpUSERodzBtUDFzMHBkOEhSS2N5aVRlQlJRNWVZeU9GXzV3OUNnS1B2S2Z4NU1yOWlSRU1XZGNiYzBxOTQ0NkY3QVllSWlrVlVrb1UzN0gybkEyU3d0U25fbkhoY2NhOVJVbzlQUTNDRWNvVFM0?oc=5",
-      "summary": "Teen\u2019s three-word joke turns his life upside-down as he\u2019s outed as the vicious sea lion fighter New York Post Teen says he was wrongly accused of attacking sea lion in viral video NBC 7 San Diego Sea Lion Mystery: \"It's Not Me\" Says Accused Teen Newsradio 600 KOGO He Was Caught on Camera Kicking a Sea Lion. Demand Justice! ThePetitionSite.com",
+      "summary": "Teen\u2019s three-word joke turns his life upside-down as he\u2019s outed as the vicious sea lion fighter New York Post Teen says he was wrongly accused of attacking sea lion in viral video NBC 7 San Diego Sea Lion Mystery: \"It's Not Me\" Says Accused Teen Newsradio 600 KOGO He Was Caught on Camera Kicking a Sea Lion. Demand Justice! ThePetitionSite.com Teen Says He Was Falsely Identified After Viral San Diego Sea Lion Abuse Video As Family Faces Threats, Doxxing SanDiegoVille",
       "published": "2026-08-03T14:44:00+00:00",
       "outlets": [
         "NBC 7 San Diego",
         "New York Post",
         "Newsradio 600 KOGO",
+        "SanDiegoVille",
         "ThePetitionSite.com"
       ],
       "feeds": [
         "google-nation"
       ],
-      "reach": 51.6,
+      "reach": 58.8,
       "angle": 34.0,
-      "rank": 17.5,
+      "rank": 20.0,
       "signals": {
         "unexplained": [
           "mystery"
@@ -215,55 +184,26 @@
       ]
     },
     {
-      "title": "How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXJwdmVDVzlnekNjdWNQYlpKeHE2QjdGeFQzb2tVNjdFVFRLa3JycTlKNnNFOGdkT3dnRDk2azFzMUs3R2M4djBfNUUzNm03Uk1Uem9fUnB2MzB4VFhUbXZOd0lQQjRZQW9lQnpHYjZmb1BiWkprbkc0WVRFeXVDNk5rc1JlamdEQk0zVG1XS1JjNTZSbUlKaThRYVJuSG4y?oc=5",
-      "summary": "How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit The Information Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents MacRumors OpenAI president says it\u2019s \u2018building a family of devices\u2019 for its AI chatbots The Verge Confidential Apple files followed former employees to OpenAI through iCloud AppleInsider OpenAI has five products in development, and its president Greg Brockman just hinted at what they're for The Times of India",
-      "published": "2026-08-03T13:00:00+00:00",
+      "title": "Big Bear bald eagle Jackie suffers setback in recovery",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHdFMUs3YngzdGxVUE12dkdoSW8tYzZfdk5OT0dEcjN4YXViQ2RZM25fN3czSWYxZFlxQ2xHTXAyVW1SYmp1ZWd6TG9admRuQzY2WEh0c1l5U29HNTZieTdscjlGTnVVdlU3VGstQjA3anFGbnl5MFBDcGJMWmx4U3JB0gGHAUFVX3lxTE5VcEwtbzk1RFRsN0NxZzRQUUt6a25kNFppSDNGZUVSM21vREFSV1RBM2JmOElJZmpkT01Pb3Nid1p6ZDJUTGxVbnd3SzExbFhxOFB0M3dkTVVrbS1GZ0pLT2E4bXptNDctX3hFb3lPbnUxcjRWcDhGR29ZblhwX2l2Zndnc1RRZw?oc=5",
+      "summary": "Big Bear bald eagle Jackie suffers setback in recovery KTLA Jackie the bald eagle\u2019s anemia worsens Popular Science Beloved bald eagle Jackie's health condition worsens USA Today Big Bear bald eagle Jackie still shows anemia in new bloodwork, continues to improve ABC7 Los Angeles Famed Big Bear eagle Jackie remains \u2018very sick\u2019 as malady remains a mystery Los Angeles Times",
+      "published": "2026-08-03T19:07:39+00:00",
       "outlets": [
-        "AppleInsider",
-        "MacRumors",
-        "The Information",
-        "The Times of India",
-        "The Verge"
+        "ABC7 Los Angeles",
+        "KTLA",
+        "Los Angeles Times",
+        "Popular Science",
+        "USA Today"
       ],
       "feeds": [
-        "google-technology"
+        "google-nation"
       ],
       "reach": 58.8,
-      "angle": 28.0,
-      "rank": 16.5,
-      "signals": {
-        "secrecy": [
-          "confidential"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "Supergene solves evolutionary puzzle of mirror-image flowers",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkI1LTc4SXFBOXpFSndmaXVjek43aDkzNzRLUGRBVktNenpsSVBUdTlPcTNyLXhZWV9OLUtBNHRkbUhnUWxTTXJYVWRrNS1NdUZobXd1LVc2aHhPYURUMEpWcXE2ek1rWGJGZjliT0FWcTlid1ozTGlUcG9PRUF0UW9fMA?oc=5",
-      "summary": "Supergene solves evolutionary puzzle of mirror-image flowers Phys.org UCT researchers unlock butterfly lily's genetic secret news.uct.ac.za Image 2 EurekAlert! Supergene solves evolutionary mystery by controlling mirror-image flower development Bioengineer.org Image 1 EurekAlert!",
-      "published": "2026-08-02T17:00:01+00:00",
-      "outlets": [
-        "Bioengineer.org",
-        "EurekAlert!",
-        "Phys.org",
-        "news.uct.ac.za"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 47.6,
       "angle": 34.0,
-      "rank": 16.2,
+      "rank": 20.0,
       "signals": {
         "unexplained": [
-          "mystery",
-          "puzzle"
+          "mystery"
         ]
       },
       "verdict": "clear",
@@ -301,6 +241,37 @@
       ]
     },
     {
+      "title": "Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTdoZnFPc2cxOFp2UmNxcmZZNHlTWG94NU1pRkRaUExnRlFtTzRFdm5NN212RTZobFAyZU5rNWdIMHNoQndnUUdyb0RlVjJ3SE1PZ0JQVU0xNnhjd29fRjY4MHNoUm1ubG02MEVVTGhMUTg0d1BXUjVGWFVaV1N3MGtOWU91Qmc4WjFNcDN0QUNqeUFjSVZCSmZFRnRVNjB3UTZPZDlWNExRMEcweC1sOE9R?oc=5",
+      "summary": "Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins Gizmodo Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system Nature Antarctica\u2019s Blood Falls teems with life from unexpected source Popular Science Ancient Microorganisms Discovered Inside One of Antarctica's Most Inhospitable Landmarks ScienceAlert How Antarctica's Blood Falls came to be Scientific American",
+      "published": "2026-08-03T15:00:59+00:00",
+      "outlets": [
+        "Gizmodo",
+        "Nature",
+        "Popular Science",
+        "ScienceAlert",
+        "Scientific American"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 64.8,
+      "angle": 16.0,
+      "rank": 10.4,
+      "signals": {
+        "frontier": [
+          "ancient",
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
       "title": "10-year-old drowns saving sister, another girl still unaccounted for",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUp3b3RfRTYtOE5GRWROdlpURGNWeHpvbkp5Y2lsYWdDWDFwb3BYWWJDdHBDVThrQ1ZVR2hMQm11QTVRQ2dyWnVNLVpNenRZVjRrdnc1YkZ6N0FHZV9nbTNsX0dlWWVPeExEM08zbzZyUXAxeFZKUzJOMVVtU1VxMTJoOWNXRnJVZk8zc3JUVHI5RDJDY1RDWGVkZ1jSAbABQVVfeXFMUHJOcHVCUk9uNG5CaW1fLVJaS3I0WVJSbDgzZHBYTkkzMDh1aWFMRU1xYkNmUXByQlRzQktfck8yUjZSWWU3Y25qTnpMcGdkRk50QTk1enNEWFV1cUg3SU9QY2FubWw0Nmg3alBHTE9uaUluSGxldlgxbHRCdHlLZUkxdG1iN2FoTHpfUWctQ1NyVGVoZmd0SlpISDZWQUlyVkNTRUpoMHhvdVBTTkZLZWE?oc=5",
       "summary": "10-year-old drowns saving sister, another girl still unaccounted for Upper Michigan's Source",
@@ -308,6 +279,7 @@
       "outlets": [
         "Atlanta News First",
         "Hawaii News Now",
+        "KCRG",
         "KLTV.com",
         "KMVT",
         "KOLD",
@@ -318,12 +290,14 @@
         "KWTX",
         "KY3",
         "KYOU-TV",
+        "Live 5 News",
         "Northern News Now",
         "Upper Michigan's Source",
         "WAGM",
+        "WEAU",
         "WFIE | 14 News",
         "WITN",
-        "WKYT",
+        "WMBF",
         "WTHI-TV",
         "WTVA",
         "WTVG",
@@ -331,7 +305,8 @@
         "WWNY",
         "Western Mass News",
         "knopnews2.com",
-        "wbbjtv.com"
+        "wbbjtv.com",
+        "wkyt.com"
       ],
       "feeds": [
         "angle:unaccounted for"
@@ -348,64 +323,6 @@
       "policy_reasons": [],
       "prompts": [
         "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
-      "title": "How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhnOUVCdlVFd1pWcDdoTFFJWnJxaWJ0ekd4aDI2MnlmcTVFVG94aUFGQnlDcmxlQU5kRHlVMWc0R3FOX1dTVGJoZDVqeEw4aGlnSTlfRWRsckIxQXBSQ3hPNHdPajVELTBWSGQ5TjF2OVg1QnU4NGhrMzdtN3FRR0tTa19FZWJZcHY4MkFXdXVSVVlPSExDSURyTl8yUU1OWE13czI2TGhRNUFsTkNvUkgwRQ?oc=5",
-      "summary": "How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi Reuters Revolt of the Cockroaches: How India\u2019s Gen Z Humbled Modi Time Magazine An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC \u2018We Are Not Learning Anything\u2019: India\u2019s Gen Z Rage Is a Test for Modi The New York Times India\u2019s gen Z have discovered the power of collective action | Letters The Guardian",
-      "published": "2026-08-03T06:30:00+00:00",
-      "outlets": [
-        "CNBC",
-        "Reuters",
-        "The Guardian",
-        "The New York Times",
-        "Time Magazine"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 16.0,
-      "rank": 9.4,
-      "signals": {
-        "frontier": [
-          "discovered"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Unexpected Structure Detected in The Brains Of Humans And Mice With Alzheimer's Disease",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaGdhd2x1NE44aGpld2p4TXZfa3BRUmRZZzg3T3BzSzlCWTRsbXpVUDAwdkMtWEl6WEY5M0RSRDRTTkhuOUFVTmRIaXBBakxHeU1ZZGxadWtaT0l2aGk4TGpQb0tUS1dlLUUyWGhGdWwzMFllaVVGdF9kYTN0anNTTXJSMzQtQVVhbHZtLTlaQ1I4azdVRENWUW56UVhQTWxVTUYxQWdFY1N3RHNXWDJRYnMtLXRTUGNF?oc=5",
-      "summary": "Unexpected Structure Detected in The Brains Of Humans And Mice With Alzheimer's Disease ScienceAlert Mitochondrial accumulation and lysosomal dysfunction result in mitochondrial plaques in Alzheimer\u2019s disease Nature Newly identified mitochondrial plaques provide potential therapeutic target for Alzheimer's disease Medical Xpress Mitochondrial Plaques in Alzheimer\u2019s Brains Discovered Neuroscience News Newly Identified Mitochondrial Plaques Offer a Potential Alzheimer\u2019s Treatment Target Technology Networks",
-      "published": "2026-08-03T08:04:52+00:00",
-      "outlets": [
-        "Medical Xpress",
-        "Nature",
-        "Neuroscience News",
-        "ScienceAlert",
-        "Technology Networks"
-      ],
-      "feeds": [
-        "google-health"
-      ],
-      "reach": 58.8,
-      "angle": 16.0,
-      "rank": 9.4,
-      "signals": {
-        "frontier": [
-          "discovered"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -439,35 +356,6 @@
       ]
     },
     {
-      "title": "Chilean Mummies Yield First Genetic Proof Europeans Brought Smallpox to Americas",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHN2RjFyMmN2YXQtWVVoQ3R3b3lUTHZFMU01dDd2R184bmZQZWY3QXdNUng4XzloMUZoWmFqdU9CbUh1OUh5VEp2clFpXzNHRDZteWg0WmVJTThIWXFqMDVUTHVhNTJ1OXlCbE1jQjNSLTBRRDdBaGFfd0RhNzRjcmtRTUg2eG40cFBibnNaajJwblBYV1MyeC1nc0lPX09RdGNhUXBVTmhQZzNGb2dtZ2ZJWWZfZw?oc=5",
-      "summary": "Chilean Mummies Yield First Genetic Proof Europeans Brought Smallpox to Americas Ground News Smallpox DNA is recovered from Spanish conquest-era Chilean mummies Reuters \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times Smallpox DNA Hidden for Centuries in Mummies Found in Chile Suggests European Colonists Brought the Virus to the Americas Smithsonian Magazine Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas Medical Xpress",
-      "published": "2026-08-02T15:25:22+00:00",
-      "outlets": [
-        "Ground News",
-        "Medical Xpress",
-        "Reuters",
-        "Smithsonian Magazine",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-health"
-      ],
-      "reach": 54.8,
-      "angle": 16.0,
-      "rank": 8.8,
-      "signals": {
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
       "title": "Rhode Island raises West Nile virus risk to high as more mosquitoes test positive",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHBtMExWX2hXa1liOXBkTkQ4NFpxRTdad0drX21BckVJcHBOQ3VwZGtiWjNXTl9jT1ZVdWgwYng0MUE0MDB1SkFiQXpRZjdtZmRRVzNzSXowZmRFdGRmUFNJTnVlbTlMc3FSbEFHYlFON1EzNE9aTEo1MUUtcnVmZ1c1NEVacmlGbEQxX3c3Z2TSAZYBQVVfeXFMT0RwRVJYVy0yaWV4R2JJNElxR1FuYWE1cGU5SUNWNkxxN0NReW9iSGZyV3FtVHlqSEhkazljZ3lwZ1pCS2lYaGY2WkxYTFZFUTZId08zb0pNNEsxV21HYnJqYnl5YkRveHF0dzFZLTdvWE5weXF3TUh1ZnQ2LTZob0VrMWg4SWsxTTNwdG5NdEQzbGR6TS1R?oc=5",
       "summary": "Rhode Island raises West Nile virus risk to high as more mosquitoes test positive FOX Weather West Nile discovered in mosquito sample taken in North Providence The Valley Breeze Risk of West Nile Virus Climbing ecoRI News West Nile Virus Detected in Rhode Island for First Time in 2025 Ocean State Media 3 More West Nile Virus Samples Found In Rhode Island Patch",
@@ -478,6 +366,35 @@
         "Patch",
         "The Valley Breeze",
         "ecoRI News"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Unexpected Structure Detected in The Brains Of Humans And Mice With Alzheimer's Disease",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaGdhd2x1NE44aGpld2p4TXZfa3BRUmRZZzg3T3BzSzlCWTRsbXpVUDAwdkMtWEl6WEY5M0RSRDRTTkhuOUFVTmRIaXBBakxHeU1ZZGxadWtaT0l2aGk4TGpQb0tUS1dlLUUyWGhGdWwzMFllaVVGdF9kYTN0anNTTXJSMzQtQVVhbHZtLTlaQ1I4azdVRENWUW56UVhQTWxVTUYxQWdFY1N3RHNXWDJRYnMtLXRTUGNF?oc=5",
+      "summary": "Unexpected Structure Detected in The Brains Of Humans And Mice With Alzheimer's Disease ScienceAlert Mitochondrial accumulation and lysosomal dysfunction result in mitochondrial plaques in Alzheimer\u2019s disease Nature Newly identified mitochondrial plaques provide potential therapeutic target for Alzheimer's disease Medical Xpress Researchers Spot Never-Before-Seen Mitochondrial Plaques in the Brains of Alzheimer's Patients inkorr.com Mitochondrial Plaques in Alzheimer\u2019s Brains Discovered Neuroscience News",
+      "published": "2026-08-03T08:04:52+00:00",
+      "outlets": [
+        "Medical Xpress",
+        "Nature",
+        "Neuroscience News",
+        "ScienceAlert",
+        "inkorr.com"
       ],
       "feeds": [
         "google-health"
@@ -522,12 +439,12 @@
       ]
     },
     {
-      "title": "Latest unexplained absence gives the Broncos one option with Drew Sanders",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3VNaFJXd1hrQTNraXlQa255dXVFSG9sXzUwSDctSC00QkxhaHJGVTBWbURqNGNyX1NrcmNaUlZ0U3FCcjNpSlFuMVVlQVBOcE5jTEh6Sm1hLVdJTEpmTVNXTFpZZWRORnF5djRiMHBhVUJreUxFSXlQd25nNGdqWXNuR1RvQXQ5MTdhRzhlY0hueUVYeTV3YUpBaE9ET1VqeURTM0l1RUdlSG14NlQ3T245X0lSOHlVQXc?oc=5",
-      "summary": "Latest unexplained absence gives the Broncos one option with Drew Sanders Predominantly Orange",
-      "published": "2026-08-03T12:00:01+00:00",
+      "title": "Bay Area man dies after unexplained brain injury at Warped Tour",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNk84dl9QNXVPM3pfNy1FRFZIRmpWTUJ3NVR3Ry1ZRnhVb25yM01aZkVERXJqRDRTRlNWOEFxM1VoMFNQeEpsSlFyV0JzekNEeGxCdTVhekhhUHJIWjFXa3lfLWNSTXUwUWYyai1nMHJsMW5MZDAxZ0hIRWNkVDA1S1BsSzVMaU5XS0JaR1pnSjJhREp6UDZWdXZuZ2FmbTI3QXgxZEtn?oc=5",
+      "summary": "Bay Area man dies after unexplained brain injury at Warped Tour San Francisco Chronicle",
+      "published": "2026-08-03T17:00:49+00:00",
       "outlets": [
-        "Predominantly Orange"
+        "San Francisco Chronicle"
       ],
       "feeds": [
         "angle:unexplained"
@@ -547,12 +464,12 @@
       ]
     },
     {
-      "title": "Bay Area man dies after unexplained brain injury at Warped Tour",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNk84dl9QNXVPM3pfNy1FRFZIRmpWTUJ3NVR3Ry1ZRnhVb25yM01aZkVERXJqRDRTRlNWOEFxM1VoMFNQeEpsSlFyV0JzekNEeGxCdTVhekhhUHJIWjFXa3lfLWNSTXUwUWYyai1nMHJsMW5MZDAxZ0hIRWNkVDA1S1BsSzVMaU5XS0JaR1pnSjJhREp6UDZWdXZuZ2FmbTI3QXgxZEtn?oc=5",
-      "summary": "Bay Area man dies after unexplained brain injury at Warped Tour San Francisco Chronicle",
-      "published": "2026-08-03T17:00:49+00:00",
+      "title": "Latest unexplained absence gives the Broncos one option with Drew Sanders",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3VNaFJXd1hrQTNraXlQa255dXVFSG9sXzUwSDctSC00QkxhaHJGVTBWbURqNGNyX1NrcmNaUlZ0U3FCcjNpSlFuMVVlQVBOcE5jTEh6Sm1hLVdJTEpmTVNXTFpZZWRORnF5djRiMHBhVUJreUxFSXlQd25nNGdqWXNuR1RvQXQ5MTdhRzhlY0hueUVYeTV3YUpBaE9ET1VqeURTM0l1RUdlSG14NlQ3T245X0lSOHlVQXc?oc=5",
+      "summary": "Latest unexplained absence gives the Broncos one option with Drew Sanders Predominantly Orange",
+      "published": "2026-08-03T12:00:01+00:00",
       "outlets": [
-        "San Francisco Chronicle"
+        "Predominantly Orange"
       ],
       "feeds": [
         "angle:unexplained"
@@ -672,74 +589,16 @@
       ]
     },
     {
-      "title": "Nancy Guthrie ransom notes were written by two different people, expert claims \u2014 and what this could mean",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjdDSGpnVGxFMzZDOXFPQy1oN05JMlpUTXVwa2RVUmdoeG5RMjZRdndKZEI0dWJoY3lQNXNJdDhUSzFPaUpLeEJraUdhWlhjQThRVlZaU0luTjVCaHpzMGtmMmlhNllFbjJoNlVDNEVuQmRrMWEzdmMydGZua2JpYzlXb0hlRWwyaGdmRkRRMEtWV2hkc2NlaHZONnZSTkpzWWx5eFB2dnQ2dWQ2S0I5SmxuNkV3MGc?oc=5",
-      "summary": "Nancy Guthrie ransom notes were written by two different people, expert claims \u2014 and what this could mean New York Post Five Things You Didn\u2019t Know About the Nancy Guthrie Case WSJ Nancy Guthrie Ransom Notes: Experts Detail 3 Possible Motives for Writers Yahoo How ransom notes could help catch Nancy Guthrie's kidnappers BBC Letters sent to Nancy Guthrie\u2019s family after she disappeared are released NBC News",
-      "published": "2026-08-03T12:06:00+00:00",
-      "outlets": [
-        "BBC",
-        "NBC News",
-        "New York Post",
-        "WSJ",
-        "Yahoo"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 14.0,
-      "rank": 8.2,
-      "signals": {
-        "disappearance": [
-          "disappeared"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
-      "title": "Nancy Guthrie ransom notes release follows Unabomber \u2018precedent' that cracked case, expert says",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXhlLUFRWjZGdjREZmJ6WHBOMUo4RFhKM1M1MGotSGhtdjlvbzBfWUlFTjA0TkJ1WWd6eU1JYTYyQ0VUMG02YzBqeEN2aDJRRWN3Sk01emFqR3hZUE9UM2NzLTF1UktkVDhHdFJfNGxWY3ptT3BfY2YzRVJCNEtUTDhVczI2eUdYMms0alh6aHNwS2xVYnpDcldQd1NiTV9DNHZiVGg2Tl9OcXB2a0VvSHY3dXXSAboBQVVfeXFMT1ZoRVdCMzdOQm5PT1JNdHZlSk9QWG9tcUc1eDFiay1Ocjk0cmRkV1FqRjJhbFZ6NjhwNWtGRkVxRktUeUdOS3dmMGpWLW5Vb3l3WGZvanhWNXZBMS02eklXQXJwMzY0VFVfMk8tQTc5NFpMa0cxQkl3U1hMT3VCdUtlbTd1RHBZd1RrRk9lLUJNSFloZklJWUU1MWx5N2JobWNCUVRqWVBuSy1scXRHX2FZRUlVVmNJc1lR?oc=5",
-      "summary": "Nancy Guthrie ransom notes release follows Unabomber \u2018precedent' that cracked case, expert says Fox News Five Things You Didn\u2019t Know About the Nancy Guthrie Case WSJ Nancy Guthrie Ransom Notes: Experts Detail 3 Possible Motives for Writers Yahoo How ransom notes could help catch Nancy Guthrie's kidnappers BBC Letters sent to Nancy Guthrie\u2019s family after she disappeared are released NBC News",
-      "published": "2026-08-03T14:58:04+00:00",
-      "outlets": [
-        "BBC",
-        "Fox News",
-        "NBC News",
-        "WSJ",
-        "Yahoo"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 58.8,
-      "angle": 14.0,
-      "rank": 8.2,
-      "signals": {
-        "disappearance": [
-          "disappeared"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
       "title": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEJPTEdoTWd6MWVtZ0w5aVY1VTNvVFZ0bE9iRVRjX2hoVVhfQWVGQ2xmZDh1OUpmd04wbFNNYWEwMWhQeG92VklmOE1kc1BpVjNXLXF6UmR4U2JjZC1TYWRSaUVHcFpUYnY0LUd0aGY3bkt6QnU5ZGN4MWd0YmRrWkZkdU82SHU0Z2ppVXhrNVNkZkJmLVNaUU5B?oc=5",
-      "summary": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms Yahoo Ecosystems of Rock-Eating Fungus And Tardigrades Found Thriving Deep Within a Gas Shale ScienceAlert The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org A vast world of rock-eating fungi lurks deep underneath the Great Lakes popsci.com",
+      "summary": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms Yahoo Ecosystems of Rock-Eating Fungus And Tardigrades Found Thriving Deep Within a Gas Shale ScienceAlert The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science",
       "published": "2026-08-02T03:08:00+00:00",
       "outlets": [
         "Gizmodo",
         "Phys.org",
+        "Popular Science",
         "ScienceAlert",
-        "Yahoo",
-        "popsci.com"
+        "Yahoo"
       ],
       "feeds": [
         "google-science"
@@ -757,27 +616,168 @@
       "prompts": [
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
+    },
+    {
+      "title": "CIA whistleblower John Kiriakou on accountability and CIA\u2019s history",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGRULVBZZDczMnlEc0RKZzRzR20teWNJVVp6OFh0TlAxNXRmYUkyRXdiQjd1Mk1La3h0Q0ZZWFR6a2VLS3dQeWc2cHJnWURiMmFqbG5lLXJoVk5qa2JZODJFaGFBZ0hSXzc2M293UHd1c25Ed0Zoc1h1SUNsQjgxNFdBdWt3a2M1dWE0MVpZS1FrOHJpakFmcTN3MzBUWl9BREhBUWJKdXpjY21JNG5KVTF0UFg0Z9IBuwFBVV95cUxQeWl4bERZZnBOT3VsVHVIMVZlMjVXb2UtTmZrclRmR2dyczlhbHJudzQtaEx6Z0NZTVN6M05EUWJ4WUxjWkdhbVhHdFZlSjVUOGZOeGxKZ3VzQjk4SUdRVVBlV3NvcERRWEg1TEJ0WmVRbHNDZ2FqbHRLZGtRRFhkZHh4aXA0VHFfemw2X0RKUkJsVjdwcjlNWkk2VUhVeGMtX0VqMnZIWnZXQzYxU1daYmpUR1pnbm16X0g0?oc=5",
+      "summary": "CIA whistleblower John Kiriakou on accountability and CIA\u2019s history Al Jazeera",
+      "published": "2026-08-02T15:39:18+00:00",
+      "outlets": [
+        "Al Jazeera"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 22.0,
+      "angle": 35.6,
+      "rank": 7.8,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ],
+        "institutional": [
+          "cia"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered.",
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Judge dismisses Charlottesville whistleblower lawsuit against Sentara",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEdwNHBQM1hiNWJyLTN5X3did0t0UE80LVdSczZLQjB3T05rRnFrSDJYd3BVc0lLVThIVThLNTAtRXROMkx0OEJoOFAzM1Qyc3dBNHZMR01kOGxUQzdCV1dMczlNbDdwX1JSRDdPME84dkxSTlRlZWMtR3E1RDlUZ3B3SExZTW1Yc2Frcks4aGFmd2hGQ3RIR1BSdmduQUQ3?oc=5",
+      "summary": "Judge dismisses Charlottesville whistleblower lawsuit against Sentara The Daily Progress",
+      "published": "2026-08-01T02:00:00+00:00",
+      "outlets": [
+        "Roanoke Times",
+        "The Daily Progress"
+      ],
+      "feeds": [
+        "angle:whistleblower"
+      ],
+      "reach": 27.5,
+      "angle": 28.0,
+      "rank": 7.7,
+      "signals": {
+        "secrecy": [
+          "whistleblower"
+        ]
+      },
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
+      "title": "Resident and dog unaccounted for in West Linn house fire",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlwRnI0NnlpNld4VDQxaHVlQjJEVlJpYXhNR092ejhqY2h3bElRMkcwQ3cyYk1GRFdpUEFEUnZWTGlBNUs3UWdtVktUY05VNTd6dWNKSFUzel9qWW84VC12Xy0tajZZNTFzWmt3eFBaV29hZkl0ektwN3N5VmpMV2thQlBaVkJYUkhBWQ?oc=5",
+      "summary": "Person who re-entered large West Linn house fire to rescue dog still \u2018unaccounted for\u2019 KOIN.com",
+      "published": "2026-07-31T09:19:29+00:00",
+      "outlets": [
+        "KATU",
+        "KOIN.com",
+        "KPTV"
+      ],
+      "feeds": [
+        "angle:unaccounted for"
+      ],
+      "reach": 31.9,
+      "angle": 23.9,
+      "rank": 7.6,
+      "signals": {
+        "institutional": [
+          "who"
+        ],
+        "disappearance": [
+          "unaccounted for"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls.",
+        "Someone or something is gone. Absence is the strongest open ending there is."
+      ]
+    },
+    {
+      "title": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began?",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXRCTmItOThpcG5jNzByYjV4Ti10RmlSOHpvUE91R1VSRG53SGxHUWZyQUNvMTRhODJpaVJrRUQtcDVHZXBDbHpaTzVGcDc2dDJqYThsQzE1VTdzUVlCaVl5YVRZNGF5bVRMYWlRSFNmUXpVUWFNTXlWa0x0RXpicWE4bWtLeTByUVp2dVZrV28wOTk2TXg5RmZZd0ozN2FBaS1BUTRGWUliMHFNendTNzNGd2h2WHkxUjFWenU0eW8yQQ?oc=5",
+      "summary": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began? The Guardian",
+      "published": "2026-08-02T15:00:33+00:00",
+      "outlets": [
+        "The Guardian"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "mystery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Sanctuary of Our Lady of Lourdes: Investigating medically unexplained cures | 60 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVMzVHlnc0ZWVXc0eWU2Y2ZnTUJuRjY4ZGpLRkpsRk5OMGcwV1lBWEkyU1ptdkY4QlpJVUp1ZU54WUhvQjRYR0xnZ2h2aUpVeHBGUDhhN1lQcl95eUx4TVhjQ19SWXpHamY1YWtMMFJoSThHVzE4WjY3UGNHdVo2a3M5aEdUY0tHdVZ2WVVwSmpUWnctUGdNblZZaDNPYkJIZEJSc3VLUFFnZw?oc=5",
+      "summary": "Sanctuary of Our Lady of Lourdes: Investigating medically unexplained cures | 60 Minutes CBS News",
+      "published": "2026-08-02T23:00:00+00:00",
+      "outlets": [
+        "CBS News"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
     }
   ],
   "blocked": [
     {
-      "title": "SpaceX Falcon 9 rocket stage set to crash into Moon and carve new crater",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqSW4xbFNvRXk1Z2d0Z2RldVF4dVRncXVYSFRjQWpNQ2ptWXotN05mR3lIUllmY0FYVGRub0MzZ2ljdURfNDJWeDhFWnJ2WXlCcjctSVh0Rzl4S0xFTlZz?oc=5",
-      "summary": "SpaceX Falcon 9 rocket stage set to crash into Moon and carve new crater The Jerusalem Post Defunct part of SpaceX Falcon 9 rocket will slam into the moon NPR A defunct SpaceX rocket is about to crash into the moon NBC News A SpaceX rocket will crash into the moon this week, and scientists aren't sure what to expect space.com A SpaceX rocket will slam into the moon on Wednesday, and astronomers will be watching closely CBC",
-      "published": "2026-08-03T11:51:10+00:00",
+      "title": "Michigan reports first US deaths in cyclosporiasis outbreak",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5",
+      "summary": "Michigan reports first US deaths in cyclosporiasis outbreak Reuters First deaths reported in cyclosporiasis outbreak CNN Michigan reports first two deaths linked to cyclospora outbreak BBC 1st deaths in cyclosporiasis outbreak reported in Michigan as cases surpass 11,000 ABC News - Breaking News, Latest News and Videos What Philadelphia shoppers should know about the recent lettuce parasite WHYY",
+      "published": "2026-08-03T20:05:46+00:00",
       "outlets": [
-        "CBC",
-        "NBC News",
-        "NPR",
-        "Space",
-        "The Jerusalem Post",
-        "space.com"
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "CNN",
+        "Reuters",
+        "WHYY",
+        "bbc-world",
+        "reddit-news"
       ],
       "feeds": [
-        "google-science",
-        "google-top"
+        "bbc-world",
+        "google-nation",
+        "google-top",
+        "reddit-news"
       ],
-      "reach": 71.7,
+      "reach": 90.2,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -788,21 +788,50 @@
       "prompts": []
     },
     {
-      "title": "2 deaths linked to parasite outbreak in Michigan",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV0EzQm5ScUNwbEx2MGVzbGcyV3U0ZWhsVThVSEhfVkQ5VHFNVmlRdW00ZHZZMHpuNUtVcmtwS1I0NWVsNHRVNHBpMGlKcm9aR0pCT3FXekxlSG1lcEVleWJhTVVKbnNLMzJuWUJ2NWphSkhRYmlxVFJJMlhPY01EeVlaOGxTUWV0OHl0a1VxMG1zUdIBpgFBVV95cUxQbUNMUjZFa1BuenBNMG51REM1RkxLdXhQejlYanZGN2liRzBOZVZrR1RqYV8tOG1CWGJtT2MtM2haMnZRSHd2UWZSblIzTlhhUEUzVldrbHZNd2NQUlE3RlVEczdXR2xjaVRMVmxhZ0ZzbXdxa0xtNE5xV3EtWUx2c1dBem9yd256ZU1uVzlna3JNWTl6T2YwWko5Y0RxcFFScXB1bVN3?oc=5",
-      "summary": "2 deaths linked to parasite outbreak in Michigan MLive.com First deaths reported in cyclosporiasis outbreak CNN Michigan confirms first two deaths in cyclospora outbreak CNBC 1st deaths in cyclosporiasis outbreak reported in Michigan as cases surpass 11,000 ABC News - Breaking News, Latest News and Videos What Philadelphia shoppers should know about the recent lettuce parasite WHYY",
-      "published": "2026-08-03T16:58:01+00:00",
+      "title": "Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
+      "summary": "Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate AP News Live updates: Almost 65,000 people evacuated as Spokane County wildfires cause \u2018heartbreaking\u2019 devastation CNN Spokane County fires destroy 700 structures, force up to 65,000 evacuations KATU Incident commander says firefighters are still in fight on Autumn Lane Fire in Stevens County KXLY.com Wildfire leaves Northwest Spokane in a \u2018war zone\u2019 The Spokesman-Review",
+      "published": "2026-08-03T17:20:00+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "CNBC",
+        "AP News",
+        "BBC",
         "CNN",
-        "MLive.com",
-        "WHYY",
-        "reddit-news"
+        "KATU",
+        "KXLY.com",
+        "The Spokesman-Review",
+        "bendbulletin.com"
       ],
       "feeds": [
+        "angle:unaccounted for",
         "google-nation",
-        "reddit-news"
+        "google-top"
+      ],
+      "reach": 84.2,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLZk50LXJOX1plUF9JSlc4UUlXaTlTLVlrX0FyTWtyeVVlUDFpbjBYamxoVlFCOFFTNXhPWW1qdjNrTFd5SjNMbWVUZjRKNjVlLS16VVRKYXJBdw?oc=5",
+      "summary": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach BBC Russia says seven killed as Ukrainian drone hits crowded Russian beach CNN At least 17 killed as Russia and Ukraine trade heavy attacks Al Jazeera Ukraine drone strike on Russian holiday spot kills 11 ABC News & Headlines \u2013 Australian Broadcasting Corporation At Least 11 Killed in Ukrainian Attacks in Southern Russia and Annexed Crimea The Moscow Times",
+      "published": "2026-08-03T18:04:30+00:00",
+      "outlets": [
+        "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "The Moscow Times",
+        "bbc-world"
+      ],
+      "feeds": [
+        "bbc-world",
+        "google-world"
       ],
       "reach": 71.7,
       "angle": 0.0,
@@ -817,14 +846,14 @@
     {
       "title": "'What was my fault?': How India's exam paper leak ended young lives",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZHoxNnFOQlYwaFFwcllxelZ4VWtYdmxIUW9Zd1ZZSThVdUtRQnRjRkNaQkotYVpGMTA4aVk2RUVWVTdsV3VsWXJ6cXlKZENBQVRjV0NSUVJqQQ?oc=5",
-      "summary": "'What was my fault?': How India's exam paper leak ended young lives BBC From a mother\u2019s grief to a nation\u2019s fury: How an exam leak became a political storm NPR Gujarat Congress claims that BJP government's 'failed' systems push students into despair The New Indian Express Student suicides jumped 80% in ten years; over 2,000 die by suicide every year due to exam failures The Hindu Congress attacks Centre over exam deaths; NCRB says 1,071 child suicides due to exams India Today",
+      "summary": "'What was my fault?': How India's exam paper leak ended young lives BBC From a mother\u2019s grief to a nation\u2019s fury: How an exam leak became a political storm NPR Gujarat Congress claims that BJP government's 'failed' systems push students into despair The New Indian Express Student suicides jumped 80% in ten years; over 2,000 die by suicide every year due to exam failures The Hindu What the Children Said: The Humbling Realities Beyond India\u2019s \u2018Gen Z Protests\u2019 americankahani.com",
       "published": "2026-08-02T23:35:54+00:00",
       "outlets": [
         "BBC",
-        "India Today",
         "NPR",
         "The Hindu",
         "The New Indian Express",
+        "americankahani.com",
         "bbc-world"
       ],
       "feeds": [
@@ -844,14 +873,14 @@
     {
       "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
-      "summary": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting The Guardian When gunshots rang out at a Twin Falls In-N-Out, this Idaho man shot back Idaho Statesman 'Senseless act of violence': Idaho community grapples with deadly In-N-Out shooting KBOI At least 3 dead, 7 injured in Twin Falls In-N-Out shooting Boise State Public Radio Authorities seek a motive in the mass shooting at an Idaho In-N-Out Burger wmur.com",
-      "published": "2026-08-03T15:38:00+00:00",
+      "summary": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting The Guardian Authorities seek a motive in mass shooting at an Idaho In-N-Out Burger PBS At least 3 dead, 7 injured in Twin Falls In-N-Out shooting Boise State Public Radio Dick\u2019s Sporting Goods employee describes coming face to face with Twin Falls shooter KMVT Treasure Valley police officers help patrol Twin Falls following mass shooting at In-N-Out KBOI",
+      "published": "2026-08-03T14:16:00+00:00",
       "outlets": [
         "Boise State Public Radio",
-        "Idaho Statesman",
         "KBOI",
-        "The Guardian",
-        "wmur.com"
+        "KMVT",
+        "PBS",
+        "The Guardian"
       ],
       "feeds": [
         "google-nation",
@@ -874,76 +903,24 @@
       ]
     },
     {
-      "title": "Australia warns H5N1 likely to spread after first mass mortality episode",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk1kc3p4R3hzQmRJS1NRY1ZVYmFfZVJSc0JISUdPSlZicXJPbU9TamZIV2FuMmp3T0piYlI5aFVyOUowRFBxS3V2RXhyYS1ObVBGbzlQbVpRU2VEZ3lsLXBfLWdoSTh5MVFyMXRoeHVfZUoxWHl3OTRWaXlEc3JzZ2YybDFUMGFEZm5BSEM0eVlLV1JMNjRreHNybl9xeXZLLV9kY3B1ZlBfTjEwUDg1MTh30gG3AUFVX3lxTE13bzNJRi13YXNxSDktUFNuOFNEb25rQnZlVG0zRFMyZFBEclpoQzhLVXFGNHZPWHJldzNTTnVhbU0zcU0yak5lbzB0UFpoMko3Smh5YVlERWJJWDF3SkJWajNFZ3d0TzRDbTBiZGRPaXE2Nnc3anM3YkVfbjM3aHJjOWVrN2ZmRmY3TFZIcXdZZlJ6THhtVGd5bExhanozZGx6NzJwN1JvejNnbFduaFZERkdhaFRxMA?oc=5",
-      "summary": "Australia warns H5N1 likely to spread after first mass mortality episode Al Jazeera The warning signs are over: Australia now faces a devastating bird flu outbreak in wildlife The Conversation Australia confirms first mass death of seabirds from H5N1 bird flu Reuters Suspected mass bird flu deaths found in second state as Murray Watt warns \u2018this is the beginning\u2019 The Guardian Now bird flu has hit seagulls a 'super-spreader' event is more likely ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "published": "2026-08-03T09:12:38+00:00",
+      "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
+      "summary": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush Reuters Spain installs sea barrier on Ceuta's border with Morocco after frontier rush that killed 67 PBS Hundreds of migrant minors stranded in Ceuta after border crisis Al Jazeera Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory CNN Spain Says Most Immigrants Who Overran Its African Enclave Have Left WSJ",
+      "published": "2026-08-03T16:08:35+00:00",
       "outlets": [
-        "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
         "Al Jazeera",
+        "CNN",
+        "PBS",
         "Reuters",
-        "The Conversation",
-        "The Guardian"
+        "WSJ"
       ],
       "feeds": [
-        "google-health",
-        "google-top"
+        "google-top",
+        "google-world"
       ],
       "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting beach - live updates",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVUV2NDN6eUVla2ZGa1FNVVFYVDl2TEpUZVk0NTJZVlJDdHpoS2h5OHFUZW5zdHBON1BLei1JNERpT2FXQ1FWYnpOS0o0WkwyOTh6Uw?oc=5",
-      "summary": "Russia says seven killed and 40 injured by Ukrainian drone hitting beach - live updates BBC Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach BBC More than 10 killed as Russia and Ukraine trade heavy attacks Al Jazeera Ukrainian strikes on holiday resort, Crimea kill 11 rte.ie At Least 11 Killed in Ukrainian Attacks in Southern Russia and Annexed Crimea The Moscow Times",
-      "published": "2026-08-03T18:04:30+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "BBC",
-        "The Moscow Times",
-        "bbc-world",
-        "rte.ie"
-      ],
-      "feeds": [
-        "bbc-world",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "More pregnant women are dying in Congo as they avoid hospitals over Ebola",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTBDVVNZcGVsYWlVc2VLalJKVE9MUVlCMlRLblVBWVo5ZEVsQmNzRC04bU92NXFWQnp2X2x2MWt6N2FONU9qbEhqRjJsaHIzc0NTMnVkWGh5VGxxREhjakh1ZWQ2c080RjVzTkg3TWRRVGE2eWJwT3h0bktSQVdkelQyUERNU3p0THI2SXFsaGZveC04T2ZKdEktbnRYV1htNnVHSWxIT1MzMld3dTg4?oc=5",
-      "summary": "More pregnant women are dying in Congo as they avoid hospitals over Ebola AP News Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo World Health Organization (WHO) Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Congo says the death toll in fastest-growing Ebola outbreak has passed 1,500 ABC News - Breaking News, Latest News and Videos Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says BBC",
-      "published": "2026-08-03T05:13:00+00:00",
-      "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "AP News",
-        "BBC",
-        "The Guardian",
-        "World Health Organization (WHO)"
-      ],
-      "feeds": [
-        "google-health",
-        "google-top"
-      ],
-      "reach": 60.8,
       "angle": 18.0,
-      "rank": 10.9,
+      "rank": 11.7,
       "signals": {
         "institutional": [
           "who"
@@ -958,50 +935,120 @@
       ]
     },
     {
-      "title": "Suspect arrested in Greece after British woman's body found in suitcase",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2RfeFpKdWlFdjFneFFqOXBJbUtwVENuN3YxV3VuMXJVTkotbXFISWVDNHRLNkJUQmQ1TWtYSGtRNUlsR0hkcEpYQ1YxcFFIMFg2dll5TTBnVlNNMl9ieW41QzhtSFd4MEtaSDd6TWs1ME9yTEpTM2ZIaWZaRXdReXN6MzFGX2E2dEQ2VWx1aEUyRm10dHpz?oc=5",
-      "summary": "Suspect arrested in Greece after British woman's body found in suitcase CBS News Man admits transporting Scottish woman's body in suitcase, Greek police say BBC Man arrested after Scottish woman found dead inside suitcase in Athens The Guardian Afghan, 26, arrested over death of woman found in suitcase in Athens The Times Aid worker who helped refugees in Greece murdered by migrant, body hidden in suitcase ynetnews.com",
-      "published": "2026-08-03T10:32:00+00:00",
+      "title": "SpaceX Falcon 9 rocket stage set to crash into Moon and carve new crater",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqSW4xbFNvRXk1Z2d0Z2RldVF4dVRncXVYSFRjQWpNQ2ptWXotN05mR3lIUllmY0FYVGRub0MzZ2ljdURfNDJWeDhFWnJ2WXlCcjctSVh0Rzl4S0xFTlZz?oc=5",
+      "summary": "SpaceX Falcon 9 rocket stage set to crash into Moon and carve new crater The Jerusalem Post A discarded SpaceX rocket is on a high-speed collision course with the moon AP News The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases WIRED A SpaceX Rocket Is About to Punch a New Crater Into the Moon ZME Science A SpaceX rocket will slam into the moon on Wednesday, and astronomers will be watching closely CBC",
+      "published": "2026-08-03T11:51:10+00:00",
+      "outlets": [
+        "AP News",
+        "CBC",
+        "The Jerusalem Post",
+        "WIRED",
+        "ZME Science"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 64.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Greece battles wildfires \u2013 in pictures",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVFPMWpMQ3pYX2NaU25RUF95YlhLbDZQWWVubmFSMHdvUXFaUm5hNW5QMndlZHNCcF9tX0ZocXNxWVB1NzhUWEg4c2NJd3FtV3RrV1pHQzQ1OUE0MTAxS21rOGxhcDJkNUtlTlVVZnlzM3M5c1RQUGd5VU1OVUpMRmhranFlS01JVWw1bU1SMWJPRGFk?oc=5",
+      "summary": "Greece battles wildfires \u2013 in pictures The Guardian Firefighting helicopters collide midair in Greece as wildfires rage across Europe CBS News Greek crews fight wildfire northwest of Athens for fourth day Reuters Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds CNBC 2 Killed as Firefighting Helicopters Collide in Greece The New York Times",
+      "published": "2026-08-03T13:10:00+00:00",
+      "outlets": [
+        "CBS News",
+        "CNBC",
+        "Reuters",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNldQZThnV3hSVVhVWFJNazRHbmxmX2Z4MHl0RzlNSVppMU5CYnVZVnVIUjE0UlRRQy1jYWxzRkVQMmhsSlRwbTVKRnh1Y3liNTV2ak8yZ0FLVFBQWktfMF9WN2wxY00zVTBJUWwtU3JxcGRvY3dSSDhRUVBQbnU3Z1p3d3VyRUQzSGFQMGp3Z0laWm5ZeUVtUUNCMFVXXzlDTlE?oc=5",
+      "summary": "Russia blames Ukraine for deadly restaurant bombing in Moscow The Guardian Steve Rosenberg at the Moscow restaurant where bomb killed three BBC Moscow mayor says explosion that killed 3 at restaurant was a \"terrorist act\" CBS News Russian Embassy in Rome blames Ukraine for deadly Italian restaurant bombing in Moscow AP News Explosion in Moscow leaves at least 5 dead, 21 injured ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-08-03T20:13:00+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "BBC",
+        "CBS News",
+        "The Guardian"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Mexican drug lord arrested for allegedly ordering influencer\u2019s live-streamed murder \u2014 after she broke up with his son",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcExmME1hWjg2TGNod1FVbG5lM09qX21qcUV6Y0xFSXFzaEdlUDVhNVhMUV9qVHRoMDIzenp3aGY5a2lkdHZqTHFXUm1oMU5mX1lDcGNSVlFJOHJDcW4wMzBIU1h2UkRIR1ZWRUt0elNqRHNZZjg3NWFmQms1NGVSM2pNd3Rsb2NGSGdmZFBBNFJYZTBUeXVJeGRGUVkxTWV0X28zcHMwTFdsNjlKQWtHZVJFSFpjYlFKMjNPa3VCNlh2QlQz?oc=5",
+      "summary": "Mexican drug lord arrested for allegedly ordering influencer\u2019s live-streamed murder \u2014 after she broke up with his son New York Post Cartel Boss Accused of Hiring Hitman to Attack Beauty Influencer After She Split From His Son Yahoo Cartel Member Arrested After Son\u2019s Ex Is Killed on Livestream People.com Valeria Marquez Murder Case Takes Shocking Turn as Ex\u2019s Cartel Leader Father Is Arrested for Ordering Hit Us Weekly Cartel boss \u2018behind influencer\u2019s live-streamed murder\u2019 arrested The Times",
+      "published": "2026-08-03T14:32:00+00:00",
+      "outlets": [
+        "New York Post",
+        "People.com",
+        "The Times",
+        "Us Weekly",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Church tribute to 'precious' missionary found dead in suitcase in Greece",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TS3ZSckxqRWRtX0xZenlHczlBMGt6QUZMS0RUNU9mNzJaSHBUbUZ6bndSUE1ITC1QVkhMdlNobENoWjRRbHFiM0xBTjc2LVE5R0VtbjU1RE90UQ?oc=5",
+      "summary": "Church tribute to 'precious' missionary found dead in suitcase in Greece BBC Greek authorities investigate motive behind murder of Scottish woman found inside suitcase The Guardian Greek police arrest man after British woman's body found in suitcase upi.com Suspect arrested in Greece after British woman's body found in suitcase CBS News Champion boxer held over death of woman in suitcase in Athens The Times",
+      "published": "2026-08-03T17:16:20+00:00",
       "outlets": [
         "BBC",
         "CBS News",
         "The Guardian",
         "The Times",
-        "ynetnews.com"
+        "upi.com"
       ],
       "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 18.0,
-      "rank": 10.6,
-      "signals": {
-        "institutional": [
-          "who"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
-      "title": "1st deaths in cyclosporiasis outbreak reported in Michigan as cases surpass 11,000 - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGlCZjl5VHFONndlNDZiZlpJTXdTMnVsMDZDeERSVXItQjRQNG1HSEdlQWlrNHdCVGRPNHRaUVkzODluTHRfLXBRRkxQMTFnTlNMY1Jham1DMm5lQ2NMNXNwbGdwc0lkQXdWR3FRdkQxTmZocTVybEM3U1VoakVJbXBma2ZKNjJQVE1rSmw2VlBHeERBd2Ffbm93b0xFbUlqc3h3RzZRR3Y4MUN1dkVV0gG0AUFVX3lxTE5jZVFpVmtCanNMckZtc3oza2NfVW9PaTByVTZZNnZKOHl6Y3VEdVBZc0g1NERfakFpWXFIY0ZXVkIzR0NDd2tySjBPUmpHa1l4dE5fUmdrMUwzdGhkdktFUTZXanpSUXJpb3VxRTRoZmZsc2E4M1p5VGhqT0dwQ0htYTJkT21xajdVa09kUDBMbjF3MXU1Ulg4T1ptRTdhaEw3ZVJKSjV2aFNjeUx3TVVJOWJydA?oc=5",
-      "summary": "1st deaths in cyclosporiasis outbreak reported in Michigan as cases surpass 11,000 ABC News - Breaking News, Latest News and Videos Michigan confirms first two deaths in cyclospora outbreak CNBC First deaths reported in cyclosporiasis outbreak CNN Two people have died amid US cyclosporiasis outbreak, Michigan officials say The Guardian What Cyclospora does inside the gut and how it gets there NPR",
-      "published": "2026-08-03T16:31:28+00:00",
-      "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "CNBC",
-        "CNN",
-        "NPR",
-        "The Guardian"
-      ],
-      "feeds": [
-        "google-top"
+        "google-world"
       ],
       "reach": 58.8,
       "angle": 0.0,
@@ -1014,66 +1061,16 @@
       "prompts": []
     },
     {
-      "title": "Vincent Pastore, mob enforcer on \u2018The Sopranos,\u2019 dies at 80",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSy1WWUZtM1UwUG5oVmh2a21oYVUtVlI0Z3dDMUQ5OWR2ZGlfYjBpWjhzRXpIQWdKd05nRmtxUnZsanhGUlNMLW5oZVZidHJKbENpaDRQTEZUU0RCLTBudkFpOHBJMWRoMmlBZWFfbU9HR3NaOUdid0FVREgyWFR1eEJKUEVROVdWbEtr?oc=5",
-      "summary": "Vincent Pastore, mob enforcer on \u2018The Sopranos,\u2019 dies at 80 NBC News Vincent Pastore, Actor on \u2018The Sopranos,\u2019 Dies at 80 The New York Times Vincent Pastore obituary The Guardian \u2018Sopranos\u2019 actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80 AP News Vincent Pastore supported a \u2018Sopranos\u2019 castmate in his last public appearance before his death Page Six",
-      "published": "2026-08-03T14:38:00+00:00",
+      "title": "MAGA-Curious CBS Boss\u2019 Own New Hire Issues Dire Warning for Her",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHBoRHJ4ejBsZmYzUjJTRmlpVjN3SzFfa2phVXkyVUxyUjVNcE9kRmh5aGVqRllyWWloTGZ5RE9pTk8zdlpsVGZpVXc1OVdxQlZCbl9yRElBaF8tdEwwMkUxdHJWSmkxWEFJNHRQc2Q4dmlzUjNOSmUzTzBhLTZHTUxwUUVLeVRZNHYwM1RjeTgtbDhlTUVZLXhSeXBZaGlIT1RTYmtsTUxBLVhESUt0dTlIZ0V5cG5tbDQ5U0o3bEI?oc=5",
+      "summary": "MAGA-Curious CBS Boss\u2019 Own New Hire Issues Dire Warning for Her The Daily Beast Trevor Phillips Says Bari Weiss 'Will Either Change the World or Crash and Burn' Variety New CBS correspondent says Bari Weiss might \u2018crash and burn\u2019 at network Entertainment Weekly New \u201860 Minutes\u2019 Correspondent Defends Bari Weiss\u2019 \u2018Heterodox\u2019 CBS News: \u2018Return to the Business of Reporting\u2019 Yahoo Trevor Phillips Says Bari Weiss Will Either \u2018Change the World\u2019 or \u2018Crash and Burn\u2019 People.com",
+      "published": "2026-08-03T14:19:00+00:00",
       "outlets": [
-        "AP News",
-        "NBC News",
-        "Page Six",
-        "The Guardian",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Phil Collins Reveals He Nearly Died From Alcohol Abuse: \"People Were Coming To Say Goodbye\"",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0NsaEJqOGZyTUFmd3Z3Zm1WdzVZcTBYdnB3Z0g2WHhLZ3VfLWZKS2kzRW94MmlWUDUzR09JZUtzTW53VU4tbWpoLVVTQ2xwamx1RnJfVkJ2Y0RoQzhmbzJkZUI0NUZJZEI1MFAySGVpMWZPZE04THNNZE5EWlRsbFY2eHBmZGdTVVFYZ3NiOWROQjZiVEt5d3ZuUHJwX1NKczBCNFo3cngxdTJLdG9TdEphUm9Ic1RBamJobXpVRjM?oc=5",
-      "summary": "Phil Collins Reveals He Nearly Died From Alcohol Abuse: \"People Were Coming To Say Goodbye\" Stereogum Phil Collins details serious alcoholism: \u2018People were coming to say goodbye\u2019 The Guardian Phil Collins Recalls His Five Children Gathering for What Could Have Been a Final Goodbye Yahoo Phil Collins Says He Nearly Died From Alcohol Abuse: \u201cI Was Very Lucky\u201d Deadline Phil Collins came close to death in 2024, loved ones said goodbye usatoday.com",
-      "published": "2026-08-03T14:32:00+00:00",
-      "outlets": [
-        "Deadline",
-        "Stereogum",
-        "The Guardian",
-        "Yahoo",
-        "usatoday.com"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
-      "summary": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush Reuters Spain installs sea barrier on Ceuta's border with Morocco after frontier rush that killed 67 PBS Hundreds of migrant children are stranded in Spain\u2019s Ceuta after mass crossing AP News After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach The New York Times Why does Spain have \u2018enclaves\u2019 in North Africa? Al Jazeera",
-      "published": "2026-08-03T16:08:35+00:00",
-      "outlets": [
-        "AP News",
-        "Al Jazeera",
-        "PBS",
-        "Reuters",
-        "The New York Times"
+        "Entertainment Weekly",
+        "People.com",
+        "The Daily Beast",
+        "Variety",
+        "Yahoo"
       ],
       "feeds": [
         "google-world"
