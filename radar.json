@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-02T21:17:15+00:00",
+  "generated": "2026-08-03T00:17:16+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
     "reddit-worldnews": "HTTP 429 rate limited"
   },
-  "raw_items": 1651,
-  "stale_dropped": 1086,
+  "raw_items": 1663,
+  "stale_dropped": 1103,
   "clusters": 485,
-  "off_topic": 29,
+  "off_topic": 27,
   "stories": [
     {
       "title": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019",
@@ -41,6 +41,38 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
         "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53cHhhVHJjZ1FtSWM2dGhzZDhMUnU4WmdqOE5WZFVVT1JXeFpRVHlRTldienR6RWgzWl9GTlV2akNmaGJoUTd5ckRHSV9ocTJJUjZNcE5wRFRMTUFyeHpTV1ZtZFdfbEZaOElEV3lab0NoUzdI?oc=5",
+      "summary": "Pixel 11 specs and price leak with no surprises The Verge Google Pixel 11 Buyers Should Brace for Higher Costs, Less RAM PCMag Google confirms Pixel 11 price increase, reveals \u2018dedicated\u2019 effort to make Android more RAM-efficient 9to5Google Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget The Pixel 11 will be a perfect storm of bad timing 9to5Google",
+      "published": "2026-08-01T21:31:24+00:00",
+      "outlets": [
+        "9to5Google",
+        "Engadget",
+        "PCMag",
+        "The Verge"
+      ],
+      "feeds": [
+        "google-technology"
+      ],
+      "reach": 47.6,
+      "angle": 45.8,
+      "rank": 21.8,
+      "signals": {
+        "unexplained": [
+          "mysterious"
+        ],
+        "secrecy": [
+          "leaked"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "Something is being withheld. Build the middle on what was asked and not answered."
       ]
     },
     {
@@ -87,9 +119,9 @@
       "feeds": [
         "google-technology"
       ],
-      "reach": 54.8,
+      "reach": 50.8,
       "angle": 34.0,
-      "rank": 18.6,
+      "rank": 17.3,
       "signals": {
         "unexplained": [
           "mystery"
@@ -104,21 +136,21 @@
     {
       "title": "The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXVFR2hVNGRsOUN1cmVSOUtvZ2RSYldrdkZBbEdad2hjblUzUzlubUJONkpFMG16MThURDlTV0hiLWVqcHZwRFN0WnpJczdNZjhvdXlsUk8xdEltay04cDcxTjJkTm14bWNCQ2ZxUUV3VEc3NV9TRElpSm5Tam1xWjJoc1VVa1ZyeXZWbS1B?oc=5",
-      "summary": "The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos WIRED NASA Webb Explores Family Tree of Newly Discovered Distant Objects NASA Science (.gov) A Distant Primordial Object May Be a Newborn Little Red Dot Universe Today James Webb Space Telescope links Little Red Dots with globular clusters earth.com Little Red Dots Are Dusty Black Holes in Overdrive, Webb Galaxy Study Finds Tech Times",
+      "summary": "The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos WIRED NASA Webb Explores Family Tree of Newly Discovered Distant Objects NASA Science (.gov) A Distant Primordial Object May Be a Newborn Little Red Dot Universe Today James Webb Space Telescope links Little Red Dots with globular clusters Earth.com Little Red Dots Are Dusty Black Holes in Overdrive, Webb Galaxy Study Finds Tech Times",
       "published": "2026-08-02T11:00:00+00:00",
       "outlets": [
+        "Earth.com",
         "NASA Science (.gov)",
         "Tech Times",
         "Universe Today",
-        "WIRED",
-        "earth.com"
+        "WIRED"
       ],
       "feeds": [
         "google-science"
       ],
-      "reach": 58.8,
+      "reach": 54.8,
       "angle": 24.8,
-      "rank": 14.6,
+      "rank": 13.6,
       "signals": {
         "institutional": [
           "nasa"
@@ -137,15 +169,12 @@
     },
     {
       "title": "10-year-old drowns saving sister, another girl still unaccounted for",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0VTMXR2anFzeHJLRDlqTU90RHB3Q252dEVHRVRjX3l0UHlOckJzZklPenVzaGFnUUtCMGxSSUJ4NU1vTUs3Smh4bnRpeDdiRUZ5cHJWSkJyQTcyZWZfQUFNYXdyOFJoOFZTaFNVakFkOUxXWXNaeWRRWjRya2RVaFRZbGFFbTU3ZlpSdkpCbGxPS2Z0X2dxeU5fRmlHcG1Ma3lMXzhB0gG6AUFVX3lxTE9lOTAxbV9FR1hDSFltSktRT210Mm02UEFnZk02bmt4TkpoM1p0OF9YNlFISmFUOFFqV2dzMVR4M0pEc3ZyUnRReENzTTB2VGRLaW1TZHVrRGJ3bEJxNnowdmFjNjhrZWtEQlpuWkExR3VOeWtKMEtPTllhcDdWUEJyejVoQU9pT3o3RkEybTllUkFJNnR6VF9qMmhCRERIWjk4bXBWaVA3Vy03MXZsanlBY0FBSW9GcG1aUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWNoeDk2QnFlOS13cE5JenE0bzB0Y3hkRjZoa2FmVTNKMldvakh0dVRfMTJwRTJfcnh4bGUydkxXR2JWNC1SWFJfVm40QnNoSnVxQXZ4UThTNXU4RFVzQmxQUGdpcFM5Yk5kXy0zX0RmRDZMcjkxV0s0QTVzRHI2aHZ6dFY5Qy01VC1LR1pvZWRTOFE5RUNub0tXSlDSAbABQVVfeXFMUHkteGF2SVp3OEV0eDlLLUZoTEozRkdmdEYzMVg0cEhybG5oeG9wU1lYakdVS3cwOTAxcFVXV0VENEdTbnZia3hsMmFoZjNDOTJGODVkODRKTVpWaHJxdUd0bVFjOXpqQVRSZE1NR1dMX0gwZmFJNmE5MkFQSVZ4YWlLNXdwVGcwcXpLMmU2WWQ3TGdPSV9VWTh3U19NeVFQeER4YXp3aGVjM3VJeElmMDM?oc=5",
       "summary": "10-year-old drowns saving sister, another girl still unaccounted for Upper Michigan's Source",
       "published": "2026-07-30T20:01:00+00:00",
       "outlets": [
         "Atlanta News First",
-        "Cleveland 19 News",
-        "FOX19 | Cincinnati",
         "Hawaii News Now",
-        "KFYR-TV",
         "KMVT",
         "KOTA Territory News",
         "KTRE",
@@ -157,7 +186,6 @@
         "Upper Michigan's Source",
         "WAFF",
         "WAGM",
-        "WDBJ7",
         "WDTV 5",
         "WEAU",
         "WFIE | 14 News",
@@ -247,14 +275,14 @@
     {
       "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5",
-      "summary": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC Revolt of the Cockroaches: How India\u2019s Gen Z Humbled Modi time.com \u2018We Are Not Learning Anything\u2019: India\u2019s Gen Z Rage Is a Test for Modi The New York Times Abhijeet Dipke, Ashutosh Ranka and Saurav Das | The three faces of a revolt The Hindu India\u2019s gen Z have discovered the power of collective action | Letters The Guardian",
+      "summary": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC Revolt of the Cockroaches: How India\u2019s Gen Z Humbled Modi Time Magazine \u2018We Are Not Learning Anything\u2019: India\u2019s Gen Z Rage Is a Test for Modi The New York Times A weeks-old Gen-Z protest group managed to get India\u2019s Modi to blink. What\u2019s next? CNN India\u2019s gen Z have discovered the power of collective action | Letters The Guardian",
       "published": "2026-08-02T05:18:21+00:00",
       "outlets": [
         "CNBC",
+        "CNN",
         "The Guardian",
-        "The Hindu",
         "The New York Times",
-        "time.com"
+        "Time Magazine"
       ],
       "feeds": [
         "google-world"
@@ -276,14 +304,14 @@
     {
       "title": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEJPTEdoTWd6MWVtZ0w5aVY1VTNvVFZ0bE9iRVRjX2hoVVhfQWVGQ2xmZDh1OUpmd04wbFNNYWEwMWhQeG92VklmOE1kc1BpVjNXLXF6UmR4U2JjZC1TYWRSaUVHcFpUYnY0LUd0aGY3bkt6QnU5ZGN4MWd0YmRrWkZkdU82SHU0Z2ppVXhrNVNkZkJmLVNaUU5B?oc=5",
-      "summary": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms Yahoo A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo Underground fungi may affect the future of carbon capture and storage earth.com",
+      "summary": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms Yahoo A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo Underground fungi may affect the future of carbon capture and storage Earth.com",
       "published": "2026-08-02T03:08:00+00:00",
       "outlets": [
+        "Earth.com",
         "Gizmodo",
         "Phys.org",
         "Popular Science",
-        "Yahoo",
-        "earth.com"
+        "Yahoo"
       ],
       "feeds": [
         "google-science"
@@ -332,39 +360,10 @@
       ]
     },
     {
-      "title": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops'",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3ZsWW9ncHh5M2dtVmMtc1VKZk84TU1DTThoUGpVZVZNWWtCY0VTeG9aSkVNTllZRElwT1Eyb3VqSXd5SEU4dDQyb1FfUzMzeklxaXJCNjRSd25pSGloY1hiWS1PNWc0MS1RdXFWZDU3XzlDS0h2ZnJkazRCdlE0XzNSVGstUk9IeFdsT0VpQ2Q3MGtEZlRuNUdKQ3hrX3VlbDlqZDY3TG9PNlltNHY4WmVyWQ?oc=5",
-      "summary": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops' sciencealert.com Origin of Human Eyes Traced to 560-Million-Year-Old One-Eyed \u2018Cyclops\u2019 zmescience.com Humans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor The Economic Times Scientists trace origin of human eyes to ancient \u200d\u200d`Cyclops-like\u200d\u200d` ancestor thereport.live Mind-Blowing Twist: Shocking Study Claims Human Eyes May Have Originated From 600-Million-Year-Old One-Eyed Ancestor Republic World",
-      "published": "2026-08-01T10:03:42+00:00",
-      "outlets": [
-        "Republic World",
-        "The Economic Times",
-        "sciencealert.com",
-        "thereport.live",
-        "zmescience.com"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 54.8,
-      "angle": 16.0,
-      "rank": 8.8,
-      "signals": {
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
       "title": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began?",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXRCTmItOThpcG5jNzByYjV4Ti10RmlSOHpvUE91R1VSRG53SGxHUWZyQUNvMTRhODJpaVJrRUQtcDVHZXBDbHpaTzVGcDc2dDJqYThsQzE1VTdzUVlCaVl5YVRZNGF5bVRMYWlRSFNmUXpVUWFNTXlWa0x0RXpicWE4bWtLeTByUVp2dVZrV28wOTk2TXg5RmZZd0ozN2FBaS1BUTRGWUliMHFNendTNzNGd2h2WHkxUjFWenU0eW8yQQ?oc=5",
       "summary": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began? The Guardian",
-      "published": "2026-08-02T15:00:00+00:00",
+      "published": "2026-08-02T15:00:33+00:00",
       "outlets": [
         "The Guardian"
       ],
@@ -412,6 +411,31 @@
       ]
     },
     {
+      "title": "Sanctuary of Our Lady of Lourdes: Investigating medically unexplained cures | 60 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVMzVHlnc0ZWVXc0eWU2Y2ZnTUJuRjY4ZGpLRkpsRk5OMGcwV1lBWEkyU1ptdkY4QlpJVUp1ZU54WUhvQjRYR0xnZ2h2aUpVeHBGUDhhN1lQcl95eUx4TVhjQ19SWXpHamY1YWtMMFJoSThHVzE4WjY3UGNHdVo2a3M5aEdUY0tHdVZ2WVVwSmpUWnctUGdNblZZaDNPYkJIZEJSc3VLUFFnZw?oc=5",
+      "summary": "Sanctuary of Our Lady of Lourdes: Investigating medically unexplained cures | 60 Minutes CBS News",
+      "published": "2026-08-02T23:00:00+00:00",
+      "outlets": [
+        "CBS News"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
       "title": "Singer Brian Recovers From Unexplained Fever Hospitalization",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWlSNVF4S1YwR2llSEozSl9TVlpOOHAtWHdLTEJ3YWZxU1MtSnlsaUxSLU9fN01NcW10b1JxZGZ6MU56cFZtY3JMeWhaczF2NFhzM2R2Tkl1WWRpYVhkdTY0QzZUb0NMVHFNNS1pSmRhR0hWRUp1VmUzeUpSMVpKbXVya1hYVTFaajF3RmFn?oc=5",
       "summary": "Singer Brian Recovers From Unexplained Fever Hospitalization \uc870\uc120\uc77c\ubcf4",
@@ -432,33 +456,6 @@
       },
       "verdict": "clear",
       "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Setting the record straight, again, on alleged Lacson unexplained wealth",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaVZ1T1VtTTVzSEFQN0FmeXVEMkhNZk1rdklXazlmX3R4UU1HeU9FRG9NMlNJdUIybjQ2Si10UXVtRzdUcVlWZk9ZbXlHb2lNTFlHVzJiZ2dBRzlwN1l1SjhlUmJ1YkEybWJMUFBmMmtUeERGYThBNnJDejFwUGRQRkxZNFhoMXlJNTRxdnlHVGlUWjl1Zm1MOGNrX2ltT2w4WUFwTnlXNmRsWGgzSEhGRTNiYS1YamJOSTMzRnZaTGZGd0Vscl93VzIzaHZ0UU1PTDBXdFNfUXFMNmI1MURRZNIB5gFBVV95cUxPcDFnOWhmOEQxTmd0eUxfR0hZMWVhWWpDNWZlYUlGcENJSzhBU3h5blp4Y0dFRGdoT0lWOFhjejN1LWRSMW5yMExsTkNPRk5aWEllNzdJR2RJekdrMDRDVlZBMG04SGJkSG5STmNHcWVkUGdSMmFYSVZLSVZRQUozMFBidkRrcER6X2hUM1F1ZVY4V1dzTWxBVnpoZ011LVBhUjE4Um5fbGF2UkZjMnVjZnlYWjJINGE1ang1d0gtdEFLUUhzTDZGendDZHRVQ1JlVUNKc3FiRFhqODBhdXdTWEJIeFVnQQ?oc=5",
-      "summary": "Setting the record straight, again, on alleged Lacson unexplained wealth The Manila Times",
-      "published": "2026-08-02T16:01:00+00:00",
-      "outlets": [
-        "The Manila Times"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 26.0,
-      "angle": 34.0,
-      "rank": 8.8,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
@@ -492,6 +489,35 @@
       "prompts": [
         "An agency is involved. Its own record is the context nobody pulls.",
         "Someone or something is gone. Absence is the strongest open ending there is."
+      ]
+    },
+    {
+      "title": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops'",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3ZsWW9ncHh5M2dtVmMtc1VKZk84TU1DTThoUGpVZVZNWWtCY0VTeG9aSkVNTllZRElwT1Eyb3VqSXd5SEU4dDQyb1FfUzMzeklxaXJCNjRSd25pSGloY1hiWS1PNWc0MS1RdXFWZDU3XzlDS0h2ZnJkazRCdlE0XzNSVGstUk9IeFdsT0VpQ2Q3MGtEZlRuNUdKQ3hrX3VlbDlqZDY3TG9PNlltNHY4WmVyWQ?oc=5",
+      "summary": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops' ScienceAlert Origin of Human Eyes Traced to 560-Million-Year-Old One-Eyed \u2018Cyclops\u2019 ZME Science Humans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor The Economic Times Scientists trace origin of human eyes to ancient \u200d\u200d`Cyclops-like\u200d\u200d` ancestor thereport.live Mind-Blowing Twist: Shocking Study Claims Human Eyes May Have Originated From 600-Million-Year-Old One-Eyed Ancestor Republic World",
+      "published": "2026-08-01T10:03:42+00:00",
+      "outlets": [
+        "Republic World",
+        "ScienceAlert",
+        "The Economic Times",
+        "ZME Science",
+        "thereport.live"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 50.8,
+      "angle": 16.0,
+      "rank": 8.1,
+      "signals": {
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -549,31 +575,6 @@
       ]
     },
     {
-      "title": "The Legionnaires\u2019 outbreak in Philly 50 years ago led to months of mystery \u2014 and gave the disease its name",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHdxekl0N2YyUkNwR1Z3TzZoM3BpR182dHgwRVppNXVyU3hndEtra1ZTUTFvZkFDd1QxSnRzRkREemhNcDVjYkVMSGpoa1dGX1dpSUtaZ0hJRERQbnRkUmY5ZXFlMWdObG50WU9qOE5BSkFBMVdZejRIVUNiTG9PX3NELWduYWtLb2lkVHZpQ2FoQjBsWkE?oc=5",
-      "summary": "The Legionnaires\u2019 outbreak in Philly 50 years ago led to months of mystery \u2014 and gave the disease its name Inquirer.com",
-      "published": "2026-08-01T10:01:00+00:00",
-      "outlets": [
-        "Inquirer.com"
-      ],
-      "feeds": [
-        "google-health"
-      ],
-      "reach": 22.0,
-      "angle": 34.0,
-      "rank": 7.5,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
       "link": "https://www.reddit.com/r/news/comments/1vd4i8w/capital_one_says_it_closed_trump_organizations/",
       "summary": "submitted by /u/Mysterious-Action202 [link] [comments]",
@@ -605,31 +606,6 @@
       "published": "2026-08-02T04:22:42+00:00",
       "outlets": [
         "Trinidad Guardian"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 22.0,
-      "angle": 34.0,
-      "rank": 7.5,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Supreme Court Collegium\u2019s unexplained recommendations risk bad appointments: Justice Bhuyan",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcjRIaUFzYW9MZ25hOXdpdVVBeTd2NHRZN0hza2VmZmZMZzFqNjNLRGtwQTRxUE1jdG9WSU4xRFN0a0QzakFkOWJ0eU1Wam5MTVFoODBCdmpOYmk2V2xrNkZIRlI1MlhGNHMzTkdpYnU2LWpQWXI4RE1Vcl9EWU9yRXlpSHNqWFRzdnVLeEUySjhURVNyaU5kMlBUdGR1S1dHZ0YwdmRIbGNLWnphbVhRU2RDZVA0b1MxMnNvRzRBQjlyTEljbjNUOEd2Q0pOSjFtbGVR0gHaAUFVX3lxTE1XUFBKbG9JTV9Jd0t6RjJoVUtXbklaQ2pxc3UxNkdpZ0J5WjFPUFcyMmhGUnd3cHdsWWVKVTdYWThVTXNDa21ZQ1RHV3JVZEpEdUI5cTRxbENPT1luZ0FYdUpkUTVPVUFlSTdKdTRYY24wWGE4MURreWtvQnowN0NlQmFUempEY2x1WGNuZmtacUxWVnBfUTNVMDM4V0ZNcjdfWEtJSkhuTzlKLWpOQ2xKUmNKaEFGUDQ1ZnlNYXM2LUlja0Y0QmFlU3FjN2xPZTdnbWY3VHA0R0lB?oc=5",
-      "summary": "Supreme Court Collegium\u2019s unexplained recommendations risk bad appointments: Justice Bhuyan The Hindu",
-      "published": "2026-08-01T11:13:04+00:00",
-      "outlets": [
-        "The Hindu"
       ],
       "feeds": [
         "angle:unexplained"
@@ -728,107 +704,83 @@
       "prompts": [
         "Something is being withheld. Build the middle on what was asked and not answered."
       ]
+    },
+    {
+      "title": "Astronomers Have Detected an Exomoon for the First Time",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9McjV6c0RiVG9BUHVKRXh2NFFaNVA4U3pDOFpkc1RKb0trSWxpb05KTTVlSHdZV2NjV2VpQ2ZDek5SV0QxamJiQXpvQzAyMmMweTh0VTNNNFhRUlVMUTVyR2VXaFRsbkRlZDE2WTV2cUFiUTgzdTIwaA?oc=5",
+      "summary": "Astronomers Have Detected an Exomoon for the First Time WIRED Astronomers May Have Found the First Moon Beyond Our Solar System SciTechDaily CD-35 2722 B may have an exomoon: one of the strongest signals yet en.softonic.com \ud83c\udf19 This object could be the first satellite discovered outside the Solar System Techno-Science",
+      "published": "2026-08-01T09:00:00+00:00",
+      "outlets": [
+        "SciTechDaily",
+        "Techno-Science",
+        "WIRED",
+        "en.softonic.com"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 43.6,
+      "angle": 16.0,
+      "rank": 7.0,
+      "signals": {
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
     }
   ],
   "blocked": [
     {
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYUZ6VWhYbnNlNndSMVlVdmtXeU0wWEFJek51QUtTNm1Taks0ODMwTzdhV3hnbkQtVUc0Sy01S1p1akNpY2lqeTl2RkRyTWhJMTlNdEMxQ2lXQQ?oc=5",
-      "summary": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths BBC Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship The Guardian Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived Reuters Dispatch from Moscow: Fuel Shortages, Rising Fatigue, and No End of War in Sight The Free Press Ukraine Says It Attacked Rosneft\u2019s Refinery in Russia\u2019s Saratov Bloomberg.com",
-      "published": "2026-08-02T15:48:00+00:00",
+      "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUnFxTXdNTjQwQllpRElDT051a1VwckJtSS12NnBFeEJHVzBNdjdzd0xxQ3pwR1R1aWxQUzYtUzRvZGUycEVmM09FLVpKZEZYejNpVmNjM3N6Zw?oc=5",
+      "summary": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives BBC 2 killed when firefighting helicopters collide near Athens as Europe\u2019s wildfire emergency rages The Boston Globe Two firefighting helicopters collide west of Athens as Greece battles wildfires NBC News Helicopter Collision Shows Perils of Europe Wildfires Fight Bloomberg.com Wildfire danger in Europe shifts to Greece as evacuation orders remain in France CBS News",
+      "published": "2026-08-02T20:36:37+00:00",
       "outlets": [
         "BBC",
         "Bloomberg.com",
-        "Reuters",
-        "The Free Press",
-        "The Guardian",
-        "bbc-world"
-      ],
-      "feeds": [
-        "bbc-world",
-        "google-world"
-      ],
-      "reach": 71.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5",
-      "summary": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say Reuters Blaze engulfs Indonesian passenger ferry off Java, leaving at least five dead CNN Five dead and 41 missing after Indonesia ferry catches fire BBC At Least 5 Dead, Dozens Missing After Ferry Carrying 271 People Catches Fire People.com Dozens missing in deadly ferry fire News.com.au",
-      "published": "2026-08-02T13:07:16+00:00",
-      "outlets": [
-        "BBC",
-        "CNN",
-        "News.com.au",
-        "People.com",
-        "Reuters",
-        "bbc-world"
-      ],
-      "feeds": [
-        "bbc-world",
-        "google-world"
-      ],
-      "reach": 71.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdDByOW1QWUJObDlNRl83LUhBc2lHQmNSYWx1X1lhMjJ6YS1LeU9CZUpjLWlTZG9YdkVqbmFncGxOSTl0MkJ6YjdEeDZKSTdEWTZOMDNtbWpSdw?oc=5",
-      "summary": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal BBC Israeli strikes kill 18 across Gaza despite Hamas agreeing to disarmament deal The Independent Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire The New York Times Israel kills 17 in Gaza as attacks escalate despite latest Trump plan Al Jazeera Board of Peace envoy laments recent Gaza strikes amid efforts to implement Trump plan The Times of Israel",
-      "published": "2026-08-02T15:50:59+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "BBC",
-        "The Independent",
-        "The New York Times",
-        "The Times of Israel",
-        "bbc-world"
-      ],
-      "feeds": [
-        "bbc-world",
-        "google-world"
-      ],
-      "reach": 71.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Bystander with a handgun distracted gunman in fatal In-N-Out shooting",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9BUWlqcUw2WEF3Z0NIU25zalJfR25Sb3M1azhUQnpOSVo3QXdOY1RURFplcGt1UHBlTzVGUnNlVS14MGlMdzZyV3ZIZlZWc2tRdDJZXzlWekFBcW96TjlIbEJaVmVBb1VUUDdCd244QXNFMlowWWp5S1VtSl9YaGhhZ2dwemhnQUIzME9LMldycTZBR3dRR1Z6QnlHN2c?oc=5",
-      "summary": "Bystander with a handgun distracted gunman in fatal In-N-Out shooting NBC News In-N-Out confirms employee died in Twin Falls Shooting KMVT Police identify suspect in deadly Idaho In-N-Out shooting, say he died of self-inflicted gunshot wound Fox News Several people killed in shooting at In-N-Out restaurant in Twin Falls, Idaho, officials say CBS News WATCH LIVE: Twin Falls Police hold press conference on In-N-Out shooting Idaho News 6",
-      "published": "2026-08-02T20:40:56+00:00",
-      "outlets": [
         "CBS News",
+        "NBC News",
+        "The Boston Globe",
+        "bbc-world"
+      ],
+      "feeds": [
+        "bbc-world",
+        "google-top",
+        "google-world"
+      ],
+      "reach": 77.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Armed bystander distracted gunman in fatal In-N-Out shooting",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9BUWlqcUw2WEF3Z0NIU25zalJfR25Sb3M1azhUQnpOSVo3QXdOY1RURFplcGt1UHBlTzVGUnNlVS14MGlMdzZyV3ZIZlZWc2tRdDJZXzlWekFBcW96TjlIbEJaVmVBb1VUUDdCd244QXNFMlowWWp5S1VtSl9YaGhhZ2dwemhnQUIzME9LMldycTZBR3dRR1Z6QnlHN2c?oc=5",
+      "summary": "Armed bystander distracted gunman in fatal In-N-Out shooting NBC News Police identify suspect in deadly Idaho In-N-Out shooting, say he died of self-inflicted gunshot wound Fox News In-N-Out Burger employee among 3 dead in shooting at Idaho fast-food restaurant, owner says Yahoo Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say WSAV-TV Siblings describe sheltering from shooter in restaurant parking lot KMVT",
+      "published": "2026-08-02T23:18:38+00:00",
+      "outlets": [
         "Fox News",
-        "Idaho News 6",
         "KMVT",
-        "NBC News"
+        "NBC News",
+        "Orlando Sentinel",
+        "WSAV-TV",
+        "Yahoo"
       ],
       "feeds": [
         "google-nation",
         "google-top"
       ],
-      "reach": 64.8,
+      "reach": 71.7,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -839,15 +791,69 @@
       "prompts": []
     },
     {
-      "title": "U.S. Rep. Marcy Kaptur \u2018active, alert\u2019 after crash, her office says",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3Vqcnl0ZnkyT1dSYVhabGtGUTFheHBUVlUtWU5ieXY3dUJ1SnkxRV85MGxTalNKR0ZURXR1UjdrVmhxeERTSVpSWEM5OWpjemVYcVVSNm5EYjNjUWllMXprWFpwZkFfcS1oRXk5THJpZ0NKMDFZTFFJUGI4LU0zZ2Jhd0Z3d2hTR0VFSEVuYmVUWWZuamhGMWNlRE9NUkpfY0NWSVFNMzhqVjk4cHVBQ0tvc2NWS1o0bW4wckxhR1NlYktrbU9GUV9uU3ViNHJiX3p2Nw?oc=5",
-      "summary": "U.S. Rep. Marcy Kaptur \u2018active, alert\u2019 after crash, her office says Toledo Blade Congresswoman Marcy Kaptur hospitalized after hit-skip crash on her way to church service WTVG Ohio Rep. Kaptur treated for non-life threatening injuries after a car accident in Toledo The Washington Post US representative Marcy Kaptur taken to hospital after car crash The Guardian US Rep. Marcy Kaptur hospitalized after car crash The Columbus Dispatch",
-      "published": "2026-08-02T19:38:12+00:00",
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYUZ6VWhYbnNlNndSMVlVdmtXeU0wWEFJek51QUtTNm1Taks0ODMwTzdhV3hnbkQtVUc0Sy01S1p1akNpY2lqeTl2RkRyTWhJMTlNdEMxQ2lXQQ?oc=5",
+      "summary": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths BBC Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship The Guardian Dispatch from Moscow: Fuel Shortages, Rising Fatigue, and No End of War in Sight The Free Press Ukraine Says It Attacked Rosneft\u2019s Refinery in Russia\u2019s Saratov Bloomberg.com Ukraine Sinks Russian-Owned Container Ship in Black Sea, Rosatom Says The Moscow Times",
+      "published": "2026-08-02T15:48:00+00:00",
       "outlets": [
-        "The Columbus Dispatch",
+        "BBC",
+        "Bloomberg.com",
+        "The Free Press",
         "The Guardian",
-        "The Washington Post",
+        "The Moscow Times",
+        "bbc-world"
+      ],
+      "feeds": [
+        "bbc-world",
+        "google-world"
+      ],
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "At least five dead, 41 missing after ferry catches fire off Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGoyTmlaMkQ2MHlhSzRmQk9VS0RsZEZ5Y2NETmZPNDdyMjBfWWk2aHRSVnI0RlJpNkpCYWpMWUd2WDlPX0RqRE5lWGpOa0ttcFRidlZWdkdFdm5TTG82MGRlZGtEdzJQT2QwaXVRR1gyaTM5SWJHaTZLVk1leEtacEFmbkdWU3pmT0dtZVU1RWtYLWtTODZqdXVvTUt1cWN6YkNVZVBUaHdpMWU1?oc=5",
+      "summary": "At least five dead, 41 missing after ferry catches fire off Indonesia Al Jazeera Five dead and 41 missing after Indonesia ferry catches fire BBC A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing Dallas News Five dead, 41 missing after Indonesian ferry catches fire, authorities say reuters.com At Least 5 Dead, Dozens Missing After Ferry Carrying 271 People Catches Fire People.com",
+      "published": "2026-08-02T15:55:13+00:00",
+      "outlets": [
+        "Al Jazeera",
+        "BBC",
+        "Dallas News",
+        "People.com",
+        "bbc-world",
+        "reuters.com"
+      ],
+      "feeds": [
+        "bbc-world",
+        "google-world"
+      ],
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUdMM2ZFQmp4Qm5pMUVMc25iOE9Qck4tRnQ5TkpaQ0V2b0FWR1pNNUZuM1BMTFFGbGVPWHlLTGt2bEoxS2V1SnZ4dnJfbHRyeWFsVmFZbFM0Vk9FRUMxc3h2OTRpOVJadENieTJ3SE1HSEJRRmN4MzdLS2d6YkhSNFZMdWdxVzg?oc=5",
+      "summary": "Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident Politico Congresswoman Kaptur and campaign manager recovering after \"hit-skip\" crash in Toledo Sunday morning WTOL Congresswoman Marcy Kaptur hospitalized after hit-skip crash on her way to church service WTVG Ohio Rep Marcy Kaptur hospitalized after car crash on way to church Fox News U.S. Rep. Marcy Kaptur \u2018active, alert\u2019 after crash; person involved at large Toledo Blade",
+      "published": "2026-08-02T22:44:00+00:00",
+      "outlets": [
+        "Fox News",
+        "Politico",
         "Toledo Blade",
+        "WTOL",
         "WTVG"
       ],
       "feeds": [
@@ -865,20 +871,20 @@
       "prompts": []
     },
     {
-      "title": "A Seattle teen tried to leave gang life behind, only to be killed in a gunfight at a food festival",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ0hWbDRUeGRTR0ZqOUpBMWpDZ2x3dzJScUlTTU1qbi03bllxNloyN0kwcVMwUjJMYWtVVE1LYkozR1hMWU5lMldnT1lXc09la0JmTGRYYW1QbmlrQlFUdW1jazkzNGpXTDVHSnlJMzVWWlF4X1ljV0I1a09yR2tSMjEtamJqX0lTWmxkN1hibHJmWGcxTXNWeXlBTnNna1JjSzM0QkVHZnpuV2xYMV9HX2FDX2w?oc=5",
-      "summary": "A Seattle teen tried to leave gang life behind, only to be killed in a gunfight at a food festival NBC News Seafair returns for 77th year with new security measures KING5.com Bullets that killed 2 bystanders at Seattle festival weren\u2019t from 15-year-old shooter\u2019s gun, police say CNN After Bite of Seattle shooting, owner FoodieLand faces vendor questions The Seattle Times Days After Deadly Shooting, Seattle Tightens Security on Festivities The New York Times",
-      "published": "2026-08-02T15:00:40+00:00",
+      "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
+      "summary": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory AP News The Far Right Is Distorting Ceuta The Atlantic Death toll from migrant rush into Spanish enclave rises to 72 Honolulu Star-Advertiser After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach The New York Times Spain pushes migrants back to Morocco as suspicions swirl over mass border breach The Washington Post",
+      "published": "2026-08-02T21:06:00+00:00",
       "outlets": [
-        "CNN",
-        "KING5.com",
-        "NBC News",
+        "AP News",
+        "Honolulu Star-Advertiser",
+        "The Atlantic",
         "The New York Times",
-        "The Seattle Times"
+        "The Washington Post"
       ],
       "feeds": [
-        "google-nation",
-        "google-top"
+        "google-top",
+        "google-world"
       ],
       "reach": 64.8,
       "angle": 0.0,
@@ -893,13 +899,13 @@
     {
       "title": "Errant SpaceX rocket stage set to smash into the moon at 5,400 mph, seven times the speed of sound \u2014 NASA a...",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0FUT1NCV2J5S281SnNsTEpkMlFvc21Pd2lsRUJDdkJtemtyZmF5cEo0NVl2TXcySEZHZzNPSFoyeTNMTEowS3BtQThuVGkwaERwSnl3NWtfbHpUYVlSMEoxRHpNb3c5VTlsaVZhQUFaSHp6Mlp4UTZxMFRxNnZSSDZ0RGU0VlJUX3J5M0ZFTjFERWc?oc=5",
-      "summary": "Errant SpaceX rocket stage set to smash into the moon at 5,400 mph, seven times the speed of sound \u2014 NASA a... Yahoo A discarded SpaceX rocket is on a high-speed collision course with the moon AP News A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect space.com Falcon 9 Rocket Stage \"Abandoned\" In High-Earth Orbit Is About To Slam Into The Moon, With The Energy Of 11.8 Gigajoules iflscience.com A defunct SpaceX rocket is about to crash into the moon NBC News",
+      "summary": "Errant SpaceX rocket stage set to smash into the moon at 5,400 mph, seven times the speed of sound \u2014 NASA a... Yahoo A discarded SpaceX rocket is on a high-speed collision course with the moon AP News Defunct part of SpaceX Falcon 9 rocket will slam into the moon NPR Drifting SpaceX rocket heading for accidental collision with moon The Guardian A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect space.com",
       "published": "2026-08-02T15:44:51+00:00",
       "outlets": [
         "AP News",
-        "NBC News",
+        "NPR",
+        "The Guardian",
         "Yahoo",
-        "iflscience.com",
         "space.com"
       ],
       "feeds": [
@@ -923,22 +929,22 @@
       ]
     },
     {
-      "title": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
-      "summary": "Two die as firefighting helicopters collide in Greece, French blaze changes course Reuters Greece wildfires: Two killed after firefighting helicopters collide, as British pilot survives BBC 2 killed when firefighting helicopters collide near Athens as Europe\u2019s wildfire emergency rages Anchorage Daily News Two helicopters collide outside Athens as Greece battles to control wildfires The Guardian Two dead in firefighting helicopter crash in Greece, Fire Service says Reuters",
-      "published": "2026-08-02T17:46:18+00:00",
+      "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdjSGk3eVZ6RnVUb3ZXcjZINEo3bE9qZHpYbUhid2t1ck9PVm5MNGhHUjhjYUxjalhidnVydVFOTXVzSnFWSWczSHNxVFlhbVU3NXNjRkJQRnBQR0RtR0hEZmdVUlVPbzllZmtTWEpSVW91WmdjZUptYjhnZkR3S293QXNvcS04Q292NzU3MEhVVmlw0gGUAUFVX3lxTFB5ZzlrQjZOZXh3VXpNZXN0cVIwWlh3SmJtU2J4WW1GVWJsSWgwbGI5dDE1dmdray1SeTZKVENrSDktMjVXSy04SmRORnZsMWtwZ0xIRjlWTHMtc0tsdEIzSW5vVkUzR29PV0dqZWZyZDJaRHRMaXhFMURqekRIbV9MTnkwanFqLWxKYW5wMDREc3A0ekk?oc=5",
+      "summary": "Moscow restaurant blast a 'brutal terror attack,' mayor says DW.com Bomb explodes at Moscow restaurant, killing two victims and woman suspected of delivering device CNN Explosion in Moscow leaves at least 5 dead, 21 injured ABC News - Breaking News, Latest News and Videos Moscow mayor says explosion that killed 3 at restaurant was a \"terrorist act\" CBS News Moscow mayor calls a deadly bomb attack on a restaurant a \u2018terrorist act\u2019 The Boston Globe",
+      "published": "2026-08-02T11:44:23+00:00",
       "outlets": [
-        "Anchorage Daily News",
-        "BBC",
-        "Reuters",
-        "The Guardian",
-        "politico.eu"
+        "ABC News - Breaking News, Latest News and Videos",
+        "CBS News",
+        "CNN",
+        "DW.com",
+        "The Boston Globe"
       ],
       "feeds": [
         "google-top",
         "google-world"
       ],
-      "reach": 64.8,
+      "reach": 60.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -949,41 +955,16 @@
       "prompts": []
     },
     {
-      "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdjSGk3eVZ6RnVUb3ZXcjZINEo3bE9qZHpYbUhid2t1ck9PVm5MNGhHUjhjYUxjalhidnVydVFOTXVzSnFWSWczSHNxVFlhbVU3NXNjRkJQRnBQR0RtR0hEZmdVUlVPbzllZmtTWEpSVW91WmdjZUptYjhnZkR3S293QXNvcS04Q292NzU3MEhVVmlw0gGUAUFVX3lxTFB5ZzlrQjZOZXh3VXpNZXN0cVIwWlh3SmJtU2J4WW1GVWJsSWgwbGI5dDE1dmdray1SeTZKVENrSDktMjVXSy04SmRORnZsMWtwZ0xIRjlWTHMtc0tsdEIzSW5vVkUzR29PV0dqZWZyZDJaRHRMaXhFMURqekRIbV9MTnkwanFqLWxKYW5wMDREc3A0ekk?oc=5",
-      "summary": "Moscow restaurant blast a 'brutal terror attack,' mayor says DW.com Female bomber kills at least three, injures 21 near Moscow restaurant, authorities say KSL News Explosion in Moscow leaves at least 3 dead, 21 injured ABC News - Breaking News, Latest News and Videos Bomb explodes at Moscow restaurant, killing two victims and woman suspected of delivering device CNN Improvised Bomb Kills 3 at an Upscale Moscow Restaurant The New York Times",
-      "published": "2026-08-02T11:44:23+00:00",
+      "title": "Suicide bomber kills 14 outside police station in Pakistan\u2019s Swat",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXFfSXQwdHRxejBzWXdOZmVBT1lxZU5ZQU5JRTNVUTVMVkxBMFc0aVI1aFJETFYtN1VWTkowaDg2dm1hNHZqV0tLVlBTeUdCMnljR3lGOTFValNWWkxuVGhySFdLWFJFNktrTGl0MHVMZlNnQ3RuVFlJNlFmaVUtajNyZjBUZERWOW9rbmY1alVMT0FnMkt0Q1pSVFJ5UE9GRWMwRXZqc9IBrAFBVV95cUxOa0E3TFh6WEswel9SNTdhSHNnVTd2OTVZd296dnZ1ckNPcmZBMnpZU3hvWGpUV0U5NmNxVHk5dGV6Yy1BZWpnWjd6cTYyNl9IRXNSWHJXVlhpcVRISWtzU0Y4dmlIMTNaS21BdHlOcFFVOTZsTnhSR24taVI2cThzM05CS2ZpWkg5SXp6c0ZEclVpTjdMc2RtU28xY2Z4S2kyS2syZ2VfSUtES1R3?oc=5",
+      "summary": "Suicide bomber kills 14 outside police station in Pakistan\u2019s Swat Al Jazeera Pakistan Police Station Bombing Kills at Least 14 The New York Times Suicide bomber strikes antimilitant rally in northwestern Pakistan, killing at least 14 CNN 13 Killed In Suicide Blast During \"Peace Rally\" In Pak's Khyber Pakhtunkhwa NDTV Seven killed, 18 injured in blast at peace rally in Pakistan The Times of India",
+      "published": "2026-08-02T19:44:44+00:00",
       "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "CNN",
-        "DW.com",
-        "KSL News",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "A suicide bomber strikes an antimilitant rally in northwestern Pakistan, killing at least 14",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnpTdXBlTnNKVHNyMDdIQ3cxNUl5OE82Njl6alJWaGlheUtmMkRFSHdLUklEcUczdm5PUnpwcjdZblBvdDJvQWhEYVNzMTBIZjhsQkdZU3dyak50UjVGTDFBUW4zQUxWenhaVXNxR2dqU0ZzbFZuNlZBV1ZGNUVIaGFMc1EtRHk0TWVvTVY5b2NYUnpXeTRFTlE5Z0ZvVXlJTlNWOENPek9KR3hFSVdXUlJQVzdiQQ?oc=5",
-      "summary": "A suicide bomber strikes an antimilitant rally in northwestern Pakistan, killing at least 14 AP News Suicide bomber kills 14 outside police station in Pakistan\u2019s Swat Al Jazeera 13 Killed In Suicide Blast During \"Peace Rally\" In Pak's Khyber Pakhtunkhwa NDTV At least 14 people, including police officials, martyred in suicide attack on Kabal police station in Swat: police Dawn Attack on Pakistani Police Station Fuels Fear of Terrorism Surge The New York Times",
-      "published": "2026-08-02T17:40:00+00:00",
-      "outlets": [
-        "AP News",
         "Al Jazeera",
-        "Dawn",
+        "CNN",
         "NDTV",
-        "The New York Times"
+        "The New York Times",
+        "The Times of India"
       ],
       "feeds": [
         "google-world"
@@ -999,19 +980,19 @@
       "prompts": []
     },
     {
-      "title": "Tillis says Blanche won't be confirmed as AG amid Trump fund fight",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1hPbE5Cb0hwVE85QXdXa3p1TUhkZjBIZnhBWHEtMnlMNWRWYjBoS3VheFAxMzZjTVhLNkl3VEdHZUQtVFJDSUxYZHRHanZNb0RTS21ZcDlHOTU2aFNKeHpHTmcyVWFhTnlUTFdlTDY5ZlplbWZZR3pRVXk2d0hUbmJlNA?oc=5",
-      "summary": "Tillis says Blanche won't be confirmed as AG amid Trump fund fight axios.com Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight The New York Times \u2018Wouldn\u2019t bet my house on it\u2019: GOP senator doubts Blanche confirmation MS NOW Brooks and Capehart on Blanche's stalled nomination and Trump's 'anti-weaponization fund' PBS Trump Says He\u2019ll Revive Plan to Compensate Allies After Declaring It \u2018Dead\u2019 WSJ",
-      "published": "2026-08-02T10:01:53+00:00",
+      "title": "Afghan arrested over murder of 38-year-old Briton found in suitcase in Greece",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzdiODdSLUtVVlNmcFZTS2tDZ1VZRmUyVEtWZWlMN3JBNVVPaldNbndkTGFrNnRvYVZMeXZrN29QZEMwZ1lMa0k0dlFsVENjOEh4Q0FBVXhIcFZINWxTdzZGX0lEQ3dBWTJfT1c4MWNObGRKNlhzLTltTW1qQjAwLTFqdUxNVnlSVU9iQmdYbi1yc1d2LWJ5UUFrZHBlOEFfd3VVWUF5WDZ0Qy1wQzhIZGE2ejFoenVObHRnNFdYZkQ?oc=5",
+      "summary": "Afghan arrested over murder of 38-year-old Briton found in suitcase in Greece Euronews.com Man arrested after Scottish woman found dead inside suitcase in Athens The Guardian Man admits transporting Scottish woman's body in suitcase, Greek police say BBC Man arrested after death of British woman whose body was found inside suitcase in Athens Sky News Police Searching for \u2018Heavily Tattooed\u2019 Man After Body of Woman, 38, Is Found Inside a Suitcase in Greece People.com",
+      "published": "2026-08-02T20:20:08+00:00",
       "outlets": [
-        "MS NOW",
-        "PBS",
-        "The New York Times",
-        "WSJ",
-        "axios.com"
+        "BBC",
+        "Euronews.com",
+        "People.com",
+        "Sky News",
+        "The Guardian"
       ],
       "feeds": [
-        "google-nation"
+        "google-world"
       ],
       "reach": 58.8,
       "angle": 0.0,
@@ -1024,16 +1005,41 @@
       "prompts": []
     },
     {
-      "title": "A school shooter\u2019s mother helped him reach his \u2018fans\u2019 from prison. Here\u2019s why she wasn\u2019t charged.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWZ1pQVGo0QkFvZHRVaTB3Nk1GWEx2elFFdS1hTlNtZnFLUUVCbWlQclMyTk15ZEJlYW15TmstUXdWeDVyeERaT3pHUnZIcDlMOGZ1U3UwdXA3eEthMUxFVlI5dUJxbEZvcEwxNHVaRQ?oc=5",
-      "summary": "A school shooter\u2019s mother helped him reach his \u2018fans\u2019 from prison. Here\u2019s why she wasn\u2019t charged. CNN Apalachee High shooter\u2019s dad, Colin Gray, gets 15 years in prison AJC.com Colin Gray, Father of Teenage Shooter in Georgia, Sentenced to 15 Years in Prison The New York Times First parent convicted of murder for son's school shooting sentenced to 15 years in prison Courthouse News District attorney: Behavior of Colt Gray's mom was 'disgusting,' but not criminal 11Alive.com",
-      "published": "2026-08-02T10:30:26+00:00",
+      "title": "Israel kills 17 in Gaza as attacks escalate despite latest Trump plan",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
+      "summary": "Israel kills 17 in Gaza as attacks escalate despite latest Trump plan Al Jazeera At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal BBC Defense minister announces he\u2019s replacing top West Bank general; IDF says he can\u2019t The Times of Israel Israeli strikes kill 13 in Gaza; minister says no deal to halt attacks NBC News Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire The New York Times",
+      "published": "2026-08-02T14:15:46+00:00",
       "outlets": [
-        "11Alive.com",
-        "AJC.com",
-        "CNN",
-        "Courthouse News",
-        "The New York Times"
+        "Al Jazeera",
+        "BBC",
+        "NBC News",
+        "The New York Times",
+        "The Times of Israel"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "6 shot, 1 dead in early morning Northeast Portland shooting; No arrests made",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaEpxTGlkaklINkxVU0g4cVl0TmR1QzNfNFd5Nm5ZT2FfTlBSbnBjc3JkdXo5LXhTQzVVdUNkLXlvbWVCTG5FbFJzTkl2R2NvODU0VWNoZkVmek5lbnM3cTVseVpwYnBPZEZhTUJwMzdZQ3JpMDN5RGVBTGNoWlFBcUN6N0dmU2lnWFQ3WlpGVFE4TThTR1BDRHVHcWVMc3NjZWl6VUlZbw?oc=5",
+      "summary": "6 shot, 1 dead in early morning Northeast Portland shooting; No arrests made KPTV 1 dead, 5 injured after shooting at house in Cully neighborhood KGW Man dies in Portland shooting; five others hurt, including a teen KATU 1 dead, 5 others injured after gunfire breaks out during NE Portland house party KOIN.com 1 dead, 5 hurt, including teenager, in Northeast Portland shooting OregonLive.com",
+      "published": "2026-08-02T17:25:00+00:00",
+      "outlets": [
+        "KATU",
+        "KGW",
+        "KOIN.com",
+        "KPTV",
+        "OregonLive.com"
       ],
       "feeds": [
         "google-nation"
