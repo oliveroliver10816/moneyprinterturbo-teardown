@@ -1,26 +1,61 @@
 {
-  "generated": "2026-08-03T06:17:14+00:00",
+  "generated": "2026-08-03T09:17:14+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
-    "reddit-worldnews": "HTTP 429 rate limited"
+    "reddit-news": "HTTP 429 rate limited"
   },
-  "raw_items": 1650,
-  "stale_dropped": 1089,
-  "clusters": 479,
+  "raw_items": 1649,
+  "stale_dropped": 1074,
+  "clusters": 496,
   "off_topic": 23,
   "stories": [
     {
+      "title": "Mega Pixel 11 series leak leaves nothing to the imagination",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oQ0txWEpLb1VmaWxLdlA0Q3NaZTh2TTJXVHh1MVpHbmM4dHBOVWY5Q1lhWWdjUVFSN2tYQVpka3Nmdm1QQkRXQnZ0RlJEWXFtMkZZMkFEajlmcnVNMDlqaWtOYWd3N0VvVkVBUjBpdDl5clFIOW5QZzNB?oc=5",
+      "summary": "Mega Pixel 11 series leak leaves nothing to the imagination Android Authority Exclusive: Google Pixel 11 Series Full Specs + US & EU Price Tags Android Headlines Google Pixel 11 leaks in some fresh new renders too - GSMArena.com news GSMArena.com Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget Pixel 11 Made by Google 2026 launch event: How to watch and what to expect androidcentral.com",
+      "published": "2026-08-03T06:52:00+00:00",
+      "outlets": [
+        "Android Authority",
+        "Android Central",
+        "Android Headlines",
+        "Engadget",
+        "GSMArena.com",
+        "androidcentral.com"
+      ],
+      "feeds": [
+        "google-technology",
+        "google-top"
+      ],
+      "reach": 71.7,
+      "angle": 45.8,
+      "rank": 32.8,
+      "signals": {
+        "unexplained": [
+          "mysterious"
+        ],
+        "secrecy": [
+          "leaked"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap.",
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
+    },
+    {
       "title": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOE5VVmJSTjhoOEZvVW5pZkNhRXprR250bjFKbFUtMVVma05GZXktdVFiQy1ma1ItV1Q0eDhFaGY5WXR1aUdzejJiMC1kdVBhNl84LW1vS0dYblNzM1VfcjhhYW9GeFBzNFFkQ2tmV1BxWVdZYlpIUTRRVlJEZzFHdXdrWjRhZm1Ua1hJZ3djOWVvdXFYc3BHTkFGeDRVRjUwemh0MVBHWm5Rdw?oc=5",
-      "summary": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019 Good News Network NASA\u2019s Curiosity Views a Sand-Capped Butte NASA Science (.gov) Curiosity Mars rover discovers field of honeycomb textures Phys.org Curiosity rover spots ancient sea of Martian polygons Popular Science 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine",
+      "summary": "Mars Rover Discovers Mysterious Field of Honeycomb Textures on Red Planet: \u2018Took Our Breath Away\u2019 Good News Network NASA\u2019s Curiosity Views a Sand-Capped Butte NASA Science (.gov) NASA\u2019s Curiosity rover finds a mysterious honeycomb landscape on Mars ScienceDaily Curiosity rover spots ancient sea of Martian polygons Popular Science A Sea of Tiny Honeycomb Cracks on Mars Could Show How Water Hold Clues to Ancient Water ZME Science",
       "published": "2026-08-02T00:32:13+00:00",
       "outlets": [
-        "BBC Sky at Night Magazine",
         "Good News Network",
         "NASA Science (.gov)",
-        "Phys.org",
-        "Popular Science"
+        "Popular Science",
+        "ScienceDaily",
+        "ZME Science"
       ],
       "feeds": [
         "google-science"
@@ -50,24 +85,53 @@
     {
       "title": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGtKLUVwTGp1ejR2WUZuMzZBeldMNWpLOXNfUjNMNVBScUVDYVRCelA0cF9uOGROeGxBUmhiWlJXc25CVWY1RmI2VEtBLVBON19VN0FuekZPRi13TWdrQVlYYlkxLUlSa1NvTzlzbnVoYkdKSG1fTzg2ZThuTDlUUjRFUGZsQQ?oc=5",
-      "summary": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA Sci.News Mysterious DNA: two unknown ancestors found in human genome euronews.com Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA Ars Technica New computational technique traces ghost ancestry in modern human genomes News-Medical The genome of a long-extinct ancient human is hiding within us New Scientist",
+      "summary": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA Sci.News Mysterious DNA: two unknown ancestors found in human genome Euronews.com Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA Ars Technica New computational technique traces ghost ancestry in modern human genomes News-Medical Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans Live Science",
       "published": "2026-08-02T08:16:01+00:00",
       "outlets": [
         "Ars Technica",
-        "New Scientist",
+        "Euronews.com",
+        "Live Science",
         "News-Medical",
-        "Sci.News",
-        "euronews.com"
+        "Sci.News"
       ],
       "feeds": [
         "google-science"
       ],
       "reach": 54.8,
-      "angle": 40.8,
-      "rank": 22.4,
+      "angle": 34.0,
+      "rank": 18.6,
       "signals": {
         "unexplained": [
           "mysterious"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Chilean Mummies Yield First Genetic Proof Europeans Brought Smallpox to Americas",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEhpQTUwbmttV3NRaE0xWTRoS19qN1h1NG9BeEtJZVRfRzVLRVpwOUItYy1XT3ZMQVhnZDd5YWNvemdRRk12ZVRNUHQ3SHAxdkJ6X1lzSk4tdU9DTzAyb05kcWs1NV95aV9KYmRyWmJpUzByLVo5WVhGenRiY0ltck02OHByYVJfS3owMXFjdjlwQXpiMXFJ?oc=5",
+      "summary": "Chilean Mummies Yield First Genetic Proof Europeans Brought Smallpox to Americas Ground News \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times 'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas ScienceAlert Ancient DNA from Chilean mummies links smallpox to colonisation Euronews.com Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas Medical Xpress",
+      "published": "2026-08-02T15:25:22+00:00",
+      "outlets": [
+        "Euronews.com",
+        "Ground News",
+        "Medical Xpress",
+        "ScienceAlert",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 54.8,
+      "angle": 24.8,
+      "rank": 13.6,
+      "signals": {
+        "institutional": [
+          "who"
         ],
         "frontier": [
           "ancient"
@@ -76,40 +140,8 @@
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
+        "An agency is involved. Its own record is the context nobody pulls.",
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "The Pixel 11 will be a perfect storm of bad timing",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFJfTFI2T1lYRzNiQ2YzUl9jU2JMUWU4YXN1VEhsclpJUG90alIyOWY2MDJPQzd2REZqNXhlcGJfaTBsbVhYTkgxcUxuckg4c2FzVEtVb1E5ZWZxbHdiTTN6TzlhNzVCcEF0SHFjM2hOSFhhS0JMOUZLeXB6bXFmT05pY19nc3ZTeWxESmpB?oc=5",
-      "summary": "The Pixel 11 will be a perfect storm of bad timing 9to5Google Exclusive: Google Pixel 11 Series Full Specs + US & EU Price Tags Android Headlines Pixel 11 specs and price leak with no surprises The Verge Google confirms Pixel 11 price increase, reveals \u2018dedicated\u2019 effort to make Android more RAM-efficient 9to5Google Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget",
-      "published": "2026-08-02T13:00:00+00:00",
-      "outlets": [
-        "9to5Google",
-        "Android Headlines",
-        "Engadget",
-        "The Verge"
-      ],
-      "feeds": [
-        "google-technology"
-      ],
-      "reach": 47.6,
-      "angle": 45.8,
-      "rank": 21.8,
-      "signals": {
-        "unexplained": [
-          "mysterious"
-        ],
-        "secrecy": [
-          "leaked"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
-        "Something is being withheld. Build the middle on what was asked and not answered."
       ]
     },
     {
@@ -152,12 +184,12 @@
       "published": "2026-07-30T20:01:00+00:00",
       "outlets": [
         "Atlanta News First",
-        "Hawaii News Now",
         "KCRG",
         "KMVT",
         "KOTA Territory News",
         "KSWO 7News",
         "KTRE",
+        "KWCH",
         "KWQC",
         "KWTX",
         "KY3",
@@ -165,15 +197,16 @@
         "Northern News Now",
         "Upper Michigan's Source",
         "WAGM",
+        "WEAU",
         "WFIE | 14 News",
         "WITN",
-        "WJHG",
         "WKYT",
         "WTHI-TV",
         "WTVA",
         "WVVA",
+        "WWNY",
         "Western Mass News",
-        "fox10tv.com",
+        "hawaiinewsnow.com",
         "knopnews2.com",
         "wbbjtv.com"
       ],
@@ -197,12 +230,12 @@
     {
       "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5",
-      "summary": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC Revolt of the Cockroaches: How India\u2019s Gen Z Humbled Modi Time Magazine Educated but unemployed: Inside India's broken jobs market and why the 'cockroaches' are fed up The Times of India \u2018We Are Not Learning Anything\u2019: India\u2019s Gen Z Rage Is a Test for Modi The New York Times India\u2019s gen Z have discovered the power of collective action | Letters The Guardian",
+      "summary": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC Revolt of the Cockroaches: How India\u2019s Gen Z Humbled Modi Time Magazine How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi Reuters India\u2019s gen Z have discovered the power of collective action | Letters The Guardian Educated but unemployed: Inside India's broken jobs market and why the 'cockroaches' are fed up The Times of India",
       "published": "2026-08-02T05:18:21+00:00",
       "outlets": [
         "CNBC",
+        "Reuters",
         "The Guardian",
-        "The New York Times",
         "The Times of India",
         "Time Magazine"
       ],
@@ -224,9 +257,38 @@
       ]
     },
     {
+      "title": "Female mammoths were cavemen\u2019s preferred prey",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMU9xS3FYUmZsSGhJNDktSWx3V2hwMUQ0dFUwQXBVTjJpVXdwMU5iSzhNOHM2QVI5UGFMWU5sZXBrbmFzYmJWZ296WFZZc3o5cVVqVklvQ0FWcjVTa3dnTlRXR1BONGF5cC1ZWGdYS1djakV3djJUX01JWGpVYTcxcFJrTC1pTERTX1gw?oc=5",
+      "summary": "Female mammoths were cavemen\u2019s preferred prey The Telegraph Ice Age humans preferred hunting female woolly mammoths Popular Science Ancient DNA Reveals Woolly Mammoth With A Sex Chromosome Combination Never Before Seen In An Extinct Species iflscience.com Woolly mammoths butchered by humans were mostly female New Scientist Early humans found female mammoths easier to hunt than males: Study | Study analysed mammoth DNA from past 50,000 yrs | Inshorts Inshorts",
+      "published": "2026-08-02T18:43:00+00:00",
+      "outlets": [
+        "Inshorts",
+        "New Scientist",
+        "Popular Science",
+        "The Telegraph",
+        "iflscience.com"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
       "title": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEJPTEdoTWd6MWVtZ0w5aVY1VTNvVFZ0bE9iRVRjX2hoVVhfQWVGQ2xmZDh1OUpmd04wbFNNYWEwMWhQeG92VklmOE1kc1BpVjNXLXF6UmR4U2JjZC1TYWRSaUVHcFpUYnY0LUd0aGY3bkt6QnU5ZGN4MWd0YmRrWkZkdU82SHU0Z2ppVXhrNVNkZkJmLVNaUU5B?oc=5",
-      "summary": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms Yahoo A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo Underground fungi may affect the future of carbon capture and storage Earth.com",
+      "summary": "Beneath Michigan, ancient rock and water teem with fungi, 'water bears,' and tiny worms Yahoo The Great Lakes Are Hiding a Secret Underworld of Tardigrades and Rock-Eating Fungi Gizmodo An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates Phys.org A vast world of rock-eating fungi lurks deep underneath the Great Lakes Popular Science Underground fungi may affect the future of carbon capture and storage Earth.com",
       "published": "2026-08-02T03:08:00+00:00",
       "outlets": [
         "Earth.com",
@@ -278,32 +340,6 @@
       ]
     },
     {
-      "title": "Fox Nation and Abby Hornacek uncover unexplained mysteries shaped by faith",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQ2NOQkk1cVU0V0tLTGpUR29LbEw4V2pnOEYtZ1IzbEQzQXdlcEp3b004azgxSlRyVDBsM0FUUjA0QTg1N3N4ZFp3UlhlODRpRkUyU2xB?oc=5",
-      "summary": "Fox Nation and Abby Hornacek uncover unexplained mysteries shaped by faith Fox News",
-      "published": "2026-08-02T19:25:34+00:00",
-      "outlets": [
-        "Fox News"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 26.0,
-      "angle": 34.0,
-      "rank": 8.8,
-      "signals": {
-        "unexplained": [
-          "mysteries",
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "After years of unexplained fainting, a \u2018tilt table test\u2019 pinpointed the cause",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXhkZHRzRkdUWkRFUk4zT1dIcEVDTzRWQnNnMWkyNXIwM3J5bnVBX3N4X2ttbmxDblB2N2gwdGpoVnU2dXpiQmZaekU5UHpySGZhSHpQdVdtWWtBWXY4emYzVjFIbGZyOWpoeHVMdnkwRDF4dVBoektxM0Yzd0tsR0VfY0h3ajlCUjlSVHZOZm81b3dMbG9IcHJ5RkF5MWRMZWlIRk9PelpYZkFBN1p1M1hTdS1XQQ?oc=5",
       "summary": "After years of unexplained fainting, a \u2018tilt table test\u2019 pinpointed the cause The Washington Post",
@@ -327,64 +363,6 @@
       "policy_reasons": [],
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "It\u2019s larger than Greater London and lies in the crater of an asteroid that struck Earth 214 million years ago\u2026 Now it\u2019s home to black bears",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11ejlXWmxXVGxNRUxZVlg5RlN6cHo2UDNodHZGZlNzQ3NnQUM4ckE4TEpmdGtYQ2hOZlJWcUpRWnp6NEFLSUVUc0dtMFAxWDZKUndLaTg4NWpWamZnYXNjVndFQ19MLUxNc3BF?oc=5",
-      "summary": "It\u2019s larger than Greater London and lies in the crater of an asteroid that struck Earth 214 million years ago\u2026 Now it\u2019s home to black bears BBC Wildlife Magazine Man stumbles on meteor crater planning camping trip on Google Maps Metro.co.uk This Could Be the First Meteor Crater Found by an Amateur Newser This 350-million-year-old meteorite crater stayed hidden for ages in Canada\u2014until Google maps... Moneycontrol.com Amateur Astronomer Discovers Ancient Meteorite Impact Using Google Maps Gizmodo",
-      "published": "2026-08-01T13:54:48+00:00",
-      "outlets": [
-        "BBC Wildlife Magazine",
-        "Gizmodo",
-        "Metro.co.uk",
-        "Moneycontrol.com",
-        "Newser"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 50.8,
-      "angle": 16.0,
-      "rank": 8.1,
-      "signals": {
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops'",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3ZsWW9ncHh5M2dtVmMtc1VKZk84TU1DTThoUGpVZVZNWWtCY0VTeG9aSkVNTllZRElwT1Eyb3VqSXd5SEU4dDQyb1FfUzMzeklxaXJCNjRSd25pSGloY1hiWS1PNWc0MS1RdXFWZDU3XzlDS0h2ZnJkazRCdlE0XzNSVGstUk9IeFdsT0VpQ2Q3MGtEZlRuNUdKQ3hrX3VlbDlqZDY3TG9PNlltNHY4WmVyWQ?oc=5",
-      "summary": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops' ScienceAlert Origin of Human Eyes Traced to 560-Million-Year-Old One-Eyed \u2018Cyclops\u2019 ZME Science Humans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor The Economic Times Scientists trace origin of human eyes to ancient \u200d\u200d`Cyclops-like\u200d\u200d` ancestor thereport.live Mind-Blowing Twist: Shocking Study Claims Human Eyes May Have Originated From 600-Million-Year-Old One-Eyed Ancestor Republic World",
-      "published": "2026-08-01T10:03:42+00:00",
-      "outlets": [
-        "Republic World",
-        "ScienceAlert",
-        "The Economic Times",
-        "ZME Science",
-        "thereport.live"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 50.8,
-      "angle": 16.0,
-      "rank": 8.1,
-      "signals": {
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
@@ -492,6 +470,32 @@
       "signals": {
         "unexplained": [
           "mystery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Fox Nation and Abby Hornacek uncover unexplained mysteries shaped by faith",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQ2NOQkk1cVU0V0tLTGpUR29LbEw4V2pnOEYtZ1IzbEQzQXdlcEp3b004azgxSlRyVDBsM0FUUjA0QTg1N3N4ZFp3UlhlODRpRkUyU2xB?oc=5",
+      "summary": "Fox Nation and Abby Hornacek uncover unexplained mysteries shaped by faith Fox News",
+      "published": "2026-08-02T19:25:34+00:00",
+      "outlets": [
+        "Fox News"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "mysteries",
+          "unexplained"
         ]
       },
       "verdict": "clear",
@@ -686,7 +690,7 @@
     },
     {
       "title": "Whistleblower lawsuit puts New Mexico\u2019s universal child care program under scrutiny",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzJWZUFhMjB4OF9saTl0ZXNtU2NxV1Y2ZWVNTjNvYTk4OWJkQjdNMDFFV3FxRkJCQ1hhZ2FtTG0xX0NfTDYtQUx2NURmYkRtMDVjZ29OdXlfa1BrSXF1Q1BxZ2o2WTU1WFFaRmpPaDBmQVRmLW1JLUEzSmJIUjZ6cHNvdWZCN0k2d3lObHBwTFIwVEtVNkxrNy1fLTdYWmNDS2w2eHZyNXpmVXZjT3FhX2tmOW4yVlFxTVZPRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzJWZUFhMjB4OF9saTl0ZXNtU2NxV1Y2ZWVNTjNvYTk4OWJkQjdNMDFFV3FxRkJCQ1hhZ2FtTG0xX0NfTDYtQUx2NURmYkRtMDVjZ29OdXlfa1BrSXF1Q1BxZ2o2WTU1WFFaRmpPaDBmQVRmLW1JLUEzSmJIUjZ6cHNvdWZCN0k2d3lObHBwTFIwVEtVNkxrNy1fLTdYWmNDS2w2eHZyNXpmVXZjT3FhX2tmOW4yVlFxTVZPRdIBwgFBVV95cUxOUU90V3BDUHg1QkJwTm51TFh2SWM2WGFHMGl2S3Z6SWdvdXdWQ1IzdjdXVXk4NEN5VlkxeEc2aHA2eWtLSks4LVd1TGFDR2piU3N6QlpHMURpak1hYXdacVlUWXJRbVJvUThab1VmU2pkVFJuSTR0MFdFMmotUjhiQ2EzbnZNUlhacFA4MmFZVmNaNXRPa1QzMVJ6UzJJdDFBZ0xQZWFSdmVrR1RxZElvNk9kb2JYR2FBbmQ1eVJ1TGVCUQ?oc=5",
       "summary": "Whistleblower lawsuit puts New Mexico\u2019s universal child care program under scrutiny KRQE",
       "published": "2026-08-02T04:16:06+00:00",
       "outlets": [
@@ -739,21 +743,134 @@
   ],
   "blocked": [
     {
-      "title": "'What was my fault?': How India's exam paper leak ended young lives",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZHoxNnFOQlYwaFFwcllxelZ4VWtYdmxIUW9Zd1ZZSThVdUtRQnRjRkNaQkotYVpGMTA4aVk2RUVWVTdsV3VsWXJ6cXlKZENBQVRjV0NSUVJqQQ?oc=5",
-      "summary": "'What was my fault?': How India's exam paper leak ended young lives bbc.com From a mother\u2019s grief to a nation\u2019s fury: How an exam leak became a political storm NPR NEET Protests End, But Can Compensation Heal the Loss of Student Lives? Daily Pioneer Student suicides jumped 80% in ten years; over 2,000 die by suicide every year due to exam failures The Hindu NEET paper leak: Cockroach party leaders meet kin of Rohtak girl who died by suicide The Tribune",
-      "published": "2026-08-02T23:35:54+00:00",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUnFxTXdNTjQwQllpRElDT051a1VwckJtSS12NnBFeEJHVzBNdjdzd0xxQ3pwR1R1aWxQUzYtUzRvZGUycEVmM09FLVpKZEZYejNpVmNjM3N6Zw?oc=5",
+      "summary": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives BBC Water-dropping aircraft take off to tackle major Greek wildfire, after 2 killed in crash NBC News Two helicopters collide outside Athens as Greece battles to control wildfires The Guardian Greece\u2019s island fires expose risks of tourism boom Financial Times 2 Killed as Firefighting Helicopters Collide in Greece The New York Times",
+      "published": "2026-08-03T01:03:31+00:00",
       "outlets": [
-        "Daily Pioneer",
-        "NPR",
-        "The Hindu",
-        "The Tribune",
+        "BBC",
+        "Financial Times",
+        "NBC News",
+        "The Guardian",
+        "The New York Times",
         "bbc-world",
-        "bbc.com"
+        "reddit-worldnews"
       ],
       "feeds": [
         "bbc-world",
-        "google-world"
+        "google-top",
+        "google-world",
+        "reddit-worldnews"
+      ],
+      "reach": 90.2,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94NWR2SUJmY185X1JCVWZSZG82aGN0dDFjZWdLWEJfZUx6ZDV3NnhrUTYtZDhNSU1pN3lnemEwczJjN1V0M2tSNmFPQUpzRnBEajFRc1VlMm14T3ZaSjBmakRMWXZELUVWd1JJcllvQjA0S01SNmNWcQ?oc=5",
+      "summary": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon NPR A defunct SpaceX rocket is about to crash into the moon NBC News A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect space.com Falcon 9 Rocket Stage \"Abandoned\" In High-Earth Orbit Is About To Slam Into The Moon, With The Energy Of 11.8 Gigajoules iflscience.com Used SpaceX rocket will soon slam into the moon, but not on purpose LiveNOW from FOX",
+      "published": "2026-08-02T23:38:05+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "CBC",
+        "LiveNOW from FOX",
+        "NBC News",
+        "NPR",
+        "The Guardian",
+        "iflscience.com",
+        "space.com"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 84.6,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "U.S. Rep. Marcy Kaptur \u2018active, alert\u2019 after crash; person involved at large",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3Vqcnl0ZnkyT1dSYVhabGtGUTFheHBUVlUtWU5ieXY3dUJ1SnkxRV85MGxTalNKR0ZURXR1UjdrVmhxeERTSVpSWEM5OWpjemVYcVVSNm5EYjNjUWllMXprWFpwZkFfcS1oRXk5THJpZ0NKMDFZTFFJUGI4LU0zZ2Jhd0Z3d2hTR0VFSEVuYmVUWWZuamhGMWNlRE9NUkpfY0NWSVFNMzhqVjk4cHVBQ0tvc2NWS1o0bW4wckxhR1NlYktrbU9GUV9uU3ViNHJiX3p2Nw?oc=5",
+      "summary": "U.S. Rep. Marcy Kaptur \u2018active, alert\u2019 after crash; person involved at large Toledo Blade Congresswoman Kaptur and campaign manager recovering after \"hit-skip\" crash in Toledo Sunday morning WTOL Congresswoman Marcy Kaptur hospitalized after hit-skip crash on her way to church service WTVG Ohio Rep Marcy Kaptur hospitalized after car crash on way to church Fox News Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident politico.com",
+      "published": "2026-08-03T04:29:38+00:00",
+      "outlets": [
+        "Fox News",
+        "The Columbus Dispatch",
+        "Toledo Blade",
+        "WTOL",
+        "WTVG",
+        "politico.com"
+      ],
+      "feeds": [
+        "google-nation",
+        "google-top"
+      ],
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Australia confirms first mass death of seabirds from H5N1 bird flu",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0lHZjUwb2ZfbnBDNTFjMFJWNEdIQnh1Snp0RFQ4bWFJam01S3VnckxsanA0TDRjZkhLdGNvQzV3Zk1DaTNyV1M4SWRkU2IwVjJUdXRQMTBZQUZxRGhyMnZVWGhpSlJ5aHB3SWw2b1k0TXZqVXhuZGVNV3YtVWlid1pYRGRjMnJGdzJFWGtRaEpaSW5OcXBHamc0WTY1QjFVSnk1Sk5mTWJTeDViUHBYeV9qXzVPdE9QNVU3c0piZmFFYkJTWmhTcA?oc=5",
+      "summary": "Australia confirms first mass death of seabirds from H5N1 bird flu Reuters Australia Bird Flu Outbreak Grows as Infections Triple in a Week Bloomberg.com Minister confirms first bird flu mass mortality in Australian wildlife ABC News & Headlines \u2013 Australian Broadcasting Corporation Bird flu has reached Victoria and more wildlife deaths loom. How bad could it get? The Guardian The warning signs are over: Australia now faces a devastating bird flu outbreak in wildlife The Conversation",
+      "published": "2026-08-03T02:33:00+00:00",
+      "outlets": [
+        "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+        "Bloomberg.com",
+        "Reuters",
+        "The Conversation",
+        "The Guardian",
+        "The New Daily"
+      ],
+      "feeds": [
+        "google-health",
+        "google-top"
+      ],
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbldmSFRRT0ZPMThZaEVtaUkzbml4Ymx3Q1NHWG9jYk5jSllENUkxTUZWMURTMnJnZFFZYlB4RHlBckplWmRfTTE0dTRFU2ZpVVB2b1cwTlZaUjBSbjVhNG1vNG9kLVB3ZUE5a2FERWFNMUh4bTJ6TU1scWU5U211VUFkWkJlb0FuckIxcS1pYnFlbDg?oc=5",
+      "summary": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83 AP News Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers' Fox News Former U.S. Rep. Kay Granger dies at 83, Speaker Johnson says dallasnews.com Kay Granger, who blazed trail from Fort Worth to heights of Congress, dies at 83 Fort Worth Star-Telegram Kay Granger, first Republican woman to lead House Appropriations Committee, dies at 83 Reuters",
+      "published": "2026-08-03T03:42:00+00:00",
+      "outlets": [
+        "AP News",
+        "Fort Worth Star-Telegram",
+        "Fox News",
+        "Reuters",
+        "dallasnews.com",
+        "politico.com"
+      ],
+      "feeds": [
+        "google-nation",
+        "google-top"
       ],
       "reach": 71.7,
       "angle": 18.0,
@@ -772,23 +889,55 @@
       ]
     },
     {
-      "title": "Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUVWQ0N2ZkhfTnFnckVPWUpwMTlreDFmTzk5dnpoNkdFam4zZWYxTUtlUERDR09BZlRQWjFGdTFIN2E4NkNWWDd3WUU4a05Xak9TdVpiSDdFNGZvc2Q1cGhtc1pZamxhUHppenh1WXlLWThjd2kxS3F3eVBhNDNBQzFWeGo0QTR6dENLSDBiOXlWWmlYd3c1T0FwOS1FUEpxdmxBRWpmQQ?oc=5",
-      "summary": "Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche AP News Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers NPR 'Your legacy will live forever': Nepal mourns climber Nirmal Purja bbc.com She closed her Pilates studio to chase a mountaineering dream, then tragedy struck CNN Hope Fading For Broad Peak Victims as Rescuers Reach the Bodies Explorersweb \u00bb",
-      "published": "2026-08-02T13:55:59+00:00",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdDByOW1QWUJObDlNRl83LUhBc2lHQmNSYWx1X1lhMjJ6YS1LeU9CZUpjLWlTZG9YdkVqbmFncGxOSTl0MkJ6YjdEeDZKSTdEWTZOMDNtbWpSdw?oc=5",
+      "summary": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal BBC Israel kills 19 in Gaza as attacks escalate despite latest Trump plan Al Jazeera Board of Peace CEO: Israeli military strikes in Gaza Strip interfering with peace efforts The Jerusalem Post Board of Peace envoy laments recent Gaza strikes amid effort to implement Trump plan The Times of Israel Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire The New York Times",
+      "published": "2026-08-02T15:50:59+00:00",
       "outlets": [
-        "AP News",
-        "CNN",
-        "Explorersweb \u00bb",
-        "NPR",
-        "bbc-world",
-        "bbc.com"
+        "Al Jazeera",
+        "BBC",
+        "The Jerusalem Post",
+        "The New York Times",
+        "The Times of Israel",
+        "bbc-world"
       ],
       "feeds": [
         "bbc-world",
         "google-world"
       ],
       "reach": 67.7,
+      "angle": 18.0,
+      "rank": 12.2,
+      "signals": {
+        "institutional": [
+          "military"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenRaMVlhSGtZV3ZHSzZqZnNrcDRfVDViVDFYTElZdnRNWW5TNUlsRWZvMElrRVJ3OWlWbjBwdmFtQ2FBRGFqaF9IU1pidG9ZTzZISnUwWXN6bjBxTjFJSlRFTEc4dzJoak9ObGhuWExVazBxOVJtRnVEM0hXOEFUVkVsUVdvYWxfWmZsb3IyTWhBOWZFbHA0?oc=5",
+      "summary": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72 Reuters Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory CNN Spain Says \u2018Vast Majority\u2019 of Ceuta Migrants Have Returned Bloomberg.com Ceuta Migration Crisis Exposes Despair Among Morocco\u2019s Young People The New York Times Spanish Ceuta witnesses a deadly \u2018game\u2019 for Moroccan migrants Al Jazeera",
+      "published": "2026-08-02T21:16:46+00:00",
+      "outlets": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "CNN",
+        "Reuters",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-top",
+        "google-world"
+      ],
+      "reach": 60.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -799,23 +948,22 @@
       "prompts": []
     },
     {
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYUZ6VWhYbnNlNndSMVlVdmtXeU0wWEFJek51QUtTNm1Taks0ODMwTzdhV3hnbkQtVUc0Sy01S1p1akNpY2lqeTl2RkRyTWhJMTlNdEMxQ2lXQQ?oc=5",
-      "summary": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths bbc.com Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship The Guardian Dispatch from Moscow: Fuel Shortages, Rising Fatigue, and No End of War in Sight The Free Press Ukraine Says It Hit Rosneft\u2019s Refinery in Russia\u2019s Saratov Bloomberg.com Ukraine Sinks Russian-Owned Container Ship in Black Sea, Rosatom Says The Moscow Times",
-      "published": "2026-08-02T15:48:00+00:00",
+      "title": "5 killed, dozens missing after fire breaks out on Indonesia passenger ferry",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnNUOHo5VnBWWlY3MnhMZVA4X0V6dkZHbTJWVkxid09TelNDdGhCb0JGY3hLRldwMkdQYlhSQ2RjYVVkR1cwblNRVThUM1p5N0poUzJqUkIxVUxpa3ZFZmxqX205Qy1DdHJhekZMLXZTdjNvTHpfYWthN3pkeFZvSzQ0Q24?oc=5",
+      "summary": "5 killed, dozens missing after fire breaks out on Indonesia passenger ferry CBS News Blaze engulfs Indonesian passenger ferry off Java, leaving at least five dead CNN Rescuers search for 28 missing after ferry catches fire in Indonesia's Madura island Reuters Five dead and 41 missing after Indonesia ferry catches fire BBC At Least 5 Dead, Dozens Missing After Ferry Carrying 271 People Catches Fire People.com",
+      "published": "2026-08-02T13:00:00+00:00",
       "outlets": [
-        "Bloomberg.com",
-        "The Free Press",
-        "The Guardian",
-        "The Moscow Times",
-        "bbc-world",
-        "bbc.com"
+        "BBC",
+        "CBS News",
+        "CNN",
+        "People.com",
+        "Reuters"
       ],
       "feeds": [
-        "bbc-world",
+        "google-top",
         "google-world"
       ],
-      "reach": 67.7,
+      "reach": 60.8,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -828,22 +976,21 @@
     {
       "title": "What we know about the victims, gunman in Idaho In-N-Out shooting",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQzhLZmU4LVgxemZwOERKV1NMTWFGM0NuNldfQ19HXzNxelRfZGZiQkVsWWUwZUJFaWdUMzRkQ0IyZFhmNFdZaFFjVV9DUWczM3FfRDdnYVdObWlWYnhLV0lmbXFwYk40TW9mQmFHcUVIaGZRX0w3WlJjSGxhaVgyd0tR0gGHAUFVX3lxTE5uQjY4Y3pFT0VFY1dYZ0d0WnI4MVJFRTNSQTUybWl0UnVTOU9GU09ha3lTdy1aNFBRNTM0Yzh4X0I5Q2N6Y1BLUk93Qk12Mk5vdmlpY2JpSW96VkxveHlyQmxDM2lOVzVmOHE0M0ZDWkhxRlhvd213YXd4V2M4cHNmX3lISkh1Yw?oc=5",
-      "summary": "What we know about the victims, gunman in Idaho In-N-Out shooting NewsNation Who is Chad Williams? What we know about suspected shooter at Twin Falls In-N-Out KTVB Southern California woman survives In-N-Out shooting in Idaho; parents recall terrifying moments before learning she was safe CBS News Armed bystander distracted gunman in fatal In-N-Out shooting NBC News LATEST UPDATES: Police, bystanders praise first responders and 'hero' citizens who took action to stop In-N-Out gunman East Idaho News",
+      "summary": "What we know about the victims, gunman in Idaho In-N-Out shooting NewsNation Siblings describe sheltering from shooter in restaurant parking lot KMVT Armed bystander distracted gunman in fatal In-N-Out shooting NBC News Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say Yahoo LATEST UPDATES: Police, bystanders praise first responders and 'hero' citizens who took action to stop In-N-Out gunman East Idaho News",
       "published": "2026-08-03T04:56:25+00:00",
       "outlets": [
-        "CBS News",
         "East Idaho News",
-        "KTVB",
+        "KMVT",
         "NBC News",
-        "NewsNation"
+        "NewsNation",
+        "Yahoo"
       ],
       "feeds": [
-        "google-nation",
         "google-top"
       ],
-      "reach": 64.8,
+      "reach": 58.8,
       "angle": 18.0,
-      "rank": 11.7,
+      "rank": 10.6,
       "signals": {
         "institutional": [
           "who"
@@ -858,182 +1005,16 @@
       ]
     },
     {
-      "title": "U.S. Rep. Marcy Kaptur \u2018active, alert\u2019 after crash; person involved at large",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3Vqcnl0ZnkyT1dSYVhabGtGUTFheHBUVlUtWU5ieXY3dUJ1SnkxRV85MGxTalNKR0ZURXR1UjdrVmhxeERTSVpSWEM5OWpjemVYcVVSNm5EYjNjUWllMXprWFpwZkFfcS1oRXk5THJpZ0NKMDFZTFFJUGI4LU0zZ2Jhd0Z3d2hTR0VFSEVuYmVUWWZuamhGMWNlRE9NUkpfY0NWSVFNMzhqVjk4cHVBQ0tvc2NWS1o0bW4wckxhR1NlYktrbU9GUV9uU3ViNHJiX3p2Nw?oc=5",
-      "summary": "U.S. Rep. Marcy Kaptur \u2018active, alert\u2019 after crash; person involved at large Toledo Blade Congresswoman Kaptur and campaign manager recovering after \"hit-skip\" crash in Toledo Sunday morning WTOL Congresswoman Marcy Kaptur hospitalized after hit-skip crash on her way to church service WTVG Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident Politico US representative Marcy Kaptur taken to hospital after car crash The Guardian",
-      "published": "2026-08-03T04:29:38+00:00",
+      "title": "Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0JoYUNoZWhPd1ZXWXFpTXJKcV9FZ0NoZm5zNkNzWlI2Z0JKazZWMkdQRXFyQ3MzRWFjRWdpUmdraHZVbGRjb2tMamQ0U2JIeFc0ZmR0d1pvcGtiVERRMnNXU0N0Q2tzR19BZzRGM3Uzb1RhYl9raXRBbHFfb29xMjlKMWI4aFZabjZGVTNUN0xyMm9ueFF2N00tV3VMamtl0gGmAUFVX3lxTE1WWnk0QTAtM0dkVjhKMnFSZlhFbHFHUDlCREdOMHpnalpqZ3NYUW5tTTQyN2l2YWJhLTFMZGp6VWlHUUhwRzFjRnlEM3ktSTdVTXRGTkhrVHIzazVtQ1N0T3ZwcEpoSWFvOEpoZEt1WVF0dGtBWk94QW5nZW5fYi04STQyeFNEb2VUMFhoMHlUTzNHakZSdU80QkN6RHJLakZUdVEtclE?oc=5",
+      "summary": "Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens Fox News \u2018This is where democracy beats totalitarianism\u2019: Ukraine\u2019s drone strike force takes the fight to Russia The Guardian Zelenskyy: the world has Patriot missiles, political decision is needed \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430 Russia seeks to expand ballistic missile production, Zelensky says The Kyiv Independent Zelenskyy Says 'Answers' Needed On Patriot Delivery As Civilian Death Toll Climbs Radio Free Europe/Radio Liberty",
+      "published": "2026-08-02T23:20:55+00:00",
       "outlets": [
-        "Politico",
-        "The Guardian",
-        "Toledo Blade",
-        "WTOL",
-        "WTVG"
-      ],
-      "feeds": [
-        "google-nation",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlB2LTBOM1B1T3VvUGxIYU14N19UdGR0TFFIS3FHamZGSUwtTXowcGUzSXhmTmpKQmpzME1GeENWSnJjejVBS1VQbDBHeWtVbnBZenk5OWxrcmNtNFJ6aGtaTVBILVd5amYyLV9sMFRqS1E3emtwR1lXdnBWM0VlTEZMMTBETVFVem43YXUyc0lKT3lQU1F5eEQ0Y0g2bEU1LXRockdORnBTTHpYZnFmbw?oc=5",
-      "summary": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83 Politico Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers' Fox News Kay Granger, who blazed trail from Fort Worth to heights of Congress, dies at 83 Fort Worth Star-Telegram Former U.S. Rep. Kay Granger dies at 83, Speaker Johnson says Dallas News Former Texas Rep. Kay Granger dies at 83 NBC News",
-      "published": "2026-08-03T03:05:00+00:00",
-      "outlets": [
-        "Dallas News",
-        "Fort Worth Star-Telegram",
         "Fox News",
-        "NBC News",
-        "Politico"
-      ],
-      "feeds": [
-        "google-nation",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 18.0,
-      "rank": 11.7,
-      "signals": {
-        "institutional": [
-          "who"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
-      "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94NWR2SUJmY185X1JCVWZSZG82aGN0dDFjZWdLWEJfZUx6ZDV3NnhrUTYtZDhNSU1pN3lnemEwczJjN1V0M2tSNmFPQUpzRnBEajFRc1VlMm14T3ZaSjBmakRMWXZELUVWd1JJcllvQjA0S01SNmNWcQ?oc=5",
-      "summary": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon NPR A defunct SpaceX rocket is about to crash into the moon NBC News SpaceX moon crash offers \u2018incredible\u2019 lessons, ex-NASA official says Yahoo A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect space.com Used SpaceX rocket will soon slam into the moon, but not on purpose LiveNOW from FOX",
-      "published": "2026-08-02T23:38:05+00:00",
-      "outlets": [
-        "LiveNOW from FOX",
-        "NBC News",
-        "NPR",
-        "Yahoo",
-        "space.com"
-      ],
-      "feeds": [
-        "google-science",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 18.0,
-      "rank": 11.7,
-      "signals": {
-        "institutional": [
-          "nasa"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
-      "title": "Australia confirms first mass death of seabirds from H5N1 bird flu",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0lHZjUwb2ZfbnBDNTFjMFJWNEdIQnh1Snp0RFQ4bWFJam01S3VnckxsanA0TDRjZkhLdGNvQzV3Zk1DaTNyV1M4SWRkU2IwVjJUdXRQMTBZQUZxRGhyMnZVWGhpSlJ5aHB3SWw2b1k0TXZqVXhuZGVNV3YtVWlid1pYRGRjMnJGdzJFWGtRaEpaSW5OcXBHamc0WTY1QjFVSnk1Sk5mTWJTeDViUHBYeV9qXzVPdE9QNVU3c0piZmFFYkJTWmhTcA?oc=5",
-      "summary": "Australia confirms first mass death of seabirds from H5N1 bird flu Reuters First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds The Guardian Now bird flu has hit seagulls a 'super-spreader' event is more likely ABC News & Headlines \u2013 Australian Broadcasting Corporation The warning signs are over: Australia now faces a devastating bird flu outbreak in wildlife The Conversation Updated: Fears for SA\u2019s galahs, corellas, cockatoos as deadly bird flu cases rise InDaily South Australia",
-      "published": "2026-08-03T02:33:00+00:00",
-      "outlets": [
-        "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-        "InDaily South Australia",
-        "Reuters",
-        "The Conversation",
-        "The Guardian"
-      ],
-      "feeds": [
-        "google-health",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenRaMVlhSGtZV3ZHSzZqZnNrcDRfVDViVDFYTElZdnRNWW5TNUlsRWZvMElrRVJ3OWlWbjBwdmFtQ2FBRGFqaF9IU1pidG9ZTzZISnUwWXN6bjBxTjFJSlRFTEc4dzJoak9ObGhuWExVazBxOVJtRnVEM0hXOEFUVkVsUVdvYWxfWmZsb3IyTWhBOWZFbHA0?oc=5",
-      "summary": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72 Reuters Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory CNN \u2018Do You Think if I Had a Job I Would Have Gone?\u2019 The New York Times Spain pushes migrants back to Morocco as suspicions swirl over mass border breach The Washington Post Spanish Ceuta witnesses a deadly \u2018game\u2019 for Moroccan migrants Al Jazeera",
-      "published": "2026-08-02T21:16:46+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "Reuters",
-        "The New York Times",
-        "The Washington Post"
-      ],
-      "feeds": [
-        "google-top"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Suicide bomber kills 14 outside police station in Pakistan\u2019s Swat",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXFfSXQwdHRxejBzWXdOZmVBT1lxZU5ZQU5JRTNVUTVMVkxBMFc0aVI1aFJETFYtN1VWTkowaDg2dm1hNHZqV0tLVlBTeUdCMnljR3lGOTFValNWWkxuVGhySFdLWFJFNktrTGl0MHVMZlNnQ3RuVFlJNlFmaVUtajNyZjBUZERWOW9rbmY1alVMT0FnMkt0Q1pSVFJ5UE9GRWMwRXZqc9IBrAFBVV95cUxOa0E3TFh6WEswel9SNTdhSHNnVTd2OTVZd296dnZ1ckNPcmZBMnpZU3hvWGpUV0U5NmNxVHk5dGV6Yy1BZWpnWjd6cTYyNl9IRXNSWHJXVlhpcVRISWtzU0Y4dmlIMTNaS21BdHlOcFFVOTZsTnhSR24taVI2cThzM05CS2ZpWkg5SXp6c0ZEclVpTjdMc2RtU28xY2Z4S2kyS2syZ2VfSUtES1R3?oc=5",
-      "summary": "Suicide bomber kills 14 outside police station in Pakistan\u2019s Swat Al Jazeera Suicide bomber strikes antimilitant rally in northwestern Pakistan, killing at least 14 CNN Pakistan Police Station Bombing Kills at Least 14 The New York Times 13 Killed In Suicide Blast During \"Peace Rally\" In Pak's Khyber Pakhtunkhwa NDTV Peace rally in Pakistan rocked by suicide blast; 14 killed, 20 injured The Times of India",
-      "published": "2026-08-02T19:44:44+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "NDTV",
-        "The New York Times",
-        "The Times of India"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "What we know so far about the plane crash that killed 11 European tourists near one of Peru\u2019s most popular sites",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KNWYzMVpITnJ1T3ZocmRoOXZKMmF5NURSOGxMNHhQSmRUVE9XRlhMV2Y5bUZ2WTJfU3FLNkpaRWtwYmFVcHM0RUxfNFhGREFTREwwTk5qeEhiYzVzWUdieEFCLXlDZ1kwR1hRYVRIR3dXV2VuQlQzU01RdjktZw?oc=5",
-      "summary": "What we know so far about the plane crash that killed 11 European tourists near one of Peru\u2019s most popular sites CNN Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight AP News Tourist plane crashes during flight over Peru\u2019s Nazca Lines, killing 13 The Guardian 13 killed in tourist plane crash in Peru ABC News - Breaking News, Latest News and Videos Tourist plane crashes in Peru, killing 13 on board bbc.com",
-      "published": "2026-08-02T20:34:36+00:00",
-      "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "AP News",
-        "CNN",
+        "Radio Free Europe/Radio Liberty",
         "The Guardian",
-        "bbc.com"
+        "The Kyiv Independent",
+        "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430"
       ],
       "feeds": [
         "google-world"
@@ -1051,7 +1032,7 @@
     {
       "title": "5.6-magnitude earthquake strikes north of Egypt's Suez, no damage reported",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjE3eW1QaE5nM2hJVXA3OEhrblV6RkJqNTZMWVVrWTZxcTFqRkh4QllhTEJVUWZ3emQ2ZjhCYm5fV1dJdkpBOHhFU21SZzluQlNXMlozaWxGMy1GNnRuamVvUW1xaFlVcTVxYlFtNzRBLWJDZzQ0UUIxUjhNRFhoWmhBUjhiZktWVzdVMmlLcmQwWmZmNzRxaE9Qdmk4T1V2RDl6ZmRn?oc=5",
-      "summary": "5.6-magnitude earthquake strikes north of Egypt's Suez, no damage reported Reuters Map: 5.0-Magnitude Earthquake Shakes Egypt The New York Times Tremors felt in southern Israel after magnitude 5.6 earthquake strikes Egypt, no damage reported The Jerusalem Post Earthquake centered in Egypt felt across central and southern Israel Israel National News Strong 5.3 Magnitude Earthquake Shakes Egypt Egyptian Streets",
+      "summary": "5.6-magnitude earthquake strikes north of Egypt's Suez, no damage reported Reuters Map: 5.0-Magnitude Earthquake Shakes Egypt The New York Times Tremors felt in southern Israel after magnitude 5.6 earthquake strikes Egypt, no damage reported The Jerusalem Post Strong 5.3 Magnitude Earthquake Shakes Egypt Egyptian Streets Earthquake centered in Egypt felt across central and southern Israel Israel National News",
       "published": "2026-08-03T00:37:00+00:00",
       "outlets": [
         "Egyptian Streets",
@@ -1072,6 +1053,37 @@
         "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
       ],
       "prompts": []
+    },
+    {
+      "title": "Oct. 7 survivor commits suicide on the grave of his girlfriend who was murdered by Hamas: report",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXFHWVVQRHc5c1o4RzVicWpuWGN6VTZHWlZpSFEtZ0JaVUxjdlZGMUJ6X29lMl9KcFZjY1paVWZuWVlZN0hEUjkwN2Y0WFFfN240dDZPM0tnQW5RSllMZXZDdmZ6OXFCUnhDZGItWWdQYVp6QzFPY0JMR1FCd2l6OTlEeXBNQmRZVXpfRy12S1VuOUxDdzhjS290R3ROMmFMRWc?oc=5",
+      "summary": "Oct. 7 survivor commits suicide on the grave of his girlfriend who was murdered by Hamas: report New York Post Boyfriend of Nova festival massacre victim found dead The Jerusalem Post Nova survivor dies after struggling with murder of close friend on Oct. 7 www.israelhayom.com Boyfriend of Oct 7 massacre victim takes his own life on girlfriend's grave after she was murdered by Hamas terrorists The Sun Man kills himself on the grave of his girlfriend murdered by Hamas on Oct 7 WION",
+      "published": "2026-08-02T22:33:00+00:00",
+      "outlets": [
+        "New York Post",
+        "The Jerusalem Post",
+        "The Sun",
+        "WION",
+        "www.israelhayom.com"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "who"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
     }
   ]
 }
