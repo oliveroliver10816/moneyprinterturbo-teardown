@@ -1,44 +1,49 @@
 {
-  "generated": "2026-08-04T06:17:09+00:00",
-  "feeds_ok": 25,
+  "generated": "2026-08-04T09:17:15+00:00",
+  "feeds_ok": 24,
   "feeds_total": 25,
-  "feed_errors": {},
-  "raw_items": 1685,
-  "stale_dropped": 1075,
-  "clusters": 521,
-  "off_topic": 33,
+  "feed_errors": {
+    "reddit-worldnews": "HTTP 429 rate limited"
+  },
+  "raw_items": 1665,
+  "stale_dropped": 1078,
+  "clusters": 503,
+  "off_topic": 30,
   "stories": [
     {
-      "title": "Google teases Pixel 11 Pro Fold, early pre-order time on August 12",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SUkxfYzJQQkZSbktYaDc2aVBxc1UtTFpqU0E3NFBBSzEwZ3JRSUY2X3ptbHRxczl5dzZhSTdNWDR2VmhmRWNNQllfSTNsa0U0cGw2Skw1WnE5bV91OTloVURGNG1YOVE0cjRFa3JCREdiZw?oc=5",
-      "summary": "Google teases Pixel 11 Pro Fold, early pre-order time on August 12 9to5Google Google Pixel 11: Every rumor, leak, and confirmed fact ahead of Made By Google Mashable Pixel 11 Pro Fold design leaks ahead of Google launch event The Verge Exclusive: Google Pixel 11 Series Full Specs + US & EU Price Tags Android Headlines Leaked Pixel 11 Pro Fold Photos Also Include Mysterious New Camera Bar Feature Engadget",
-      "published": "2026-08-03T16:23:00+00:00",
+      "title": "Apple Briefly Takes Telegram Off App Store Over Abusive Content",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3lLZFBOT2phR2xHekM2RnhDWXF2YjVycVNseUtTeGNoRkk2WFhBOElvUlFVc0ctM1VjQm9CQWE1Z04xaHp0TzhoLUNPakZ3b05WMzVpeGJHdEtyZWRvM1N2TGh1cWdBTlNtTHdpMVFSYnpMSjFsYUUxRHFQazk2ZllRR2F6cFQ1Rk9mV2xrWEpoZEFTYXhRdVFYYVYzMG1CNW5kT2VGU2ZkMHY2RC1pU2JlaDE?oc=5",
+      "summary": "Apple Briefly Takes Telegram Off App Store Over Abusive Content Bloomberg.com Telegram says Apple suspension followed content norms violation by one user Reuters Telegram briefly disappeared from the Apple App Store with no explanation AppleInsider Telegram Briefly Removed From Apple\u2019s App Store Over Alleged Child Sexual Abuse Content Forbes Telegram's Apple App Store mystery continues, but it's still available on Android Android Authority",
+      "published": "2026-08-04T04:59:00+00:00",
       "outlets": [
-        "9to5Google",
-        "Android Headlines",
-        "Engadget",
-        "Mashable",
-        "The Verge"
+        "Android Authority",
+        "AppleInsider",
+        "Bloomberg.com",
+        "Forbes",
+        "Reuters"
       ],
       "feeds": [
         "google-technology"
       ],
-      "reach": 54.8,
-      "angle": 45.8,
-      "rank": 25.1,
+      "reach": 58.8,
+      "angle": 39.9,
+      "rank": 23.5,
       "signals": {
         "unexplained": [
-          "mysterious"
+          "mystery",
+          "no explanation"
         ],
-        "secrecy": [
-          "leaked"
+        "disappearance": [
+          "disappeared"
         ]
       },
-      "verdict": "clear",
-      "policy_reasons": [],
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
-        "Something is being withheld. Build the middle on what was asked and not answered."
+        "Someone or something is gone. Absence is the strongest open ending there is."
       ]
     },
     {
@@ -80,126 +85,37 @@
       ]
     },
     {
-      "title": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGtKLUVwTGp1ejR2WUZuMzZBeldMNWpLOXNfUjNMNVBScUVDYVRCelA0cF9uOGROeGxBUmhiWlJXc25CVWY1RmI2VEtBLVBON19VN0FuekZPRi13TWdrQVlYYlkxLUlSa1NvTzlzbnVoYkdKSG1fTzg2ZThuTDlUUjRFUGZsQQ?oc=5",
-      "summary": "Scientists Find Traces of Two Unknown Archaic Hominins in Human DNA Sci.News The genome of a long-extinct ancient human is hiding within us New Scientist Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA Ars Technica Mysterious DNA: two unknown ancestors found in human genome Euronews.com Up to 1% of Your DNA May Come From a Mysterious Human Lineage ZME Science",
-      "published": "2026-08-02T08:16:01+00:00",
+      "title": "Could a hidden fifth dimension finally explain the mystery of dark matter?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaWpPbXNJcnlIWnRGWXlQTnhxME44bG5MVzRJM19Ld0ZUbW9iUGlOMnY1VlE0aExaOHJsTW9zbHVxTmR5TzhySzc5TjJsUkdOWGwxY0tUNmhqcl9FVzhKN1VDVkVVdGhxVmpnZUZvZFNibTRFRlY4SUFrc0FrZm1vMFNRTGdTeHJocEQtWHNPTGpSeGxyQ1NQdUdzVWg1Zk9QdFFnNEFoZXZzdldqdzlkd1VFZzVaQQ?oc=5",
+      "summary": "Could a hidden fifth dimension finally explain the mystery of dark matter? Futura, le m\u00e9dia qui explore le monde Reality: Bigger, Stranger, and Probably Watching | 514 105.7 The Point A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe 404 Media APOD: 2001 April 18 - A Higher Dimensional Universe NASA Science (.gov) The biggest mysteries in physics may have one answer New Scientist",
+      "published": "2026-08-03T11:34:33+00:00",
       "outlets": [
-        "Ars Technica",
-        "Euronews.com",
-        "New Scientist",
-        "Sci.News",
-        "ZME Science"
+        "105.7 The Point",
+        "404 Media",
+        "Futura, le m\u00e9dia qui explore le monde",
+        "NASA Science (.gov)",
+        "New Scientist"
       ],
       "feeds": [
         "google-science"
       ],
-      "reach": 50.8,
-      "angle": 40.8,
-      "rank": 20.7,
+      "reach": 54.8,
+      "angle": 41.6,
+      "rank": 22.8,
       "signals": {
         "unexplained": [
-          "mysterious"
+          "mysteries",
+          "mystery"
         ],
-        "frontier": [
-          "ancient"
+        "institutional": [
+          "nasa"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Magic just revealed 25 wild cards in Mystery Booster Commander",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPXzJKc1dJQmZzZ2QtY0RmVGk3MFlRQk9NT2dsa1RpNjZwdzNmS2R1bUNJdkVSbVVEU1hZTENBZ2lOOUZIbTlodk0xWjRYNG9YT2xLQTBxNXFYUXJveEhiTHY0WUdISU5iWFR4T3FhV0JvLU9zM3BteEd3NHpiYThub1F5S3dJUWVVU1VreWx6OE0?oc=5",
-      "summary": "Magic just revealed 25 wild cards in Mystery Booster Commander Polygon.com What's Inside Mystery Booster Commander Edition? magic.wizards.com Full Mystery Booster Commander Edition Details, New Cards Revealed Star City Games New MTG EDH Rulebreaker Finally Lets Players Create 240-Card Decks MTG Rocks The 6 Craziest Legendaries Revealed From Mystery Booster Commander Draftsim",
-      "published": "2026-08-03T20:00:12+00:00",
-      "outlets": [
-        "Draftsim",
-        "MTG Rocks",
-        "Polygon.com",
-        "Star City Games",
-        "magic.wizards.com"
-      ],
-      "feeds": [
-        "google-technology"
-      ],
-      "reach": 58.8,
-      "angle": 34.0,
-      "rank": 20.0,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Apple briefly removed Telegram from App Store after sexual abuse content violated guidelines",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXJ0WHFzeUZIZXVYWllwdlFkVEhQNUoyWDNtY3puc1o0QWg0OXp0N05VNDBGY1k3OEVKVEtsN09hU0hYYmFWLXJpaG9jcjFpa1R1cG5UbENvUjZ3dVk5SXNGdHBLV2N5M1JUMlhXakttbUZXQTIwd0ZNY2YxMFJiX1VHLTU2MTdqQ3NnRTBvSEpmMWFxdFZ1YUc2MWU1ckhpR0NFc3lmWQ?oc=5",
-      "summary": "Apple briefly removed Telegram from App Store after sexual abuse content violated guidelines Reuters Telegram Briefly Removed From Apple\u2019s App Store Over Alleged Child Sexual Abuse Content Forbes Apple Briefly Takes Telegram Off App Store Over Abusive Content Bloomberg.com Telegram Vanishes From the iOS App Store Worldwide With No Explanation From Apple Glitchwire Telegram's Apple App Store mystery continues, but it's still available on Android Android Authority",
-      "published": "2026-08-04T02:06:00+00:00",
-      "outlets": [
-        "Android Authority",
-        "Bloomberg.com",
-        "Forbes",
-        "Glitchwire",
-        "Reuters"
-      ],
-      "feeds": [
-        "google-technology"
-      ],
-      "reach": 58.8,
-      "angle": 34.0,
-      "rank": 20.0,
-      "signals": {
-        "unexplained": [
-          "mystery",
-          "no explanation"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Israel defies Trump\u2019s peace plan as it escalates deadly attacks on Gaza",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGstcFRLbFMwcUZybG8yc3RiM3owWHJFeWhGbkdKYlhYdWRuSlBnTVEtOUhRdHRPc1JkWWlNX3JtSzdMM3hBazN5RmJ6WWREWEppM3VETTZ2c1pZTVJDV01ETFplZ3M4QWdoRWpmNWtmUWNleVRCTmtMSDBqNC02b0NDa2lSb21mWHhrbUt4QzNhY2JlS0FXYkRyYllha183WnFvNnlRbDJXYTd6WnVJ0gG0AUFVX3lxTE5VMXlvR3hiUnlBYjNobGxIU1ZiNXYwVXlVODJMUmxPWU5TVzI3cUZCVVRaMl8tNDZJN2syT3dMYjI5T09xRnhaa2VCeWpNMnJYTWRwMmd3MjJrWVo2ZXhfQXk2MmotYXhLZFRqZndnTE9fRi1oT3YwNnI3aGVBMGZ4cFQ4NkI1LUlqcTFBbnlBUkZFUmZROXZaR3l0M2VJQkFMMm9fLXJNRERuTmVHYnNkLWlobQ?oc=5",
-      "summary": "Israel defies Trump\u2019s peace plan as it escalates deadly attacks on Gaza Al Jazeera Israeli strikes kill 18 in Gaza, minister says no deal to halt attacks Reuters Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire The New York Times Live Updates Despite Board of Peace Urging De-escalation, IDF Strikes in Gaza Kill Two haaretz.com Israeli strikes kill 13 in Gaza; minister says no deal to halt attacks NBC News",
-      "published": "2026-08-03T11:03:19+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "NBC News",
-        "Reuters",
-        "The New York Times",
-        "haaretz.com"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 54.8,
-      "angle": 34.0,
-      "rank": 18.6,
-      "signals": {
-        "unexplained": [
-          "defies"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
+        "An agency is involved. Its own record is the context nobody pulls."
       ]
     },
     {
@@ -232,9 +148,38 @@
       ]
     },
     {
+      "title": "Magic just revealed 25 wild cards in Mystery Booster Commander",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPXzJKc1dJQmZzZ2QtY0RmVGk3MFlRQk9NT2dsa1RpNjZwdzNmS2R1bUNJdkVSbVVEU1hZTENBZ2lOOUZIbTlodk0xWjRYNG9YT2xLQTBxNXFYUXJveEhiTHY0WUdISU5iWFR4T3FhV0JvLU9zM3BteEd3NHpiYThub1F5S3dJUWVVU1VreWx6OE0?oc=5",
+      "summary": "Magic just revealed 25 wild cards in Mystery Booster Commander Polygon.com What's Inside Mystery Booster Commander Edition? Magic: The Gathering Full Mystery Booster Commander Edition Details, New Cards Revealed Star City Games New MTG EDH Rulebreaker Finally Lets Players Create 240-Card Decks MTG Rocks The 6 Craziest Legendaries Revealed From Mystery Booster Commander Draftsim",
+      "published": "2026-08-03T20:00:12+00:00",
+      "outlets": [
+        "Draftsim",
+        "MTG Rocks",
+        "Magic: The Gathering",
+        "Polygon.com",
+        "Star City Games"
+      ],
+      "feeds": [
+        "google-technology"
+      ],
+      "reach": 54.8,
+      "angle": 34.0,
+      "rank": 18.6,
+      "signals": {
+        "unexplained": [
+          "mystery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
       "title": "Lenovo\u2019s full-size Googlebook leak offers a closer look at hardware [Gallery]",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UcWdTOXhwRmcwZ3dYcUxER1BxVnV2dVYzTjlSS3ZQaXhiT21ZZGVfNDZONnhJU243aTlQcXNvUXoyOEh5em5CdmxiQlZoRWlSQ0pYajkwMTVXZ0xrS3FXSGlJc21iei1QQ0cwck5LZw?oc=5",
-      "summary": "Lenovo\u2019s full-size Googlebook leak offers a closer look at hardware [Gallery] 9to5Google Lenovo Shares Images of New Googlebook and 2-in-1 Tablet CNET Lenovo's First Googlebooks Have Leaked Engadget Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet The Verge Massive leak reveals Lenovo Googlebook 15 ahead of launch Android Authority",
+      "summary": "Lenovo\u2019s full-size Googlebook leak offers a closer look at hardware [Gallery] 9to5Google Lenovo Shares Images of New Googlebook and 2-in-1 Tablet CNET Lenovo's First Googlebooks Have Leaked Engadget Massive leak reveals Lenovo Googlebook 15 ahead of launch Android Authority Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet The Verge",
       "published": "2026-08-03T15:47:00+00:00",
       "outlets": [
         "9to5Google",
@@ -261,23 +206,24 @@
       ]
     },
     {
-      "title": "Ant teams beat gravity-based puzzle solvers",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KXzJ5ckI2d0RER1gtUy1jRC15VVZrcjRuUXpZTW5TSk1xc2oyVndWYmFVVVBHQVQweTgwYnlwZUh3ZF8xRXdLYi1iX0twcTJieU5uZkJfelkwWTV2ZVMwWU9oYXdHcUhITURXMzc2OXJXaDQ?oc=5",
-      "summary": "Ant teams beat gravity-based puzzle solvers Phys.org",
-      "published": "2026-08-03T19:20:10+00:00",
+      "title": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdm1JUFFKOWlhd0M0Q3hfUFNxSHZ5SlNldl9hMzdydjllWE43SlBwQnZ3ZFhLaW9RRjZ2eE04SDRYMDlTYThlTjVCQ3dMX0pzalJqaU4wSmZVeGFJX1FuRWU4Q3U0YkM2MkxuSzFn?oc=5",
+      "summary": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery Phys.org Is a giant planet orbiting Tabby\u2019s Star? Maybe EarthSky Tabby\u2019s Star Harbors Giant Planet That May Finally Explain Its Decade of Bizarre Dimming Tech Times Tabby's star may be orbited by a planetary-mass companion Phys.org",
+      "published": "2026-08-03T12:00:05+00:00",
       "outlets": [
-        "Phys.org"
+        "EarthSky",
+        "Phys.org",
+        "Tech Times"
       ],
       "feeds": [
-        "google-health",
         "google-science"
       ],
-      "reach": 32.0,
+      "reach": 39.9,
       "angle": 34.0,
-      "rank": 10.9,
+      "rank": 13.6,
       "signals": {
         "unexplained": [
-          "puzzle"
+          "mystery"
         ]
       },
       "verdict": "clear",
@@ -295,13 +241,10 @@
         "Atlanta News First",
         "Hawaii News Now",
         "KCRG",
-        "KFYR-TV",
         "KLTV.com",
         "KMVT",
-        "KOLD",
         "KOTA Territory News",
         "KPTV",
-        "KSWO 7News",
         "KTRE",
         "KWCH",
         "KWTX",
@@ -310,12 +253,13 @@
         "Live 5 News",
         "Northern News Now",
         "Upper Michigan's Source",
+        "WAFF",
         "WAGM",
+        "WALB",
         "WBRC 6 News",
         "WEAU",
         "WFIE | 14 News",
         "WITN",
-        "WKYT",
         "WMBF",
         "WTHI-TV",
         "WTVA",
@@ -323,6 +267,7 @@
         "WVVA",
         "fox10tv.com",
         "knopnews2.com",
+        "kold.com",
         "wbbjtv.com"
       ],
       "feeds": [
@@ -343,45 +288,16 @@
       ]
     },
     {
-      "title": "Chilean Mummies Prove Europeans Brought Smallpox to the Americas\u2014But That\u2019s Not All",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGhHOTU4aXM5WGZlUWxtdE5saVZoT2dpRTlZN29jeVk1SlNXWFNnQ1p1dXI1QzZHb2hxa1F6RDdITUlwRmpPZFVVSGlHdGxQcUZ5QWt5bFlzRnlfRDFQaVVhUG8zX3Yzei1JT3JEV0xZeUhpb1AzTmxiYVJzY2V6dzlWNFI3cDVCMUw0dlNmS096Sm5CZy13dVVNNzFfTWVBZjB4d0RNWnhxTFFZUXQzV05DVQ?oc=5",
-      "summary": "Chilean Mummies Prove Europeans Brought Smallpox to the Americas\u2014But That\u2019s Not All Gizmodo Smallpox DNA Hidden for Centuries in Mummies Found in Chile Suggests European Colonists Brought the Virus to the Americas Smithsonian Magazine Smallpox DNA is recovered from Spanish conquest-era Chilean mummies Reuters Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas Medical Xpress \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times",
-      "published": "2026-08-03T21:10:42+00:00",
-      "outlets": [
-        "Gizmodo",
-        "Medical Xpress",
-        "Reuters",
-        "Smithsonian Magazine",
-        "The New York Times"
-      ],
-      "feeds": [
-        "google-health"
-      ],
-      "reach": 58.8,
-      "angle": 16.0,
-      "rank": 9.4,
-      "signals": {
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
       "title": "How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhnOUVCdlVFd1pWcDdoTFFJWnJxaWJ0ekd4aDI2MnlmcTVFVG94aUFGQnlDcmxlQU5kRHlVMWc0R3FOX1dTVGJoZDVqeEw4aGlnSTlfRWRsckIxQXBSQ3hPNHdPajVELTBWSGQ5TjF2OVg1QnU4NGhrMzdtN3FRR0tTa19FZWJZcHY4MkFXdXVSVVlPSExDSURyTl8yUU1OWE13czI2TGhRNUFsTkNvUkgwRQ?oc=5",
-      "summary": "How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi Reuters What Do India\u2019s Gen Z Protests Mean for Modi? The New Yorker An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC Revolt of the Cockroaches: How India\u2019s Gen Z Humbled Modi Time Magazine India\u2019s gen Z have discovered the power of collective action | Letters The Guardian",
+      "summary": "How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi Reuters What Do India\u2019s Gen Z Protests Mean for Modi? The New Yorker How India\u2019s Gen Z movement of \u2018Cockroaches\u2019 dented Modi\u2019s political image AP News An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC India\u2019s gen Z have discovered the power of collective action | Letters The Guardian",
       "published": "2026-08-03T06:30:00+00:00",
       "outlets": [
+        "AP News",
         "CNBC",
         "Reuters",
         "The Guardian",
-        "The New Yorker",
-        "Time Magazine"
+        "The New Yorker"
       ],
       "feeds": [
         "google-world"
@@ -401,15 +317,15 @@
       ]
     },
     {
-      "title": "Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTdoZnFPc2cxOFp2UmNxcmZZNHlTWG94NU1pRkRaUExnRlFtTzRFdm5NN212RTZobFAyZU5rNWdIMHNoQndnUUdyb0RlVjJ3SE1PZ0JQVU0xNnhjd29fRjY4MHNoUm1ubG02MEVVTGhMUTg0d1BXUjVGWFVaV1N3MGtOWU91Qmc4WjFNcDN0QUNqeUFjSVZCSmZFRnRVNjB3UTZPZDlWNExRMEcweC1sOE9R?oc=5",
-      "summary": "Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins Gizmodo Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system Nature Marine microbes point to ancient seawater source beneath Antarctica's Blood Falls Phys.org How Antarctica's Blood Falls came to be Scientific American Blood Falls, Antarctica: Why This Glacier Flows Bright Red HowStuffWorks",
-      "published": "2026-08-03T15:00:59+00:00",
+      "title": "Marine microbes point to ancient seawater source beneath Antarctica's Blood Falls",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUldic3RBMUdiNkhUalJTbzVvTWttbWNlampaWERaV0tSNWJRU3RTcUxQUUFXaURpelpaTDIyaHZTSVBvaFJwcEhGZ0NRZDE1ak1HbUxJLTNmQjFXYk1seEdqU3ZPQm9IQXlGanJ4S05mZjMweEZ3eDJwbUhJUkk?oc=5",
+      "summary": "Marine microbes point to ancient seawater source beneath Antarctica's Blood Falls Phys.org Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system Nature How Antarctica's Blood Falls came to be Scientific American Blood Falls, Antarctica: Why This Glacier Flows Bright Red HowStuffWorks Antarctica\u2019s Blood Falls teems with life from unexpected source Popular Science",
+      "published": "2026-08-03T21:00:05+00:00",
       "outlets": [
-        "Gizmodo",
         "HowStuffWorks",
         "Nature",
         "Phys.org",
+        "Popular Science",
         "Scientific American"
       ],
       "feeds": [
@@ -420,8 +336,7 @@
       "rank": 8.8,
       "signals": {
         "frontier": [
-          "ancient",
-          "discovered"
+          "ancient"
         ]
       },
       "verdict": "clear",
@@ -444,6 +359,35 @@
       ],
       "feeds": [
         "google-science"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Chilean Mummies Prove Europeans Brought Smallpox to the Americas\u2014But That\u2019s Not All",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGhHOTU4aXM5WGZlUWxtdE5saVZoT2dpRTlZN29jeVk1SlNXWFNnQ1p1dXI1QzZHb2hxa1F6RDdITUlwRmpPZFVVSGlHdGxQcUZ5QWt5bFlzRnlfRDFQaVVhUG8zX3Yzei1JT3JEV0xZeUhpb1AzTmxiYVJzY2V6dzlWNFI3cDVCMUw0dlNmS096Sm5CZy13dVVNNzFfTWVBZjB4d0RNWnhxTFFZUXQzV05DVQ?oc=5",
+      "summary": "Chilean Mummies Prove Europeans Brought Smallpox to the Americas\u2014But That\u2019s Not All Gizmodo Smallpox DNA Hidden for Centuries in Mummies Found in Chile Suggests European Colonists Brought the Virus to the Americas Smithsonian Magazine Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas Medical Xpress Smallpox DNA is recovered from Spanish conquest-era Chilean mummies Reuters \u2018This Is Very Strange\u2019: Ancient Smallpox May Have Been Less Deadly The New York Times",
+      "published": "2026-08-03T21:10:42+00:00",
+      "outlets": [
+        "Gizmodo",
+        "Medical Xpress",
+        "Reuters",
+        "Smithsonian Magazine",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-health"
       ],
       "reach": 54.8,
       "angle": 16.0,
@@ -489,31 +433,6 @@
       ]
     },
     {
-      "title": "Why ex-Gilbert officers created a place to report unexplained calls",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmNsMnJycEVkRkRXRjNJOW8yVUJKM0paZjUxRk9PX0xYNU9GQWNmMGNnRkFCTmNNVUtnakF1eFBpWDFUYUZSUWZHZ1NXcmFhUlVMQy1FR0RJNTN2ajlqd2VOTVNpX0htMWdTXzNDME1qbThvUlNWeXJQN191a1lTZnIzSWVKa0kzbHo5eTZ0NmdoaDFSTFNyYjdCQkcweXJwTV9SYlA4ZF8?oc=5",
-      "summary": "Why ex-Gilbert officers created a place to report unexplained calls AZ Family",
-      "published": "2026-08-04T02:16:00+00:00",
-      "outlets": [
-        "AZ Family"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 26.0,
-      "angle": 34.0,
-      "rank": 8.8,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "Visalia parents seek cameras in special ed rooms after unexplained injuries",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlJpQ0w2bW9BRGtZcjhSSGV4U1psX1pMa1hwUk8tTl91WENPR21XVFUxYnRQcjlPc0dqakxsRlZjR3huNHZvb19nSXpOVjZuS3RIaUhucWVMeW1kTjJ2TnVqb185cjNodjVERlhVN1RxZ3h0R1dqWm9oMm1zMWxmR3o3VVk1YlVicTcwSkMxN1R6ZzAtR1lzSkNoSXN5VUJFRUdQOW5n?oc=5",
       "summary": "Visalia parents seek cameras in special ed rooms after unexplained injuries kmph.com",
@@ -539,12 +458,12 @@
       ]
     },
     {
-      "title": "Section 69B Income Tax Addition belongs to Year of Search, Not on Previous AY: Karnataka HC Sets aside addition for Unexplained Jewellery",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbWNzQTlkTVk1bWpUaVFVWEFGU1YtdFk5cjhmT08zMDFvU2t6TzRubWdKTmZFaGI4YThQcjFVbFBYRWRDRXZKYk85NkVIengxT19UTGhBaXpfTTN0RmhCOXBtckJ4Nmx1T1VUSm9nTkozVUhVelZIWW1pb3pncmZjLWl6OHBTbDAtQUtLQV9xQzNJUUVnM1htUl9PYklxaGt5eXNWamwybmlwZk91SnduczFpQ21YeG9TbE8wM3pnNG8zZ09PRXdTaHRWY19pRnEyNTM0SWZvSWpERkxxQ0JfbThLTmZ1Xzd6Z2drMkxjRS1TZlFfQTBVdWtfTm5BQzFWYkFwS1k1VU9xZw?oc=5",
-      "summary": "Section 69B Income Tax Addition belongs to Year of Search, Not on Previous AY: Karnataka HC Sets aside addition for Unexplained Jewellery Taxscan",
-      "published": "2026-08-04T05:38:48+00:00",
+      "title": "Why ex-Gilbert officers created a place to report unexplained calls",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmNsMnJycEVkRkRXRjNJOW8yVUJKM0paZjUxRk9PX0xYNU9GQWNmMGNnRkFCTmNNVUtnakF1eFBpWDFUYUZSUWZHZ1NXcmFhUlVMQy1FR0RJNTN2ajlqd2VOTVNpX0htMWdTXzNDME1qbThvUlNWeXJQN191a1lTZnIzSWVKa0kzbHo5eTZ0NmdoaDFSTFNyYjdCQkcweXJwTV9SYlA4ZF8?oc=5",
+      "summary": "Why ex-Gilbert officers created a place to report unexplained calls AZ Family",
+      "published": "2026-08-04T02:16:00+00:00",
       "outlets": [
-        "Taxscan"
+        "AZ Family"
       ],
       "feeds": [
         "angle:unexplained"
@@ -625,12 +544,12 @@
       ]
     },
     {
-      "title": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdm1JUFFKOWlhd0M0Q3hfUFNxSHZ5SlNldl9hMzdydjllWE43SlBwQnZ3ZFhLaW9RRjZ2eE04SDRYMDlTYThlTjVCQ3dMX0pzalJqaU4wSmZVeGFJX1FuRWU4Q3U0YkM2MkxuSzFn?oc=5",
-      "summary": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery Phys.org",
-      "published": "2026-08-03T12:00:05+00:00",
+      "title": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began?",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXRCTmItOThpcG5jNzByYjV4Ti10RmlSOHpvUE91R1VSRG53SGxHUWZyQUNvMTRhODJpaVJrRUQtcDVHZXBDbHpaTzVGcDc2dDJqYThsQzE1VTdzUVlCaVl5YVRZNGF5bVRMYWlRSFNmUXpVUWFNTXlWa0x0RXpicWE4bWtLeTByUVp2dVZrV28wOTk2TXg5RmZZd0ozN2FBaS1BUTRGWUliMHFNendTNzNGd2h2WHkxUjFWenU0eW8yQQ?oc=5",
+      "summary": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began? The Guardian",
+      "published": "2026-08-02T21:25:00+00:00",
       "outlets": [
-        "Phys.org"
+        "The Guardian"
       ],
       "feeds": [
         "google-science"
@@ -650,22 +569,22 @@
       ]
     },
     {
-      "title": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began?",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXRCTmItOThpcG5jNzByYjV4Ti10RmlSOHpvUE91R1VSRG53SGxHUWZyQUNvMTRhODJpaVJrRUQtcDVHZXBDbHpaTzVGcDc2dDJqYThsQzE1VTdzUVlCaVl5YVRZNGF5bVRMYWlRSFNmUXpVUWFNTXlWa0x0RXpicWE4bWtLeTByUVp2dVZrV28wOTk2TXg5RmZZd0ozN2FBaS1BUTRGWUliMHFNendTNzNGd2h2WHkxUjFWenU0eW8yQQ?oc=5",
-      "summary": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began? The Guardian",
-      "published": "2026-08-02T21:25:00+00:00",
+      "title": "Ant teams beat gravity-based puzzle solvers",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KXzJ5ckI2d0RER1gtUy1jRC15VVZrcjRuUXpZTW5TSk1xc2oyVndWYmFVVVBHQVQweTgwYnlwZUh3ZF8xRXdLYi1iX0twcTJieU5uZkJfelkwWTV2ZVMwWU9oYXdHcUhITURXMzc2OXJXaDQ?oc=5",
+      "summary": "Ant teams beat gravity-based puzzle solvers Phys.org",
+      "published": "2026-08-03T19:20:10+00:00",
       "outlets": [
-        "The Guardian"
+        "Phys.org"
       ],
       "feeds": [
-        "google-science"
+        "google-health"
       ],
       "reach": 22.0,
       "angle": 34.0,
       "rank": 7.5,
       "signals": {
         "unexplained": [
-          "mystery"
+          "puzzle"
         ]
       },
       "verdict": "clear",
@@ -748,57 +667,103 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
+    },
+    {
+      "title": "Latest unexplained absence gives the Broncos one option with Drew Sanders",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3VNaFJXd1hrQTNraXlQa255dXVFSG9sXzUwSDctSC00QkxhaHJGVTBWbURqNGNyX1NrcmNaUlZ0U3FCcjNpSlFuMVVlQVBOcE5jTEh6Sm1hLVdJTEpmTVNXTFpZZWRORnF5djRiMHBhVUJreUxFSXlQd25nNGdqWXNuR1RvQXQ5MTdhRzhlY0hueUVYeTV3YUpBaE9ET1VqeURTM0l1RUdlSG14NlQ3T245X0lSOHlVQXc?oc=5",
+      "summary": "Latest unexplained absence gives the Broncos one option with Drew Sanders Predominantly Orange",
+      "published": "2026-08-03T12:00:01+00:00",
+      "outlets": [
+        "Predominantly Orange"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Tether still has a $4 billion buffer after unexplained multi billion dollar loss",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTBJQ28xMEhTakEzWEhibVVLcG1YaEstMHBJT19rNXpjeEFtSWk3V1psNGFUc3E0Vlgwa0J0WHdNa2NObDkwQlJWeHRCXzFwRTlPYVZ1ZkpNUDFzeDAyWnRTUmwtR3FabTRvWnhzMzNNUWlKdjh4d0VYMFlrRzN4OEYtS3ZwRVE4WVAtcnpKSktJcXpmd3lrLXZ4ckFfUHo2U2tfRXIwRFA3UzAtOG1JNg?oc=5",
+      "summary": "Tether still has a $4 billion buffer after unexplained multi billion dollar loss ledgerinsights.com",
+      "published": "2026-08-03T13:46:47+00:00",
+      "outlets": [
+        "ledgerinsights.com"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Sanctuary of Our Lady of Lourdes: Investigating medically unexplained cures | 60 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVMzVHlnc0ZWVXc0eWU2Y2ZnTUJuRjY4ZGpLRkpsRk5OMGcwV1lBWEkyU1ptdkY4QlpJVUp1ZU54WUhvQjRYR0xnZ2h2aUpVeHBGUDhhN1lQcl95eUx4TVhjQ19SWXpHamY1YWtMMFJoSThHVzE4WjY3UGNHdVo2a3M5aEdUY0tHdVZ2WVVwSmpUWnctUGdNblZZaDNPYkJIZEJSc3VLUFFnZw?oc=5",
+      "summary": "Sanctuary of Our Lady of Lourdes: Investigating medically unexplained cures | 60 Minutes CBS News",
+      "published": "2026-08-02T23:00:00+00:00",
+      "outlets": [
+        "CBS News"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 22.0,
+      "angle": 34.0,
+      "rank": 7.5,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
     }
   ],
   "blocked": [
     {
-      "title": "Ceuta: EU calls for stronger borders after migrant crossings into Spanish territory",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WSzdRTkdzdDFBQ1VqeDR2SXdZcmhkNnl4d3FXNldyVTkwbTctMW1tdGZ4WWFRRnNjTmVPMG5tMk5YZUdQci1MQ3N3MnIwd09WbmFUZVVGb2FpZw?oc=5",
-      "summary": "Ceuta: EU calls for stronger borders after migrant crossings into Spanish territory BBC Spain installs sea barrier on Ceuta's border with Morocco after frontier rush that killed 67 PBS Spanish Prime Minister Sanchez fends off blistering criticism within the EU over Ceuta crisis ClickOnDetroit | WDIV Local 4 Hundreds of migrant children are stranded in Spain\u2019s Ceuta after mass crossing AP News Morocco says Spain should have foreseen migration impact of court ruling Reuters",
-      "published": "2026-08-04T03:01:03+00:00",
+      "title": "Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44VzlrYzNmRUZobWN6QndOZGJDY1dhcTlBSjZFUkhuY004TzdQSC1rak10N0xWQVJzZm53Z1Y2X0M1RUV2Tmgxd3RWV3FMR0ppN09zbExpMTlidThlZUNHYXpFcGNZQlV1bEtGQ0hKaHk0ZVNON09LTlVVbGQ?oc=5",
+      "summary": "Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames CNN Here\u2019s what we know about all the fires currently burning across Spokane County KREM Spokane arson suspect in Old Trails Fire has prior manslaughter conviction khq.com Arson suspect arrested over devastating Washington wildfire Yahoo Some evacuation orders downgraded to Level 2 (BE SET) for wildfires in Spokane KXLY.com",
+      "published": "2026-08-04T08:04:00+00:00",
       "outlets": [
-        "AP News",
-        "BBC",
-        "ClickOnDetroit | WDIV Local 4",
-        "PBS",
-        "Reuters",
-        "bbc-world",
-        "reddit-news"
-      ],
-      "feeds": [
-        "bbc-world",
-        "google-top",
-        "google-world",
-        "reddit-news"
-      ],
-      "reach": 90.2,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHIwRUdBWEhhd3Q1bnRWei1SeXVtYkdOUi1oS045TV9QbG1VVjhkOWdJVVV3ZmhKd0xXVFpaMDVsdGEzQWRyYklmTnNrRWJ6YUhTQjNmeWpGMEZ2Nk1YY1M5QWdoYWQwRjZDcUdFUkRmSGp4QnA0UElpTndDQ0JnMEprZTlWc0pqdUE?oc=5",
-      "summary": "Drone Explodes on Russian Beach, Killing 7, Officials Say The New York Times Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach BBC Ukraine drone attack kills seven at popular Russian Black Sea resort beach The Independent At least 27 killed as Russia and Ukraine trade heavy attacks Al Jazeera Russia says seven killed as Ukrainian drone hits crowded Russian beach CNN",
-      "published": "2026-08-04T01:55:27+00:00",
-      "outlets": [
-        "Al Jazeera",
-        "BBC",
         "CNN",
-        "The Independent",
-        "The New York Times",
-        "reddit-worldnews"
+        "KREM",
+        "KXLY.com",
+        "Yahoo",
+        "khq.com",
+        "reddit-news"
       ],
       "feeds": [
-        "google-world",
-        "reddit-worldnews"
+        "google-nation",
+        "google-top",
+        "reddit-news"
       ],
-      "reach": 71.7,
+      "reach": 77.7,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -811,22 +776,23 @@
     {
       "title": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2xQcmR3d0h3bmJDMlRnNkhpWExiZ2FETUNmNUREa3RkNzhfU3BYUTlGNEh2b2M3QWJwbEozNUJOa1U5T0JCbnhRR3hEb1Q2TU5aM0VtcENuN28wLW4zd19kUWVhZWg3M19hdVNKV0gxQVd1dWNtdlpFdUZNQm9wZzFCR3R0VHZGbVNvM2JOdENrQWh0V2RKWmMyZkxMX3QzVGw3Y21YbXc?oc=5",
-      "summary": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim KCRA Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out ABC News - Breaking News, Latest News and Videos At least 3 dead, 7 injured in Twin Falls In-N-Out shooting Boise State Public Radio Who is Chad Williams? College of Southern Idaho confirms suspected Twin Falls shooter was former student Idaho News 6 Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting The Guardian",
-      "published": "2026-08-04T03:56:00+00:00",
+      "summary": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim KCRA Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out ABC News - Breaking News, Latest News and Videos Idaho shooting proves we need more heroes, not gun laws | Opinion USA Today Who is Chad Williams? College of Southern Idaho confirms suspected Twin Falls shooter was former student Idaho News 6 Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting The Guardian",
+      "published": "2026-08-04T06:11:00+00:00",
       "outlets": [
         "ABC News - Breaking News, Latest News and Videos",
         "Boise State Public Radio",
         "Idaho News 6",
         "KCRA",
-        "The Guardian"
+        "The Guardian",
+        "USA Today"
       ],
       "feeds": [
         "google-nation",
         "google-top"
       ],
-      "reach": 64.8,
+      "reach": 71.7,
       "angle": 18.0,
-      "rank": 11.7,
+      "rank": 12.9,
       "signals": {
         "institutional": [
           "who"
@@ -841,16 +807,16 @@
       ]
     },
     {
-      "title": "Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU05WUklmNl90VjJVaW42SVhZOFVNZlBYNjgwOS1URTNDYklwVHFzY19TZFNDekxZcW93ZWFFOW5aMHZHMkNTV0NNTC1PTlBFQzg2MVB0X3ZFZUxSdlBpekp5SG9CZ0VEaHBsUjd1MGNQdHpvZ2ZKUHhFQUstdDJBVEYtbTVDZndTLUoxR25zTEl6czFkYnh4VjlLa0F5RlY4WnRWTDhaLWg1ZUhQcUhBRzFhVFRpVF9EajZmWTc2T3JJZEVl0gHKAUFVX3lxTE9weGQyX1czTzBRaEhMVzFQMndJSi1hZVJtMHc0NnZCWlJFQXU4X0JVTUo0UmpXTWZheFEtcnd3NkQ1aFFlNlhjQlFUaTJmNHFsTzFkc2FmdHNXbXY3WnZPN1pXQ1h0dWNpdGZWMW1UeV9KWUI0VEgyckd5VURLLWpnRC1qdUlrbGtVRTc5OHNiQVg2YkpJOWFicmZveU42ZUhPdlBRYmRVUGkxaFNuN1JKYzYzeDQyQ2VEN1d0THRZU1dRdFM1S2Jwa0E?oc=5",
-      "summary": "Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported The Times of Israel Israel\u2019s response to Trump\u2019s Gaza peace plan: Silence from Netanyahu and a weekend of deadly strikes CNN After deadly day, Gazans say Trump's touting of plan jars with grim reality Reuters Israel conveys concerns to the U.S. about Hamas disarmament deal NBC News Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times",
-      "published": "2026-08-04T02:19:51+00:00",
+      "title": "At least 27 killed as Russia and Ukraine trade heavy attacks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2hVcVRnM3VfSm5Kd2ROOUxyVGZZMWEtNUkzZ1VtLW5UOGQxendTMlIzMXFmR21IYnJOTlVUc0N6Z0VjcWprNlgtQjVyRk1KYUtxWWhTNnhWd2puTHpBeHdSUjRTeUlVaXdral9uYUVHeC1NNTVNMXZYZWN4TTZPVV9iYVFLb1g0WjVFcXFpczAtVlRLaXdMcURXWWxEZHZTZ1A40gGoAUFVX3lxTE4xRkNUYWJ4clFOVFJMZEVFak5Cb1hxUTUyNmJRZktnWEZRVFhpQlZqcHlOcnRYc3gwazl5aGhEN2VHTnFsak5oMmV5VS1RMXpaWUtpeDRMb3dKYlZxeHVLeDc2MzJGWkJUYjlUREVCTU9WTFQtc2FQZE9ILWJsRE4yUVpDUGFRY3o2eE5GUktwR09hNW53VUJBejVMUEctc2hNME5jNEg2aQ?oc=5",
+      "summary": "At least 27 killed as Russia and Ukraine trade heavy attacks Al Jazeera Russia says seven killed as Ukrainian drone hits crowded Russian beach CNN Drone Explodes on Russian Beach, Killing 7, Officials Say The New York Times Drone hits Russian beach resort near Putin\u2019s Black Sea palace The Independent Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach BBC",
+      "published": "2026-08-04T05:07:31+00:00",
       "outlets": [
+        "Al Jazeera",
+        "BBC",
         "CNN",
-        "NBC News",
-        "Reuters",
-        "The New York Times",
-        "The Times of Israel"
+        "The Independent",
+        "The New York Times"
       ],
       "feeds": [
         "google-top",
@@ -867,24 +833,24 @@
       "prompts": []
     },
     {
-      "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaE0tR09IZ29UWHA3WW1VZGZXNHY0d1BmS1hKbDlZN0wycWd2bHBtN3I4a0QwbmVfWnpaeE1yWTNRY3ZTeGN0clczVlh4cnAyY3NEYnlHOE5mTjVRb3pHY0xMQlBpWjg4clk3MDg0TzNaaTVIU2tZYUpTOVNEaUxEazRwbw?oc=5",
-      "summary": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases WIRED A piece of a SpaceX rocket is about to hit the moon ABC News - Breaking News, Latest News and Videos NASA, SpaceX studying how to prevent future upper stage lunar collisions SpaceNews Defunct part of SpaceX Falcon 9 rocket will slam into the moon NPR A SpaceX rocket will crash into the moon this week. Why is it on a collision course? Space",
-      "published": "2026-08-03T19:58:00+00:00",
+      "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYkkxeUJZanhSNjVWWjFwWDZUeGxqaWJvR25sdVJMOFNuN3NtN2lyOTk2X0RLeDdDU3haMl9WMExjSzdnWHZzY2YxMHhrZEZNNnJfeVNIbnM5SjdYeENYZ29fUG1nXzBLMmlNQXc4Ti1VODBTV2JPdGZMRVp4RU5uYklKSEEtRkEyNjljSF9hdGkySGZvNG9LU1JHTjVkOHA4cWNrZWlCanVJVERSUzNKSEthMnpjUXpVQW13?oc=5",
+      "summary": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course? Space A piece of a SpaceX rocket is about to hit the moon ABC News - Breaking News, Latest News and Videos NASA, SpaceX studying how to prevent future upper stage lunar collisions SpaceNews Defunct part of SpaceX Falcon 9 rocket will slam into the moon NPR Out-of-control SpaceX rocket set to smash into the Moon at 5,400mph and carve 90ft crater Daily Star",
+      "published": "2026-08-03T21:00:00+00:00",
       "outlets": [
         "ABC News - Breaking News, Latest News and Videos",
+        "Daily Star",
         "NPR",
         "Space",
-        "SpaceNews",
-        "WIRED"
+        "SpaceNews"
       ],
       "feeds": [
         "google-science",
         "google-top"
       ],
-      "reach": 64.8,
+      "reach": 60.8,
       "angle": 18.0,
-      "rank": 11.7,
+      "rank": 10.9,
       "signals": {
         "institutional": [
           "nasa"
@@ -899,16 +865,16 @@
       ]
     },
     {
-      "title": "Washington state wildfires cause 60,000 people to evacuate homes",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
-      "summary": "Washington state wildfires cause 60,000 people to evacuate homes BBC Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames CNN Spokane family forced to rebuild for second time after Old Trails Fire destroys newly renovated home KREM Some evacuation orders downgraded to Level 2 (BE SET) for wildfires in Spokane KXLY.com Spokane Area Fires at a glance NonStop Local KHQ",
-      "published": "2026-08-03T23:44:49+00:00",
+      "title": "China\u2019s AI Blitz Creates \u2018Death Zone\u2019 for Rival US Model Makers",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5",
+      "summary": "China\u2019s AI Blitz Creates \u2018Death Zone\u2019 for Rival US Model Makers Bloomberg.com How China gets better bang for its buck than America in AI The Economist Hugging Face CEO says China is winning the AI race and dominating on open models CNBC How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia Barron's Tokenpolitik: How the United States Can Compete with China to Build the Global AI Stack CSIS | Center for Strategic and International Studies",
+      "published": "2026-08-04T04:47:06+00:00",
       "outlets": [
-        "BBC",
-        "CNN",
-        "KREM",
-        "KXLY.com",
-        "NonStop Local KHQ"
+        "Barron's",
+        "Bloomberg.com",
+        "CNBC",
+        "CSIS | Center for Strategic and International Studies",
+        "The Economist"
       ],
       "feeds": [
         "google-top"
@@ -924,16 +890,41 @@
       "prompts": []
     },
     {
+      "title": "Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU05WUklmNl90VjJVaW42SVhZOFVNZlBYNjgwOS1URTNDYklwVHFzY19TZFNDekxZcW93ZWFFOW5aMHZHMkNTV0NNTC1PTlBFQzg2MVB0X3ZFZUxSdlBpekp5SG9CZ0VEaHBsUjd1MGNQdHpvZ2ZKUHhFQUstdDJBVEYtbTVDZndTLUoxR25zTEl6czFkYnh4VjlLa0F5RlY4WnRWTDhaLWg1ZUhQcUhBRzFhVFRpVF9EajZmWTc2T3JJZEVl0gHKAUFVX3lxTE9weGQyX1czTzBRaEhMVzFQMndJSi1hZVJtMHc0NnZCWlJFQXU4X0JVTUo0UmpXTWZheFEtcnd3NkQ1aFFlNlhjQlFUaTJmNHFsTzFkc2FmdHNXbXY3WnZPN1pXQ1h0dWNpdGZWMW1UeV9KWUI0VEgyckd5VURLLWpnRC1qdUlrbGtVRTc5OHNiQVg2YkpJOWFicmZveU42ZUhPdlBRYmRVUGkxaFNuN1JKYzYzeDQyQ2VEN1d0THRZU1dRdFM1S2Jwa0E?oc=5",
+      "summary": "Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported The Times of Israel Israel\u2019s response to Trump\u2019s Gaza peace plan: Silence from Netanyahu and a weekend of deadly strikes CNN After deadly day, Gazans say Trump's touting of plan jars with grim reality Reuters Israel conveys concerns to the U.S. about Hamas disarmament deal NBC News Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times",
+      "published": "2026-08-04T02:19:51+00:00",
+      "outlets": [
+        "CNN",
+        "NBC News",
+        "Reuters",
+        "The New York Times",
+        "The Times of Israel"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
       "title": "Seoul braces for heatwave sweeping South Korea as death toll reaches 16",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFZMN1Q0SUVPT2lYT3o1ZmpCa254S0s5SFlsYmpwMktpc2MwVkJOQlNEd1RESXJvR1pHZ2JoWlVqcXFYWjFFczV5OGZTRm91aVF3YTh3UndkNzJzVy11Tjk3S2s4THhQTzUxNzl4anByV0RUcXE0d1JHdklUbUJHcTZNSkRid1Bqc0NZREVn?oc=5",
-      "summary": "Seoul braces for heatwave sweeping South Korea as death toll reaches 16 The Guardian Highest-level heat wave warning issued for Greater Seoul area The Korea Herald South Korea has hottest day on record amid extreme weather globally Al Jazeera South Korea records its highest-ever temperature of 42.5 C Phys.org South Korea's Lee urges authorities to step up support as heatwave kills 16 Reuters",
-      "published": "2026-08-04T02:33:00+00:00",
+      "summary": "Seoul braces for heatwave sweeping South Korea as death toll reaches 16 The Guardian Heatwave divides rich and poor of upmarket Seoul Yahoo South Korea has hottest day on record amid extreme weather globally Al Jazeera Highest-level heat wave warning issued for Greater Seoul area The Korea Herald Temps hit 40c, nation bans going outdoors News.com.au",
+      "published": "2026-08-04T04:51:00+00:00",
       "outlets": [
         "Al Jazeera",
-        "Phys.org",
-        "Reuters",
+        "News.com.au",
         "The Guardian",
-        "The Korea Herald"
+        "The Korea Herald",
+        "Yahoo"
       ],
       "feeds": [
         "google-world"
@@ -949,16 +940,16 @@
       "prompts": []
     },
     {
-      "title": "Photos show destruction from wildfires in Greece as blazes take hold in Europe and parts of the US",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenVfYTBUempQWEFvbTFrWG9YMldxbWtFV2FSakgzYml3c0dPenQ3ZE0yQTJjTWMyUC13THhoWWVMZDFRa2F4bXhONklrQVpMb2c5cmh6NmlSREZZeGRBTVRZdnZIQ2M0blZ0SXBEeW53YVUzMElUOFFRdHRGQzBINTFERzNMY2FSMUFqWjdPUmdRWGs3cEd0c01iZ2VoUjZjOHotNVpiWHM5SHdsMWdnRzY4SF9Wa1FnYlBuZEVPeFIzWjZ0X2YtVm5MT3k4M1hEYWc?oc=5",
-      "summary": "Photos show destruction from wildfires in Greece as blazes take hold in Europe and parts of the US AP News Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds CNBC Greek crews fight wildfire northwest of Athens for fourth day Reuters Greece battles wildfires \u2013 in pictures The Guardian 2 Killed as Firefighting Helicopters Collide in Greece The New York Times",
-      "published": "2026-08-03T20:23:00+00:00",
+      "title": "Russian Offensive Campaign Assessment, August 3, 2026",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHVoUFJEWWFGOXUtYWRjZEIxZ054QXFNeU9FYURLZVJxZHcyUjc1b29zOVN1OTRWYmFyR18wcmRPdDAwY05zQ3hhOTJGQ2g4UTVPZTVNLUlNajZ6X2tvMk5CbTVsMWVMRXhUaUo4QTEzX3VCRF84bHNPbEhLSFByWGFPdkgxdmhQM29oRFRWMHljbXNjY0MtZjFjUTdCVWhyc3l2alNuT2Y?oc=5",
+      "summary": "Russian Offensive Campaign Assessment, August 3, 2026 Institute for the Study of War Russians captured more territory in July than Ukraine's defence forces liberated \u2013 DeepState \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430 Ukraine News Today: Breaking Updates & Live Coverage - August 2, 2026 from Kyiv Post Kyiv Post Russian forces make minimal gains despite record casualties, missile launches in July - report i24NEWS ISW: Russia intensifies strikes with new drones, but the front remains unchanged \u0406\u0410 \u041a\u043e\u0440\u043e\u043b\u044c \u0414\u0430\u043d\u0438\u043b\u043e",
+      "published": "2026-08-04T02:03:44+00:00",
       "outlets": [
-        "AP News",
-        "CNBC",
-        "Reuters",
-        "The Guardian",
-        "The New York Times"
+        "Institute for the Study of War",
+        "Kyiv Post",
+        "i24NEWS",
+        "\u0406\u0410 \u041a\u043e\u0440\u043e\u043b\u044c \u0414\u0430\u043d\u0438\u043b\u043e",
+        "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430"
       ],
       "feeds": [
         "google-world"
@@ -974,26 +965,51 @@
       "prompts": []
     },
     {
-      "title": "Moscow bombing exposes potential security gaps around Putin\u2019s military elite, expert says",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTZ6V3RrSkFMOHFCZDhIb05mMlF6WEZIR096ZkZMRGhSWUtGMG1SSXZOZC1jZVo2VzZrT3M1QmlOM3FvZGdZY3ZxOGVETHdkY0s2c1pKX1dRaWtTTjFiSVpMVkV4Rm9wMXR2ajliRUlEcXNJemhGQzRUV2gxbWJfVWRmbWtlTEFGSnh5R21PMVdMOUhpWVV2X1NrdGJRMmN5UE9lQnoyTTlvcVQ0VWpTTFBoTWQtWE5T0gG-AUFVX3lxTE1pa2tUTzVLaVM3RWY4aFBGQ05VSFRrQzhXLXUtZEs4blp5STh1NnBOZlVZcWJFX19LaTF4djVTSGRfeC1jdUhPSUpPbkpVREhKSXl1MENxOVJCY0dRNHlvZWlCXzd6SzFGbm83am56WFo2M0xfdWdEQnl4YUp0RGhoV0pneEVYdlpyTG43YzFfbjhfWk5JYkE2SUVKY1hkVTA5ZnFkX01XNnI2RmZ5b3BYcTRmZDRlbEs4RGFzaGc?oc=5",
-      "summary": "Moscow bombing exposes potential security gaps around Putin\u2019s military elite, expert says Fox News Steve Rosenberg at the Moscow restaurant where bomb killed three BBC Russian Embassy in Rome blames Ukraine for deadly Italian restaurant bombing in Moscow AP News Moscow mayor says explosion that killed 3 at restaurant was a \"terrorist act\" CBS News At least six assassination attempts have targeted Russian generals away from the front line over the past two years \u2014 three of them fatal Meduza",
-      "published": "2026-08-03T21:11:59+00:00",
+      "title": "Ukraine-Russia war latest: Five killed as Kyiv strikes warehouses including Wildberries facility, Russia says",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWdwcGNwdDdMZnRFY0I5YUlJd045SUlYQWt3TTJpRXZScmFwVkQzOUxTbEgxXzA4cmItaXlDTWMwdFZ3MGZHZ01pNm9fWGxfdnJWOWFrb0JjZ1pCbXdoZzRPTWFBTXM1UFpSZlZtNWQzb3J5VWdyVmoyZ2twM2xiTi0xM0tvNGVlTFZ0SkpwRi1pUHBLbDJhT0hpOWZ4QzYwbHNlYV9OMDR1VVdkNENFbUhfOE0xeGRGbUdIbA?oc=5",
+      "summary": "Ukraine-Russia war latest: Five killed as Kyiv strikes warehouses including Wildberries facility, Russia says The Independent Five dead in Moscow as Ukraine continues warehouse strikes BBC Ukrainian drones hit Wildberries warehouses in overnight strikes Financial Times They made a living on Russia\u2019s Amazon. Ukrainian attacks have sent it up in flames. NBC News Drone strike on Moscow region kills five, claims regional governer Euronews.com",
+      "published": "2026-08-04T08:40:54+00:00",
       "outlets": [
-        "AP News",
         "BBC",
-        "CBS News",
-        "Fox News",
-        "Meduza"
+        "Euronews.com",
+        "Financial Times",
+        "NBC News",
+        "The Independent"
       ],
       "feeds": [
         "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Jurors hear about Lindsay Clancy's medical treatment, passages from her journal",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYllWOVlsLUpuenU2Q21OaHMzVTlRaE85cTlRSGdzb0NvaUNLT2taZDdNWmZUQXA1Zk5sVE5rekx1NnlpNF81RzM3eHdPcVF0SU1mS1ZjNm9qOFpUYWh0clNKdEl3VEJtS3lRMDRTUEZrY3VjTVdBa3cxZmQ5cTR3T1BPNA?oc=5",
+      "summary": "Jurors hear about Lindsay Clancy's medical treatment, passages from her journal WCVB \u2018I\u2019m so desperate to get a mental break,\u2019 Lindsay Clancy wrote in journal, investigator testifies The Boston Globe Lindsay Clancy was \u2018calm and cooperative\u2019 days after killing her 3 children, psychiatrist says CNN Lindsay Clancy murder trial: Photos jury saw on Day 4 of testimony The Patriot Ledger Trial of Lindsay Clancy, the mom who killed her 3 children, enters second week of testimony PBS",
+      "published": "2026-08-03T22:03:00+00:00",
+      "outlets": [
+        "CNN",
+        "PBS",
+        "The Boston Globe",
+        "The Patriot Ledger",
+        "WCVB"
+      ],
+      "feeds": [
+        "google-nation"
       ],
       "reach": 58.8,
       "angle": 18.0,
       "rank": 10.6,
       "signals": {
         "institutional": [
-          "military"
+          "who"
         ]
       },
       "verdict": "block",
@@ -1003,31 +1019,6 @@
       "prompts": [
         "An agency is involved. Its own record is the context nobody pulls."
       ]
-    },
-    {
-      "title": "Washington state fires destroy hundreds of buildings and force Spokane-area residents to evacuate",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
-      "summary": "Washington state fires destroy hundreds of buildings and force Spokane-area residents to evacuate AP News Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames CNN Spokane family forced to rebuild for second time after Old Trails Fire destroys newly renovated home KREM Some evacuation orders downgraded to Level 2 (BE SET) for wildfires in Spokane KXLY.com Spokane Area Fires at a glance NonStop Local KHQ",
-      "published": "2026-08-04T00:33:00+00:00",
-      "outlets": [
-        "AP News",
-        "CNN",
-        "KREM",
-        "KXLY.com",
-        "NonStop Local KHQ"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
     },
     {
       "title": "As protests continue, Madison mayor once again calls for end to encampment",
@@ -1055,16 +1046,16 @@
       "prompts": []
     },
     {
-      "title": "Jurors hear about Lindsay Clancy's medical treatment, passages from her journal",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYllWOVlsLUpuenU2Q21OaHMzVTlRaE85cTlRSGdzb0NvaUNLT2taZDdNWmZUQXA1Zk5sVE5rekx1NnlpNF81RzM3eHdPcVF0SU1mS1ZjNm9qOFpUYWh0clNKdEl3VEJtS3lRMDRTUEZrY3VjTVdBa3cxZmQ5cTR3T1BPNA?oc=5",
-      "summary": "Jurors hear about Lindsay Clancy's medical treatment, passages from her journal WCVB Recap: Lindsay Clancy's journal entries read in court as trial begins week 2 NBC Connecticut Lindsay Clancy was \u2018calm and cooperative\u2019 days after killing her 3 children, psychiatrist says CNN \u2018I\u2019m so desperate to get a mental break,\u2019 Lindsay Clancy wrote in journal, investigator testifies The Boston Globe Lindsay Clancy murder trial: Photos jury saw on Day 4 of testimony The Patriot Ledger",
-      "published": "2026-08-03T22:03:00+00:00",
+      "title": "Wildfire smoke expected to bring unhealthy air to Portland as temperatures near 100",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN1RIUXNCdktvaXZBMnlZc1V1QU1qUElGWHFlamo2MjdscGRwY3F4VUw4Y3loNTdVcnVheXVXOFpQQURCMk9vR1JLMmdDM3FfeVZtbUZrVldPbjlDSTE0aTZDR0czUURyRllVTUpWYjgyZW04ci1vLTNPTzh6VWRLYmdkTFlwdnN1UnE5OXcySVVabjMydDVOd2J0VkkxVWIwM0ZWa0g1amtlM2xhQVk4MlVwdXQtSHZUTXFObWtLOF9qVGs1TXdMRElraHJoZ9IB4gFBVV95cUxOZ2V3YjJMU3lQV3BvSHpDME5Id0lVYTJFYld1X3NJRHFwRTVPNEc1aFpORlJKNHZhNlFVSVNIRTVNNTYyQU1palJWMDNaVlpic01pTHpJYkh2NlNodXAyY0lSYXNHNHhpdzVra2dQWk1pY2NFMUZUbUVhbFgyWXlQT3VNZFhuSjRVWTZaMmxYMEp6MUZNNFJQX0JCSVVmVXRZTGJ6ZFlWMDVENEtCaVNFMVBmc2kxSVkyV1hGRkFNWjdBeG42R0ZSbnNDNGUxMWdzR2hfUzdfclI2dVBTSFE5YmlB?oc=5",
+      "summary": "Wildfire smoke expected to bring unhealthy air to Portland as temperatures near 100 OregonLive.com Wildfire smoke arrives today before midweek temperatures could reach triple-digits KATU Weather Impact Alert: High temperatures and unhealthy smoke levels move in over the next couple of days KGW First Alert Weather Day: Heat and smoke take over this week KPTV Lane County smoke and heat arrive together this week KEZI",
+      "published": "2026-08-03T22:30:00+00:00",
       "outlets": [
-        "CNN",
-        "NBC Connecticut",
-        "The Boston Globe",
-        "The Patriot Ledger",
-        "WCVB"
+        "KATU",
+        "KEZI",
+        "KGW",
+        "KPTV",
+        "OregonLive.com"
       ],
       "feeds": [
         "google-nation"
