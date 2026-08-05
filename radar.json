@@ -1,126 +1,117 @@
 {
-  "generated": "2026-08-04T21:17:15+00:00",
+  "generated": "2026-08-05T00:17:15+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
-    "reddit-worldnews": "HTTP 429 rate limited"
+    "reddit-news": "HTTP 429 rate limited"
   },
-  "raw_items": 1681,
-  "stale_dropped": 1082,
-  "clusters": 520,
+  "raw_items": 1679,
+  "stale_dropped": 1077,
+  "clusters": 516,
   "off_topic": 35,
   "stories": [
     {
-      "title": "Apple briefly yanked Telegram from the App Store over CSAM violations",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENExWX1RLNDJrcWpwRVM2OFZyRzNyUWFpcWM2bl9TT2NTUGN2U3EwLWRTR0pyRGU3M2RpSTZhQVVOTUk2TVdIZFlNUEhMTlUybUxVazNVbUxGZ0FUcERON29YNmVBcWdzWXB2dFVWNXRxYjVvVmJvMA?oc=5",
-      "summary": "Apple briefly yanked Telegram from the App Store over CSAM violations The Verge Telegram Briefly Removed From App Store Over Alleged Child Sexual Abuse Content Forbes Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store The Verge Telegram says Apple suspension followed content norms violation by one user Reuters Telegram briefly disappeared from the Apple App Store with no explanation appleinsider.com",
-      "published": "2026-08-04T15:03:00+00:00",
+      "title": "'Significant areas of Mars may have once been covered by water': Scientists find hidden clue in Spirit rover data",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamR4SnJBbnBGMWFHTWxDQ3BVTzNjX0l1ZlljVVRxS3JvQ2kyUUNoNkp5Z2RGU0I5OTNEeU9zbEFWWV96bHhxQXFEakZQaTNnRVV1UFhFOXdSU0RmSDJNMWZ2SE81d1llLWtoMnpkWHV6OUZpTGxyWlJKc1UxWURadFlzMXBfc0ZEZ05NWks5dlpoR1NwY2ZrSjd6ZGhLNExqNy15cVFxV29GSmtKR0RkZkl2eXN0SUJXVHROZTlQa2YzTFB0Z2RkVzB2OFBmQXh0QWhmQVplY2gzSFk5V25NVw?oc=5",
+      "summary": "'Significant areas of Mars may have once been covered by water': Scientists find hidden clue in Spirit rover data Space Mars was once covered in rivers and lakes, and the mystery of where all that water went now has two answers: some was stripped away into space, and a great deal of it may still be there, locked deep in the planet's crust Space Daily Laying odds on the potential for Martian water near future landing zones Phys.org NASA Spirit rover data reveals fresh hidden clue that water once covered large parts of Mars starlust.org Current Water Trapping Micro-habitats On The Surface Of Mar",
+      "published": "2026-08-04T13:00:00+00:00",
       "outlets": [
-        "AppleInsider",
-        "Forbes",
-        "Reuters",
-        "The Coin Republic",
-        "The Verge",
-        "appleinsider.com"
-      ],
-      "feeds": [
-        "angle:no official explanation",
-        "google-technology",
-        "google-top"
-      ],
-      "reach": 77.7,
-      "angle": 39.9,
-      "rank": 31.0,
-      "signals": {
-        "unexplained": [
-          "no explanation"
-        ],
-        "disappearance": [
-          "disappeared"
-        ]
-      },
-      "verdict": "warn",
-      "policy_reasons": [
-        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
-      ],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
-        "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
-      "title": "See it: NASA's Curiosity rover captures stunning images of honeycomb-like textures while exploring Mars",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JiVVNDckRBNTZ6SGpPY3UtTElhb1lISElTOWdubi12cldocEtjdTVteVM1OTY2VWR5d3VtajF0UnZVODVSX2pyYkFBdFBWWUxDcmpHMzBOeXd2YmtQV0t5WnFyMWhkek1nbWp5RHZSVUxPRUg0djBjdjgtNGMzTEhiOHVhem9KN3duUkpwemNxN0d3SW94d3I5UdIBoAFBVV95cUxQWHJuTVlkNm1zdFRqRTRROHZIalMyd1VaREx6TlNGRFFsYjZRUEs4Z0ZQLTdVMmQ2UXRfTml3Q1NzWUEyb1BNbklGLS1oaS12SFk1dXdjOF9rQmw0WHhCaENEdTRFanpHRHNXUjZSMVZhbjl0bFlWS3pEY0pRRmRrOE9HcEpOVWhXV1cyLUZ1TzNfWEZ3Q1FFLV8wWk1nRmNI?oc=5",
-      "summary": "See it: NASA's Curiosity rover captures stunning images of honeycomb-like textures while exploring Mars FOX Weather NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine NASA\u2019s Curiosity rover finds a mysterious honeycomb landscape on Mars ScienceDaily",
-      "published": "2026-08-04T01:51:00+00:00",
-      "outlets": [
-        "BBC Sky at Night Magazine",
-        "FOX Weather",
-        "NASA (.gov)",
-        "Popular Science",
-        "ScienceDaily"
+        "Astrobiology Web",
+        "Phys.org",
+        "Space",
+        "Space Daily",
+        "starlust.org"
       ],
       "feeds": [
         "google-science"
       ],
-      "reach": 54.8,
-      "angle": 46.0,
-      "rank": 25.2,
+      "reach": 58.8,
+      "angle": 41.6,
+      "rank": 24.5,
       "signals": {
         "unexplained": [
-          "mysterious"
+          "mystery"
         ],
         "institutional": [
           "nasa"
-        ],
-        "frontier": [
-          "ancient"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
         "The official account stops short of a cause. Open on the gap.",
-        "An agency is involved. Its own record is the context nobody pulls.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+        "An agency is involved. Its own record is the context nobody pulls."
       ]
     },
     {
-      "title": "US treasury secretary says deal with Iran to reopen Hormuz could be sealed by Wednesday",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFF3Q1pqdWJwME9nX2RJeUQ4OWQ3R3NoX0FvTDlEeUZ5UE1pOEFBUVFNWHVidnJRTXljNmJ3N0ZKTzE2dW9HV2xYTTlqRktlTGVjazREbWJqS3g5Wm1oR3FNWk1SYml5dHgtNi14T0s4MjhfT3V4MTJpdVRDY2E4aWNQUHhtTnhua3YxNkUyano2QkJBUG04LUNYc3A2enZYSFJuWDBfdm5Wc0NRUm5xWThDV0lNNDJYU2fSAb8BQVVfeXFMTUNRQndoQXBUYVJwbDFra3dHWWF4SkxBM2xWaUktZzhNWTVlT1N2X1hzOEZBWmxseTdleVNsR0FKUnU0Smx2Q3h4WlQ0TUJEWGF0TjJLNUxRdFNadnhHV2ZXeE4zaFZZcjRicUtFQ1lnVzROeEVLSHd6S3ctWW1aS1dEN012UFNaZGNuODZYdU1zMzFTbmJ0NUlXcXNwX1o4Z1YyRGpfakJ0endYT0pleXphU1NJblRaVzlWV2RnQUU?oc=5",
-      "summary": "US treasury secretary says deal with Iran to reopen Hormuz could be sealed by Wednesday The Times of Israel Live Updates: Rubio says progress made in Strait of Hormuz talks after Trump threatens \"decapitation\" CBS News Stocks Rally, Oil Drops after Bessent Signals Iran Deal on Hormuz WSJ Strait of Hormuz Deal With Iran Possible Soon, Bessent Says The New York Times Oil prices fall on hopes Strait of Hormuz could reopen BBC",
-      "published": "2026-08-04T13:49:15+00:00",
+      "title": "Mystery drone resembling America\u2019s F-117 stealth jet filmed over a Russian refinery",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0lFVktqUnI2REl0LVZRUmpJSFYwdV9DaW50cTdOcEdTQVU3Yk5EcVBIM3RDa1dPOWJmV0VpRGdGUXJyT3NTaFExUE5zM0g2U0dYMVJoZldkLVVpSjR6eEp0eTJYY2d0LWE0ekIzRXBNeTZHaVBlZkNqUWhVZUIwVkpPR0VWYmtiMk1VTTU0RXpDcTY0Y1pZdkJXM055dTBZOGthS2pFbURfNzYyM3p6RllmVVZCcjQwbDY2T0tzOA?oc=5",
+      "summary": "Mystery drone resembling America\u2019s F-117 stealth jet filmed over a Russian refinery Euromaidan Press Opinion | My company\u2019s drones hit Russia \u2014 and showed what the Pentagon doesn\u2019t know The Washington Post \u2018This is where democracy beats totalitarianism\u2019: Ukraine\u2019s drone strike force takes the fight to Russia The Guardian Ukraine's Long-Range Strike Command: Institutionalising Deep Strike Futura Doctrina | Mick Ryan Ukraine Unleashes 365-Km/H Skazhenyi Interceptor With Plans to Build 5,000 a Month UNITED24 Media",
+      "published": "2026-08-04T10:21:42+00:00",
       "outlets": [
-        "BBC",
-        "CBS News",
-        "The New York Times",
-        "The Times of Israel",
-        "WSJ"
+        "Euromaidan Press",
+        "Futura Doctrina | Mick Ryan",
+        "The Guardian",
+        "The Washington Post",
+        "UNITED24 Media"
       ],
       "feeds": [
-        "google-nation"
+        "google-world"
       ],
-      "reach": 58.8,
-      "angle": 28.0,
-      "rank": 16.5,
+      "reach": 54.8,
+      "angle": 41.6,
+      "rank": 22.8,
       "signals": {
-        "secrecy": [
-          "sealed"
+        "unexplained": [
+          "mystery"
+        ],
+        "institutional": [
+          "pentagon"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
+        "The official account stops short of a cause. Open on the gap.",
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Big Walk Is At Its Best When You Totally Screw Things Up",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1peXFTRnY4SnN2aWZzV2Rfc2J6NFNDU3llRDZabGNpLWZ5dWp6elpSZlp2MVExZ25hY0k1S2VrLUR4azZseGFhRVUxaFhyM1YwYS00MU1WcWtJVzJsODM0Qw?oc=5",
+      "summary": "Big Walk Is At Its Best When You Totally Screw Things Up Aftermath Big Walk review \u2013 larking around with mates elevated to an artform The Guardian Big Walk is like co-op Breath of the Wild The Verge Big Walk review - House House's collaborative puzzle quest takes the hangout game to a new peak Eurogamer.net Big Walk : The Kotaku Review Kotaku",
+      "published": "2026-08-04T14:32:50+00:00",
+      "outlets": [
+        "Aftermath",
+        "Eurogamer.net",
+        "Kotaku",
+        "The Guardian",
+        "The Verge"
+      ],
+      "feeds": [
+        "google-technology"
+      ],
+      "reach": 58.8,
+      "angle": 34.0,
+      "rank": 20.0,
+      "signals": {
+        "unexplained": [
+          "puzzle"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
       ]
     },
     {
       "title": "Pixel Watch 5 Specs Tell Us the Upgrades to Expect",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUg4MHBWZDVzcVBuNDFRcWxSV2VZeHhsUHZ1U2Vycm5vZkl1TDJSWlBmOHZkMFJYRm1nVzF6T2FZMHUwZFJOdm5md3BSY1hhNmVkSi1sOUpPRGYwMHhYVjBEeXd6bjFHLVVOdzBDSlJ2aEJJNk5JN2Q0MjNOVGJEc0lKU25wVXVzelI0MUNOMjdEb1k?oc=5",
-      "summary": "Pixel Watch 5 Specs Tell Us the Upgrades to Expect Droid Life Pixel Watch 5 leaks in official-looking images with same charging system 9to5Google Major Pixel Watch 5 leak details battery life, specs, and features ahead of launch Android Police Pixel Watch 5 shows up early in an official Google app Android Authority Google Pixel Watch 5 release date, price, specs, and color options leaked ahead of this month's reveal event PC Guide",
+      "summary": "Pixel Watch 5 Specs Tell Us the Upgrades to Expect Droid Life Pixel Watch 5 leaks in official-looking images with same charging system 9to5google.com Major Pixel Watch 5 leak details battery life, specs, and features ahead of launch Android Police Pixel Watch 5 shows up early in an official Google app Android Authority Google Pixel Watch 5 release date, price, specs, and color options leaked ahead of this month's reveal event PC Guide",
       "published": "2026-08-04T18:54:10+00:00",
       "outlets": [
-        "9to5Google",
+        "9to5google.com",
         "Android Authority",
         "Android Police",
         "Droid Life",
@@ -146,14 +137,14 @@
     {
       "title": "Here\u2019s the first Asus Googlebook as the floodgates start to open",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nRm82M09DcVRHanNZR1dJaGhfRzd5VUo2R0l3TVFSOE5KWjNYWmcxRi1kSDhPUU1JMllSdkZYU1V6Ykd2WWtZcGUtT1g2M09iQjlyMEFvVlJDRm9wU1RaVjluZVV2YWhhd1R1T0VxNTlZRkVh?oc=5",
-      "summary": "Here\u2019s the first Asus Googlebook as the floodgates start to open 9to5Google Lenovo Shares Images of New Googlebook and 2-in-1 Tablet cnet.com Lenovo's First Googlebooks Have Leaked Engadget Massive leak reveals Lenovo Googlebook 15 ahead of launch Android Authority Exclusive: Lenovo is making a Googlebook 2-in-1 Tablet Android Headlines",
+      "summary": "Here\u2019s the first Asus Googlebook as the floodgates start to open 9to5google.com Lenovo Shares Images of New Googlebook and 2-in-1 Tablet CNET Lenovo's First Googlebooks Have Leaked Engadget Massive leak reveals Lenovo Googlebook 15 ahead of launch Android Authority Exclusive: Lenovo is making a Googlebook 2-in-1 Tablet Android Headlines",
       "published": "2026-08-04T18:37:00+00:00",
       "outlets": [
-        "9to5Google",
+        "9to5google.com",
         "Android Authority",
         "Android Headlines",
-        "Engadget",
-        "cnet.com"
+        "CNET",
+        "Engadget"
       ],
       "feeds": [
         "google-technology"
@@ -173,29 +164,62 @@
       ]
     },
     {
-      "title": "NASA's Nancy Grace Roman Space Telescope, launching on a Falcon Heavy on 30 August 2026, carries a mirror the size of Hubble's but sees a patch of sky about a hundred times wider, built mainly to map dark energy and hunt for planets",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOMG1XU3BiSkVHU0tyVmJHQ0dXOEt6THJ4c1dUczZtdUtFaE03T3JPSVlnUnVXcHAyaG9kWC00Wl9HT1pyMjFYOV9PUlRVSG92bkVBY3ZfTmlITlBmQ3BYTDJXeGJjV0VjelpjQnNaTVVTRFZ6Umtxbk5JdzRTSVpTS1FYMmFLMnVRT1IzU2hhZ3VONUJMVGFHQ0RYUVZFM3MxcjJnOXdlYjd6RVhDYUhKMHdrXzRPS3JiWTgxdU5sSENhT1hPTnJIeEstNkx2a2o4UmxldjlxZjJVRG1hUWctOUI5YnhIUktIbWVBTFZxSjF2bldveENDTDlJbTd3T1ljX3ZlcjhKbndWc0xnXzc2dXlidXdjd3hhY3AyUUxuMVlERHpOczZwVnJ5eWtKMmN5NzdtMGFCU01SY1FOUFVlNi00eHRmYXM?oc=5",
-      "summary": "NASA's Nancy Grace Roman Space Telescope, launching on a Falcon Heavy on 30 August 2026, carries a mirror the size of Hubble's but sees a patch of sky about a hundred times wider, built mainly to map dark energy and hunt for planets Space Daily 'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30 Space NASA\u2019s Roman Telescope to Carry 1.35 Million Names to Deep Space NASA (.gov) Roman Space Telescope on track for late August launch SpaceNews Space telescope searching for new Earths and a billion galaxies cl",
-      "published": "2026-08-03T00:10:48+00:00",
+      "title": "Ivy League Prez Who Reversed Feds' Funding Cuts Steps Down",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQanlidjhUTER5cDYzdkxadXpNdXlkU1cxVlRxVG9zNHR6c0ljQW1pek5YT1dyeDFMNnBmdEtGTVV2VjJIMTlVZ094cVFaMk00Q08walNJTnFtdVhXWkVwTmNjaUttR3Q4MVNYOUEwOF9CSkJfYnV1dXNuR2psOFZDNlVjeFhVSVY0RnlIcUpoUXhHbTNBWVBIQkdxcUlzYnM?oc=5",
+      "summary": "Ivy League Prez Who Reversed Feds' Funding Cuts Steps Down Newser Brown\u2019s President Will Resign After a Tenure That Included Trump Deal The New York Times How about Gina Raimondo for president... of Brown? The Boston Globe Brown President Paxson Stepping Down at End of Academic Year Go Local Prov Brown University President Christina Paxson to step down WJAR",
+      "published": "2026-08-04T11:15:00+00:00",
       "outlets": [
+        "Go Local Prov",
+        "Newser",
+        "The Boston Globe",
+        "The New York Times",
+        "WJAR"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 54.8,
+      "angle": 29.6,
+      "rank": 16.2,
+      "signals": {
+        "reversal": [
+          "reversed"
+        ],
+        "institutional": [
+          "who"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The story changed. Put the first version and the current one side by side.",
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "See it: NASA's Curiosity rover captures stunning images of honeycomb-like textures while exploring Mars",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JiVVNDckRBNTZ6SGpPY3UtTElhb1lISElTOWdubi12cldocEtjdTVteVM1OTY2VWR5d3VtajF0UnZVODVSX2pyYkFBdFBWWUxDcmpHMzBOeXd2YmtQV0t5WnFyMWhkek1nbWp5RHZSVUxPRUg0djBjdjgtNGMzTEhiOHVhem9KN3duUkpwemNxN0d3SW94d3I5UdIBoAFBVV95cUxQWHJuTVlkNm1zdFRqRTRROHZIalMyd1VaREx6TlNGRFFsYjZRUEs4Z0ZQLTdVMmQ2UXRfTml3Q1NzWUEyb1BNbklGLS1oaS12SFk1dXdjOF9rQmw0WHhCaENEdTRFanpHRHNXUjZSMVZhbjl0bFlWS3pEY0pRRmRrOE9HcEpOVWhXV1cyLUZ1TzNfWEZ3Q1FFLV8wWk1nRmNI?oc=5",
+      "summary": "See it: NASA's Curiosity rover captures stunning images of honeycomb-like textures while exploring Mars FOX Weather NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA (.gov) Curiosity rover spots ancient sea of Martian polygons Popular Science 'It took our breath away' \u2013 Mars rover finds strange polygon features in the Red Planet's rusty dirt BBC Sky at Night Magazine Amazing High-Res Photo Shows a Butte Rising From Mars PetaPixel",
+      "published": "2026-08-04T01:51:00+00:00",
+      "outlets": [
+        "BBC Sky at Night Magazine",
+        "FOX Weather",
         "NASA (.gov)",
-        "Space",
-        "Space Daily",
-        "SpaceNews",
-        "Yahoo"
+        "PetaPixel",
+        "Popular Science"
       ],
       "feeds": [
         "google-science"
       ],
-      "reach": 50.8,
+      "reach": 54.8,
       "angle": 24.8,
-      "rank": 12.6,
+      "rank": 13.6,
       "signals": {
         "institutional": [
           "nasa"
         ],
         "frontier": [
-          "deep space"
+          "ancient"
         ]
       },
       "verdict": "clear",
@@ -206,16 +230,42 @@
       ]
     },
     {
+      "title": "Visalia parents seek cameras in special ed rooms after unexplained injuries",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXV3V0l2R25OQzNudEtsa2pZZE1kY3JvZ25CcXFTVklQMFRDOVFGWUY2S3RtQU1aQTNUVVdYWVdvVGdpc0FZRHdsVWNvVkNGUWtDUDNKRHpZdUdPLS02NmtRa1RLNXRMUzRsQU5IM0NVT3pkemJPMG5tNFQwTGpQbEdyNURZM0pZWklhOU95RkswMXY2b1ZpcndEWEFmbGo4VGZ0REt5QUx3OEVyaTRyRU8wOU9NMXptbnhWRFF3?oc=5",
+      "summary": "Visalia parents seek cameras in special ed rooms after unexplained injuries kmph.com",
+      "published": "2026-08-04T17:42:26+00:00",
+      "outlets": [
+        "KBAK",
+        "kmph.com"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 35.5,
+      "angle": 34.0,
+      "rank": 12.1,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
       "title": "As the Danube River dries up, World War II shipwrecks and mammoth bones come into view",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPel9kNl84VFFsVm1Kanl0cHNYQVlPQmpyVkE2a1RCUmltSV9CMUdBQk9Qa2xMVzFjazQydzZMTzNPbHQ2cmxIaGZsM1o3MlhhcTBsN1NKWFlxUklMTGNOTFhKVDZVNVhhaXEyX3hxYUlNT3p2TkthZ0phdUU?oc=5",
-      "summary": "As the Danube River dries up, World War II shipwrecks and mammoth bones come into view CBS News The Danube River\u2019s water is dropping so low that World War II ships are emerging apnews.com Ancient mammoth remains and a Nazi shipwreck: Europe\u2019s shrinking rivers reveal past relics CNN Sunken Nazi warships resurface as water levels drop Reuters Sunken Nazi warships emerge from the Danube as water levels drop to record lows Sky News",
+      "summary": "As the Danube River dries up, World War II shipwrecks and mammoth bones come into view CBS News The Danube River\u2019s water is dropping so low that World War II ships are emerging AP News Ancient mammoth remains and a Nazi shipwreck: Europe\u2019s shrinking rivers reveal past relics CNN Sunken Nazi warships resurface as water levels drop Reuters Sunken Nazi warships emerge from the Danube as water levels drop to record lows Sky News",
       "published": "2026-08-04T19:23:00+00:00",
       "outlets": [
+        "AP News",
         "CBS News",
         "CNN",
         "Reuters",
-        "Sky News",
-        "apnews.com"
+        "Sky News"
       ],
       "feeds": [
         "google-top",
@@ -237,35 +287,41 @@
     },
     {
       "title": "10-year-old drowns saving sister, another girl still unaccounted for",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGx2RWU2aGE1RmxvUThwZEY0TG1BZHdiWldwX0VRVmtFdFZORFpQcXRTaGpUbW1HQ0NlZ1JQaXBuazY2LVVpbHNfbmprOG9uX1NUdFA2a0lSejh6MGFiRTNseXhvcFlINDZlNHM4ZHowckhyYV9kb0U5YTNFeUdiWmJFb18taHh3T2oxU0NVaE5QUnYxM09fRTdnd0PSAbABQVVfeXFMUEwtMUpHMHJ1dEVMYTRWZVdKQmY0aTVTNWxMWm43cTMwX3hUc2QyNnBleFFXRDlYXzZ3OVNoTVpoQjVoYzRZMFJpNUpUNHhwWldEbG93UTRQaTVRUXdKSTVxQkVLN0hjUDZwZHhESURBSDk0V1dhYUxuSGFCMzhfUVpHTk9RcUYyajdOZW5JSGpUYjBtTUVpNkRsMlJGU3o3TDN0bWdKc3pzSHJoTTY5RzQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmNLSUpXNVJ3enUzc1dvaUxWZFU5Skp2c3Q4MHQ2N2IwdjBoQkdXbW1tTElKaFR6bUVEMW1FNXNaUW1ZdWlUcktRWVNKNjlSUklORTA2elpadWZldEk1YW44bnh0Nk9BRHlRMlFiM0lLN3lpYjZaTEU1Z21TUlJsQjdyZUhaUFBGVHgwcVZJRkZ0c1Q1YWZwY3hTYTjSAbABQVVfeXFMTUJDcEMyZk5JNnFwemtzYXV5YWlBMHpGU2VZcnVwSGV1OFdrZVBNWmkzbWlhLVFkVVQwZ1FDZHBYZXVuNmxId0hFMmMtUzdiSmZXSUFub0Z3aVctS0NRWWZHc1BSSFBkQ1dXRWJlMXdraWE2NzBNR0FDWVdOaGtaV2hMcVo1bWlHcXJXRnk2ckc5OGU1V05ERVRRZjhMWkE5ZzdxSHYxSExLUVl2QW80RlY?oc=5",
       "summary": "10-year-old drowns saving sister, another girl still unaccounted for Upper Michigan's Source",
       "published": "2026-07-30T20:01:00+00:00",
       "outlets": [
         "Atlanta News First",
         "Hawaii News Now",
+        "KCRG",
         "KMVT",
         "KOLD",
         "KOTA Territory News",
         "KPTV",
+        "KSWO 7News",
         "KTRE",
         "KWCH",
         "KWTX",
+        "KXII",
         "KY3",
         "KYOU-TV",
+        "Live 5 News",
         "Northern News Now",
         "Upper Michigan's Source",
         "WAFF",
         "WAGM",
         "WALB",
+        "WBRC 6 News",
+        "WCJB",
         "WEAU",
         "WFIE | 14 News",
+        "WITN",
+        "WKYT",
         "WMBF",
         "WTVA",
         "WTVG",
         "WVVA",
         "fox10tv.com",
-        "kcbd.com",
-        "kfyrtv.com",
         "knopnews2.com",
         "wbbjtv.com"
       ],
@@ -287,45 +343,73 @@
       ]
     },
     {
-      "title": "Commonwealth Games: Several athletes 'unaccounted for' after Glasgow event, according to Police Scotland",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcmc4cnV3a0xyeFltdXlFQWhoMy1mYkhMbDJ4M0lMRjJVQUo0YkpxTVJweW95YlZPbjlVX1hTUkRMRmpoTGdTaXRscG1nSlBETmVqdUtZN0w4Szc0dXF4UEIyVzlZZzBKLXA3X013ZUp4d2QtN3NsZkRMQUlkMUY1amlGVV9WQWloLU1vbWdhQXllemVzMjd4S2NTN0FtZG84RGNHcXFJQzJNNmpKd3cxUXRUUktPOHFOV1J5UjJrWTJXRU5tbzJIS3ZhQjd5QnlxTE5scXdBSHdpOG5HOTJwSHRfOTEzaXd5SEtQNEl6UmRjanJjcGlGQlNkNEU?oc=5",
-      "summary": "Commonwealth Games: Several athletes 'unaccounted for' after Glasgow event, according to Police Scotland Sky Sports",
-      "published": "2026-08-04T19:39:11+00:00",
+      "title": "An Ancient Poop Explosion Could Have Helped Complex Life Evolve",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnFOUkRkQTJ1XzRmLWx5ZHFCTzdYVkNYRkZWa1ZtUmk5VW04VWNFeHhHb2RKaFFkMmlhNEtKUGdUeTdsbVVYdWYtR01JLXFENDlkQUw3bWdiaVNJVENKT2FmakxjcXJ0bXI2VXVaRTFWVmNlY0FkWHZtYloxV2pqUmxhWG5OQXI5ZVFyeGFhakJJNkotRFQ4?oc=5",
+      "summary": "An Ancient Poop Explosion Could Have Helped Complex Life Evolve ScienceAlert How the 'fecal revolution' changed Earth's ecosystems Phys.org How \u201cA Little Bowel Movement\u201d 540 Million Years Ago Sparked An Evolutionary Explosion, Changing The Face Of Earth Forever iflscience.com On the origin of feces: how animal poo drove Earth\u2019s greatest evolutionary event The Conversation Fossil feces helped fuel the growth of early marine ecosystems Earth.com",
+      "published": "2026-08-04T14:31:07+00:00",
       "outlets": [
-        "Bristol Live",
-        "Herts Advertiser",
-        "Sky Sports",
-        "Southend Echo",
-        "St Helens Star",
-        "Yahoo News UK"
+        "Earth.com",
+        "Phys.org",
+        "ScienceAlert",
+        "The Conversation",
+        "iflscience.com"
       ],
       "feeds": [
-        "angle:unaccounted for"
+        "google-science"
       ],
-      "reach": 65.7,
-      "angle": 14.0,
-      "rank": 9.2,
+      "reach": 58.8,
+      "angle": 16.0,
+      "rank": 9.4,
       "signals": {
-        "disappearance": [
-          "unaccounted for"
+        "frontier": [
+          "ancient"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "Someone or something is gone. Absence is the strongest open ending there is."
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Scientists Propose New Strategy in Fight against High Blood Pressure",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdTVBdFhiTTVfclVxc3FSNGlHUXo5WjhpSzctT0dsSXhRVmszU1VGeElaQzM0eDlULWhUSUhCRUh5MmpGZkRMakxJdkVrLTFva2pmeDU4Qi10TkxqOUpPeUNGRTNSY2czbENJOEI0cW9Wd09mc3hackFGUFJJd1lYTUh5Yw?oc=5",
+      "summary": "Scientists Propose New Strategy in Fight against High Blood Pressure Sci.News Experts say blood pressure guidelines are missing half the equation ScienceDaily Have High Blood Pressure? Scientists Just Discovered Cutting Out Salt Is Only Half the Dietary Equation inc.com Boosting Potassium Should be Part of Efforts to Reduce Sodium Intake | Newswise Newswise Experts propose a new strategy to better control high blood pressure News-Medical",
+      "published": "2026-08-04T13:22:09+00:00",
+      "outlets": [
+        "News-Medical",
+        "Newswise",
+        "Sci.News",
+        "ScienceDaily",
+        "inc.com"
+      ],
+      "feeds": [
+        "google-health"
+      ],
+      "reach": 58.8,
+      "angle": 16.0,
+      "rank": 9.4,
+      "signals": {
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
       ]
     },
     {
       "title": "Marine microbes point to ancient seawater source beneath Antarctica's Blood Falls",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUldic3RBMUdiNkhUalJTbzVvTWttbWNlampaWERaV0tSNWJRU3RTcUxQUUFXaURpelpaTDIyaHZTSVBvaFJwcEhGZ0NRZDE1ak1HbUxJLTNmQjFXYk1seEdqU3ZPQm9IQXlGanJ4S05mZjMweEZ3eDJwbUhJUkk?oc=5",
-      "summary": "Marine microbes point to ancient seawater source beneath Antarctica's Blood Falls Phys.org Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system Nature Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins Gizmodo How Antarctica\u2019s Blood Falls came to be Scientific American Ancient Microorganisms Discovered Inside One of Antarctica's Most Inhospitable Landmarks ScienceAlert",
+      "summary": "Marine microbes point to ancient seawater source beneath Antarctica's Blood Falls Phys.org Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system Nature Ancient Life Discovered in Antarctica\u2019s \u2018Blood Falls\u2019 May Finally Reveal Its Origins Gizmodo Blood Falls, Antarctica: Why This Glacier Flows Bright Red HowStuffWorks How Antarctica\u2019s Blood Falls came to be Scientific American",
       "published": "2026-08-03T21:00:05+00:00",
       "outlets": [
         "Gizmodo",
+        "HowStuffWorks",
         "Nature",
         "Phys.org",
-        "ScienceAlert",
         "Scientific American"
       ],
       "feeds": [
@@ -407,7 +491,7 @@
     {
       "title": "America Getting Lesson in Consequences of Trump's War on Public Health as Rare Disease Outbreaks Ravage the Country",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWlyQ21Ma3lQTTc1WE9ReWxNV3NHTUo2eUpCYWRGZFVLcDZxZVRVU2xtLWFjYUNGZVhIRWdPblJmOU9BOW12MGxFMTVveVJiMWhRdzhoa0kzdXpKTm5sbkxueXJTN0hyYk56TDdCV3pTMENSZEtCTU1lUTBwRUFTQU0zSDVPZDhJUjl3NS1lck1lczYzM3JBOWNDMjh5R0VMX01MRi1mMWdTX3lXTTNOTG5B?oc=5",
-      "summary": "America Getting Lesson in Consequences of Trump's War on Public Health as Rare Disease Outbreaks Ravage the Country Futurism Measles surge exposes bigger public health crisis, former CDC official warns MS NOW \u201cTipping Point\u201d: Ex-CDC Official Links Cyclospora & Measles Outbreaks to Trump\u2019s Public Health Cuts Democracy Now! Off the Charts: The silent return of ancient plagues Curry Pilot OKLAHOMA VOICE: String of outbreaks tests U.S. public health system amid funding cuts, vaccine resistance Stillwater News Press",
+      "summary": "America Getting Lesson in Consequences of Trump's War on Public Health as Rare Disease Outbreaks Ravage the Country Futurism \u201cTipping Point\u201d: Ex-CDC Official Links Cyclospora & Measles Outbreaks to Trump\u2019s Public Health Cuts Democracy Now! Measles surge exposes bigger public health crisis, former CDC official warns MS NOW Off the Charts: The silent return of ancient plagues Curry Pilot OKLAHOMA VOICE: String of outbreaks tests U.S. public health system amid funding cuts, vaccine resistance Stillwater News Press",
       "published": "2026-08-03T16:00:00+00:00",
       "outlets": [
         "Curry Pilot",
@@ -484,66 +568,12 @@
       ]
     },
     {
-      "title": "How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhnOUVCdlVFd1pWcDdoTFFJWnJxaWJ0ekd4aDI2MnlmcTVFVG94aUFGQnlDcmxlQU5kRHlVMWc0R3FOX1dTVGJoZDVqeEw4aGlnSTlfRWRsckIxQXBSQ3hPNHdPajVELTBWSGQ5TjF2OVg1QnU4NGhrMzdtN3FRR0tTa19FZWJZcHY4MkFXdXVSVVlPSExDSURyTl8yUU1OWE13czI2TGhRNUFsTkNvUkgwRQ?oc=5",
-      "summary": "How India\u2019s employment exams turned its \u2018cockroach\u2019 youth against Modi Reuters What Do India\u2019s Gen Z Protests Mean for Modi? The New Yorker Revolt of the Cockroaches: How India\u2019s Gen Z Humbled Modi Time Magazine India\u2019s gen Z have discovered the power of collective action | Letters The Guardian An exam leak in India exposed a Gen Z jobs crisis that goes much deeper CNBC",
-      "published": "2026-08-03T06:30:00+00:00",
-      "outlets": [
-        "CNBC",
-        "Reuters",
-        "The Guardian",
-        "The New Yorker",
-        "Time Magazine"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 50.8,
-      "angle": 16.0,
-      "rank": 8.1,
-      "signals": {
-        "frontier": [
-          "discovered"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdm1JUFFKOWlhd0M0Q3hfUFNxSHZ5SlNldl9hMzdydjllWE43SlBwQnZ3ZFhLaW9RRjZ2eE04SDRYMDlTYThlTjVCQ3dMX0pzalJqaU4wSmZVeGFJX1FuRWU4Q3U0YkM2MkxuSzFn?oc=5",
-      "summary": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery Phys.org See more headlines & perspectives on Google News",
-      "published": "2026-08-03T12:00:05+00:00",
-      "outlets": [
-        "Phys.org"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 22.0,
-      "angle": 34.0,
-      "rank": 7.5,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "Even scientists are baffled: A neon-green glowing 'alien' shark has been spotted",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFFsNHE3Rm9LZTZ3d1h2elNBZkJQVGpSaDJLbXFjcHdDTS1zeDN4TzlxSmNBZVUyd3BKaTNCUGU4Q0RfRVpBekY5RjB4bnBGMS1GVHFQcmpoLV9kYk1WWW45Q2h3Zml5QzZMdVAzSjE4ekY2R1dYdy1UYTRjVEZzbzRRV0VqWmZP?oc=5",
-      "summary": "Even scientists are baffled: A neon-green glowing 'alien' shark has been spotted en.haberler.com",
+      "summary": "Even scientists are baffled: A neon-green glowing 'alien' shark has been spotted Haberler.com",
       "published": "2026-08-03T12:20:07+00:00",
       "outlets": [
-        "en.haberler.com"
+        "Haberler.com"
       ],
       "feeds": [
         "angle:scientists are baffled"
@@ -554,31 +584,6 @@
       "signals": {
         "unexplained": [
           "baffled"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Visalia parents seek cameras in special ed rooms after unexplained injuries",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXRWVjdkNlN4YVdsb2N0bl8xUXRpU1NhaGNiWWVyU0h4MEZoOUpZR3JRODFHYmdaRVcyYVlBbDBBa0dLR3EwY2VsT1FqMXJrQlZ4SjhCZnRvU3B3UmY3WmYyUFp0Tm5yajVlVERva1J0dlF5cGRwSnJOVXh4bGwzSVU3aXhMc1JaWUZsckhrNThuV3diYkYyVVhqUXNzdVVybTlnbk5veUNyeFpJREI0cw?oc=5",
-      "summary": "Visalia parents seek cameras in special ed rooms after unexplained injuries kmph.com",
-      "published": "2026-08-04T05:55:39+00:00",
-      "outlets": [
-        "kmph.com"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 22.0,
-      "angle": 34.0,
-      "rank": 7.5,
-      "signals": {
-        "unexplained": [
-          "unexplained"
         ]
       },
       "verdict": "clear",
@@ -638,12 +643,12 @@
       ]
     },
     {
-      "title": "Latest unexplained absence gives the Broncos one option with Drew Sanders",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3VNaFJXd1hrQTNraXlQa255dXVFSG9sXzUwSDctSC00QkxhaHJGVTBWbURqNGNyX1NrcmNaUlZ0U3FCcjNpSlFuMVVlQVBOcE5jTEh6Sm1hLVdJTEpmTVNXTFpZZWRORnF5djRiMHBhVUJreUxFSXlQd25nNGdqWXNuR1RvQXQ5MTdhRzhlY0hueUVYeTV3YUpBaE9ET1VqeURTM0l1RUdlSG14NlQ3T245X0lSOHlVQXc?oc=5",
-      "summary": "Latest unexplained absence gives the Broncos one option with Drew Sanders Predominantly Orange",
-      "published": "2026-08-03T12:00:01+00:00",
+      "title": "Family seeks investigation after man dies in Turkish custody with unexplained injuries",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnlURWl4R0YtLXNnRUZpNFpDQm1TaUl6QlhGS1BBNW1KYy05ekNrY2VBcU9jN0h6Y1FQRnd2bGplRElSMWExU3RPUnlBWXF2MWF5czJmc3o1a3JqS19tWEQza0ZrMmMwVmJnWG5jdnJDQk9fTk1VOGI3N1VOMS0yUWNCRlhVWXFJMkhxc0JTeE12eWlWVjlPTENoM0FnTTNPMV9UNXg1WE5wTkc5MGI3eQ?oc=5",
+      "summary": "Family seeks investigation after man dies in Turkish custody with unexplained injuries Stockholm Center for Freedom",
+      "published": "2026-08-03T16:55:26+00:00",
       "outlets": [
-        "Predominantly Orange"
+        "Stockholm Center for Freedom"
       ],
       "feeds": [
         "angle:unexplained"
@@ -688,31 +693,6 @@
       ]
     },
     {
-      "title": "Family seeks investigation after man dies in Turkish custody with unexplained injuries",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnlURWl4R0YtLXNnRUZpNFpDQm1TaUl6QlhGS1BBNW1KYy05ekNrY2VBcU9jN0h6Y1FQRnd2bGplRElSMWExU3RPUnlBWXF2MWF5czJmc3o1a3JqS19tWEQza0ZrMmMwVmJnWG5jdnJDQk9fTk1VOGI3N1VOMS0yUWNCRlhVWXFJMkhxc0JTeE12eWlWVjlPTENoM0FnTTNPMV9UNXg1WE5wTkc5MGI3eQ?oc=5",
-      "summary": "Family seeks investigation after man dies in Turkish custody with unexplained injuries Stockholm Center for Freedom",
-      "published": "2026-08-03T16:55:26+00:00",
-      "outlets": [
-        "Stockholm Center for Freedom"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 22.0,
-      "angle": 34.0,
-      "rank": 7.5,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
       "title": "Explaining what is \"unexplained wealth\"",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3JxUDQ0Z3Z5NFJ4WUNsMHFkeTJwa3BOcXA5dHdfemlkUEFJUW1jRF9zajI5ZGNNMVUwS1ZxUDVUY3luak51Vk55RnotQkVrenRqcmlQZEhROFJLVnZ5LWxPTC0xa3FMTDF1VWJVYmUzQ3dXWnhlRS1JcENSWWRGY3pld3FUeWFfdFFxWTk2WdIBpgFBVV95cUxPbW5rQnVhTUp0UWZKZmNfTUY2NHFIeG1aLU5tY1RMRU9ZZ0JqWDlDNjRfTjM3dUhQSzVpN2pSX0RiUkVXWWdNendSaF9jRm1NY0N2RE9QSGN0WHRkRUtnZ1owU0xGVHZNdkUwY0xsZ05JaENwUEs0RGwyZGprLTZLZHN0RmFCWnhFTXJYNFRjWXJrSm1pRE43a0gwODNTRnl4WDFWOHR3?oc=5",
       "summary": "Explaining what is \"unexplained wealth\" Philstar.com",
@@ -736,25 +716,50 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
+    },
+    {
+      "title": "Leaked Project Helix documents reveal Microsoft's biggest backward compatibility push yet",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcXU1dzJHWHZzdmhVeXZuamd6Y2ZCMlB4bjBTRGpHa2lzLWhRcW9sdDlTOU51Z0xTUGxkbU5vR0dYWjNfUkRGOHlacHNHY1BzV0IwTGFaSEJubDI3QVExcy1CaVJmVVBjQ28wWWstQ0dJUlE3d3ZxQkdiRzF3dDZvc2E4N19WV2ExaWptMWlaS29FZEZoM2dSc0lfMXUybjNPRGVIczdzdDA4NVFhV0RCNHRnQUJ0LTc5RVNCUmxLMGQwZkFuOWJPa3BJaHJydlk?oc=5",
+      "summary": "Leaked Project Helix documents reveal Microsoft's biggest backward compatibility push yet Notebookcheck",
+      "published": "2026-08-04T16:28:00+00:00",
+      "outlets": [
+        "Notebookcheck"
+      ],
+      "feeds": [
+        "angle:documents reveal"
+      ],
+      "reach": 26.0,
+      "angle": 28.0,
+      "rank": 7.3,
+      "signals": {
+        "secrecy": [
+          "leaked"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Something is being withheld. Build the middle on what was asked and not answered."
+      ]
     }
   ],
   "blocked": [
     {
-      "title": "Man charged with setting Spokane\u2019s largest wildfire went to prison for killing his father",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
-      "summary": "Man charged with setting Spokane\u2019s largest wildfire went to prison for killing his father apnews.com Man in custody for allegedly starting Old Trails Fire KREM Spokane arson suspect took a plea deal for death of his father, served prison time in Arizona KXLY.com Visualizing the wildfires in Washington and Oregon, in maps and satellite imagery CNN Man arrested for sparking Spokane wildfire, went to prison for killing father KATU",
-      "published": "2026-08-04T18:32:00+00:00",
+      "title": "Arson suspect makes first court appearance as Spokane wildfires rage on",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU2pFS002MXhnTlVNMUxSX2dKdWh1N1Z3Ti1VLVVfYkJJdUh2M3BOajZDM01JcGVrZGJWZ1otSkQtbHUzX19zZ2d5ZVpxNm9iN3ZBbzF4Q2xSQ0k5elFSYy16RkZxLWJheTUwZ2VLSVpDcWljUHFtOXBJUjR5SVdvRUZwbw?oc=5",
+      "summary": "Arson suspect makes first court appearance as Spokane wildfires rage on NPR Man in custody for allegedly starting Old Trails Fire KREM Cooler temps aid in battle against Spokane fires that have forced hundreds from their homes NBC News Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year AP News Spokane arson suspect took a plea deal for death of his father, served prison time in Arizona KXLY.com",
+      "published": "2026-08-04T23:07:03+00:00",
       "outlets": [
+        "AP News",
         "CNN",
-        "KATU",
         "KREM",
         "KXLY.com",
-        "apnews.com",
-        "reddit-news"
+        "NBC News",
+        "NPR"
       ],
       "feeds": [
-        "google-top",
-        "reddit-news"
+        "google-nation",
+        "google-top"
       ],
       "reach": 71.7,
       "angle": 0.0,
@@ -767,50 +772,17 @@
       "prompts": []
     },
     {
-      "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjhXOEc0blJCeTdjby1kZXN1YnFxcEplU2FKbFBCX213X1FOUzNicU54ak1vWFVMZEZmSEs3VlphVTBJRGFyb09jQ1ZoU0tFSkRYc2k1M0FUOUlhbnJoNkdzLUNtN19Mdk0wZkstb3ZnbjgyOFVnR0MyZDlLVm5KcnNuNExDYkdHWHZaZldfWXpkQVlCcHlQTi1wejZZTEg3QmJHTWRSbXcxTnY5ejlITldRNzI0SDl5bXJwOGVPTEpJQQ?oc=5",
-      "summary": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it? Space New crater likely to form after SpaceX rocket slams into the moon CNN Piece of SpaceX rocket will crash into the moon Wednesday Reuters NASA, SpaceX studying how to prevent future upper stage lunar collisions SpaceNews SpaceX rocket booster is on a 5,400-mph collision course with the moon, expected to leave crater 16 feet deep CBS News",
-      "published": "2026-08-04T15:58:13+00:00",
-      "outlets": [
-        "CBS News",
-        "CNN",
-        "NASA (.gov)",
-        "Reuters",
-        "Space",
-        "SpaceNews"
-      ],
-      "feeds": [
-        "google-science",
-        "google-top"
-      ],
-      "reach": 71.7,
-      "angle": 18.0,
-      "rank": 12.9,
-      "signals": {
-        "institutional": [
-          "nasa"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
       "title": "After three years \u2022 Mass funeral held in Gaza for 112 people recovered from 2023 strike rubble",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPemdxdlBKTVpqRjI2cU9mYjFoa0dkaTM1eHpPTHhFZjVmSlpFUDRpSlAxdnpDdUd4Um9SSTJ1cWkwVWVvOFotTkIwYWlPX3ZabEJTX3FVeWpSZ2FtUE5tMGVmOW5UeUZTVnBmTzNVcnp4T3pNVER6bTY5T29tUk5DeUdjczd1aFVXdWlFQnhzS19kbzBQa0ZMWXhJckp3a29RbFVyWnMxdmNXMU1Od0ptdFlnMXZ3TTkzbjlvbXBXNUpHUVNIOVc0Ym1QX2h0YXZvZnctUEYwcUtZYk5MTml5YTBFNVhsbk5jSnFmQ2t6NDFzR1ZLa0wwMmVQNWp2X2h5?oc=5",
-      "summary": "After three years \u2022 Mass funeral held in Gaza for 112 people recovered from 2023 strike rubble Haaretz Mass funeral held in Gaza for victims of 2023 Israeli strike The Guardian Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike BBC Gazans bury nearly a whole clan found in rubble in mass funeral for 112 Reuters 112 family members laid to rest in Gaza\u20143 years after Israeli airstrike killed them NPR",
+      "summary": "After three years \u2022 Mass funeral held in Gaza for 112 people recovered from 2023 strike rubble Haaretz Gazans bury nearly a whole clan found in rubble in mass funeral for 112 Reuters In Gaza, a mass funeral three years after deadly Israeli strike NBC News Mass funeral held in Gaza for victims of 2023 Israeli strike The Guardian Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike bbc.com",
       "published": "2026-08-04T15:07:52+00:00",
       "outlets": [
-        "BBC",
         "Haaretz",
-        "NPR",
+        "NBC News",
         "Reuters",
         "The Guardian",
-        "bbc-world"
+        "bbc-world",
+        "bbc.com"
       ],
       "feeds": [
         "bbc-world",
@@ -829,21 +801,21 @@
     {
       "title": "Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach?",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWtPX3doVmFZeXp2OElhYmNNTlk1XzRFVXV0b3ZNMWgxQmE3YjU2QXR4TmhGSDVwZDc1aldzbHZjdkt0c1JQb3hJMEhOYjdURGxMWVlWQUpHWmN2Q2w2WXMzT0tWT2VuWHRkNkZJOUplNGx2SGttaUdseHdta3phMUotMzN4VHFveVZxN0xWQUhZd3g1d0NRakh0OU1yRUlSWVd6Q2o4a0gyMWd3cHdEOURWOVVHUkdNdGRjRkdNQjBpd9IBxwFBVV95cUxPYXdTR2xYem5QOEJDai1WZERBUWE0UktPTWdSTVJvbVpaek00bVpBbG9Md0VpZGxnelFuaG9qUEdENVJDVlItMUtMbzFKTXN1TElpS1otM0JwdWZDSU1EdEs3Tk1XdWZmcWlKdHhNcGtIVVBvZmVkcERHUXFuWUVXQzhmTEJZd25pNVdrNzRvOTNvY1M4cHVCMnBKTFlTcGNPTDlkUUp3ekQ5bTU5dmRYNXF1RjE2UlFoeDBxb0RBbHRsanFoMDFz?oc=5",
-      "summary": "Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach? Meduza \u2014 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 Video shows moment drone burst into fireball on Russian beach NBC News Five dead in Moscow region as Kyiv targets more Wildberries sites abc.net.au Drone Explodes on Russian Beach, Killing 7, Officials Say The New York Times At least 27 killed as Russia and Ukraine trade heavy attacks Al Jazeera",
-      "published": "2026-08-04T10:48:57+00:00",
+      "summary": "Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach? Meduza \u2014 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 Russia says seven killed as Ukrainian drone hits crowded Russian beach CNN Video shows moment drone burst into fireball on Russian beach NBC News Five dead in Moscow region as Kyiv targets more Wildberries sites abc.net.au At least 27 killed as Russia and Ukraine trade heavy attacks Al Jazeera",
+      "published": "2026-08-04T09:36:00+00:00",
       "outlets": [
         "Al Jazeera",
+        "CNN",
         "Meduza \u2014 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
         "NBC News",
-        "The New York Times",
         "abc.net.au",
-        "reddit-news"
+        "reddit-worldnews"
       ],
       "feeds": [
         "google-world",
-        "reddit-news"
+        "reddit-worldnews"
       ],
-      "reach": 71.7,
+      "reach": 67.7,
       "angle": 0.0,
       "rank": 0.0,
       "signals": {},
@@ -854,92 +826,131 @@
       "prompts": []
     },
     {
-      "title": "Livestream, live updates: Lindsay Clancy speaks, agreeing to some facts, as trial continues",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWlfNlNwLUZoNzE2LXF5dnNHcmJ0RTFTeDE2RXRTQThUS3lRSEZyYlpzQzBFazJLS3Q1NkVmVy1WSWM3MjlkWUhDU0Y5ZEVSTTJkYkgwUzIxMTA4VWdJXzhZLU1jQ0VLUG9HSjlhdTZqWWlXUkpGT3hpSHF0bTNFZmJpcVNQdldiMUhTRGlTbVpfRkFWU0VpOXNuYi1hZ9IBpgFBVV95cUxNWVZoYkk3OWZ5WEM0WE9feGFkeTNYR29qOENleHVyR1QxelVIQlpSU3V1UGoybU05TmVUWjFDS1NJV3l5QnhISkhJMUJXTVZmRWVZVkRLMExLZ28wTlZsRkRUQTFUd2hlWDh0dV9JMXYwUVJJRUFtcEJPNWI0MkhtWmp4YlRnWmVBUzlwM1hWM3d5Q2hTVlFtOHlCcWt3VnpPNlJtbkFB?oc=5",
-      "summary": "Livestream, live updates: Lindsay Clancy speaks, agreeing to some facts, as trial continues NBC Boston \u2018I don\u2019t know what\u2019s wrong with me\u2019: Lindsay Clancy\u2019s journal entries detail her personal struggles ahead of slayings The Boston Globe Lindsay Clancy speaks to judge for first time during murder trial; Result could shorten case WCVB Lindsay Clancy was \u2018calm and cooperative\u2019 days after killing her 3 children, psychiatrist says CNN Lindsay Clancy speaks in open court as defense stipulates to certain facts WJAR",
-      "published": "2026-08-04T19:48:53+00:00",
+      "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjhXOEc0blJCeTdjby1kZXN1YnFxcEplU2FKbFBCX213X1FOUzNicU54ak1vWFVMZEZmSEs3VlphVTBJRGFyb09jQ1ZoU0tFSkRYc2k1M0FUOUlhbnJoNkdzLUNtN19Mdk0wZkstb3ZnbjgyOFVnR0MyZDlLVm5KcnNuNExDYkdHWHZaZldfWXpkQVlCcHlQTi1wejZZTEg3QmJHTWRSbXcxTnY5ejlITldRNzI0SDl5bXJwOGVPTEpJQQ?oc=5",
+      "summary": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it? Space New crater likely to form after SpaceX rocket slams into the moon CNN Piece of SpaceX rocket will crash into the moon tonight staradvertiser.com NASA Will Attempt to Observe Rocket Part\u2019s Lunar Impact NASA (.gov) SpaceX rocket booster is on a 5,400-mph collision course with the moon, expected to leave crater 16 feet deep CBS News",
+      "published": "2026-08-04T15:58:13+00:00",
       "outlets": [
+        "CBS News",
         "CNN",
-        "NBC Boston",
-        "The Boston Globe",
-        "WCVB",
-        "WJAR"
+        "NASA (.gov)",
+        "Space",
+        "staradvertiser.com"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 64.8,
+      "angle": 18.0,
+      "rank": 11.7,
+      "signals": {
+        "institutional": [
+          "nasa"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2xQcmR3d0h3bmJDMlRnNkhpWExiZ2FETUNmNUREa3RkNzhfU3BYUTlGNEh2b2M3QWJwbEozNUJOa1U5T0JCbnhRR3hEb1Q2TU5aM0VtcENuN28wLW4zd19kUWVhZWg3M19hdVNKV0gxQVd1dWNtdlpFdUZNQm9wZzFCR3R0VHZGbVNvM2JOdENrQWh0V2RKWmMyZkxMX3QzVGw3Y21YbXc?oc=5",
+      "summary": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim KCRA Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out ABC News - Breaking News, Latest News and Videos 3 people killed in mass shooting at Idaho In-N-Out identified CBS News In-N-Out worker killed in shooting at newly opened Idaho restaurant traveled to open stores AP News Man with Northern California connection injured while trying to stop Idaho In-N-Out mass shooter KCRA",
+      "published": "2026-08-04T21:59:00+00:00",
+      "outlets": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "Boise State Public Radio",
+        "CBS News",
+        "KCRA"
       ],
       "feeds": [
         "google-nation",
         "google-top"
       ],
       "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
+      "angle": 18.0,
+      "rank": 11.7,
+      "signals": {
+        "institutional": [
+          "who"
+        ]
+      },
       "verdict": "block",
       "policy_reasons": [
         "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
       ],
-      "prompts": []
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
     },
     {
-      "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamNubFFLdEI3Y2kzUzQ4cklzWlJHQmpTaEwyb3lXTU14UHNhMjZKUHA4TkhaMDZIRGg3Q0hzX3NlOUdzTFZyRTdpR2xLaXVwWmdHRE1ZMk5PMTMzaTNMcm4xaGtfN0owekNLWU5Ndlhoem50X0tZUWxpTC1md0dxdTducWUtXzFRV3JCRE1PbGZ5Wmpscnc?oc=5",
-      "summary": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5, local official says CBS News Ukrainian drone attack on Moscow region kills 5, governor says ABC News - Breaking News, Latest News and Videos Burn Warehouses, Crash Banks? ridl.io Hundreds of firefighters battle blaze at Wildberries warehouse in Russia's Vladimir region Reuters Russia Weighs Aid to Sellers After Ukraine Hits E-Commerce Giant Bloomberg.com",
-      "published": "2026-08-04T09:30:00+00:00",
+      "title": "'The damage is enormous': Ukraine grapples with record-breaking Russian missile strikes - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPampiVW0xdnhJeHdqc2NJSURhMGtLTElyS3FJRlpqZ053anJ6MXBhNkpnVTRHYVRtV2RWblp5NHVGa2pwUEQ4NGtIN1FkQkZ1ejFpd3d2elp0V2ZDbmVNRnhHUk5pQlAzSGRrWjFBRFNXWTBQb1ZQMmNWb0VQTGZ1bFZxVlhIZ0J4a19jVUNRTVZxOHlvRUdqcXVMZlcyeGkwNGdveTRR0gGrAUFVX3lxTE0zdVFFZnlGdW9FS2pHTDhUNE5qanduSTVWaURUTEh6djU4LWUxcmlfTEI5ekNGN29faFVHSnp1NGkzMjlVSWR6dUxCaHBFU2V4TS0yYURlRDkxTzlFa2RPald3ekZBT3BaZFJaeXlYblU5YkNDcFF6SFlDUTRiTFBUYndBUEU2VmVTUHR3WWp2UmxLSW9WZmt0Z1FOeXc0Yk1aZlFLeE8waVdpdw?oc=5",
+      "summary": "'The damage is enormous': Ukraine grapples with record-breaking Russian missile strikes ABC News - Breaking News, Latest News and Videos Zelensky says Ukraine has \u2018no interceptors\u2019 as ballistic missiles hit Kyiv The Washington Post Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship bbc.com At least 14 dead as Ukraine and Russia exchange strikes France 24 Explosions reported in Kyiv as Russia launches ballistic missile attack The Kyiv Independent",
+      "published": "2026-08-03T16:35:58+00:00",
       "outlets": [
         "ABC News - Breaking News, Latest News and Videos",
-        "Bloomberg.com",
-        "CBS News",
-        "Reuters",
-        "ridl.io"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Seoul Issues a Heat-Tied First Amid 'National Disaster'",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY253SWdMVWJVVi1kVm0tbUdVSkVvT25KUnZwU1BTTkJRQi0ybU0yWjJmUzBka2V6NExKVXFyeDFkcE1xNktxWkNWeXNzMnJyaGZEY28xUlMyRnRUYXBWZkxOVERkVTVRS1VkSXJqUlBXb1pJMEhnVXJaWTg0eXRGY0Fmbm1ZM2hHQm1GV052cnFteUJ2UEE?oc=5",
-      "summary": "Seoul Issues a Heat-Tied First Amid 'National Disaster' Newser East Asia is baking in \u2018cruelly hot\u2019 summer NBC News South Korea's Lee calls heatwave a national disaster as deaths rise to 19 Reuters Seoul braces for heatwave sweeping South Korea as death toll reaches 16 The Guardian South Korean president declares \u2018national disaster\u2019 as heatwave death toll rises to 19 The Independent",
-      "published": "2026-08-04T12:47:00+00:00",
-      "outlets": [
-        "NBC News",
-        "Newser",
-        "Reuters",
-        "The Guardian",
-        "The Independent"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "World War II explosives emerge and detonate in wildfire-ravaged village in France: \"Sound of war\"",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmxVSHBFUEQ2bjBMWXBkcTVVRVM5LUNvZ0ljc3dOeExXM0hNWWhlZGl0cndJdUJ6WVVwSkJJeEdsa0FBRzBtNGgwTHA0eExvc0xaMHJZZTREeXd3eGdVa0ZBbmw3UjE2U0ljYmpLaktFMDVCYmRPU2ZFT1IxOHNyWmswLVQ?oc=5",
-      "summary": "World War II explosives emerge and detonate in wildfire-ravaged village in France: \"Sound of war\" CBS News Explosions heard as more than 400 WWII shells found in village at center of France\u2019s wildfire crisis CNN France wildfires reveal hundreds of WW2 shells in village BBC WWII shells surface in wildfire-ravaged French village France 24 Man Abandoned as Newborn Finds Family After 65 Years The Daily Beast",
-      "published": "2026-08-04T12:17:29+00:00",
-      "outlets": [
-        "BBC",
-        "CBS News",
-        "CNN",
         "France 24",
-        "The Daily Beast"
+        "The Kyiv Independent",
+        "The Washington Post",
+        "bbc.com"
+      ],
+      "feeds": [
+        "google-top",
+        "google-world"
+      ],
+      "reach": 60.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkZLNDI2aXV4MHhkcVNfXzZuanFHTHBuR2NWYi1WNHo2YXNYUXN0WFU5dWwwSDdYSnRWMjJBajFDNUxQekpYbVBBUE9pQWE3QnZtWVByWHdwdXZsTTk0NEk0U0JqY19zUHZVU3dpbXk1TlhyUTM0U2F1VVJ2Nk9pWlRCNHJKcnFK?oc=5",
+      "summary": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds Los Angeles Times Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude LAist Devastating LA wildfire sparked by utility company tower, long-awaited report finds The Guardian Edison Equipment Blamed for Deadly Eaton Fire in Los Angeles Bloomberg.com Officials Say They\u2019ve Found the Cause of a Fire That Devastated L.A. The New York Times",
+      "published": "2026-08-04T20:49:00+00:00",
+      "outlets": [
+        "Bloomberg.com",
+        "LAist",
+        "Los Angeles Times",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "feeds": [
+        "google-top"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Serviceman kills 3 civilians and 1 soldier in Russian-held Crimea, governor says",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaG5RMmE4eFVNWV9ybGcxeFZTYk12SFZ6WkJ4dG1Sa0g1ZnVaMzlBU05WN2ZSSEN3OHpPVDF3d1JSdlhWSV9udWZXRndzV0E2WXktQnJlRkFmU2JsRm9sdW5aU01CMHp3cldxdjFUbWFHRU5sWnQzaHpXY3JsbUhwa1VMaUs2LU0?oc=5",
+      "summary": "Serviceman kills 3 civilians and 1 soldier in Russian-held Crimea, governor says CBS News A serviceman in Russian-held Crimea shoots fellow soldiers and civilians, killing 4 AP News Russian soldier opens fire on his own platoon The Telegraph Soldier kills four in gun rampage in Russian-occupied Crimea bbc.com Russian civilians killed in Crimea as Ukraine war takes its toll on Black Sea shores France 24",
+      "published": "2026-08-04T14:42:22+00:00",
+      "outlets": [
+        "AP News",
+        "CBS News",
+        "France 24",
+        "The Telegraph",
+        "bbc.com"
       ],
       "feeds": [
         "google-world"
@@ -957,92 +968,17 @@
     {
       "title": "Afghan migrant accused of brutal suitcase murder\u2014 and his American in-laws saw the warning signs",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNektBMUxacnllTWxMMkNTR0tLODRUalNlODdWSFVqUHF3UHQwUzlwSWVPcmdJN0lUVC1LQ24wWGoxSk9MQ3Q2OGNsTHRRdGNCVmFxQ3BueS1lajJ1djdxUHlmbHF0eDUxTnNHUXBFNjAtNzlfYnUzM0g1RWxSSkpnVzV2VjdpUXlmVXVKZG1jYlRvME1ibnI0VVROR0pLbndybzBYeE5rdXY4bTNCcDFCbTFTV0F3c29mRDJuUG1nVGl3UzhoZHhQMTFZNzE1QlVybTQtbFRmR3VwTDdwM3ow?oc=5",
-      "summary": "Afghan migrant accused of brutal suitcase murder\u2014 and his American in-laws saw the warning signs New York Post Afghan boxer, 26, arrested in connection with death of Scottish woman in Greece BBC Athens suitcase murder suspect \u2018posed as Jihadist\u2019 on burner phone The Telegraph Man arrested after body found in suitcase; female tourist planned to meet US friends Syracuse.com Scottish church mourns missionary found dead in suitcase wng.org",
+      "summary": "Afghan migrant accused of brutal suitcase murder\u2014 and his American in-laws saw the warning signs New York Post Afghan boxer, 26, arrested in connection with death of Scottish woman in Greece bbc.com Athens suitcase death: suspect admits hiding body but denies murder The Guardian Scottish church mourns missionary found dead in suitcase wng.org Aid worker who helped refugees in Greece murdered by migrant, body hidden in suitcase Ynetnews",
       "published": "2026-08-04T16:44:17+00:00",
       "outlets": [
-        "BBC",
         "New York Post",
-        "Syracuse.com",
-        "The Telegraph",
+        "The Guardian",
+        "Ynetnews",
+        "bbc.com",
         "wng.org"
       ],
       "feeds": [
         "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Serviceman kills 3 civilians and 1 soldier in Russian-held Crimea, governor says",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaG5RMmE4eFVNWV9ybGcxeFZTYk12SFZ6WkJ4dG1Sa0g1ZnVaMzlBU05WN2ZSSEN3OHpPVDF3d1JSdlhWSV9udWZXRndzV0E2WXktQnJlRkFmU2JsRm9sdW5aU01CMHp3cldxdjFUbWFHRU5sWnQzaHpXY3JsbUhwa1VMaUs2LU0?oc=5",
-      "summary": "Serviceman kills 3 civilians and 1 soldier in Russian-held Crimea, governor says CBS News Soldier kills four in gun rampage in Russian-occupied Crimea BBC A serviceman in Russian-held Crimea shoots fellow soldiers and civilians, killing 4 apnews.com Russian soldier opens fire on his own platoon The Telegraph Russian civilians killed in Crimea as Ukraine war takes its toll on Black Sea shores France 24",
-      "published": "2026-08-04T14:42:22+00:00",
-      "outlets": [
-        "BBC",
-        "CBS News",
-        "France 24",
-        "The Telegraph",
-        "apnews.com"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Man charged with arson as wildfires consume parts of Spokane, Washington",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWRSdHFRVGZKaE1qTGNxZ3V2SmV3NDMtbkYwN0JBTzhPS3ZUeFFtMzhLODdsQXJnOExOS0YyQl9jLXJyU3psSkxVWmZtNldrVVVrWEp0c0lEY2VUak1fdndUdDVKNjZnVl9idjlpZmlTSHVzOTNYSTA2aDFNSzZ2WnhOZE94SWFwNW52dDk3XzJHaU8tU2c?oc=5",
-      "summary": "Man charged with arson as wildfires consume parts of Spokane, Washington The Washington Post Man in custody for allegedly starting Old Trails Fire KREM Spokane arson suspect took a plea deal for death of his father, served prison time in Arizona KXLY.com Visualizing the wildfires in Washington and Oregon, in maps and satellite imagery CNN Spokane Area Fires at a glance NonStop Local KHQ",
-      "published": "2026-08-04T21:07:06+00:00",
-      "outlets": [
-        "CNN",
-        "KREM",
-        "KXLY.com",
-        "NonStop Local KHQ",
-        "The Washington Post"
-      ],
-      "feeds": [
-        "google-nation"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2xQcmR3d0h3bmJDMlRnNkhpWExiZ2FETUNmNUREa3RkNzhfU3BYUTlGNEh2b2M3QWJwbEozNUJOa1U5T0JCbnhRR3hEb1Q2TU5aM0VtcENuN28wLW4zd19kUWVhZWg3M19hdVNKV0gxQVd1dWNtdlpFdUZNQm9wZzFCR3R0VHZGbVNvM2JOdENrQWh0V2RKWmMyZkxMX3QzVGw3Y21YbXc?oc=5",
-      "summary": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim KCRA In-N-Out worker killed in shooting at newly opened Idaho restaurant traveled to open stores apnews.com When gunshots rang out at a Twin Falls In-N-Out, this Idaho man shot back Idaho Statesman Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out ABC News - Breaking News, Latest News and Videos Who is Chad Williams? College of Southern Idaho confirms suspected Twin Falls shooter was former student East Idaho News",
-      "published": "2026-08-04T17:52:00+00:00",
-      "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "East Idaho News",
-        "Idaho Statesman",
-        "KCRA",
-        "apnews.com"
-      ],
-      "feeds": [
-        "google-nation"
       ],
       "reach": 58.8,
       "angle": 18.0,
@@ -1059,6 +995,87 @@
       "prompts": [
         "An agency is involved. Its own record is the context nobody pulls."
       ]
+    },
+    {
+      "title": "Watch Bono and Eddie Vedder Perform at Glen Hansard\u2019s Funeral",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcXRIVFZMNmxCSU44OG8tU3ZyaTF3dDJ6YmF3d0hiWjVkMkVoTVQ1blA4MDJ5NlhUUVdGRmpOYS1GVnhlT2l3Z1o1S2pKdjZSUi1zX2djbWh5Tk5lal9FbF9GLVNIbFBibmExLVZjcFVjQTRUekx3MHppdGk2MDZWdXZmOHVLYXloMTZUV3djXzZCY3RReEQzN0l1d21KMUdvSHRndGJocw?oc=5",
+      "summary": "Watch Bono and Eddie Vedder Perform at Glen Hansard\u2019s Funeral Rolling Stone Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral bbc.com Opinion | Glen Hansard Made Beautiful Music WSJ Glen Hansard, Irish musician who won Oscar for \u2018Once,\u2019 dies in motorcycle crash AP News Oscar-winning songwriter Glen Hansard killed in crash BBC",
+      "published": "2026-08-04T16:11:07+00:00",
+      "outlets": [
+        "AP News",
+        "BBC",
+        "Rolling Stone",
+        "WSJ",
+        "bbc.com"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 58.8,
+      "angle": 18.0,
+      "rank": 10.6,
+      "signals": {
+        "institutional": [
+          "who"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "California's Eaton Fire in Altadena sparked by SoCal Edison electric tower, Los Angeles County report finds",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmRnaVUzX29DZzhvY3IyQjZLbTlCUm50LVhyT1JuUE8wdko4bmRDcDZESjZlS0FJb2p5M1hwMlY1SFZaS0otQkUwMnY5dHpyT2tySlZ0WjNZdm1raXZRZ0dwVFEtRE5EY1g5TzZuZm51aGVUMTdWSmxRdm85Sy1QajRVclplVWVmcW5EZUxzRFAzT3BJUGRrcjd1OV96Zw?oc=5",
+      "summary": "California's Eaton Fire in Altadena sparked by SoCal Edison electric tower, Los Angeles County report finds CBS News Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude LAist Utility's idle transmission tower caused 2025 Eaton fire that killed 19, LA officials say WJLA Devastating LA wildfire sparked by utility company tower, long-awaited report finds The Guardian Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds Los Angeles Times",
+      "published": "2026-08-04T23:24:05+00:00",
+      "outlets": [
+        "CBS News",
+        "LAist",
+        "Los Angeles Times",
+        "The Guardian",
+        "WJLA"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Portland area set to see mix of extreme heat and smoke, meteorologists say",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTHpjcHhGaWFRMWpPRVBGdDdkVDAtSDNNX0FHb1VsUzhGTHl4XzRhTk9fU19YLUtoY1hmWGwydGNjS0piaWFkcVNrbk5tMU4wODJzZU4wNXhINWw1NVBXV1ZyNGQ3cHNmeHJsSVNqU3doRzNxYjVzSXdGNm1Zc1U5MnJRM0lIZWcycXFQZUJMN3haUUc2MFdKWHU4ZE1XQkN1TlBVcGJQS3hxcElNYjE3UmNqOUljaG9pSXFScEFB0gHSAUFVX3lxTFBxZmlSNGp3T3daT0tnMVI2aG9WV2ZMYXpkM3l0NGxvMTdUNW5abkRiaUcxUlQzam1pTnZ6ZWgzYkRfMDk2MFdZdXkySDE1WkYyNzBUMzNvQ0czM3NGUFJMUy1Ma2cwMlN6MkRBT1VjekYwVXVjY2x4N0hEUDF0bGh0NGlFVW9ob0lpb2laRXo4LXVpU0xLUWxFVnBjY2t2V1ZMMVdPYW1kWUliZmw1eUNtRUVrLUdjUzJNYnJIdUpRbGVVNGFJejJDR1lLbElDM0lPdw?oc=5",
+      "summary": "Portland area set to see mix of extreme heat and smoke, meteorologists say OregonLive.com Live air quality map: Wildfire smoke reaches Seattle as King County urges air quality monitoring KING5.com Wildfire smoke settles over western Washington as North Bend air turns unhealthy KOMO Oregon air quality plummets as wildfire smoke blankets the state KGW Smoke, heat headed for Western Washington, as wildfires grow to the east and north KUOW",
+      "published": "2026-08-04T16:11:00+00:00",
+      "outlets": [
+        "KGW",
+        "KING5.com",
+        "KOMO",
+        "KUOW",
+        "OregonLive.com"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
     }
   ]
 }
