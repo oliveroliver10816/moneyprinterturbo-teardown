@@ -1,97 +1,26 @@
 {
-  "generated": "2026-08-06T18:17:14+00:00",
+  "generated": "2026-08-06T21:17:15+00:00",
   "feeds_ok": 24,
   "feeds_total": 25,
   "feed_errors": {
-    "reddit-news": "HTTP 429 rate limited"
+    "reddit-worldnews": "HTTP 429 rate limited"
   },
-  "raw_items": 1721,
-  "stale_dropped": 1069,
-  "clusters": 558,
-  "off_topic": 37,
+  "raw_items": 1710,
+  "stale_dropped": 1102,
+  "clusters": 551,
+  "off_topic": 32,
   "stories": [
-    {
-      "title": "'Little red dots' may be pulsating monster stars that created early-universe black holes",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zYXFKLWJnNHJ6YjlIQlVHUUd5OWs4OUUwTWZXYnF5REs4SXdXelJ5TWRoYkhBTUtad2RtOW5QWFI2V2hoRjVWYWRuSnZFc0o2YlZfdThfelFaNFlMVjBqUzRVMnNoaEpNWHlBcmVNSWp3Z3FPb3c?oc=5",
-      "summary": "'Little red dots' may be pulsating monster stars that created early-universe black holes Phys.org The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos WIRED Little Red Dot at Redshift 2: Real and Simulated Graphic NASA Science (.gov) JWST\u2019s Little Red Dots May Be Pulsating Monster Stars, Not Black Holes Tech Times NASA\u2019s Webb telescope may have solved the mystery of the universe\u2019s \u2018little red dots\u2019 The Brighter Side of News",
-      "published": "2026-08-05T18:40:01+00:00",
-      "outlets": [
-        "NASA Science (.gov)",
-        "Phys.org",
-        "Tech Times",
-        "The Brighter Side of News",
-        "WIRED"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 54.8,
-      "angle": 46.0,
-      "rank": 25.2,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ],
-        "institutional": [
-          "nasa"
-        ],
-        "frontier": [
-          "ancient"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
-        "An agency is involved. Its own record is the context nobody pulls.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Most detailed images ever taken of sun's surface revealed: \"Major step forward\"",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yVTRLYkVkd1UxdzZGQ3BRSVIxaTM4Rno0Z2RFelpycnBsZ095LTVDSGFiUHRIY3pkTzNZYzNnS1poS3BJblZ6RXB0bE9BeHFfb3ZDYzJKRFJxeTh3Q3RVaTQ2ekxkbDIyeGdObTc4TDhHTUxJTDlWRFVFWQ?oc=5",
-      "summary": "Most detailed images ever taken of sun's surface revealed: \"Major step forward\" CBS News Ubiquitous Kelvin\u2013Helmholtz instabilities driving plasma mixing on the Sun Nature New images of the sun show its surface in the finest detail yet KCCI NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process NSO - National Solar Observatory Unprecedented images reveal hidden process driving solar activity CNN",
-      "published": "2026-08-06T00:55:00+00:00",
-      "outlets": [
-        "CBS News",
-        "CNN",
-        "KCCI",
-        "NSO - National Solar Observatory",
-        "Nature"
-      ],
-      "feeds": [
-        "google-science",
-        "google-top"
-      ],
-      "reach": 60.8,
-      "angle": 40.8,
-      "rank": 24.8,
-      "signals": {
-        "unexplained": [
-          "unprecedented"
-        ],
-        "frontier": [
-          "discovery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
     {
       "title": "Curiosity rover spots mysterious honeycombs on Mars photo of the day for Aug. 5, 2026",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGdxQmNmQVY2VWV5Q1pZMnFwQ3ZLMXE0RkVucVI4U2JUWTFuU3FfMGdOODJyZTZkTmlFRFB2eTU4UGtNRlFjQ0RfWVI4X0xEd0M4TURSSndXUE81VmlNMGdSZllpeW0xUmc1ejRRcjVneWdNOUVCazhqUlh6U09TcEo1VGZ3ZG55VXJsRHBaU0NZVmpmTGF0Q0xBVGVtV3FRazN6Q0ZHaV9MdWtKLWdJUjExYVlVaGprWC1TZW1YRlZBOEFh?oc=5",
-      "summary": "Curiosity rover spots mysterious honeycombs on Mars photo of the day for Aug. 5, 2026 Space NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA Jet Propulsion Laboratory (JPL) (.gov) Curiosity Finds Massive Field of Honeycomb-Shaped Fractures on Mars Sci.News Vast Martian honeycombs featured in new Curiosity panorama EarthSky See it: NASA's Curiosity rover captures stunning images of honeycomb-like textures while exploring Mars FOX Weather",
+      "summary": "Curiosity rover spots mysterious honeycombs on Mars photo of the day for Aug. 5, 2026 Space NASA\u2019s Curiosity Mars Rover Discovers Field of Honeycomb Textures NASA Jet Propulsion Laboratory (JPL) (.gov) Curiosity Finds Massive Field of Honeycomb-Shaped Fractures on Mars sci.news Vast Martian honeycombs featured in new Curiosity panorama EarthSky See it: NASA's Curiosity rover captures stunning images of honeycomb-like textures while exploring Mars FOX Weather",
       "published": "2026-08-05T14:10:19+00:00",
       "outlets": [
         "EarthSky",
         "FOX Weather",
         "NASA Jet Propulsion Laboratory (JPL) (.gov)",
-        "Sci.News",
-        "Space"
+        "Space",
+        "sci.news"
       ],
       "feeds": [
         "google-science"
@@ -116,48 +45,15 @@
       ]
     },
     {
-      "title": "With lucky dive, scientists get a front-row view of the creation of Earth\u2019s surface",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdDhWeVNUSkhrNVBzWDlrTldHZ1ZSYTVSSnFIVC1vX01PY1V2ODRFNldjMkZvbFk5LUl3WWtHSDlfc0NpNjh2SExjMThVa0FacFFaSWNoMmp6SnFOM2loWG5EbmU3STJVUTlvNmRmNkNrWURYeDB0QkY0UkxWQUV4cW1tZTlZSGw5SEdXWEdoa01wOVhTNzMxRWRxVWVsSnlncWtJZkJLaGU?oc=5",
-      "summary": "With lucky dive, scientists get a front-row view of the creation of Earth\u2019s surface Science | AAAS The Birth Of A Seafloor: Scientists Witness New Oceanic Crust Forming Through Earth Splitting Apart For First Time IFLScience A mysterious underwater scar is rewriting what we know about Earth Futura, le m\u00e9dia qui explore le monde Scientists Just Watched the Deep Ocean Floor Tear Itself Apart in Real Time Popular Mechanics Scientists capture seafloor spreading in action for the first time beneath the Indian Ocean The Watchers - Watching the world evolve and transform",
-      "published": "2026-08-04T21:01:00+00:00",
-      "outlets": [
-        "Futura, le m\u00e9dia qui explore le monde",
-        "IFLScience",
-        "Popular Mechanics",
-        "Science | AAAS",
-        "The Watchers - Watching the world evolve and transform"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 50.8,
-      "angle": 40.8,
-      "rank": 20.7,
-      "signals": {
-        "unexplained": [
-          "mysterious"
-        ],
-        "frontier": [
-          "seafloor"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap.",
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
       "title": "New Mexico sues Todd Blanche, DOJ over Epstein files tied to Zorro Ranch investigation",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qd216NFFtWXU0Mmhra2hxZmZNbGNWWFVnWkFqWnFrQ2VmQzNxZm82UllTNm11bUtkYm9qX1ZNOW5VaS14ZGRFNU13cWRFMzY3cVB0WkdaLVpSLXpndl83M0ZycE9IaUpNQk92b0xlTFZWcm9U?oc=5",
-      "summary": "New Mexico sues Todd Blanche, DOJ over Epstein files tied to Zorro Ranch investigation Axios Investigations into Epstein\u2019s mysterious New Mexico ranch add pressure on the Justice Department CNN Opinion | New Mexico\u2019s Epstein lawsuit raises stakes of Todd Blanche\u2019s AG bid MS NOW New Mexico Sues Trump Administration for Unredacted Epstein Files in Zorro Ranch Investigation The New York Times Epstein truth commission unveils New Mexico report on abuse allegations at Zorro Ranch KOAT",
+      "summary": "New Mexico sues Todd Blanche, DOJ over Epstein files tied to Zorro Ranch investigation Axios Investigations into Epstein\u2019s mysterious New Mexico ranch add pressure on the Justice Department CNN Opinion | New Mexico\u2019s Epstein lawsuit raises stakes of Todd Blanche\u2019s AG bid MS NOW New Mexico Sues Trump Administration for Unredacted Epstein Files in Zorro Ranch Investigation The New York Times Epstein Truth Commission to present interim report Wednesday New Mexico Political Report",
       "published": "2026-08-05T23:15:17+00:00",
       "outlets": [
         "Axios",
         "CNN",
-        "KOAT",
         "MS NOW",
+        "New Mexico Political Report",
         "The New York Times"
       ],
       "feeds": [
@@ -180,30 +76,32 @@
       ]
     },
     {
-      "title": "Were there tiny dinosaurs? New study explores one of evolution's biggest mysteries",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2pLaEVxUmhKZHQyY0N3QWNvMWVHYUEyVTRlZnYwZVZGeHpiN2VpTm9CZ3hPU3NYZnVXNXZFSkdIaXlNNnFuakR3dW0xWmNNMzloMTNnc0pzTTVLUVBQY09iR2pLSTJKNE9ib1kzLXo5eEEtdzJMUHRIVndpUTh5SVh3?oc=5",
-      "summary": "Were there tiny dinosaurs? New study explores one of evolution's biggest mysteries Phys.org Why were there no tiny dinosaurs? You might blame the mammals Reuters Here\u2019s Why There Aren\u2019t Any Tiny Dinosaurs Nautilus | Science Giants Had Their Limits Al D\u00eda News New study investigates whether tiny dinosaurs existed, challenging evolutionary assumptions Bioengineer.org",
-      "published": "2026-08-05T14:00:05+00:00",
+      "title": "Exclusive | Armed man at Trump National Golf Club is decorated veteran with multiple tours",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRzNRUXBuNlZDajlLTGtQNmFGZC0yOWV5eHhOWUZ6dkhJWmZ4bGwxX1FEN25NbW9ZNU45Ty1oRnpEMXIxeHBNUHJLR05TRnBNTFFfcDVqTEdBdUhjdGZxYkc4elBZVjh5RURfNkh6c0V1YW16Y3MwUG56c0lZVVpOX1ZBMGJUbzExTmhwcWxjckdYSUtqdkRKWEZqaExKM3ZSU2NMWDJKdw?oc=5",
+      "summary": "Exclusive | Armed man at Trump National Golf Club is decorated veteran with multiple tours New York Post Mystery surrounds ex-Marine\u2019s possible motives, movements at Trump golf course Los Angeles Times Armed man arrested at Southern California golf resort ahead of Trump visit, sheriff says KTLA Downey man arrested at Trump's golf course in Rancho Palos Verdes NBC Los Angeles Trump supporters, protesters clash in Rancho Palos Verdes FOX 11 Los Angeles",
+      "published": "2026-08-05T16:48:00+00:00",
       "outlets": [
-        "Al D\u00eda News",
-        "Bioengineer.org",
-        "Nautilus | Science",
-        "Phys.org",
-        "Reuters"
+        "FOX 11 Los Angeles",
+        "KTLA",
+        "Los Angeles Times",
+        "NBC Los Angeles",
+        "New York Post"
       ],
       "feeds": [
-        "google-science"
+        "google-nation"
       ],
       "reach": 54.8,
       "angle": 34.0,
       "rank": 18.6,
       "signals": {
         "unexplained": [
-          "mysteries"
+          "mystery"
         ]
       },
-      "verdict": "clear",
-      "policy_reasons": [],
+      "verdict": "warn",
+      "policy_reasons": [
+        "reads as an accusation against a person \u2014 never aim the theory at a named individual"
+      ],
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
@@ -211,14 +109,14 @@
     {
       "title": "A Mystery Object in the Milky Way Is Blasting Out Particles 100 Times More Powerful Than the LHC",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0M0NDdyUHF2bE1hdGRwbkxjTzl3LUUyR3ZvVHA0dE40MGtNOGU3NVp5eUcxTTdvZUhOSEE2RGVPZVRPaVlHV0FWMU80R2ktU1RBVTRWLUFrcEwwWDY4elpHRVhGNVdtQVl3Q24taHdha3hlTnBndHRjQ3c5SVhLR1ZlVVo4dHcyTFlyU1REX201Vy1tRlEwZUVGeWh2a2laMVlUb0N5R1EzMFMybkcyTlM2MlZDcDJhM1puTlh2alpWdTdjQmc?oc=5",
-      "summary": "A Mystery Object in the Milky Way Is Blasting Out Particles 100 Times More Powerful Than the LHC Gizmodo Chinese observatory finds most powerful particle accelerator in the universe scmp.com Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts ScienceDaily China\u2019s LHAASO Maps Cosmic Ray Source Three Times Sun\u2019s Size Quantum Zeitgeist Natural particle accelerator more powerful than the Large Hadron Collider found in the Milky Way NEWS.am TECH",
+      "summary": "A Mystery Object in the Milky Way Is Blasting Out Particles 100 Times More Powerful Than the LHC Gizmodo Chinese observatory finds most powerful particle accelerator in the universe South China Morning Post Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts ScienceDaily China\u2019s LHAASO Maps Cosmic Ray Source Three Times Sun\u2019s Size Quantum Zeitgeist Natural particle accelerator more powerful than the Large Hadron Collider found in the Milky Way NEWS.am TECH",
       "published": "2026-08-05T18:10:51+00:00",
       "outlets": [
         "Gizmodo",
         "NEWS.am TECH",
         "Quantum Zeitgeist",
         "ScienceDaily",
-        "scmp.com"
+        "South China Morning Post"
       ],
       "feeds": [
         "google-science"
@@ -239,110 +137,23 @@
       ]
     },
     {
-      "title": "Kansas Mother says she's grateful to be alive after spider bite",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUsxcTY5RDVFemk5WXhkcG52RlRocVdmU1dmYVpQOW1ZdTNXT3ZEYzZ0ZHRiRUtLaGxQVDhOcXhKM2VJb09nNTdhaWFHMHk4NlpOczhBaGF0MzhTYXBOWUtQR3M3R0dVV2p6LUdnQk4yZXVaeFkweVo5N0F3QWhZZjlRdExNekpPb1HSAY8BQVVfeXFMUF9FYWtBc0p2Z0NVLVFCSE9IWnVkcjJVZ2cwYW5IYzAzOW0tZ1BLbXR0RndHWmRDNE1QenJ0elh1d0dzWWFfYTFqc1ZydWVGTXJpblZlT0xaQzU2SUhWUDhWUmxvTXFHNk5HSTgxTFh2cTk4RXNLNzlHdlllQnNRYWhReThkWWtYQ2hmQjljTXM?oc=5",
-      "summary": "Kansas Mother says she's grateful to be alive after spider bite ABC7 Los Angeles Mother fighting for life after being bitten by spiders at campfire Cleveland.com Kansas woman battles for her life after she was bitten by a spider The Independent Kansas Mom Told She Had Days to Live After Mysterious Spider Bites at Family Campfire, GoFundMe Launched yahoo.com Mom of 4 recovering after suspected spider bite leads to severe complications: reports Fox News",
-      "published": "2026-08-05T17:39:44+00:00",
+      "title": "The Best Metacritic-Scored Game Of 2026 Has Arrived",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmRVVEY5S29jVFJSYXBFbEd0aFNrVVQxYXNCTVd5V1plSHdCTGhCbVpGTHFJLXB1MmJuS3BGTEduXzIyZ09NX1M1eWpMTzRYdzRtYlhFUWdwUS13MWFQekx1ajBYM192ZGh4LXZOT2VvRFBfSTFhZ3d6bE5YNG01dUtDZ01CUnFPbjNudWJSY29oUFRLdjNIaDkxQ2tNS1k0aURVcg?oc=5",
+      "summary": "The Best Metacritic-Scored Game Of 2026 Has Arrived Forbes What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk CBC Big Walk review \u2013 larking around with mates elevated to an artform The Guardian Big Walk's Hardest Puzzle Is Scheduling Aftermath Frequently Asked Questions IGN",
+      "published": "2026-08-05T13:11:45+00:00",
       "outlets": [
-        "ABC7 Los Angeles",
-        "Cleveland.com",
-        "Fox News",
-        "The Independent",
-        "yahoo.com"
+        "Aftermath",
+        "CBC",
+        "Forbes",
+        "IGN",
+        "The Guardian"
       ],
       "feeds": [
-        "google-health"
+        "google-technology"
       ],
       "reach": 54.8,
       "angle": 34.0,
       "rank": 18.6,
-      "signals": {
-        "unexplained": [
-          "mysterious"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Bad news for Galaxy S26 owners waiting on the One UI 9 beta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3FLZ1RmaG1wcVVJQlU1TG9FRllCcm1Ra0VYU0tUaEFfZjBzOWwxSGwyNDZZU0F0YXhNZ3draXRFYjBiMUFyNS1pUjJuRWM2dExRc3RUbDBoU3ZseGVXNUZlQ0MtV25HTm9jODRYLXdyWVM0djNUWlhhbnluMVVXLUd0aUdCeGNuNlBocjV2aVNhM2xPZWVTcFgzMVJycFY5VWc?oc=5",
-      "summary": "Bad news for Galaxy S26 owners waiting on the One UI 9 beta PhoneArena Android 17: List of Samsung phones eligible for One UI 9.0 Deccan Herald Galaxy Z Fold 7, Flip 7 One UI 9.0 beta release is around the corner SamMobile Exclusive: Here\u2019s Your First Look at One UI 9.5\u2019s Update Banner SammyGuru First Look: Leaked Galaxy S26 FE Default Wallpapers Reveal Samsung\u2019s Bold New Look nokiapoweruser.com",
-      "published": "2026-08-06T11:08:47+00:00",
-      "outlets": [
-        "Deccan Herald",
-        "PhoneArena",
-        "SamMobile",
-        "SammyGuru",
-        "nokiapoweruser.com"
-      ],
-      "feeds": [
-        "google-technology",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 28.0,
-      "rank": 18.1,
-      "signals": {
-        "secrecy": [
-          "leaked"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
-      ]
-    },
-    {
-      "title": "'Exceeded Our Expectations': One Antioxidant Could Be Key to Keeping Aging Muscles Strong",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXNoTXRhY01nTVFXY09SSHFIdk5xcm8zNGVNNkhXX2VTY2pkamdPdWl1OFJzMHVvMmxvdU43ejNSZUpTYlhXNDlRdTQyWlJIOXZuSkVNbzBBUEYxdGdYMTdFaTRaUXZJZ3hpbTllQ1lfRGdWY1AzdFJSeWc1aGh1bkpGUFVVXzQ3bUhEYXdzMlp5MU5GbWFka2FkazRRUmNRRnZYbktQTUpiUklfTm1Qcy15RW5qdw?oc=5",
-      "summary": "'Exceeded Our Expectations': One Antioxidant Could Be Key to Keeping Aging Muscles Strong ScienceAlert This Antioxidant May Be The Key To Keeping Ageing Muscles Strong NDTV Scientists Solve Mystery of How Muscle Cells Grow and Stay Healthy Emory News Why do aging muscles stop healing themselves? Scientists found an answer Earth.com",
-      "published": "2026-08-06T08:01:21+00:00",
-      "outlets": [
-        "Earth.com",
-        "Emory News",
-        "NDTV",
-        "ScienceAlert"
-      ],
-      "feeds": [
-        "google-health"
-      ],
-      "reach": 51.6,
-      "angle": 34.0,
-      "rank": 17.5,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "Scientists Discover Extreme Acceleration Inside a Nuclear Fireball",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXpLbDBRNHg2U3k5MjlDZjlvWjJYSkdMaW1NbDRUdXBqcy1fWVlMUWNPTTIyOEFXUllMYktpR2pwVzdwcXUxUzAtUWNzUDlRUUdmbWhCQW51Y3VwYWZoV0NTZnJDNnpFRFYyaE1NZ2RTUHVtNndYWElTcXdzWmtsdXZVY0Z1ZWFIUXRGcldsMFVXYnNoVDVj?oc=5",
-      "summary": "Scientists Discover Extreme Acceleration Inside a Nuclear Fireball SciTechDaily Mapping the extreme acceleration of quark\u2013gluon plasma: the hidden engine of heavy-ion collisions EurekAlert! Scientists reveal the hidden force driving the universe\u2019s hottest fluid ScienceDaily Acceleration of the Hottest Known Matter: Physicists Finally Unravel the Puzzle inkorr.com Mapping Quark\u2013Gluon Plasma\u2019s Extreme Acceleration in Heavy-Ion Collisions Bioengineer.org",
-      "published": "2026-08-04T20:54:12+00:00",
-      "outlets": [
-        "Bioengineer.org",
-        "EurekAlert!",
-        "SciTechDaily",
-        "ScienceDaily",
-        "inkorr.com"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 50.8,
-      "angle": 34.0,
-      "rank": 17.3,
       "signals": {
         "unexplained": [
           "puzzle"
@@ -355,52 +166,51 @@
       ]
     },
     {
-      "title": "Garmin Fenix E2, 9 AMOLED, 9 MIP SOLAR, 9 Pro and Enduro \u2013 likley dates and evidence",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFh3UEx3UExGSGJSREl3bHFWZDFsUm9TTFlCejFEV3hnMlRCZFlad3Bna0tzM1UzdFVJTkJ1NzBBYUlOdXBtUHROd0JaSi1FNmN5ZGpOdFgtTTRMQldCZEZ6U042aHQ3amNoaEp6Tlc2TnBLbXNOaVYxVTlXUlZTMVhSTWV3VXg5?oc=5",
-      "summary": "Garmin Fenix E2, 9 AMOLED, 9 MIP SOLAR, 9 Pro and Enduro \u2013 likley dates and evidence the5krunner Garmin Fenix 9 Details May Have Been Revealed In Official Documents Forbes Three Fenix 9 Models Reported: Standard, Pro, and Pro inReach \u2014 MIP Solar on the Pro Tiers Garmin Rumors Three new Garmin Fenix 9 models reportedly leaked, and the MIP display is back \u2014 but there's a catch TechRadar Garmin\u2019s Next Flagship Watch Surfaces With LTE and Satellite Connectivity Gadget Review",
-      "published": "2026-08-06T15:27:21+00:00",
+      "title": "'Exceeded Our Expectations': One Antioxidant Could Be Key to Keeping Aging Muscles Strong",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXNoTXRhY01nTVFXY09SSHFIdk5xcm8zNGVNNkhXX2VTY2pkamdPdWl1OFJzMHVvMmxvdU43ejNSZUpTYlhXNDlRdTQyWlJIOXZuSkVNbzBBUEYxdGdYMTdFaTRaUXZJZ3hpbTllQ1lfRGdWY1AzdFJSeWc1aGh1bkpGUFVVXzQ3bUhEYXdzMlp5MU5GbWFka2FkazRRUmNRRnZYbktQTUpiUklfTm1Qcy15RW5qdw?oc=5",
+      "summary": "'Exceeded Our Expectations': One Antioxidant Could Be Key to Keeping Aging Muscles Strong ScienceAlert Scientists found a compound called LASSS that could supercharge how aging muscle repairs itself, and it already exists inside the body OkDiario This Antioxidant May Be The Key To Keeping Ageing Muscles Strong NDTV Scientists Solve Mystery of How Muscle Cells Grow and Stay Healthy Emory News Why do aging muscles stop healing themselves? Scientists found an answer Earth.com",
+      "published": "2026-08-06T08:01:21+00:00",
       "outlets": [
-        "Forbes",
-        "Gadget Review",
-        "Garmin Rumors",
-        "TechRadar",
-        "the5krunner"
+        "Earth.com",
+        "Emory News",
+        "NDTV",
+        "OkDiario",
+        "ScienceAlert"
       ],
       "feeds": [
-        "google-technology"
+        "google-health"
       ],
-      "reach": 58.8,
-      "angle": 28.0,
-      "rank": 16.5,
+      "reach": 54.8,
+      "angle": 34.0,
+      "rank": 18.6,
       "signals": {
-        "secrecy": [
-          "leaked"
+        "unexplained": [
+          "mystery"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
+        "The official account stops short of a cause. Open on the gap."
       ]
     },
     {
-      "title": "The Galaxy S26 FE sure does look like a Samsung phone in leaked images",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HYzZ0Yk16b0NOYjRrRVQxN3N5LWRLc3lmbUZERnZySUJkOVJ4N1lFMFhoeEFXRzFGLXBZaGc1TnRpbzBnSmZDTlN2LS1UOWIySnpQSzRmN1VPTjdPOUxjT0dDa3NxdkplUlcteTFsaW5GaU9oQXJsVXdtNnoyZw?oc=5",
-      "summary": "The Galaxy S26 FE sure does look like a Samsung phone in leaked images 9to5Google This is the possible launch date of Samsung's most predictable Galaxy S phone this year PhoneArena Exclusive: First look at the Samsung Galaxy S26 FE Cases Android Headlines Galaxy S26 FE Price Leak Follows Samsung\u2019s Mobile Profit Slide TechRepublic Samsung is once again betting on MediaTek to power its flagship tablet Digital Trends",
-      "published": "2026-08-04T19:55:00+00:00",
+      "title": "Apple prepares for iPhone 18 Pro and Ultra launch by expanding its reach",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGxqNmt0TTV0OGN4dnl2ZzRlc1lXeDZfMmhrWDBfazNKSXlPQjJNbm9rTXB5TWIxajdKOXozQzFuYmxDak5jWURaSVg5bFkzQ2pMdEZvR0hRWldMTGlrUXFTZTZYX0JUYVV4dGpqb1RBQ2lTVGl4cm80R3BfYS1OSUZlYVFpYUlEZEptWnF2Ti1aVllnZHpLX25JbXdmSV9UdFl6QjNVbw?oc=5",
+      "summary": "Apple prepares for iPhone 18 Pro and Ultra launch by expanding its reach 9to5Mac iPhone 18 Pro will have three upgrades that have been rumored for years 9to5Mac Apple Gears Up for September iPhone Launch With Retail Employee Lottery Bloomberg.com Leaked Apple memo reveals its iPhone 18 Pro and iPhone Ultra plan PhoneArena Apple September Event Predictions: iPhone 18 Pro and Other Rumors Ranked TechRepublic",
+      "published": "2026-08-06T15:04:00+00:00",
       "outlets": [
-        "9to5Google",
-        "Android Headlines",
-        "Digital Trends",
+        "9to5Mac",
+        "Bloomberg.com",
         "PhoneArena",
         "TechRepublic"
       ],
       "feeds": [
         "google-technology"
       ],
-      "reach": 50.8,
+      "reach": 51.6,
       "angle": 28.0,
-      "rank": 14.2,
+      "rank": 14.4,
       "signals": {
         "secrecy": [
           "leaked"
@@ -413,31 +223,66 @@
       ]
     },
     {
-      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42cDVlMzNMaERZZW1ybUhsQzlDNXppc3BRbnN0djF4dFplMXR4WDBsNElwSkM4aWkwaWdCTUpNUEZnRGpCbFFiTktTb01oNjd4b2lkSEFCbDlzQ2M2aFZuTWRqVUhyV1NVZEFqeDMwTy1GYUNpWU83eXdTMEdaTzQ?oc=5",
-      "summary": "iPhone 18 Pro event date: When Apple announced its event over the last six years 9to5Mac iPhone 18 Pro will have three upgrades that have been rumored for years 9to5Mac Apple Gears Up for September iPhone Launch With Retail Employee Lottery Bloomberg.com Leaked Apple memo reveals its iPhone 18 Pro and iPhone Ultra plan PhoneArena iPhone 18 Pro Launching Next Month With These 12 New Features MacRumors",
-      "published": "2026-08-05T19:10:00+00:00",
+      "title": "'Little red dots' may be pulsating monster stars that created early-universe black holes",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zYXFKLWJnNHJ6YjlIQlVHUUd5OWs4OUUwTWZXYnF5REs4SXdXelJ5TWRoYkhBTUtad2RtOW5QWFI2V2hoRjVWYWRuSnZFc0o2YlZfdThfelFaNFlMVjBqUzRVMnNoaEpNWHlBcmVNSWp3Z3FPb3c?oc=5",
+      "summary": "'Little red dots' may be pulsating monster stars that created early-universe black holes Phys.org The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos WIRED Little Red Dot at Redshift 2: Real and Simulated Graphic NASA Science (.gov) NASA has an idea about how newly-discovered 'little red dots' behave in the universe Earth.com James Webb may have found the universe's first monster stars\u2014and they could explain how giant black holes The Economic Times",
+      "published": "2026-08-05T18:40:01+00:00",
       "outlets": [
-        "9to5Mac",
-        "Bloomberg.com",
-        "MacRumors",
-        "PhoneArena"
+        "Earth.com",
+        "NASA Science (.gov)",
+        "Phys.org",
+        "The Economic Times",
+        "WIRED"
       ],
       "feeds": [
-        "google-technology"
+        "google-science"
       ],
-      "reach": 47.6,
-      "angle": 28.0,
-      "rank": 13.3,
+      "reach": 54.8,
+      "angle": 24.8,
+      "rank": 13.6,
       "signals": {
-        "secrecy": [
-          "leaked"
+        "institutional": [
+          "nasa"
+        ],
+        "frontier": [
+          "ancient",
+          "discovered"
         ]
       },
       "verdict": "clear",
       "policy_reasons": [],
       "prompts": [
-        "Something is being withheld. Build the middle on what was asked and not answered."
+        "An agency is involved. Its own record is the context nobody pulls.",
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Trump admin defunds abstinence-only programs in chaotic budget cuts",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVNvRW13dUhtOWp5TXNORjUyM0x2MFZlS2NaeFhVbFlSUkF0OVE1TTRjT0VsekhQLW5sQm9WZjdzMEdrTjR1Zm1rT0QzM05hS2ZCeFlzZTRSb25CaXAwLVMwb1pRQnlld2dNTjhoa0dDQUdxblRqWVU5Ml9jbVJvQlhiRmR6RVh5WnFGRXZOSFhtaGxGQWNra1lCQ3hDclU?oc=5",
+      "summary": "Trump admin defunds abstinence-only programs in chaotic budget cuts Politico When sex education funding is taken away, young people lose a safe space The 19th News N.Y. Dems call on federal gov\u00adernment to reverse cuts to teen pregnancy pre\u00advention program Spectrum News NY1 Trump administration targets teen pregnancy prevention grants K-12 Dive Wide Impacts After Trump Administration Cuts Sex Ed The Imprint",
+      "published": "2026-08-06T16:00:00+00:00",
+      "outlets": [
+        "K-12 Dive",
+        "Politico",
+        "Spectrum News NY1",
+        "The 19th News",
+        "The Imprint"
+      ],
+      "feeds": [
+        "google-nation"
+      ],
+      "reach": 58.8,
+      "angle": 22.0,
+      "rank": 12.9,
+      "signals": {
+        "reversal": [
+          "reverse"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The story changed. Put the first version and the current one side by side."
       ]
     },
     {
@@ -471,99 +316,16 @@
       ]
     },
     {
-      "title": "Smithsonian shut down several museums in DC for unexplained \u2018mechanical issue\u2019",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUxtRXItemdiLVpLQUdicjZjS2l1TGlWQ0E2eGkyWGxRSW1VMWljaEdnZkFMMEhsTjQ1LVhOSm16LWNHR0tmSmliTFhwS0RzWkZ2S294ZnQ0U1V0SHRad3N2OTllbjJuY2JYQU1VZmdqRXhtbmZOR2ZHWDc5UTNPaWpQSmVWTHNuN3lRaU94RXg5cTF6Yk5ERFBPOHFwM0k?oc=5",
-      "summary": "Smithsonian shut down several museums in DC for unexplained \u2018mechanical issue\u2019 The Independent",
-      "published": "2026-08-06T15:40:00+00:00",
-      "outlets": [
-        "AOL.com",
-        "The Independent"
-      ],
-      "feeds": [
-        "angle:unexplained"
-      ],
-      "reach": 35.5,
-      "angle": 34.0,
-      "rank": 12.1,
-      "signals": {
-        "unexplained": [
-          "unexplained"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
-      ]
-    },
-    {
-      "title": "10-year-old drowns saving sister, another girl still unaccounted for",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmNLSUpXNVJ3enUzc1dvaUxWZFU5Skp2c3Q4MHQ2N2IwdjBoQkdXbW1tTElKaFR6bUVEMW1FNXNaUW1ZdWlUcktRWVNKNjlSUklORTA2elpadWZldEk1YW44bnh0Nk9BRHlRMlFiM0lLN3lpYjZaTEU1Z21TUlJsQjdyZUhaUFBGVHgwcVZJRkZ0c1Q1YWZwY3hTYTjSAbABQVVfeXFMTUJDcEMyZk5JNnFwemtzYXV5YWlBMHpGU2VZcnVwSGV1OFdrZVBNWmkzbWlhLVFkVVQwZ1FDZHBYZXVuNmxId0hFMmMtUzdiSmZXSUFub0Z3aVctS0NRWWZHc1BSSFBkQ1dXRWJlMXdraWE2NzBNR0FDWVdOaGtaV2hMcVo1bWlHcXJXRnk2ckc5OGU1V05ERVRRZjhMWkE5ZzdxSHYxSExLUVl2QW80RlY?oc=5",
-      "summary": "10-year-old drowns saving sister, another girl still unaccounted for Upper Michigan's Source",
-      "published": "2026-07-30T20:01:00+00:00",
-      "outlets": [
-        "Atlanta News First",
-        "FOX5 Vegas",
-        "KCRG",
-        "KFYR-TV",
-        "KNOE",
-        "KOLD",
-        "KSWO 7News",
-        "KTRE",
-        "KWCH",
-        "KWTX",
-        "KY3",
-        "KYOU-TV",
-        "Northern News Now",
-        "Upper Michigan's Source",
-        "WAFF",
-        "WAGM",
-        "WALB",
-        "WBRC 6 News",
-        "WBTV",
-        "WCJB",
-        "WEAU",
-        "WFIE | 14 News",
-        "WITN",
-        "WKYT",
-        "WSFA",
-        "WTVA",
-        "WTVG",
-        "WVVA",
-        "hawaiinewsnow.com",
-        "knopnews2.com",
-        "kxii.com",
-        "live5news.com",
-        "wbbjtv.com"
-      ],
-      "feeds": [
-        "angle:unaccounted for"
-      ],
-      "reach": 70.0,
-      "angle": 14.0,
-      "rank": 9.8,
-      "signals": {
-        "disappearance": [
-          "unaccounted for"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Someone or something is gone. Absence is the strongest open ending there is."
-      ]
-    },
-    {
-      "title": "U.K. Approves Paramount-Warner Bros. Merger",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUERCU1N3OUhOUnFJbndHUTdzbFlzZHlJRnR1UWRkWlAxUXZ4RTgzTkE4RjA5RWNULURBaERSRFF6VHZ0d0dSZHF6dF9xeEkyNnB2QmVpdDBUNDFpTGJxSVREWmJTOWttWjFueGRncWN4WS0xblB6U25WNm1jbjgtTHI4U2tQUQ?oc=5",
-      "summary": "U.K. Approves Paramount-Warner Bros. Merger Variety Britain clears $110 billion Paramount-Warner Bros. merger CNN David Zaslav Says WBD Staffers Are \u201cWorking Extremely Hard\u201d Despite Paramount Deal Uncertainty Deadline UK won't intervene in Paramount's $81 billion takeover of Warner Bros. Discovery ABC News - Breaking News, Latest News and Videos Warner Bros. CEO Confident Paramount Deal Will Close WSJ",
-      "published": "2026-08-06T11:27:00+00:00",
+      "title": "Britain clears Paramount's $110 billion takeover \u200bof Warner Bros.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVF81ejV3OTNvNFdETEFTMlhYSE9NYS1SM05BYUZ3eGNtMXc4cmVCcm1oZ2lQUmpOU2VZeGFzeFRjUUwzemxIMjJRdnpWcUpwcm5qWl9rVjF6RDU2MWdNS0pEV2ZHWU9IbmNQTnRHQ25qeU5icXNLUDRnYS1lT3ZDdXkzRGVicFJnUE90eHZNdWhJRVROUGhXbDE3cFcxOWh1Q3NjTEZWZW1nZw?oc=5",
+      "summary": "Britain clears Paramount's $110 billion takeover \u200bof Warner Bros. Reuters U.K. clears Paramount-WBD deal Axios Britain clears $110 billion Paramount-Warner Bros. merger CNN UK won't intervene in Paramount's $81 billion takeover of Warner Bros. Discovery ABC News - Breaking News, Latest News and Videos Zaslav Admits Paramount-Warner Bros. Merger Saga Has Been \u2018Challenging\u2019 for Employees but Claims Work Ethic Is \u2018Inspiring\u2019 Variety",
+      "published": "2026-08-06T18:27:02+00:00",
       "outlets": [
         "ABC News - Breaking News, Latest News and Videos",
+        "Axios",
         "CNN",
-        "Deadline",
-        "Variety",
-        "WSJ"
+        "Reuters",
+        "Variety"
       ],
       "feeds": [
         "google-top"
@@ -574,6 +336,64 @@
       "signals": {
         "frontier": [
           "discovery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Only two complete dodo skulls are known to exist. Scientists just looked inside them \u2013 and discovered this",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzQXF5NVc4VWJEZVdxejNOa1hEeXhkaF9aLVFqbGRNQ0RrQkZvYVVwRXJaZnFGNl9Uakp0N0F3Z1pnLVRlLWMtMmxUbG5sREFKYUNMakpleXNYa2JxbXZCNndZbDE0eTJGdUxVX2I3ZzNhalJZeXo5YzJn?oc=5",
+      "summary": "Only two complete dodo skulls are known to exist. Scientists just looked inside them \u2013 and discovered this BBC Wildlife Magazine Dodo was actually smart \u2013 but trust in humans led to its downfall Yahoo One of the world's only two complete dodo skulls reveals new clues about the extinct bird Phys.org Slow, Fat, And Stupid? Think Again. The Dodo Was An Active, Lean Bird And A Creature Of The Night IFLScience Scientists Studied the Only 3 Dodo Skulls in Existence. Turns Out We Owe Them an Apology Gizmodo",
+      "published": "2026-08-06T13:47:49+00:00",
+      "outlets": [
+        "BBC Wildlife Magazine",
+        "Gizmodo",
+        "IFLScience",
+        "Phys.org",
+        "Yahoo"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 58.8,
+      "angle": 16.0,
+      "rank": 9.4,
+      "signals": {
+        "frontier": [
+          "discovered"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "A rocky planet 48 light-years away in the constellation Cetus has become the first world in a habitable zone ever confirmed to hold an atmosphere, and scientists found it by watching helium quietly leak into space",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtQ3pRbVEtcDBrd2RYUmI1NzZralZnNVdvX3NodEUyckFQb2s3RmlUZDllcnp6bGRBeDdpYmJMRGZfcXV4X1NDSzVGS2VQdXBwN29fVHNlSnAyZGg3UnBBeXNZMUF6RXZTa2ZUTmE1aTNDNjMxdTBn?oc=5",
+      "summary": "A rocky planet 48 light-years away in the constellation Cetus has become the first world in a habitable zone ever confirmed to hold an atmosphere, and scientists found it by watching helium quietly leak into space spacedaily.com We might soon have the technology to reach other star systems The Conversation A rocky exoplanet may be a formidable candidate for extraterrestrial life CNN Astronomers just found the first atmosphere on a rocky exoplanet in the habitable zone Astronomy Magazine Astronomers find an atmosphere on an Earthlike planet a CU Boulder professor helped discover Daily Camera",
+      "published": "2026-08-06T11:30:00+00:00",
+      "outlets": [
+        "Astronomy Magazine",
+        "CNN",
+        "Daily Camera",
+        "The Conversation",
+        "spacedaily.com"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 58.8,
+      "angle": 16.0,
+      "rank": 9.4,
+      "signals": {
+        "frontier": [
+          "extraterrestrial"
         ]
       },
       "verdict": "clear",
@@ -609,12 +429,100 @@
       ]
     },
     {
+      "title": "Sunken Nazi ships, woolly mammoth bones surface as Danube River's water levels drop to record low",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRS1feTVWUzE3MEN6MnBzWkZ4amN4MlpKWGZ1U0dUYV9kcWM1RUp1NE5xaTNKOS1KRDVQZ0JIVy1FYjVJQnlGMGQ5cUZuaFluQUhKRWhwVEh4UEtWWEM1bi1OM2xKNS1mRjZiZE5VRnpVZmo1LUw3YTI0emZiZHlwM3FadWNEYmxSeklmT1lLQ1pfMk9qUk1qMG5NUlhTTEQxN3RUd1YwZ3FhU1Z3Vm1INVlCZ0kxakEyQUl5NFY4bFViQjh5NnhNYWdaR3RVRTN5ZWtB?oc=5",
+      "summary": "Sunken Nazi ships, woolly mammoth bones surface as Danube River's water levels drop to record low New York Post The Danube River's water is dropping so low that World War II ships are emerging PBS As the Danube River dries up, World War II shipwrecks and mammoth bones come into view CBS News Ancient mammoth remains and a Nazi shipwreck: Europe\u2019s shrinking rivers reveal past relics CNN Mammoth remains revealed in Bulgaria after Danube water levels hit record low Reuters",
+      "published": "2026-08-05T20:37:00+00:00",
+      "outlets": [
+        "CBS News",
+        "CNN",
+        "New York Post",
+        "PBS",
+        "Reuters"
+      ],
+      "feeds": [
+        "google-world"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "ancient"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Most detailed images ever taken of sun's surface revealed: \"Major step forward\"",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yVTRLYkVkd1UxdzZGQ3BRSVIxaTM4Rno0Z2RFelpycnBsZ095LTVDSGFiUHRIY3pkTzNZYzNnS1poS3BJblZ6RXB0bE9BeHFfb3ZDYzJKRFJxeTh3Q3RVaTQ2ekxkbDIyeGdObTc4TDhHTUxJTDlWRFVFWQ?oc=5",
+      "summary": "Most detailed images ever taken of sun's surface revealed: \"Major step forward\" CBS News Ubiquitous Kelvin\u2013Helmholtz instabilities driving plasma mixing on the Sun Nature NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process NSO - National Solar Observatory Astronomers capture highest-resolution image ever of the Sun\u2019s surface Physics World New video of the sun supports theory of what happens on its surface The Washington Post",
+      "published": "2026-08-06T00:55:00+00:00",
+      "outlets": [
+        "CBS News",
+        "NSO - National Solar Observatory",
+        "Nature",
+        "Physics World",
+        "The Washington Post"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "discovery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
+      "title": "Newly discovered oddball amphibian fossils could reveal clues about the prehistoric LA climate",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVeTJvdlBJYnhYTDBKM2JpRml3ZGtLb3Rpc3ZmckxMVUd1Skw5UDlrYmZJZTVqVzd5YXZWdFpvNjNncEFock1oNi1iaVlHRkZqaU5ZeEJNSDFVVVFnRjFqMjV5Z3Q1SWxEVjRCNzFNSXBFdw?oc=5",
+      "summary": "Newly discovered oddball amphibian fossils could reveal clues about the prehistoric LA climate CNN A new species of Ice Age toad discovered at La Brea Tar Pits: The spadefoot toad Spea labreae Phys.org A new Ice Age toad has been found in LA. Why the discovery matters laist.com La Brea Tar Pits Yield New Species of Ice Age Toad sci.news An iNaturalist observation of the Mexican burrowing toad, Rhinophrynidae dorsalis, recorded in Costa Rica. EurekAlert!",
+      "published": "2026-08-05T18:02:52+00:00",
+      "outlets": [
+        "CNN",
+        "EurekAlert!",
+        "Phys.org",
+        "laist.com",
+        "sci.news"
+      ],
+      "feeds": [
+        "google-science"
+      ],
+      "reach": 54.8,
+      "angle": 16.0,
+      "rank": 8.8,
+      "signals": {
+        "frontier": [
+          "discovered",
+          "discovery"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "Genuinely new territory. The honest 'we don't know yet' is the hook."
+      ]
+    },
+    {
       "title": "New dinosaur species identified in New Mexico, researchers say",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtvZjdIMU9pWDlkTnJMYm9MZ3BfR0JKaFpvRzJHb3c3cnh0a3I2S3VMYldhU0hDQW5XSjJWSjlBWjFxbllEX21LQ2Z3eDB5WXRZNUJNbmlFM2F2VktFdVBhdGdCa1puRkloMkxPbFhZbG51WklZWEdDTWVvTlhiY0dxQ2p2VDk1MUo2NHl2cktxZ2E4MzRmaG5aUVpQaHJVcmx6SHVBbnZ5QnV0YkHSAbMBQVVfeXFMT053eG5Cajc4MmMyd2NFa1NnU1NVQVUtRThIQmt3OHJtSjdRc2dhOHlmQmJoYmpiMmt5dTFDOWxhUUkySVJGakpONTRIRkZuWHJqQUVhYXZ1QkpwMnVKVHZvVjlhb2lyWDV6cFl6NTl2VG5WZlplc1F4bWZCSDlyYUNsY1V1Z0NPMFNKOVYzUlg1MHRjdWRHcU9MWElKVk5ielpTczhnQ3RJbzI1Z1c5cDZDTnM?oc=5",
-      "summary": "New dinosaur species identified in New Mexico, researchers say WOODTV.com Researchers identify new dinosaur in northwestern New Mexico Santa Fe New Mexican New Mexico scientists announce discovery of \u2018beefy\u2019 new bird-like dinosaur in San Juan County Source New Mexico Researchers identify new dinosaur species in New Mexico KRQE New dinosaur identified in New Mexico KOB 4",
+      "summary": "New dinosaur species identified in New Mexico, researchers say WOODTV.com New Mexico scientists announce discovery of \u2018beefy\u2019 new bird-like dinosaur in San Juan County Source New Mexico Researchers identify new dinosaur in northwestern New Mexico Santa Fe New Mexican Researchers identify new dinosaur species in New Mexico KRQE New Mexico scientists identify new dinosaur species KOAT",
       "published": "2026-08-05T18:15:26+00:00",
       "outlets": [
-        "KOB 4",
+        "KOAT",
         "KRQE",
         "Santa Fe New Mexican",
         "Source New Mexico",
@@ -638,46 +546,16 @@
       ]
     },
     {
-      "title": "Newly discovered oddball amphibian fossils could reveal clues about the prehistoric LA climate",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVeTJvdlBJYnhYTDBKM2JpRml3ZGtLb3Rpc3ZmckxMVUd1Skw5UDlrYmZJZTVqVzd5YXZWdFpvNjNncEFock1oNi1iaVlHRkZqaU5ZeEJNSDFVVVFnRjFqMjV5Z3Q1SWxEVjRCNzFNSXBFdw?oc=5",
-      "summary": "Newly discovered oddball amphibian fossils could reveal clues about the prehistoric LA climate CNN A new species of Ice Age toad discovered at La Brea Tar Pits: The spadefoot toad Spea labreae Phys.org A new Ice Age toad has been found in LA. Why the discovery matters LAist La Brea Tar Pits Yield New Species of Ice Age Toad Sci.News A New Toad Species Emerges from the La Brea Tar Pits Nautilus | Science",
-      "published": "2026-08-05T18:02:52+00:00",
+      "title": "The Weirdest Theory Yet for Why Life on Earth Suddenly Exploded",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkJPcmlOQ1ltLVY2TlVyZkp2V0p6aGxKTjFGM0xJMUI0S21CRkhvRjV0bnFkbW5MZUN0ZFd6bWhLRURIcEJSeXg2N3M0SElPUWt4TnRwYUNNQUU4bTJBVENsUktvQkZ4TVpvMFN4N1VtMUd5UlM3OEl5NjBDYWxBZVFfSHMzSnFBVk9FUFdGaWpyUnBhalp5dWxn?oc=5",
+      "summary": "The Weirdest Theory Yet for Why Life on Earth Suddenly Exploded Gizmodo How the 'fecal revolution' changed Earth's ecosystems Phys.org Poop made life on Earth possible. Yes, poop. Popular Science How \u201cA Little Bowel Movement\u201d 540 Million Years Ago Sparked An Evolutionary Explosion, Changing The Face Of Earth Forever IFLScience An Ancient Poop Explosion Could Have Helped Complex Life Evolve ScienceAlert",
+      "published": "2026-08-05T16:15:51+00:00",
       "outlets": [
-        "CNN",
-        "LAist",
-        "Nautilus | Science",
+        "Gizmodo",
+        "IFLScience",
         "Phys.org",
-        "Sci.News"
-      ],
-      "feeds": [
-        "google-science"
-      ],
-      "reach": 54.8,
-      "angle": 16.0,
-      "rank": 8.8,
-      "signals": {
-        "frontier": [
-          "discovered",
-          "discovery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Hidden beneath Antarctic ice, a red brine pool contains marine microbial DNA, supporting evidence of an a",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZnFQTWJCMVEzUEI2a2QwQTM0SFoyNUplLXhXWTFqeC10a0RSZllBN2hsaU91OWNtaWhGM2pHbGJDOE1MOEh5T0lWOWU3amlIeFIxMWhUcG5wWDgyTnpfY2dDckZJV0o5UzNPY0p2Z3RjMy03N3R3UnkzMmYxS3pNaWlFUy15enpSam83M1pOdGpKa01QWXBKRTdCMlJTZ19wMlVwdTRWZEotSVNDVjdRTFlvZ09neDVNeGhuVTNlT1RwS2JWSjZWbnU3NXo4LWdCaHo4cENrVjhndWw3RjFjR1VBYlNORTVrNFgwb3l1MVpFWGttYVN3R281bzdrem5LRnF2T2JTRUx6Z3RNTVlhc091ZWg0aTNCdGlaNWxPSmVKYXPSAagCQVVfeXFMUEZmbEYtbVZBRFhtd3lRbWlkY1Y3Mi12alZuSTlzZTM3OXNxeU51THNFYnk1RWtoQUhGSEVZVXloX2R2aGlqY09vYkhYcUZHM1hiSWRkenhoWE5lX1g5QTBEbzBKbEhubkxOMzF3RkdLSDgyc2kzOE1NN1U2Y3FrUWhVMkJBSmYwSUM0WHVONFp5a1dZMDBWQVVIQlM3cm1DazZkT0hNTGI5N1FZRWtBUkJFQllabXJRLTBkWThsREV1RHJXdi02SGM0VFh5UFRMNFVia1pMbE82dVc1bGh1YkxFNEZZRGk3VlI2MW1fUUVHR0M1d0NIT1BZUTdtMW5KZzhzSDlDSXJNdURwdDlaWThieFFPLXFFNDZCVE5mOGJ2eVIxWlpQVWQ?oc=5",
-      "summary": "Hidden beneath Antarctic ice, a red brine pool contains marine microbial DNA, supporting evidence of an a The Times of India Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system Nature Antarctica\u2019s Blood Falls teems with life from unexpected source Popular Science How Antarctica\u2019s Blood Falls came to be Scientific American Blood Falls in Antarctica May Harbor Ancient Microbes, Preserving Traces of a Lost Ocean Discover Magazine",
-      "published": "2026-08-05T08:10:00+00:00",
-      "outlets": [
-        "Discover Magazine",
-        "Nature",
         "Popular Science",
-        "Scientific American",
-        "The Times of India"
+        "ScienceAlert"
       ],
       "feeds": [
         "google-science"
@@ -699,14 +577,14 @@
     {
       "title": "Experimental Cancer Drug Force-Feeds Tumors Sugar Until They Choke",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVlyQUMwT25fY0tiOXVJODVWZ1JiUWtYdzhYZUVZZ0tFODB2ck5ZTmYyc1Y5Z21QWTRvdS1WNkxSek5BX09abTFCZjNmSFFyNFIybEpza3FlUjBuVUluSW9zWXhYWmR4RnpRR1FoZ2dwaVhocW5zN0ZxR213X2RBNEpZNW9XdGN1QU9LUms3bjVFakJ6Ym1XbWJDVQ?oc=5",
-      "summary": "Experimental Cancer Drug Force-Feeds Tumors Sugar Until They Choke yahoo.com A covalent PFKL activator suppresses tumor growth Nature Experimental drug turns cancer's favorite fuel against it Phys.org Overfeeding cancer to stunt its growth Drug Discovery News New Cancer-Fighting Molecule Turns Tumors\u2019 Own Energy Against Them StudyFinds",
+      "summary": "Experimental Cancer Drug Force-Feeds Tumors Sugar Until They Choke Yahoo A covalent PFKL activator suppresses tumor growth Nature Experimental drug turns cancer's favorite fuel against it Phys.org Overfeeding cancer to stunt its growth Drug Discovery News New Cancer-Fighting Molecule Turns Tumors\u2019 Own Energy Against Them StudyFinds",
       "published": "2026-08-05T17:10:51+00:00",
       "outlets": [
         "Drug Discovery News",
         "Nature",
         "Phys.org",
         "StudyFinds",
-        "yahoo.com"
+        "Yahoo"
       ],
       "feeds": [
         "google-health"
@@ -723,31 +601,6 @@
       "policy_reasons": [],
       "prompts": [
         "Genuinely new territory. The honest 'we don't know yet' is the hook."
-      ]
-    },
-    {
-      "title": "Russia Quietly Buries Two Generals as Mystery Deepens Around Deadly Moscow Explosion",
-      "link": "https://www.reddit.com/r/worldnews/comments/1vgym97/russia_quietly_buries_two_generals_as_mystery/",
-      "summary": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "published": "2026-08-06T08:44:31+00:00",
-      "outlets": [
-        "reddit-worldnews"
-      ],
-      "feeds": [
-        "reddit-worldnews"
-      ],
-      "reach": 26.0,
-      "angle": 34.0,
-      "rank": 8.8,
-      "signals": {
-        "unexplained": [
-          "mystery"
-        ]
-      },
-      "verdict": "clear",
-      "policy_reasons": [],
-      "prompts": [
-        "The official account stops short of a cause. Open on the gap."
       ]
     },
     {
@@ -774,141 +627,132 @@
       "prompts": [
         "The official account stops short of a cause. Open on the gap."
       ]
+    },
+    {
+      "title": "ZZ Top Cancels Hollywood Bowl Concert Over Unexplained \u2018Personnel Matters\u2019",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUU5CMDAzbG5LZFRGQUpvMDMyRzFXZktTeDJrSWNyelotRFlVMzNoME5HQzNDR0ktbGNMc0o1a3NHX0dnanpMVGxESGxvTjVINkc2Nk5Iel9lZ2F0S2FHMEprN0ROdWVYbUdPM2ZpdkRQWTNOQUVoMk5meUxyNzd1NnVPR1VBOUd1U2N1OHUycEN0NTd5TEZjcklvUQ?oc=5",
+      "summary": "ZZ Top Cancels Hollywood Bowl Concert Over Unexplained \u2018Personnel Matters\u2019 Yahoo",
+      "published": "2026-08-06T17:30:30+00:00",
+      "outlets": [
+        "Yahoo"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Dorit Kemsley\u2019s Accountant Alleges ex PK Received Over $821K in Unexplained Deposits \u2014 Report",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2lfUGxiektnWHVoS3lhaThHYl9NUmxFS0dPbUlxQXgyTGJKZUVSTGl2NWEtMnZMa2R4RnNMRXhoWmZqZTJxenlPSUI0SXp4NXpKYy1BX1pyRzlRUHJvMmJJdlF3alVPQWM1SlN5OHVGaGs2clU4QXU2enlvZXVtRXhFcFQxM3o2anp3VmVTLXBVRXBQbngtejJCMW1qMndNek4tZG02M1o?oc=5",
+      "summary": "Dorit Kemsley\u2019s Accountant Alleges ex PK Received Over $821K in Unexplained Deposits \u2014 Report Yahoo",
+      "published": "2026-08-06T14:10:06+00:00",
+      "outlets": [
+        "Yahoo"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Unexplained waves in well at Gujarat\u2019s Morbi, experts hint at air pressure, groundwater recharge",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWtDR1AyLTBkdDRDVUVZZUtKaWRjYi1vZHBHM3UtX2pyLU44UVgzRVBQb0wzRlVROHNUNVJWdnNxSk5odjQyLV83Vk40LVFmVWdLcUhlVzNmaUhhS3czM0FzVjJBX2RsMWZBOURCQWNpTWdDT0s2RV9kczJWX25YcDdxQ2toWU1xQVYyOEFaYUs2TU4tZkhKX2FxX2NNekxjVUt6cllpSmhUZjJoOWJJeFJCVVVyR2pRSG9XbmZQUVNsV19GR1o40gHMAUFVX3lxTE9nOWVHV2pDMkRSWklMNW9pZVNOaWxGWFREQ1dRVnkzTms2eWpfQW5NQkl3M2VDRmZJQVN0UUdxZzRNWXhKQUJLVVJkaUo5b01iUnl0c2l1M1BsVDUxTjExY1VSUjE0MVdiRWJGN3FCNEw1b0t5U25ubHVHUFZSWGo2N3BzenlYODRMU3RLTDRFM0wxMU5MQWZBR0NQdFFhR01jUVFWWmo3OU5Fb0UzdUxscmd0b25HVElaMkFLeTZLQ3ozaG9EdFVDX3F0VA?oc=5",
+      "summary": "Unexplained waves in well at Gujarat\u2019s Morbi, experts hint at air pressure, groundwater recharge ThePrint",
+      "published": "2026-08-06T15:48:42+00:00",
+      "outlets": [
+        "ThePrint"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
+    },
+    {
+      "title": "Smithsonian shut down several museums in DC for unexplained \u2018mechanical issue\u2019",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXNveHN5QnNEdjd0NmdDc2h2STFTeVlHNTRPMDFTLUZfcU1leTRTdzNDSnZOYUFPMVBtX1dhbjhBYUgzUFktdjdOZmxyMmVBLXl4eE9LNktzYWRIbVRzSm8tTTE2a1FLdU9vZFJ2ZkFEWkV1OWpJbzY4bDR3c3FVaHEzaVU?oc=5",
+      "summary": "Smithsonian shut down several museums in DC for unexplained \u2018mechanical issue\u2019 Yahoo News Canada",
+      "published": "2026-08-06T14:44:43+00:00",
+      "outlets": [
+        "Yahoo News Canada"
+      ],
+      "feeds": [
+        "angle:unexplained"
+      ],
+      "reach": 26.0,
+      "angle": 34.0,
+      "rank": 8.8,
+      "signals": {
+        "unexplained": [
+          "unexplained"
+        ]
+      },
+      "verdict": "clear",
+      "policy_reasons": [],
+      "prompts": [
+        "The official account stops short of a cause. Open on the gap."
+      ]
     }
   ],
   "blocked": [
     {
-      "title": "Congo Ebola health workers protest unpaid wages, disrupting response as deaths top 1,800",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmVVdHVIZFk2VDF0S1JGUzNtNHlRYUJ4ajNkQWh4dFJ4ODVYd0tCSkFuRGF3b2JrQXN5U3lOcUtNVW1odDczZFZzNVo0NUstb1FrOGZYUU02Mm1KN01tRU1abVh0NUFCSzY1RVZCckUwT2x0cklBM0tCNG1HX1VDNUY2WDV3eVVPYUlGbEd5N3hCcnptOWI3d0xzQ3I1THJUdE5ybG01Y0tvWjUxdXc?oc=5",
-      "summary": "Congo Ebola health workers protest unpaid wages, disrupting response as deaths top 1,800 apnews.com Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response CNN Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo World Health Organization (WHO) Explainer: Why Congo's Ebola outbreak is spreading faster than previous epidemics Reuters",
-      "published": "2026-08-06T15:31:00+00:00",
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90YV9kRTFSdHl2RU51UWZhby1FdU9XM3N3RHU5UnRxa2FCbGRDSXVaQTM0OXhyNUVFRTN1ZjBzQnN5QWVOajJUVnAwSmJkR0xMbXZXUkZvQWdGUQ?oc=5",
+      "summary": "South Korea space agency shares Moon images after SpaceX rocket debris crash BBC South Korean satellite captures before and after views of SpaceX rocket\u2019s moon crash AP News NASA Will Attempt to Observe Rocket Part\u2019s Lunar Impact NASA (.gov) SpaceX rocket thought to have crashed into the moon in unintentional collision The Guardian What scientists are learning after SpaceX debris crashed into the moon PBS",
+      "published": "2026-08-06T17:38:51+00:00",
       "outlets": [
-        "CNN",
-        "Reuters",
-        "The Guardian",
-        "The Hill",
-        "World Health Organization (WHO)",
-        "apnews.com"
-      ],
-      "feeds": [
-        "google-health",
-        "google-top"
-      ],
-      "reach": 71.7,
-      "angle": 18.0,
-      "rank": 12.9,
-      "signals": {
-        "institutional": [
-          "who"
-        ]
-      },
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": [
-        "An agency is involved. Its own record is the context nobody pulls."
-      ]
-    },
-    {
-      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vVXFqYnduTnlVM25qT285YnZXa0FUbk5BV0JsM0wxeHM2SkliUXhCeFkzSjdpamN2eHhGcnpHNXZTT3dvMU11RURQZHVsdGVYdU5QVWxjc21Qdw?oc=5",
-      "summary": "Israel strikes south Lebanon after two soldiers killed by explosion BBC The Americans losing homes to Israel\u2019s war in Lebanon CNN \u2018I don\u2019t want to say kaddish for my son\u2019: Tamir Vaknin, soldier killed in Lebanon, laid to rest The Times of Israel Israel strikes south Lebanon after soldiers killed, talks continue in Rome Reuters 2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah NBC News",
-      "published": "2026-08-06T14:51:47+00:00",
-      "outlets": [
+        "AP News",
         "BBC",
-        "CNN",
-        "NBC News",
-        "Reuters",
-        "The Times of Israel",
+        "NASA (.gov)",
+        "PBS",
+        "The Guardian",
+        "bbc-science",
         "bbc-world"
       ],
       "feeds": [
+        "bbc-science",
         "bbc-world",
-        "google-world"
-      ],
-      "reach": 71.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "UN rights chief alarmed by rise in Iran executions since March",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2dkZWZFZNS3ltTEx3b1JNbGdQb1RxdnNWQ0ZiS3g1elJiN2Zpb1RmUXRpTjFyd1hhTHNORi1Mb3ZFNmFLV04zc2thVzlCeGdTMTI1NVJrSGVPQQ?oc=5",
-      "summary": "UN rights chief alarmed by rise in Iran executions since March BBC As the world looks away, Iran continues brutal hangings of protesters to crush the next uprising The Jerusalem Post UN rights chief says Iran executed at least 56 people since March Reuters Sharp spike in executions, death sentences in Iran UN News UN experts urge Iran to end \u2018targeting\u2019 of minorities The Times of Israel",
-      "published": "2026-08-05T14:04:09+00:00",
-      "outlets": [
-        "BBC",
-        "Reuters",
-        "The Jerusalem Post",
-        "The Times of Israel",
-        "UN News",
-        "bbc-world"
-      ],
-      "feeds": [
-        "bbc-world",
-        "google-world"
-      ],
-      "reach": 67.7,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Eyewitness describes suspicious encounter that helped launch Washington wildfire arson probe",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTBuSUZRSEo1OEgxZWllN1gzZ0VlQzZfTURybVFSem40Ul84Tm50SzJJTTBHOGZVbU1iOHNSaG5vaGJseEZQUE1zcUxubkVLWlB3OFVEYlNfblpLR2lDM21QZHlzMHdwVS1SQU5qdFphREdaYnJQdXlMQ1VibFNkM1BIWGxpcEVadzh5ZDQxcTNuMjIwaWlBd2hIT2p4enZLZjZJZUlmNVAxZXcybHlfOVR6UHbSAboBQVVfeXFMTkVfa0ZfOTJ5aHE5MVZnclhrZkxQa2d2aUJ6YnNHdmMteGljM21jWmtLM0NrWFJoc3VnNW8yeVNla3JzdUdqbFdfMnhtOFlWcGZtVS1HdHIxcVBvTkc3d3dKYVU5cGJESERZVVFNVHctRTlJcUwwY3FPYnlRVG8xRzZ1MlQ0NHlzUW9Qd2RxWmoyVFZ5Qnk4N1BmTFdxeXZoZ1pUaG1BbDd4Z09UWVViNDBDS2s5amlPWUpR?oc=5",
-      "summary": "Eyewitness describes suspicious encounter that helped launch Washington wildfire arson probe Fox News Wildfire evacuations lifted near Long Lake KXLY.com Aaron Farinacci arrest: How a grandfather\u2019s quick thinking led fire investigators to a Spokane arson suspect CNN Here\u2019s what we know about all the fires currently burning across Spokane County KREM \u2018They want an answer\u2019: Dispelling conspiracy theories plaguing the Spokane Complex fires The Spokesman-Review",
-      "published": "2026-08-06T12:00:23+00:00",
-      "outlets": [
-        "CNN",
-        "Fox News",
-        "KREM",
-        "KXLY.com",
-        "The Spokesman-Review"
-      ],
-      "feeds": [
-        "google-nation",
-        "google-top"
-      ],
-      "reach": 64.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "SpaceX\u2019s Falcon 9 wasn't the first rocket to crash into the moon. Here's a rundown.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVS12X1gyc3Q0MjF0blJqMW9OdktGRDVpeTVxSVR1blctbExXNWN1dUNSblVQUEJXT3BBNENCSW1VZ3lOVnFtZ084OGtOM0pwTFFyemk5dDhPNjNxNElTNWhfS21xcl9mckxGNEwtSzRoUUtScHJ0NndZQm9SOUF2eTBGaktMcmsxRHRSd2hyTU9TWi1iWDhXd19FbUVTdUd1SGpBNDVOb2tCTEVtaWxzSUJLQUh4MGJxam1R?oc=5",
-      "summary": "SpaceX\u2019s Falcon 9 wasn't the first rocket to crash into the moon. Here's a rundown. Space Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted apnews.com NASA Will Attempt to Observe Rocket Part\u2019s Lunar Impact nasa.gov SpaceX rocket thought to have crashed into the moon in unintentional collision The Guardian Chinese satellite captures video of SpaceX rocket debris crashing into the moon scmp.com",
-      "published": "2026-08-06T13:00:00+00:00",
-      "outlets": [
-        "Space",
-        "The Guardian",
-        "apnews.com",
-        "nasa.gov",
-        "scmp.com"
-      ],
-      "feeds": [
         "google-science",
         "google-top"
       ],
-      "reach": 64.8,
+      "reach": 90.2,
       "angle": 18.0,
-      "rank": 11.7,
+      "rank": 16.2,
       "signals": {
         "institutional": [
           "nasa"
@@ -923,19 +767,159 @@
       ]
     },
     {
-      "title": "Lindsay Clancy\u2019s sobs heard in courtroom as medical examiner describes autopsy of her baby",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDNlTlpTQi0tSG5qQXZUU1N6VVA0UEo0VmNyWVlCR3BaWmVlWUx6U2lDQkJQaUlEQzctZWIwcC0tNHd5dDZGUE1MdkJ3Sk1vLXZ6Z3RZcHZZb29TYmRhXy16SkRLY3hjT1hzOWxCX1Q5bldNVDFIYk1mVEVxZDVYdlZwSXN2ejdHLVZueTZ6a1YzOUdFMFN1X3h0UTBzbzBXdDFFQkNEbmowVHJXbzFV?oc=5",
-      "summary": "Lindsay Clancy\u2019s sobs heard in courtroom as medical examiner describes autopsy of her baby New York Post Lindsay Clancy trial: Follow live updates The Boston Globe Former Clancy nanny testifies about mother's mental health issues before killings PBS Medical examiner testifies about child's autopsy in Lindsay Clancy murder trial WJAR Lindsay Clancy trial livestream, live updates: Autopsy photos, friend, others testify NBC Boston",
-      "published": "2026-08-06T15:23:10+00:00",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vVXFqYnduTnlVM25qT285YnZXa0FUbk5BV0JsM0wxeHM2SkliUXhCeFkzSjdpamN2eHhGcnpHNXZTT3dvMU11RURQZHVsdGVYdU5QVWxjc21Qdw?oc=5",
+      "summary": "Israel strikes south Lebanon after two soldiers killed by explosion BBC The Americans losing homes to Israel\u2019s war in Lebanon CNN Israel Steps Up Attacks on Hezbollah, Clouding Talks with Lebanon WSJ 2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah NBC News Israel strikes south Lebanon after soldiers killed, talks continue in Rome Reuters",
+      "published": "2026-08-06T14:51:47+00:00",
       "outlets": [
-        "NBC Boston",
-        "New York Post",
-        "PBS",
-        "The Boston Globe",
-        "WJAR"
+        "BBC",
+        "CNN",
+        "NBC News",
+        "Reuters",
+        "WSJ",
+        "bbc-world"
       ],
       "feeds": [
+        "bbc-world",
+        "google-top",
+        "google-world"
+      ],
+      "reach": 77.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Man charged with setting destructive Spokane wildfire due back in court - Oregon Public Broadcasting",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLS1Vd01adUZCcW9KWUdvX3hadnVpYXlpX21fOVZ4VjAwbS1EMWwwNmtfREZHdWVnZ1BnRkNDYzh1ZzR4T09aUHJPQkhpaU1ZaXVVc2pQRVZqUHVHMzBpVTFGejJzNWdIcjZ1V3Z0TGhFUF9SNWR5X213dFh2ZTFQQVZuYTR0MVFlOVhYMmF5Uk54NG9ZZ3ZqTFh0UEY0Tm8?oc=5",
+      "summary": "Man charged with setting destructive Spokane wildfire due back in court Oregon Public Broadcasting - OPB Farinacci admitted to starting Old Trails Fire, 25 others, according to detective KXLY.com Spokane arson suspect tells prosecutors he started 25 other fires The Seattle Times Here\u2019s what we know about all the fires currently burning across Spokane County KREM New Level 3 evacuations issued for Sparrow Fire NonStop Local KHQ",
+      "published": "2026-08-06T19:03:22+00:00",
+      "outlets": [
+        "KREM",
+        "KXLY.com",
+        "NBC News",
+        "NonStop Local KHQ",
+        "Oregon Public Broadcasting - OPB",
+        "The Seattle Times"
+      ],
+      "feeds": [
+        "google-nation",
         "google-top"
+      ],
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UQ0tCWHJEd0EtZkY2RllJQXhQXy1jMnVYeHpFSW54YWJYLUpjMDFXYXppZVdHQmVlVlZCUDZRTzFXeWs2V29CTHp6d01OTHdpelN5N0VHam9XQQ?oc=5",
+      "summary": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film BBC Israeli prosecutors charge settler with killing Palestinian activist in rare indictment NBC News Israeli Settler Charged With Manslaughter in Death of Palestinian Activist The New York Times New investigation shows how an Israeli settler escaped justice Al Jazeera Israel charges West Bank settler over death of renowned Palestinian activist The Guardian",
+      "published": "2026-08-06T18:37:12+00:00",
+      "outlets": [
+        "Al Jazeera",
+        "BBC",
+        "NBC News",
+        "The Guardian",
+        "The New York Times",
+        "bbc-world"
+      ],
+      "feeds": [
+        "bbc-world",
+        "google-nation"
+      ],
+      "reach": 71.7,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Houthi attacks on Yemeni government forces kill at least 30",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTZFVkJ1MkFwSmJma1RPdm1wdnJmd1BsQ1BFdnVlYWZmbklOWmZGN1hKUUkyb0pQUXZHcjEzcEZGYmZvMzlVM2d5bmRDa3g4eUs5eGE1V0dPVE1abnphYzdaVFhURWw3dTRMODNVdzhSRVhPWGJycXRSaVU5bVEwd1ZNSkVsVXBSN04tS1R2Sm5icmxtODdGcUQ2VUw5T0Q2TUpZQWU3U25fYjM3THdr0gG0AUFVX3lxTE9KRzNmSW5LOFktOTFwdnVPclItMWNvNUZLSV9fYXN1bDRfSVhvaGhMVWprVFBsTGNmMlIxajdRRko5cVVjOXF5Q0hqV3A3LUs0RzZQYjExZGl0ZG9aMVNsODhJRlljQ0Y4RTdrNDNWM3hwQ0lNYXpLYkprejJZcDFfaXNPenRaX3F1VXUyRHpMVGlibXYwalN3S2xXQ0MweC0xbnVKM24xSGExQUtnMU5vbFM5bQ?oc=5",
+      "summary": "Houthi attacks on Yemeni government forces kill at least 30 Al Jazeera Iran war live: Houthis claim attacks on Yemeni forces; Hormuz deal close Al Jazeera Death toll rises to 58 in Houthi attacks on Yemen government forces The Times of Israel Houthi Attacks on Yemeni Military Threaten to Reignite Civil War The New York Times Houthis Attack Saudi-Backed Forces in Yemen, Escalating Tensions Bloomberg.com",
+      "published": "2026-08-06T19:38:52+00:00",
+      "outlets": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "The New York Times",
+        "The Times of Israel",
+        "bbc-world"
+      ],
+      "feeds": [
+        "bbc-world",
+        "google-world"
+      ],
+      "reach": 64.8,
+      "angle": 18.0,
+      "rank": 11.7,
+      "signals": {
+        "institutional": [
+          "military"
+        ]
+      },
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": [
+        "An agency is involved. Its own record is the context nobody pulls."
+      ]
+    },
+    {
+      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoMGV0d3hVZ3dqNE9nNnk2bTdUNEl3M3R6UEpDeXpydEMzdTVZUEhaRmJ0aWdMVHZZaS1DdzZPRmctUjB2M1V1ZFRlM2JDd2ZxWk9IZkxFSVFiZWEtdVo2eVJReXZMNG9VYkwzVnVYVQ?oc=5",
+      "summary": "A solar eclipse and the Perseid meteor shower arrive on the same day ScienceDaily Best meteor shower of year, 2 eclipses highlight August skywatching events KING5.com Perseid Meteor Shower, which inspired John Denver\u2019s \u2018Rocky Mountain High,\u2019 will peak this month with up to 70 shooting stars per hour AspenTimes.com What can you expect to see during this month's three major celestial events WBUR A Perfectly Timed Perseid Meteor Shower Sky & Telescope",
+      "published": "2026-08-06T05:50:28+00:00",
+      "outlets": [
+        "AspenTimes.com",
+        "KING5.com",
+        "ScienceDaily",
+        "Sky & Telescope",
+        "WBUR"
+      ],
+      "feeds": [
+        "google-science",
+        "google-top"
+      ],
+      "reach": 60.8,
+      "angle": 0.0,
+      "rank": 0.0,
+      "signals": {},
+      "verdict": "block",
+      "policy_reasons": [
+        "a death or disaster inside 14 days \u2014 the sensitive-events rule bars profiting from it"
+      ],
+      "prompts": []
+    },
+    {
+      "title": "Israel\u2019s killing of journalist Amal Khalil was a war crime, rights group says",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTTFhUmhibXk2aXhxX0l0ZEthVlI1WkJST1VacGNUSlZuQ0VxQmVEcXh1cHFFcnhrNUVCRTR1Ujd0RkRtRERwNU1UU3dXMHh3UXRLaUdvXzhEU0puRThPd1VEN2ZlZWVFLUZseGplMG1hcGpRcFpraGJ3eXV2alBkdFhqRElwc2JfLWpwMF9tY045bFo2SGN5cnN5MUVxcDV6RWxSZWt3eGd6UWZ5a1o0bmJjc1hrd0N2V21B?oc=5",
+      "summary": "Israel\u2019s killing of journalist Amal Khalil was a war crime, rights group says The Washington Post Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime BBC Israeli strike that killed journalist in Lebanon was war crime, say rights groups The Guardian Rights groups accuse Israel of targeting and killing Lebanese journalist Amal Khalil AP News Rights groups call Israel\u2019s killing of journalist Amal Khalil a \u2018war crime\u2019 Al Jazeera",
+      "published": "2026-08-06T21:02:35+00:00",
+      "outlets": [
+        "AP News",
+        "Al Jazeera",
+        "BBC",
+        "The Guardian",
+        "The Washington Post"
+      ],
+      "feeds": [
+        "google-world"
       ],
       "reach": 58.8,
       "angle": 0.0,
@@ -948,16 +932,16 @@
       "prompts": []
     },
     {
-      "title": "North Korea sends missile unit to Russia as Putin tries to exploit Ukraine weakness",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHBoM2lMVGJONUVkNjlmVGtVWE5QQXNVcVBNVHBOQjFNLWkwOXFWdTZCRzh1a05zajRYaldfSUZOYUYyXzluQU1sQUc3WDVVMGVQcGpTaUotb29uZW5ZbDNITlJwSU4xSjRQWUxZM3otTks0T0pwdVJoQ1R6NFVNNmkwUlh1VmFCS1FQV25ib2ROWGVJN0RVbEhoNXJpYWtFSnd4Q1JUdVNYMTZqTXN1SVZoMDI?oc=5",
-      "summary": "North Korea sends missile unit to Russia as Putin tries to exploit Ukraine weakness The Independent EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says Reuters Funeral held for family \"wiped off the map\" in Russian strike on Ukraine, neighbor says CBS News Russia deploys North Korean missile unit to Ukraine, Moscow-Pyongyang axis deepens: report Fox News Ukrainian intelligence says Russia plans to deploy North Korean missile unit in the Voronezh region Meduza \u2014 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
-      "published": "2026-08-06T08:38:00+00:00",
+      "title": "As the Board of Peace Cosplays Diplomacy, Israel Once Again Ramps Up Killing in Gaza",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGhIMW5HTjlwSEVXLVJ6VU9CSjhGQVJqR1dOWUtrOWVjaDVWVTZJRzVfM2JKMnpNQm5yTU1kdW9TZC02V21yZ04wTGM3Q3gxdDFGcEkwaThfNmhZQzdITlJsX3VRXzNPWWxHSjk0a1pXdXVCR3V2dXVDQS1nRXNrUFF1TEhXdi1Gb3NYR1pLQXc?oc=5",
+      "summary": "As the Board of Peace Cosplays Diplomacy, Israel Once Again Ramps Up Killing in Gaza Drop Site News Mass funeral in Gaza after bodies recovered of more than 100 people killed in 2023 Israeli strike AP News More \u201cpeace\u201d and more funerals in Gaza The Economist \u2018I wanted to hug whatever remained\u2019: Gaza families\u2019 3-year wait for funeral Al Jazeera Hamas holds mass funeral for 112 people it says were killed in IDF strike at start of Gaza war The Times of Israel",
+      "published": "2026-08-06T12:59:43+00:00",
       "outlets": [
-        "CBS News",
-        "Fox News",
-        "Meduza \u2014 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
-        "Reuters",
-        "The Independent"
+        "AP News",
+        "Al Jazeera",
+        "Drop Site News",
+        "The Economist",
+        "The Times of Israel"
       ],
       "feeds": [
         "google-world"
@@ -975,14 +959,14 @@
     {
       "title": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZm9Xb3RzR09JZEduNnhIVWhZeDlBZFNvRlVYUWJPc09tWVpZSTA1TXZ1Z3pOWE5UX1ItUmNFa19qUm9LZGtMRTE1WFBRS2xGeUp3bkp1c2FBRmdCb3c2QmhzVzZLVWtFMWFVdWM2ZE5OZW94QTJUTk0tUFNMQnRWMDNTX0NCanlBYzZrN1lET0ZDTWx3Zi1KX3A3NjF3Z2NlbGlIU19qVdIBrAFBVV95cUxOLWxLVE1CVVlOWlNvbWFqTm5aOEZMOFRhbFlMNWR0WUloMkk2ZmswY2RiOEtwdVVwMXJtcGxnSHQ3TVN5bmM1U19uWnRSb3BDcVdRV1N4M1BUWjlUVEdFMmhYck5HNGNHZVBSMU9wbWFYZHhZNDdUSGdLNnNZTVdCQTgwcXJnSWhBaHNiZDJ0UXVNYzZydFRKeHZvc2o3dnVrTnliYnU2TDBabXU3?oc=5",
-      "summary": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream? Al Jazeera Mexican social media influencer shot and killed mid-livestream video ABC News - Breaking News, Latest News and Videos Livestreamer's murder raises questions over relations between Mexico's creators and cartels BBC Mexican TikTok influencer shot dead during live stream CNN Mexican Influencer C\u00e9sar Gast\u00e9lum Shot Dead During Livestream from Sinaloa The New York Times",
+      "summary": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream? Al Jazeera Livestreamer's murder raises questions over relations between Mexico's creators and cartels BBC Influencer C\u00e9sar Gast\u00e9lum\u2019s Friend, Who Appeared in His Final TikTok, Speaks Out After He Was Fatally Shot During Livestream Yahoo Mexican social media influencer shot and killed mid-livestream video ABC News - Breaking News, Latest News and Videos Mexican TikTok influencer shot dead during live stream CNN",
       "published": "2026-08-06T11:06:13+00:00",
       "outlets": [
         "ABC News - Breaking News, Latest News and Videos",
         "Al Jazeera",
         "BBC",
         "CNN",
-        "The New York Times"
+        "Yahoo"
       ],
       "feeds": [
         "google-world"
@@ -1006,14 +990,14 @@
     {
       "title": "Sheikh Hasina vows to return, but will Bangladesh accept convicted ex-PM?",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlRZLWFCNGlLV3J3T3M4a09IUllLX2FCYUZ2QnBqNWMzNnNYNlNHQnBnYUlvWUh5bmlLOG81QWFZdl9CSWUxT21wMmJCbUppZmF6VHdWUFV3el9UOE5xVUdBZlFwZ3dDa181M0dOVE9sNmw1V3dOMzVLakhoczlWdTdEZ2lUOHktTDBRakZWR25PTTVHNkt5dUZIV0E0Zy16Xy1SME1MSlFDNmFyRXVB0gG0AUFVX3lxTFBlVGREdlE2RWV1SlcyMkZqdVNZWldDLU1qcVlJSURQQ3FYYVJTLTkwQVNUcU5QX29KeW93QmRkb2FOSllJWUF1SGJpRjR6SDFQbGlkcmtULUZEclJsMWFVNVpDQUxoR1VTZE0tRTJhbnIzY210V3hXZVNyR1RRLUFKVkd2eWFXQ1N5M2JhOExILUZTVWs4bjV1WGpwaVBZcmtOV2c3S204S2NQVGZPeHJmZ3lfOA?oc=5",
-      "summary": "Sheikh Hasina vows to return, but will Bangladesh accept convicted ex-PM? Al Jazeera India-Bangladesh relations hit new low over exiled PM\u2019s speech to press in Delhi The Guardian Ousted Bangladeshi leader says she will return from exile despite death sentence NBC News This exiled leader faces execution threat if she returns home. She wants to go anyway CNN Bangladesh ex-PM Hasina says ban on her party should be lifted Reuters",
+      "summary": "Sheikh Hasina vows to return, but will Bangladesh accept convicted ex-PM? Al Jazeera Ousted Bangladeshi leader vows to return from exile despite facing a death sentence NPR India-Bangladesh relations hit new low over exiled PM\u2019s speech to press in Delhi The Guardian Bangladesh ex-PM Hasina says ban on her party should be lifted Reuters Faced with Bangladeshi outrage, officials reiterate that India was not involved in Hasina\u2019s press event The Hindu",
       "published": "2026-08-06T09:18:13+00:00",
       "outlets": [
         "Al Jazeera",
-        "CNN",
-        "NBC News",
+        "NPR",
         "Reuters",
-        "The Guardian"
+        "The Guardian",
+        "The Hindu"
       ],
       "feeds": [
         "google-world"
@@ -1029,41 +1013,16 @@
       "prompts": []
     },
     {
-      "title": "Venezuela\u2019s Response to Earthquakes Exposes Government\u2019s Shortcomings",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzdiQTNycWZ0dC1yUVpxdENKRzFJODFhMTFrWlV5bHN5TmdqR1RsMGxMZHBHSW9OSlZPNEV3a0o1TEJZNHV0bkZCVGNmMHBOZF9jUDVoNnJjVTV3OVNUYTZVVkFxWkJCWFhhUVREak9nTjVnSm1Kd1dZV21ELWJlWU4yazdPNmJSSVJvcFJvNWFnQUdoeWw2R2RyUQ?oc=5",
-      "summary": "Venezuela\u2019s Response to Earthquakes Exposes Government\u2019s Shortcomings The New York Times Demolition complicates the search for bodies after Venezuela\u2019s earthquakes Al Jazeera Venezuela unable to tally missing from cataclysmic quakes yahoo.com Beaufort woman part of relief efforts for Venezuelan earthquake survivors in need of prosthetics WTOC Health Crisis Deepens in Venezuela as Facilities Face Shortages and Capacity Gaps Project HOPE",
-      "published": "2026-08-06T09:02:25+00:00",
+      "title": "Gann Fire updates: Body recovered, 7 structures destroyed and firefighter injured in Calaveras County",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGx1ZGR1cmNPOGt5RWFmUDJYUndMNmRQMjFIT25Qb2oxd2tydGlERGFMbGNlaHRPQjJJb2NHY2gtRUl2OEM2cHBuVXBoNDNUek5hYnc0RTNrQ2wzOE5jUVB2UVMyT20tOFhaX1o1SmNyMmZVSUEzMTdFbzBRdjdKUjg3cDBJaGhNd21qMXppcHF2dw?oc=5",
+      "summary": "Gann Fire updates: Body recovered, 7 structures destroyed and firefighter injured in Calaveras County KCRA Gann Fire Map Watch Duty Cal Fire recover body in path of Gann Fire in Calaveras County USA Today Person found dead as Gann Fire burns more than 10,000 acres in Calaveras County Sacramento Bee Suspect Arrested for \u2018Recklessly\u2019 Sparking 10,000 Acre Gann Fire KQED",
+      "published": "2026-08-06T14:20:52+00:00",
       "outlets": [
-        "Al Jazeera",
-        "Project HOPE",
-        "The New York Times",
-        "WTOC",
-        "yahoo.com"
-      ],
-      "feeds": [
-        "google-world"
-      ],
-      "reach": 58.8,
-      "angle": 0.0,
-      "rank": 0.0,
-      "signals": {},
-      "verdict": "block",
-      "policy_reasons": [
-        "a live missing-person case \u2014 a private individual, never speculate about one"
-      ],
-      "prompts": []
-    },
-    {
-      "title": "Live Updates: Emotions flow as Clancy trial covers autopsies",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaW1fdUxlSDJ5U2ZlVU1CY3FGUXZ4Q09CajB6eU85MkxBUnk3UVBJQll1RGs0U2RrbDNBMy1mTW05RFpWRnpRV1A0UzE5dVVjaDBWY0dGdFh6cF83SktZUFN2cWJNN3Q3V1F5VE9aOWxOZUNrZkpFdENfb19OZ3lMZWhKTQ?oc=5",
-      "summary": "Live Updates: Emotions flow as Clancy trial covers autopsies WCVB Lindsay Clancy trial: Follow live updates The Boston Globe Former Clancy nanny testifies about mother's mental health issues before killings PBS Medical examiner testifies about child's autopsy in Lindsay Clancy murder trial WJAR Lindsay Clancy trial livestream, live updates: Autopsy photos, friend, others testify NBC Boston",
-      "published": "2026-08-06T14:14:00+00:00",
-      "outlets": [
-        "NBC Boston",
-        "PBS",
-        "The Boston Globe",
-        "WCVB",
-        "WJAR"
+        "KCRA",
+        "KQED",
+        "Sacramento Bee",
+        "USA Today",
+        "Watch Duty"
       ],
       "feeds": [
         "google-nation"
@@ -1079,16 +1038,16 @@
       "prompts": []
     },
     {
-      "title": "Gann Fire updates: 7 structures destroyed and 1 firefighter injured in Calaveras County wildfire",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGx1ZGR1cmNPOGt5RWFmUDJYUndMNmRQMjFIT25Qb2oxd2tydGlERGFMbGNlaHRPQjJJb2NHY2gtRUl2OEM2cHBuVXBoNDNUek5hYnc0RTNrQ2wzOE5jUVB2UVMyT20tOFhaX1o1SmNyMmZVSUEzMTdFbzBRdjdKUjg3cDBJaGhNd21qMXppcHF2dw?oc=5",
-      "summary": "Gann Fire updates: 7 structures destroyed and 1 firefighter injured in Calaveras County wildfire KCRA Gann Fire Map Watch Duty Man suspected of 'recklessly' starting massive Gann Fire arrested SFGATE Northern California Gann Fire Burns 9,363 Acres; More Than 1,400 Under Evacuation Orders KQED Gann Fire in Calaveras County | Evacuations, Maps, and Updates ABC10",
-      "published": "2026-08-06T14:20:52+00:00",
+      "title": "Clearer skies on the horizon for Portland as smoke begins to shift",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWlSeXAzOFh0cVpXSnBVVlh6STVaRFg0NWd3Q18zN0RyN2ZnNjRJd2xMRGpqeGhjdjdCRkJLUEpvZkFKZXRCbTdMWkpSZXJjdFBfMERFM2pjcWZFbHJvT252THcycnNFSVBWbTdvdzlScUc2VDJPQjU2dnRpaHlNd3VxcXVwUnBqTkpvQUdtdnFJZ2tCTVE0TGptU3pzT3ZHSUJkQVRpVzRXYUlFR0VXRF9TSWVNM2fSAcsBQVVfeXFMTkFmZksxeHJHTHo1YnF6YU90eGV6QUdLRWljdWZGM1hqd1NwRUdTZmQ2SUptOG90SHllczV0T010Q0JUTkxWZ3pZUXNzeGpVNEFRVnFlZDFHTTlISERfX0U0dG55SlFiN3pkaW9ic2ZEYklJZ3hIZUplU2Rxb0U2UXpkeHhWU2c1SkRoTy1SWldyQWZMblM2a1JVSTlPel9nVGVhZHhUSjdjbFVnUlQ0VE9TM21XUml5Zkc3VmdoUk51aTh1d3IwMUtsNFE?oc=5",
+      "summary": "Clearer skies on the horizon for Portland as smoke begins to shift OregonLive.com Here's when smoke is expected to clear out of the Portland area KGW Wildfire Smoke Degrades Air Quality Across Washington and Oregon The New York Times August 5, 2026: Portland among top 10 most polluted cities in the world IQAir Wildfire smoke and heat bring unhealthy air to Portland; relief expected by Friday KATU",
+      "published": "2026-08-06T17:19:00+00:00",
       "outlets": [
-        "ABC10",
-        "KCRA",
-        "KQED",
-        "SFGATE",
-        "Watch Duty"
+        "IQAir",
+        "KATU",
+        "KGW",
+        "OregonLive.com",
+        "The New York Times"
       ],
       "feeds": [
         "google-nation"
